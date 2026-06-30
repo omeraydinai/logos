@@ -1,0 +1,1125 @@
+[
+  {
+    "id": "q101",
+    "konu": "Atina ve Demokrasi",
+    "soru": "Antik Yunan düşüncesinde dünyayı mitolojik anlatılarla açıklayan çerçeveden akılcı sorgulamalara geçişi ifade eden kavram çifti aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Nomos'tan Physis'e",
+      "Doxa'dan Episteme'ye",
+      "Arkhe'den Telos'a",
+      "Kaos'tan Kozmos'a",
+      "Mitos'tan Logos'a"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Mitos'tan Logos'a."
+  },
+  {
+    "id": "q102",
+    "konu": "Atina ve Demokrasi",
+    "soru": "Friedell'e göre bir polis'ten beklenen temel özellikler arasında aşağıdakilerden hangisi yer almaz?",
+    "siklar": [
+      "Eleutheria (bağımsızlık)",
+      "Autonomia (özerklik)",
+      "Autarkeia (kendine yeterlik)",
+      "Politeia (yönetim biçimi)",
+      "Bu özelliklerin hepsi beklenir."
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Politeia (yönetim biçimi)."
+  },
+  {
+    "id": "q103",
+    "konu": "Atina ve Demokrasi",
+    "soru": "Heredotos'a göre Yunanlı kimliğini ve biraradalığını oluşturan dört temel unsur arasında aşağıdakilerden hangisi sayılmamıştır?",
+    "siklar": [
+      "Ortak köken",
+      "Ortak dil",
+      "Ortak askeri ittifak",
+      "Ortak kutsal yerler ve kültler",
+      "Ortak gelenek ve görenekler"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Ortak askeri ittifak."
+  },
+  {
+    "id": "q104",
+    "konu": "Atina ve Demokrasi",
+    "soru": "Atina'da yaşanan krizleri çözmek amacıyla hazırlanan ancak çok sert cezalar öngördüğü için başarısız olan ilk yasalar kime aittir?",
+    "siklar": [
+      "Drakon",
+      "Solon",
+      "Kleisthenes",
+      "Perikles",
+      "Peisistratos"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Drakon."
+  },
+  {
+    "id": "q105",
+    "konu": "Atina ve Demokrasi",
+    "soru": "Atina demokrasisinin gelişiminde borç köleliğini kaldırarak toplumsal uzlaşıyı sağlamayı amaçlayan reformcu lider kimdir?",
+    "siklar": [
+      "Drakon",
+      "Solon",
+      "Kleisthenes",
+      "Themistokles",
+      "Peisistratos"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Solon."
+  },
+  {
+    "id": "q106",
+    "konu": "Atina ve Demokrasi",
+    "soru": "Solon'un yasalarının halk arasında bir alışkanlık haline gelmesine ironik bir şekilde ön ayak olan tiran kimdir?",
+    "siklar": [
+      "Hippias",
+      "Hipparkhos",
+      "Peisistratos",
+      "Kritias",
+      "Alkibiades"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Peisistratos."
+  },
+  {
+    "id": "q107",
+    "konu": "Atina ve Demokrasi",
+    "soru": "Antik Atina'da şehir işlerine karışmayan, kamusal yaşama katılmayan \"önemsiz\" birey için kullanılan ve \"alık\" kelimesinin de kökeni olan terim nedir?",
+    "siklar": [
+      "Polites",
+      "Barbaros",
+      "İdiotes",
+      "Metoikos",
+      "Helot"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: İdiotes."
+  },
+  {
+    "id": "q108",
+    "konu": "Atina ve Demokrasi",
+    "soru": "Metne göre Sofistlerin ortaya çıkışını sağlayan temel pratik ihtiyaç aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Doğa felsefesine duyulan ilginin artması",
+      "Olimpiyat oyunlarına hazırlanma gerekliliği",
+      "Halk meclisinde ve mahkemelerde yurttaşların ikna etme becerisine ihtiyaç duyması",
+      "Sparta ile yapılacak savaşlar için strateji geliştirme ihtiyacı",
+      "E) Tanrılara sunulacak kurban törenlerini yönetme bilgisi"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Halk meclisinde ve mahkemelerde yurttaşların ikna etme becerisine ihtiyaç duyması."
+  },
+  {
+    "id": "q109",
+    "konu": "Atina ve Demokrasi",
+    "soru": "Sofistlerin ücret karşılığında öğrettiği ve siyasi başarının anahtarı olarak görülen sanat aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Heykeltıraşlık",
+      "Diyalektik",
+      "Retorik",
+      "Geometri",
+      "Astronomi"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Retorik."
+  },
+  {
+    "id": "q110",
+    "konu": "Atina ve Demokrasi",
+    "soru": "\"İnsan her şeyin ölçüsüdür\" sözüyle mutlak ve evrensel bir hakikatin varlığını reddeden, doğruluğu bireyin algısına bağlayan Sofist düşünür kimdir?",
+    "siklar": [
+      "Protagoras",
+      "Gorgias",
+      "Thrasymakhos",
+      "Hippias",
+      "Prodikos"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Protagoras."
+  },
+  {
+    "id": "q201",
+    "konu": "Edebiyat ve Politika",
+    "soru": "Tragedyanın temellerini atan ve Büyük Dionysia şenliklerini başlatan Atinalı tiran kimdir?",
+    "siklar": [
+      "Solon",
+      "Kleisthenes",
+      "Drakon",
+      "Peisistratos",
+      "Perikles"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Peisistratos."
+  },
+  {
+    "id": "q202",
+    "konu": "Edebiyat ve Politika",
+    "soru": "Tragedya kelimesinin (Tragodia) etimolojik anlamı nedir?",
+    "siklar": [
+      "Tanrının şarkısı",
+      "Kahramanın ağıtı",
+      "Keçi için söylenen şarkı",
+      "Şehrin öyküsü",
+      "Kaderin oyunu"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Keçi için söylenen şarkı."
+  },
+  {
+    "id": "q203",
+    "konu": "Edebiyat ve Politika",
+    "soru": "Tragedyanın köken aldığı, taşkınlık ve sınırların ihlaliyle ilişkili olan tanrı kimdir?",
+    "siklar": [
+      "Dionysos",
+      "Apollon",
+      "Zeus",
+      "Athena",
+      "Hermes"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Dionysos."
+  },
+  {
+    "id": "q204",
+    "konu": "Edebiyat ve Politika",
+    "soru": "Aristoteles'in Poetika adlı eserine göre, tragedyanın izleyicide korku ve acıma duyguları uyandırarak sağladığı ruhsal arınmaya ne ad verilir?",
+    "siklar": [
+      "Hamartia",
+      "Peripeteia",
+      "Anagnorisis",
+      "Katharsis",
+      "Mimesis"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Katharsis."
+  },
+  {
+    "id": "q205",
+    "konu": "Edebiyat ve Politika",
+    "soru": "Aristoteles'e göre trajik kahramanın düşüşüne neden olan \"trajik hata\" veya \"kusur\"u ifade eden kavram hangisidir?",
+    "siklar": [
+      "Hamartia",
+      "Hubris",
+      "Nemesis",
+      "Ate",
+      "Moira"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Hamartia."
+  },
+  {
+    "id": "q206",
+    "konu": "Edebiyat ve Politika",
+    "soru": "Yunan tragedyası, metne göre nasıl bir toplumsal işlev görmektedir?",
+    "siklar": [
+      "Yalnızca aristokratları eğlendiren bir etkinliktir.",
+      "Tarihsel olayları birebir anlatan belgesel bir nitelik taşır.",
+      "Kentin tüm yurttaşlarının kendi sorunlarını kamusal olarak tartıştığı bir platformdur.",
+      "Tanrılara kurban sunulan dini bir ritüeldir.",
+      "Yabancı elçileri etkilemek için düzenlenen bir gösteridir."
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Kentin tüm yurttaşlarının kendi sorunlarını kamusal olarak tartıştığı bir platformdur.."
+  },
+  {
+    "id": "q207",
+    "konu": "Edebiyat ve Politika",
+    "soru": "Aristoteles'e göre şiir (tragedya) ile tarih arasındaki temel fark nedir?",
+    "siklar": [
+      "Şiir düzyazı, tarih ise dizelerle yazılır.",
+      "Tarihçi gerçekten olmuş şeyleri, ozan ise olabilecek şeyleri anlatır.",
+      "Şiir tanrılardan, tarih ise insanlardan bahseder.",
+      "Tarih nesnel, şiir ise tamamen özneldir.",
+      "Şiir eğlendirir, tarih ise öğretir."
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Tarihçi gerçekten olmuş şeyleri, ozan ise olabilecek şeyleri anlatır.."
+  },
+  {
+    "id": "q208",
+    "konu": "Edebiyat ve Politika",
+    "soru": "Eski Komedya'nın en büyük temsilcisi olan ve eserlerinde Peloponnesos Savaşları'nı, politikacıları ve entelektüelleri hicveden yazar kimdir?",
+    "siklar": [
+      "Aristofanes",
+      "Menandros",
+      "Euripides",
+      "Aiskhylos",
+      "Thespis"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Aristofanes."
+  },
+  {
+    "id": "q209",
+    "konu": "Edebiyat ve Politika",
+    "soru": "Aristofanes'in Barış oyununda, savaşın yalnızca toprağın ürünlerini değil, aynı zamanda aklı ve bilgeliği de esir aldığını göstermek için kullandığı alegorik karakterlerden biri aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Adalet (Dike)",
+      "Barış (Eirene)",
+      "Zenginlik (Ploutos)",
+      "Bilgelik (Theoria)",
+      "Cesaret (Andreia)"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Bilgelik (Theoria)."
+  },
+  {
+    "id": "q210",
+    "konu": "Edebiyat ve Politika",
+    "soru": "Aristofanes'in Bulutlar adlı oyununda, halkın sorunlarından kopuk ve anlaşılmaz bir dille konuşan \"züppeler\" olarak hicvettiği figürler kimlerdir?",
+    "siklar": [
+      "Politikacılar ve generaller",
+      "Şairler ve müzisyenler",
+      "Sokrates ve Sofistler",
+      "Rahipler ve kahinler",
+      "Sporcular ve tüccarlar"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Sokrates ve Sofistler."
+  },
+  {
+    "id": "q301",
+    "konu": "Sokrates ve Minotouros",
+    "soru": "Sokrates'in düşüncelerine dair yazılı eser bırakmamasının temel nedeni nedir?",
+    "siklar": [
+      "Yazı yazmayı bilmemesi",
+      "Felsefeyi canlı bir diyalog ve sorgulama faaliyeti olarak görmesi",
+      "Eserlerinin zamanla kaybolması",
+      "Atina'da kağıt ve mürekkebin bulunmaması",
+      "Düşüncelerinin gizli kalmasını istemesi"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Felsefeyi canlı bir diyalog ve sorgulama faaliyeti olarak görmesi."
+  },
+  {
+    "id": "q302",
+    "konu": "Sokrates ve Minotouros",
+    "soru": "Sokrates hakkındaki tanıklıklar arasında, onu bir \"güldürü malzemesi\" olarak kullanan ve diğer tanıklıklarla en az tutarlı olanı kime aittir?",
+    "siklar": [
+      "Aristofanes",
+      "Ksenophon",
+      "Platon",
+      "Aristoteles",
+      "Diogenes Laertios"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Aristofanes."
+  },
+  {
+    "id": "q303",
+    "konu": "Sokrates ve Minotouros",
+    "soru": "Platon'un özellikle hangi dönem diyaloglarının tarihsel Sokrates'i yansıtmaya daha yakın olduğu kabul edilir?",
+    "siklar": [
+      "İlk dönem diyalogları",
+      "Orta dönem diyalogları",
+      "Geç dönem diyalogları",
+      "Sadece son eseri olan Yasalar",
+      "Tüm diyalogları eşit derecede yansıtır."
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: İlk dönem diyalogları."
+  },
+  {
+    "id": "q304",
+    "konu": "Sokrates ve Minotouros",
+    "soru": "Sokrates'in kendisini, Atina devletini uyuşukluğundan uyandırmak için \"Tanrının musallat ettiği\" bir varlık olarak tanımlarken kullandığı benzetme nedir?",
+    "siklar": [
+      "Kılavuz köpek",
+      "Bilge baykuş",
+      "At sineği",
+      "Bekçi köpeği",
+      "Sadık hizmetkar"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: At sineği."
+  },
+  {
+    "id": "q305",
+    "konu": "Sokrates ve Minotouros",
+    "soru": "Sokrates'in yaşadığı ve Atina'nın gücünü yitirmesine neden olan yaklaşık otuz yıl süren savaş aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Pers Savaşları",
+      "Peloponnesos Savaşları",
+      "Troya Savaşı",
+      "Korint Savaşı",
+      "Makedon Savaşları"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Peloponnesos Savaşları."
+  },
+  {
+    "id": "q306",
+    "konu": "Sokrates ve Minotouros",
+    "soru": "Sokrates'in felsefi yönteminin ilk aşaması olan ve muhatabın iddiasındaki çelişkileri ortaya çıkararak onun cehaletini fark etmesini sağlayan tekniğe ne ad verilir?",
+    "siklar": [
+      "Elenkhos (Çürütme)",
+      "Maiotik (Doğurtma sanatı)",
+      "Diyalektik",
+      "Aporia (Çıkmaz)",
+      "Anamnesis (Anımsama)"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Elenkhos (Çürütme)."
+  },
+  {
+    "id": "q307",
+    "konu": "Sokrates ve Minotouros",
+    "soru": "Sokrates'in, bilginin dışarıdan aktarılamayacağını, ancak doğru sorularla kişinin ruhundan \"doğurtulabileceğini\" ifade eden yönteminin adı nedir?",
+    "siklar": [
+      "Elenkhos",
+      "Maiotik",
+      "Retorik",
+      "Sofistik",
+      "Analitik"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Maiotik."
+  },
+  {
+    "id": "q308",
+    "konu": "Sokrates ve Minotouros",
+    "soru": "Aşağıdakilerden hangisi Sokrates'in temel felsefi ilkelerinden biridir?",
+    "siklar": [
+      "İnsan her şeyin ölçüsüdür.",
+      "Aynı nehirde iki kez yıkanılmaz.",
+      "Savaş her şeyin babasıdır.",
+      "Sorgulanmamış bir hayat yaşamaya değmez.",
+      "Hiçbir şey yoktan var olmaz."
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Sorgulanmamış bir hayat yaşamaya değmez.."
+  },
+  {
+    "id": "q309",
+    "konu": "Sokrates ve Minotouros",
+    "soru": "Sokrates'e göre en büyük kötülük nedir?",
+    "siklar": [
+      "Cehalet",
+      "Fakirlik",
+      "Hastalık",
+      "Ölüm",
+      "Yalnızlık"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Cehalet."
+  },
+  {
+    "id": "q310",
+    "konu": "Sokrates ve Minotouros",
+    "soru": "Sokrates'in, dönemin siyasetine egemen olan ve sadece ikna gücüne dayandığı için tehlikeli bulduğu sanat nedir?",
+    "siklar": [
+      "Tragedya",
+      "Komedya",
+      "Retorik",
+      "Müzik",
+      "Heykel"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Retorik."
+  },
+  {
+    "id": "q401",
+    "konu": "Platon: İdealar Kuramı",
+    "soru": "Platon'un felsefi projesinin temel amacı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Doğanın temel maddesini (arkhe) bulmak",
+      "Retorik sanatını en üst seviyeye çıkarmak",
+      "Değişen ve göreceli dünyaya karşı, değişmez ve mutlak bir hakikat zemini bulmak",
+      "Atina demokrasisini olduğu gibi savunmak",
+      "Mitolojik anlatıları yeniden canlandırmak"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Değişen ve göreceli dünyaya karşı, değişmez ve mutlak bir hakikat zemini bulmak."
+  },
+  {
+    "id": "q402",
+    "konu": "Platon: İdealar Kuramı",
+    "soru": "Platon'un felsefi sisteminde, beş duyuyla algılanan, sürekli değişim halindeki dünyaya ne ad verilir?",
+    "siklar": [
+      "Duyusal dünya (Görünüşler dünyası)",
+      "İdealar dünyası",
+      "Matematiksel nesneler dünyası",
+      "Tanrılar dünyası",
+      "Ruhlar dünyası"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Duyusal dünya (Görünüşler dünyası)."
+  },
+  {
+    "id": "q403",
+    "konu": "Platon: İdealar Kuramı",
+    "soru": "Yalnızca saf akılla kavranabilen, değişmeyen, ezeli-ebedi ve mükemmel formların bulunduğu gerçeklik alanına ne ad verilir?",
+    "siklar": [
+      "Duyusal dünya",
+      "İdealar dünyası",
+      "Fiziksel dünya",
+      "Gölgeler dünyası",
+      "Sanılar dünyası"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: İdealar dünyası."
+  },
+  {
+    "id": "q404",
+    "konu": "Platon: İdealar Kuramı",
+    "soru": "Platon'a göre duyusal dünyaya ilişkin bilgimiz hangi düzeydedir?",
+    "siklar": [
+      "Episteme (Kesin bilgi)",
+      "Doxa (Sanı, kanaat)",
+      "Noesis (Saf akıl)",
+      "Dianoia (Anlama yetisi)",
+      "Anamnesis (Anımsama)"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Doxa (Sanı, kanaat)."
+  },
+  {
+    "id": "q405",
+    "konu": "Platon: İdealar Kuramı",
+    "soru": "Duyusal dünyadaki tikel bir \"güzel\" nesnenin varlığını borçlu olduğu asıl gerçeklik nedir?",
+    "siklar": [
+      "Onu yapan sanatçı",
+      "Onu algılayan insan",
+      "Güzellik İdeası",
+      "Maddenin kendisi",
+      "Toplumsal uzlaşı"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Güzellik İdeası."
+  },
+  {
+    "id": "q406",
+    "konu": "Platon: İdealar Kuramı",
+    "soru": "İdealar dünyasının hiyerarşik yapısının mutlak zirvesinde yer alan ve diğer tüm İdeaların varlık ve bilinebilirlik nedeni olan İdea hangisidir?",
+    "siklar": [
+      "Adalet İdeası",
+      "Güzellik İdeası",
+      "Varlık İdeası",
+      "İyi İdeası",
+      "İnsan İdeası"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: İyi İdeası."
+  },
+  {
+    "id": "q407",
+    "konu": "Platon: İdealar Kuramı",
+    "soru": "Platon'un Devlet diyaloğunda İyi İdeası'nı açıklamak için kullandığı analoji nedir?",
+    "siklar": [
+      "Mağara analojisi",
+      "Güneş analojisi",
+      "Gemi analojisi",
+      "Çizgi analojisi",
+      "At arabası analojisi"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Güneş analojisi."
+  },
+  {
+    "id": "q408",
+    "konu": "Platon: İdealar Kuramı",
+    "soru": "Platon'a göre \"öğrenme\" sürecini, ruhun daha önceden bildiği hakikatleri anımsaması olarak açıklayan kuramın adı nedir?",
+    "siklar": [
+      "Anamnesis (Anımsama) Kuramı",
+      "Mimesis (Taklit) Kuramı",
+      "Methexis (Pay Alma) Kuramı",
+      "Katharsis (Arınma) Kuramı",
+      "Elenkhos (Çürütme) Kuramı"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Anamnesis (Anımsama) Kuramı."
+  },
+  {
+    "id": "q409",
+    "konu": "Platon: İdealar Kuramı",
+    "soru": "Anımsama Kuramı'nın temelinde yatan varsayım nedir?",
+    "siklar": [
+      "Ruhun bedenle birlikte var olduğu",
+      "Bilginin tamamen duyulardan geldiği",
+      "Ruhun ölümsüz olduğu ve bedene düşmeden önce İdealar dünyasında var olduğu",
+      "Hiçbir şeyin bilinemeyeceği",
+      "Tüm bilginin göreceli olduğu"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Ruhun ölümsüz olduğu ve bedene düşmeden önce İdealar dünyasında var olduğu."
+  },
+  {
+    "id": "q410",
+    "konu": "Platon: İdealar Kuramı",
+    "soru": "Menon diyaloğunda Sokrates'in hiç eğitim almamış bir köleye geometri problemi çözdürmesi, hangi kuramı kanıtlamayı amaçlar?",
+    "siklar": [
+      "İdealar Kuramı'nı",
+      "Adalet Kuramı'nı",
+      "Anımsama Kuramı'nı",
+      "Devlet Kuramı'nı",
+      "Ruhun ölümsüzlüğü Kuramı'nı"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Anımsama Kuramı'nı."
+  },
+  {
+    "id": "q501",
+    "konu": "Platon ve Politika",
+    "soru": "Platon'un politika felsefesine göre devletin temel amacı nedir?",
+    "siklar": [
+      "Topraklarını genişletmek",
+      "Askeri olarak en güçlü olmak",
+      "Yurttaşları erdemli ve mutlu kılmak",
+      "En zengin devlet olmak",
+      "Diğer devletlere egemen olmak"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Yurttaşları erdemli ve mutlu kılmak."
+  },
+  {
+    "id": "q502",
+    "konu": "Platon ve Politika",
+    "soru": "Platon, ideal devleti tasarlarken aşağıdaki yapılardan hangisini model olarak kullanır?",
+    "siklar": [
+      "Sparta anayasasını",
+      "Pers İmparatorluğu'nu",
+      "İnsan ruhunun üçlü yapısını",
+      "Doğa yasalarını",
+      "Geometrik formları"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: İnsan ruhunun üçlü yapısını."
+  },
+  {
+    "id": "q503",
+    "konu": "Platon ve Politika",
+    "soru": "İdeal devlette aklı temsil eden ve bilgelik erdemine sahip olan sınıf hangisidir?",
+    "siklar": [
+      "Yöneticiler (Filozoflar)",
+      "Koruyucular (Askerler)",
+      "Üreticiler (Çiftçiler, Zanaatkarlar)",
+      "Köleler",
+      "Sanatçılar"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Yöneticiler (Filozoflar)."
+  },
+  {
+    "id": "q504",
+    "konu": "Platon ve Politika",
+    "soru": "İdeal devlette iradeyi (duygulanım) temsil eden ve cesaret erdemine sahip olan sınıf hangisidir?",
+    "siklar": [
+      "Yöneticiler",
+      "Koruyucular",
+      "Üreticiler",
+      "Rahipler",
+      "Yabancılar"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Koruyucular."
+  },
+  {
+    "id": "q505",
+    "konu": "Platon ve Politika",
+    "soru": "Platon'a göre devletteki \"adalet\" nedir?",
+    "siklar": [
+      "Herkese eşit pay dağıtmak",
+      "Yasaları harfiyen uygulamak",
+      "Çoğunluğun iradesine uymak",
+      "Her sınıfın kendi doğasına uygun işi yapması ve başkasının işine karışmaması",
+      "Güçlünün çıkarına olanı yapmak"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Her sınıfın kendi doğasına uygun işi yapması ve başkasının işine karışmaması."
+  },
+  {
+    "id": "q506",
+    "konu": "Platon ve Politika",
+    "soru": "Platon'un Devlet adlı eserindeki en radikal ve ünlü politik tezi aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Demokrasi en iyi yönetim biçimidir.",
+      "Devletin başında bir tiran olmalıdır.",
+      "Filozoflar kral ya da krallar filozof olmalıdır.",
+      "Yönetim kura ile belirlenmelidir.",
+      "Özel mülkiyet herkes için kutsaldır."
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Filozoflar kral ya da krallar filozof olmalıdır.."
+  },
+  {
+    "id": "q507",
+    "konu": "Platon ve Politika",
+    "soru": "Filozof-yöneticilerin eğitiminin son ve en üst aşaması nedir?",
+    "siklar": [
+      "Aritmetik",
+      "Geometri",
+      "Astronomi",
+      "Müzik",
+      "Diyalektik"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Diyalektik."
+  },
+  {
+    "id": "q508",
+    "konu": "Platon ve Politika",
+    "soru": "Platon'un eleştirdiği yönetim biçimlerinden hangisi, ün ve şeref tutkusuna dayanır?",
+    "siklar": [
+      "Timokrasi (Timarşi)",
+      "Oligarşi",
+      "Demokrasi",
+      "Tiranlık",
+      "Aristokrasi"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Timokrasi (Timarşi)."
+  },
+  {
+    "id": "q509",
+    "konu": "Platon ve Politika",
+    "soru": "Platon'a göre zenginlerin yönettiği, yoksulların ise yönetime hiç karışmadığı düzenin adı nedir?",
+    "siklar": [
+      "Timokrasi",
+      "Oligarşi",
+      "Demokrasi",
+      "Tiranlık",
+      "Monarşi"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Oligarşi."
+  },
+  {
+    "id": "q510",
+    "konu": "Platon ve Politika",
+    "soru": "Platon, demokrasiyi hangi temel nedenle eleştirir?",
+    "siklar": [
+      "Çok masraflı bir yönetim olması",
+      "Askeri açıdan zayıf olması",
+      "Yönetimi, uzmanlığı olmayan kitlelerin eline bırakarak her türlü arzuya ve bilgisizliğe kapı açması",
+      "Özel mülkiyeti tamamen yasaklaması",
+      "Yöneticilerin çok yaşlı olması"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Yönetimi, uzmanlığı olmayan kitlelerin eline bırakarak her türlü arzuya ve bilgisizliğe kapı açması."
+  },
+  {
+    "id": "q601",
+    "konu": "Aristoteles: Bilgi ve Metafizik",
+    "soru": "Aristoteles'e göre Sokrates, felsefi araştırmasının merkezine hangi konuları almıştır?",
+    "siklar": [
+      "Doğanın kökeni ve evrenin yapısı",
+      "Duyumsanabilir nesnelerin sürekli akış halinde oluşu",
+      "Etik meseleler, tümeller ve tanımlar",
+      "İdealar ile nesneler arasındaki pay alma ilişkisi",
+      "Matematiksel varlıkların doğası"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Etik meseleler, tümeller ve tanımlar."
+  },
+  {
+    "id": "q602",
+    "konu": "Aristoteles: Bilgi ve Metafizik",
+    "soru": "Aristoteles'in aktarımına göre Platon, Sokrates’in tanım arayışını duyumsanabilir dünyanın dışına taşımıştır. Bunun temel nedeni aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Sokrates'in etik konuları yeterince derinlemesine incelememiş olması.",
+      "Herakleitos felsefesini tamamen çürütmek istemesi.",
+      "Daima değişmekte olan duyumsanabilir şeyler için ortak bir tanım yapmanın imkânsız olması.",
+      "Doğa filozoflarının düşüncelerini etik ile birleştirmeyi amaçlaması.",
+      "Öğrencilerine yeni bir felsefi yöntem sunma arzusu."
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Daima değişmekte olan duyumsanabilir şeyler için ortak bir tanım yapmanın imkânsız olması.."
+  },
+  {
+    "id": "q603",
+    "konu": "Aristoteles: Bilgi ve Metafizik",
+    "soru": "Aristoteles'in tanıklığına göre, \"İdealar\" kavramının Platon felsefesinde ortaya çıkmasının sebebi nedir?",
+    "siklar": [
+      "Evrenin yaratılışını açıklayacak bir ilke bulmak.",
+      "Duyumsanabilir nesneler sürekli değiştiği için, tanımların nesnesi olabilecek başka türden varlıklar ortaya",
+      "koymak.",
+      "Sokrates'in felsefesini onurlandırmak için yeni bir terminoloji geliştirmek.",
+      "Sofistlerin görelilikçi yaklaşımlarına popüler bir alternatif sunmak.",
+      "Politik bir düzenin temelini oluşturacak ahlaki değerler tanımlamak."
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Duyumsanabilir nesneler sürekli değiştiği için, tanımların nesnesi olabilecek başka türden."
+  },
+  {
+    "id": "q604",
+    "konu": "Aristoteles: Bilgi ve Metafizik",
+    "soru": "Aristoteles, Platon felsefesindeki duyumsanabilir nesneler ile İdealar arasındaki ilişkiyi nasıl tanımlamaktadır?",
+    "siklar": [
+      "Duyumsanabilir nesneler, İdeaların nedenidir.",
+      "İdealar, duyumsanabilir nesnelerden türetilmiş soyutlamalardır.",
+      "Duyumsanabilir nesneler, İdealardan \"pay alarak\" var olurlar ve onlarla \"eşadlı\" olarak anılırlar.",
+      "İki dünya arasında hiçbir ilişki yoktur; tamamen ayrıdırlar.",
+      "İdealar, duyumsanabilir nesnelerin mükemmelleştirilmiş halleridir."
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Duyumsanabilir nesneler, İdealardan \"pay alarak\" var olurlar ve onlarla \"eşadlı\" olarak anılırlar.."
+  },
+  {
+    "id": "q605",
+    "konu": "Aristoteles: Bilgi ve Metafizik",
+    "soru": "Aristoteles'in alıntısına dayanarak, Herakleitos ve Sokrates'in Platon'un düşünce sistemi üzerindeki etkileri nasıl karşılaştırılabilir?",
+    "siklar": [
+      "Herakleitos etik temelini, Sokrates ise metafizik çerçeveyi sağlamıştır.",
+      "Her ikisi de Platon'un bilginin imkânsız olduğu görüşünü benimsemesine neden olmuştur.",
+      "Herakleitos duyumsanabilir dünyaya bakışını şekillendirmiş, Sokrates ise evrensel tanımları arama yöntemini",
+      "kazandırmıştır.",
+      "Sokrates doğa felsefesini, Herakleitos ise etik anlayışını etkilemiştir.",
+      "Herakleitos politik görüşlerini, Sokrates ise sanat anlayışını şekillendirmiştir."
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Herakleitos duyumsanabilir dünyaya bakışını şekillendirmiş, Sokrates ise evrensel tanımları."
+  },
+  {
+    "id": "q606",
+    "konu": "Aristoteles: Bilgi ve Metafizik",
+    "soru": "Aristoteles'in analizine göre, Platon'un bilginin nesnesine dair ulaştığı nihai sonuç aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Bilgi, yalnızca etik kavramlarla ilgili olabilir.",
+      "Bilginin nesnesi, insanların ortak kanılarında bulunabilir.",
+      "Gerçek bilginin nesnesi, sürekli değişen duyumsanabilir şeyler değil, başka türden varlıklar olmalıdır.",
+      "Bilginin gerçek nesnesi, ruhun kendisidir.",
+      "Bilginin mutlak ve kesin bir nesnesi olamaz."
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Gerçek bilginin nesnesi, sürekli değişen duyumsanabilir şeyler değil, başka türden varlıklar."
+  },
+  {
+    "id": "q607",
+    "konu": "Aristoteles: Bilgi ve Metafizik",
+    "soru": "Ders notlarında aktarıldığı şekliyle Aristoteles'in Poetika eserine göre, bir tragedyanın en önemli öğesi nedir?",
+    "siklar": [
+      "Kahramanın ahlaki karakteri",
+      "Kullanılan dilin ve dizelerin güzelliği",
+      "Sahne düzeni ve görsel efektler",
+      "Olayların düzenlenmesi olan öykü (plot)",
+      "Koronun söylediği şarkılar"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Olayların düzenlenmesi olan öykü (plot)."
+  },
+  {
+    "id": "q608",
+    "konu": "Aristoteles: Bilgi ve Metafizik",
+    "soru": "Aristoteles'e göre tragedyanın izleyicide uyandırmayı hedeflediği iki temel duygu aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Neşe ve rahatlama",
+      "Öfke ve tiksinti",
+      "Korku ve acıma",
+      "Şaşkınlık ve merak",
+      "Sevgi ve nefret"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Korku ve acıma."
+  },
+  {
+    "id": "q609",
+    "konu": "Aristoteles: Bilgi ve Metafizik",
+    "soru": "Metinde Aristoteles'in \"katharsis\" kavramının işlevi ve amacı nasıl açıklanmaktadır?",
+    "siklar": [
+      "Kahramanın trajik hatasını (hamartia) ahlaki olarak yüceltmek.",
+      "İzleyici için bir arınma sağlamak veya ona bir ibret dersi vererek ruhsal bir dönüşüm yaşatmak.",
+      "İzleyiciyi eylemlerin sonuçlarından duygusal olarak uzaklaştırmak.",
+      "Tarihsel olayların doğruluğunu sanatsal olarak kanıtlamak.",
+      "Toplumsal düzeni sorgulamadan kabul ettirmek."
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: İzleyici için bir arınma sağlamak veya ona bir ibret dersi vererek ruhsal bir dönüşüm yaşatmak.."
+  },
+  {
+    "id": "q610",
+    "konu": "Aristoteles: Bilgi ve Metafizik",
+    "soru": "Aristoteles'in tragedya analizine göre, hamartia (trajik hata) ile peripeteia (talihin dönmesi) arasındaki ilişki en doğru nasıl ifade edilir?",
+    "siklar": [
+      "Hamartia, kahramanın genellikle kendi sınırlarını bilmemesinden kaynaklanan ve talihinin tersine dönmesine",
+      "(peripeteia) yol açan eylemidir.",
+      "Peripeteia, hamartia'nın izleyici üzerindeki etkisini azaltan ve olay örgüsünü çözen bir dış müdahaledir.",
+      "Hamartia, peripeteia yaşandıktan sonra kahramanın içine düştüğü ahlaki çöküşü ifade eder.",
+      "İki kavram arasında zorunlu bir ilişki yoktur; bir tragedya birisi olmadan da var olabilir.",
+      "Peripeteia, hamartia'nın ahlaki olarak cezalandırılması, ilahi adaletin tecelli etmesidir."
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Hamartia, kahramanın genellikle kendi sınırlarını bilmemesinden kaynaklanan ve talihinin tersine."
+  },
+  {
+    "id": "q701",
+    "konu": "Aristoteles ve Politika",
+    "soru": "Aristoteles'e göre tüm insan eylemlerinin nihai amacı olan en yüksek iyi nedir?",
+    "siklar": [
+      "Haz (Hedone)",
+      "Onur (Time)",
+      "Zenginlik (Ploutos)",
+      "Mutluluk (Eudaimonia)",
+      "Bilgi (Episteme)"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Mutluluk (Eudaimonia)."
+  },
+  {
+    "id": "q702",
+    "konu": "Aristoteles ve Politika",
+    "soru": "Aristoteles'in \"insan doğası gereği politik bir hayvandır\" anlamına gelen ünlü sözü hangisidir?",
+    "siklar": [
+      "Homo faber",
+      "Cogito ergo sum",
+      "Zoon politikon",
+      "Tabula rasa",
+      "Memento mori"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Zoon politikon."
+  },
+  {
+    "id": "q703",
+    "konu": "Aristoteles ve Politika",
+    "soru": "Karakter erdemleri, Aristoteles'e göre iki aşırı uç arasındaki denge durumudur. Bu öğretiye ne ad verilir?",
+    "siklar": [
+      "Kategorik imperatif",
+      "Orta yol (Mesotes)",
+      "Ataraxia",
+      "Hylomorphism",
+      "Anamnesis"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Orta yol (Mesotes)."
+  },
+  {
+    "id": "q704",
+    "konu": "Aristoteles ve Politika",
+    "soru": "Aristoteles'e göre cömertlik erdemi, hangi iki aşırılığın ortasıdır?",
+    "siklar": [
+      "Korkaklık ve atılganlık",
+      "Savurganlık ve cimrilik",
+      "Köle ruhluluk ve kibir",
+      "Utangaçlık ve utanmazlık",
+      "Tembellik ve hırs"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Savurganlık ve cimrilik."
+  },
+  {
+    "id": "q705",
+    "konu": "Aristoteles ve Politika",
+    "soru": "Aşağıdakilerden hangisi bir düşünce (dianoetik) erdemidir?",
+    "siklar": [
+      "Cesaret",
+      "Ölçülülük",
+      "Cömertlik",
+      "Adalet",
+      "Bilgelik (Sophia)"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Bilgelik (Sophia)."
+  },
+  {
+    "id": "q706",
+    "konu": "Aristoteles ve Politika",
+    "soru": "Aristoteles'e göre karakter erdemleri nasıl kazanılır?",
+    "siklar": [
+      "Doğuştan gelir.",
+      "Tanrılar tarafından verilir.",
+      "Alışkanlık yoluyla kazanılır.",
+      "Yalnızca teorik eğitimle öğrenilir.",
+      "Sezgisel olarak bilinir."
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Alışkanlık yoluyla kazanılır.."
+  },
+  {
+    "id": "q707",
+    "konu": "Aristoteles ve Politika",
+    "soru": "Aristoteles'in yönetim biçimleri sınıflandırmasında monarşinin bozulmuş hali hangisidir?",
+    "siklar": [
+      "Oligarşi",
+      "Demokrasi",
+      "Tiranlık",
+      "Anarşi",
+      "Politeia"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Tiranlık."
+  },
+  {
+    "id": "q708",
+    "konu": "Aristoteles ve Politika",
+    "soru": "Aristoteles'e göre politikanın asıl amacı nedir?",
+    "siklar": [
+      "Askeri gücü en üst düzeye çıkarmak",
+      "Ekonomik zenginliği artırmak",
+      "Yurttaşların erdemli ve mutlu bir yaşam sürmesini sağlamak",
+      "Diğer kent devletleri üzerinde egemenlik kurmak",
+      "Mutlak bireysel özgürlüğü güvence altına almak"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Yurttaşların erdemli ve mutlu bir yaşam sürmesini sağlamak."
+  },
+  {
+    "id": "q709",
+    "konu": "Aristoteles ve Politika",
+    "soru": "Aristoteles'in ideal yönetim biçimi olarak gördüğü ve orta sınıfın egemen olduğu karma anayasa hangisidir?",
+    "siklar": [
+      "Aristokrasi",
+      "Demokrasi",
+      "Monarşi",
+      "Tiranlık",
+      "Politeia"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Politeia."
+  },
+  {
+    "id": "q710",
+    "konu": "Aristoteles ve Politika",
+    "soru": "Aşağıdaki ifadelerden hangisi Aristoteles'in etik ve politika anlayışını en iyi özetler?",
+    "siklar": [
+      "Bireysel mutluluk, politik yaşamdan tamamen bağımsızdır.",
+      "İyi bir yaşam, ancak iyi bir politik topluluk içinde mümkündür.",
+      "Politikanın tek amacı, bireyin hazza ulaşmasını sağlamaktır.",
+      "En iyi devlet, en güçlü liderin yönettiği devlettir.",
+      "Yasalar, bireyin özgürlüğünü kısıtlayan gereksiz engellerdir."
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: İyi bir yaşam, ancak iyi bir politik topluluk içinde mümkündür.."
+  },
+  {
+    "id": "q801",
+    "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)",
+    "soru": "Helenistik Dönem'in başlangıcı olarak kabul edilen tarihsel olay hangisidir?",
+    "siklar": [
+      "Peloponnesos Savaşları'nın başlaması",
+      "Roma Cumhuriyeti'nin kurulması",
+      "Sokrates'in ölümü",
+      "Büyük İskender'in fetihleri",
+      "Atina demokrasisinin zirveye ulaşması"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Büyük İskender'in fetihleri."
+  },
+  {
+    "id": "q802",
+    "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)",
+    "soru": "Helenistik felsefenin ortak amacı olarak kabul edilen ruhsal dinginlik ve sarsılmazlık durumuna ne ad verilir?",
+    "siklar": [
+      "Eudaimonia",
+      "Ataraxia",
+      "Arete",
+      "Kalokagathia",
+      "Mimesis"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Ataraxia."
+  },
+  {
+    "id": "q803",
+    "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)",
+    "soru": "\"Gizlenerek yaşa\" ilkesini savunan ve politikadan uzak durmayı öğütleyen felsefi okul hangisidir?",
+    "siklar": [
+      "Stoacılık",
+      "Platonculuk",
+      "Epikürcülük",
+      "Kuşkuculuk",
+      "Aristotelesçilik"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Epikürcülük."
+  },
+  {
+    "id": "q804",
+    "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)",
+    "soru": "Evrenin tanrısal bir akıl (Logos) tarafından yönetildiğini ve erdemin \"doğaya uygun yaşamak\" olduğunu savunan okul hangisidir?",
+    "siklar": [
+      "Stoacılık",
+      "Epikürcülük",
+      "Sofistler",
+      "Kinikler",
+      "Kuşkuculuk"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Stoacılık."
+  },
+  {
+    "id": "q805",
+    "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)",
+    "soru": "Kuşkuculara (Skeptiklere) göre ataraxia'ya ulaşmanın yolu nedir?",
+    "siklar": [
+      "Toplumsal görevleri yerine getirmek",
+      "Matematiksel bilgiye ulaşmak",
+      "Yargıyı askıya almak (Epoche)",
+      "Fiziksel hazzı en üst düzeye çıkarmak",
+      "İdeaları temaşa etmek"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Yargıyı askıya almak (Epoche)."
+  },
+  {
+    "id": "q806",
+    "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)",
+    "soru": "Stoacı felsefede, insanın kontrolü dışındaki olaylara karşı kayıtsız kalma ve tutkulardan arınma durumuna ne denir?",
+    "siklar": [
+      "Hedone",
+      "Apatheia",
+      "Aporia",
+      "Elenkhos",
+      "Anamnesis"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Apatheia."
+  },
+  {
+    "id": "q807",
+    "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)",
+    "soru": "Aşağıdakilerden hangisi Epikürcü felsefenin temel tezlerinden biri değildir?",
+    "siklar": [
+      "Mutluluk, ruhsal çalkantının yokluğudur.",
+      "Tanrılar vardır ama insan yaşamına müdahale etmezler.",
+      "Ölümden korkulmamalıdır çünkü biz varken o yoktur, o varken biz yokuz.",
+      "İnsan, toplumsal görevlerini her şeyin üstünde tutmalıdır.",
+      "En yüksek haz, bedensel acının olmamasıdır."
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: İnsan, toplumsal görevlerini her şeyin üstünde tutmalıdır.."
+  },
+  {
+    "id": "q808",
+    "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)",
+    "soru": "\"Dünya vatandaşı\" (kozmopolit) olma fikrini felsefelerinin merkezine yerleştiren okul hangisidir?",
+    "siklar": [
+      "Epikürcülük",
+      "Stoacılık",
+      "Kuşkuculuk",
+      "Platon'un Akademisi",
+      "Kinikler"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Stoacılık."
+  },
+  {
+    "id": "q809",
+    "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)",
+    "soru": "Helenistik felsefenin odağındaki temel değişim aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Metafizikten mantığa geçiş",
+      "Politik felsefeden bireysel etik felsefesine geçiş",
+      "Doğa felsefesinden insan felsefesine geçiş",
+      "Mitostan logosa geçiş",
+      "Teorik felsefeden estetik felsefesine geçiş"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Politik felsefeden bireysel etik felsefesine geçiş."
+  },
+  {
+    "id": "q810",
+    "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)",
+    "soru": "Aşağıdakilerden hangisi Helenistik Dönem felsefe okullarından biri değildir?",
+    "siklar": [
+      "Stoacılık",
+      "Miletos Okulu",
+      "Epikürcülük",
+      "Kuşkuculuk",
+      "Kinikler"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Miletos Okulu."
+  }
+]

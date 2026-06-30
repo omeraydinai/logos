@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "psikogiris2-101",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Evrenin Doğası ve Psikoloji",
+    "soru": "Büyük Patlama Teorisi’ne göre evren ne zaman genişlemeye başlamıştır?",
+    "siklar": [
+      "4.5 milyar yıl önce",
+      "10 milyar yıl önce",
+      "15 milyar yıl önce",
+      "13.8 milyar yıl önce",
+      "20 milyar yıl önce"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: 13.8 milyar yıl önce.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-102",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Evrenin Doğası ve Psikoloji",
+    "soru": "Edwin Hubble’ın gözlemleri, evrenin hangiözelliğini ortaya koymuştur?",
+    "siklar": [
+      "Evrenin durağan olduğunu",
+      "Galaksilerin birbiriyle çarpıştığını",
+      "Evrenin genişlediğini",
+      "Zamanın değişken olduğunu",
+      "Maddenin kaybolduğunu"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Evrenin genişlediğini.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-103",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Evrenin Doğası ve Psikoloji",
+    "soru": "Albert Einstein’ın Görelilik Teorisi’ne göre zaman ve mekân nasıl değerlendirilmelidir?",
+    "siklar": [
+      "Birbirinden bağımsız iki varlık",
+      "Dört boyutlu bir uzay-zaman dokusu",
+      "Sadece mekânsal bir yapı",
+      "Tek bir boyut",
+      "Üç boyutlu bir alan"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Dört boyutlu bir uzay-zaman dokusu.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-104",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Evrenin Doğası ve Psikoloji",
+    "soru": "Deterministik evren anlayışına göre aşağıdakilerden hangisi doğrudur?",
+    "siklar": [
+      "Olaylar rastgele gerçekleşir",
+      "İnsan davranışları bağımsızdır",
+      "Tüm olayların bir nedeni vardır",
+      "Zaman durağandır",
+      "Evrenin bir başlangıcı yoktur"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Tüm olayların bir nedeni vardır.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-105",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Evrenin Doğası ve Psikoloji",
+    "soru": "Charles Darwin’in evrim teorisi, aşağıdakilerden hangisini açıklar?",
+    "siklar": [
+      "Canlıların çevresel koşullara uyum sağlayarak evrimleştiğini",
+      "Evrenin genişlemesini",
+      "Zamanın akışını",
+      "Mekân ve zaman algısının gelişimini",
+      "İnsan zihninin yapısını"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Canlıların çevresel koşullara uyum sağlayarak evrimleştiğini.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-106",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Evrenin Doğası ve Psikoloji",
+    "soru": "Thomas Nagel’in görüşüne göre, insan bilinci neden indirgemeci yaklaşımlarla tam anlamıyla anlaşılamaz?",
+    "siklar": [
+      "Bilinç, benzersiz ve indirgenemez bir deneyimdir",
+      "Bilinç tamamen mekanik bir süreçtir",
+      "Bilinç bireyler arasında değişmez",
+      "Bilinç, sadece nörofizyolojik olaylardan oluşur",
+      "Bilinç, tamamen genetik yapıdan ibarettir"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Bilinç, benzersiz ve indirgenemez bir deneyimdir.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-107",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Evrenin Doğası ve Psikoloji",
+    "soru": "“Savaş ya da kaç” tepkisi hangi bilimsel bakış açısıyla açıklanır?",
+    "siklar": [
+      "Nörobilim",
+      "Bilişsel psikoloji",
+      "Sosyal psikoloji",
+      "Evrimsel psikoloji",
+      "Kültürel psikoloji"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Evrimsel psikoloji.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-108",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Evrenin Doğası ve Psikoloji",
+    "soru": "Epigenetik, genetik yapıların hangi faktörlerle etkileşimini inceler?",
+    "siklar": [
+      "Fiziksel yapılarla",
+      "Kimyasal süreçlerle",
+      "Biyolojik yasalarla",
+      "Toplumsal normlarla",
+      "Çevresel faktörlerle"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Çevresel faktörlerle.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-109",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Evrenin Doğası ve Psikoloji",
+    "soru": "Yapay Zeka çalışmaları insan zihniyle hangi açıdan ilişkilendirilir?",
+    "siklar": [
+      "Zaman ve mekân algısının geliştirilmesi",
+      "İnsan bilincinin simülasyonu",
+      "Fiziksel yasaların değişimi",
+      "Duygusal deneyimlerin aktarımı",
+      "Bilgi işleme süreçlerinin taklidi"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Bilgi işleme süreçlerinin taklidi.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-110",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Evrenin Doğası ve Psikoloji",
+    "soru": "David Chalmers, bilinci hangi kavramla tartışır?",
+    "siklar": [
+      "Göreceli problem",
+      "Zor problem",
+      "Evrensel yasalar",
+      "Deterministik yaklaşım",
+      "Biyolojik temel"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Zor problem.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-201",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Deneyim ve Algının Felsefi Temelleri",
+    "soru": "Algı ve deneyim bireyin hangi süreçte temel yapı taşlarıdır?",
+    "siklar": [
+      "Bilinçaltı süreçleri anlama",
+      "Gerçekliği kavrama",
+      "Genetik kod çözme",
+      "Toplumsal değerlerin kazanılması",
+      "Biyolojik evrim analizi"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Gerçekliği kavrama.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-202",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Deneyim ve Algının Felsefi Temelleri",
+    "soru": "Maurice Merleau-Ponty’ye göre, bireyin gerçekliği hangi şekilde oluşur?",
+    "siklar": [
+      "Yalnızca zihinsel bir süreçle",
+      "Duyusal verilerin otomatik işlenmesiyle",
+      "Hem zihinsel hem bedensel bir deneyimle",
+      "Toplumsal normlara göre",
+      "Bilinçaltındaki arzularla"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Hem zihinsel hem bedensel bir deneyimle.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-203",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Deneyim ve Algının Felsefi Temelleri",
+    "soru": "Immanuel Kant’a göre birey, gerçekliğe dair bilgiyi nasıl kavrayabilir?",
+    "siklar": [
+      "Sadece sezgisel olarak",
+      "Dış uyaranlara tepki vererek",
+      "Genetik kodlarla",
+      "Biyolojik içgüdülerle",
+      "Deneyim yoluyla"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Deneyim yoluyla.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-204",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Deneyim ve Algının Felsefi Temelleri",
+    "soru": "Fenomenolojiye göre, bireyin dünyayıalgılama süreci hangiözellikte değerlendirilir?",
+    "siklar": [
+      "Objektif ve evrensel",
+      "Tek tip",
+      "Matematiksel verilerle sınırlı",
+      "Öznel ve bireysel",
+      "Evrimsel bir süreç"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Öznel ve bireysel.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-205",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Deneyim ve Algının Felsefi Temelleri",
+    "soru": "Maurice Merleau-Ponty, bedeni nasıl tanımlar?",
+    "siklar": [
+      "Pasif bir araç olarak",
+      "Bir zihinsel süreç olarak",
+      "Sadece fiziksel bir varlık olarak",
+      "Bireyin dünyayı deneyimleme aracısı olarak",
+      "Bilinçdışı bir mekanizma olarak"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Bireyin dünyayı deneyimleme aracısı olarak.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-206",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Deneyim ve Algının Felsefi Temelleri",
+    "soru": "Bilinç akışı kavramınıgeliştiren düşünür kimdir?",
+    "siklar": [
+      "Jean-Paul Sartre",
+      "Immanuel Kant",
+      "Daniel Dennett",
+      "Edmund Husserl",
+      "William James"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: William James.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-207",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Deneyim ve Algının Felsefi Temelleri",
+    "soru": "Edmund Husserl’e göre bilinç her zaman neye yöneliktir?",
+    "siklar": [
+      "Evrensel bilgilere",
+      "Bir nesneye veya amaca",
+      "Duyusal tepkilere",
+      "Genetik içgüdülere",
+      "Zihinsel süreçlere"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Bir nesneye veya amaca.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-208",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Deneyim ve Algının Felsefi Temelleri",
+    "soru": "Antonio Damasio, bilinç ve beden ilişkisini nasıl tanımlar?",
+    "siklar": [
+      "Bedenin bilincin doğrudan bir parçası olduğu",
+      "Bedenin zihinsel süreçler üzerindeki etkisizliği",
+      "Bedenin sadece fiziksel bir nesne olduğu",
+      "Bilincin bedenden bağımsız olduğu",
+      "Zihinsel işlevlerin bedene dayalı olmadığı"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Bedenin bilincin doğrudan bir parçası olduğu.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-209",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Deneyim ve Algının Felsefi Temelleri",
+    "soru": "Fenomenolojik perspektifte algı, aşağıdaki hangi süreçle ilişkilendirilir?",
+    "siklar": [
+      "Genetik aktarım",
+      "Evrensel deneyimler",
+      "Bilinçli ve öznel bir yorumlama süreci",
+      "Bilinçaltı tepkiler",
+      "Duyusal refleksler"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Bilinçli ve öznel bir yorumlama süreci.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-210",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Deneyim ve Algının Felsefi Temelleri",
+    "soru": "Jean-Paul Sartre’a göre bilinç hangiözelliğe sahiptir?",
+    "siklar": [
+      "Özgür bir yapıdadır ve bireyin gerçekliği inşa etmesini sağlar",
+      "Zihinsel süreçlere bağımlıdır",
+      "Genetik faktörlerle sınırlıdır",
+      "Evrensel yasalarla uyumludur",
+      "Fiziksel süreçlerle belirlenmiştir"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Özgür bir yapıdadır ve bireyin gerçekliği inşa etmesini sağlar.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-301",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Sosyolojik Yönleri",
+    "soru": "Psikolojinin sosyolojik boyutları bireyin hangi yönlerini anlamamıza yardımcıolur?",
+    "siklar": [
+      "Biyolojik yapısını ve fiziksel gelişimini",
+      "Kimliğini ve davranışlarını",
+      "Duygusal zekasını ve akademik başarısını",
+      "Genetik özelliklerini ve hastalık risklerini",
+      "Fiziksel dayanıklılığını"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Kimliğini ve davranışlarını.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-302",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Sosyolojik Yönleri",
+    "soru": "Vygotsky’nin sosyokültürel teorisine göre, bireyin zihinsel gelişim sürecinde hangi faktör belirleyicidir?",
+    "siklar": [
+      "Genetik yatkınlıklar",
+      "Fiziksel aktivite seviyesi",
+      "Ekonomik koşullar",
+      "Sosyal çevre ve kültürel yapı",
+      "Fiziksel çevre ve doğal kaynaklar"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Sosyal çevre ve kültürel yapı.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-303",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Sosyolojik Yönleri",
+    "soru": "Yakınsal gelişim alanı (ZPD) kavramına göre birey, bir görevi nasıl başarabilir?",
+    "siklar": [
+      "Tek başına kendi başına çalışarak",
+      "Genetik avantajları sayesinde",
+      "Fiziksel becerilerini geliştirerek",
+      "İleri teknolojileri kullanarak",
+      "Sosyal çevresindeki daha bilgili kişilerden destek alarak"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Sosyal çevresindeki daha bilgili kişilerden destek alarak.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-304",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Sosyolojik Yönleri",
+    "soru": "Vygotsky’ye göre dil, bireyin hangi gelişim sürecinde merkezi bir rol oynar?",
+    "siklar": [
+      "Düşünce süreçlerinin yapılandırılması",
+      "Biyolojik gelişim",
+      "Fiziksel dayanıklılık",
+      "Duygusal sağlığın korunması",
+      "Genetik özelliklerin belirlenmesi"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Düşünce süreçlerinin yapılandırılması.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-305",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Sosyolojik Yönleri",
+    "soru": "Kolektivist kültürlerde birey kimliğini nasıl oluşturur?",
+    "siklar": [
+      "Bireysel başarıları ön plana çıkararak",
+      "Yalnızca kişisel zevkleri doğrultusunda",
+      "Topluma olan aidiyeti üzerinden",
+      "Ekonomik kazançlarına göre",
+      "Fiziksel görünüme göre"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Topluma olan aidiyeti üzerinden.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-306",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Sosyolojik Yönleri",
+    "soru": "Henri Tajfel'in sosyal kimlik teorisine göre, bireyin kimliği hangi unsura dayanır?",
+    "siklar": [
+      "Bireysel yeteneklerine",
+      "Fiziksel görünümüne",
+      "Ait olduğu sosyal gruplara",
+      "Genetik özelliklerine",
+      "Ekonomik statüsüne"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Ait olduğu sosyal gruplara.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-307",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Sosyolojik Yönleri",
+    "soru": "Solomon Asch’ın uyum deneyi bireyin hangi eğilimini ortaya koyar?",
+    "siklar": [
+      "Grup normlarına uyum sağlama",
+      "Sosyal baskıya direnç gösterme",
+      "Bireysel davranışları koruma",
+      "Ekonomik bağımsızlık kazanma",
+      "Fiziksel çevreden etkilenme"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Grup normlarına uyum sağlama.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-308",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Sosyolojik Yönleri",
+    "soru": "Kültürel semboller, bireylerin hangi sürecine katkı sağlar?",
+    "siklar": [
+      "Fiziksel dayanıklılıklarının artmasına",
+      "Teknoloji kullanım becerilerinin gelişmesine",
+      "Genetik yapılarına uyum sağlamalarına",
+      "Sosyal kimlik kazanmalarına",
+      "Ekonomik statülerinin yükselmesine"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Sosyal kimlik kazanmalarına.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-309",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Sosyolojik Yönleri",
+    "soru": "George Herbert Mead’in rol alma teorisine göre birey kimliğini nasıl oluşturur?",
+    "siklar": [
+      "Kendi yeteneklerine odaklanarak",
+      "Sosyal çevresinin beklentilerini gözlemleyerek",
+      "Doğuştan gelen özelliklerine dayanarak",
+      "Ekonomik başarıları doğrultusunda",
+      "Fiziksel çevreye göre şekillendirerek"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Sosyal çevresinin beklentilerini gözlemleyerek.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-310",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Sosyolojik Yönleri",
+    "soru": "Vygotsky’nin sosyokültürel teorisine göre bireyin kimliği nasıl gelişir?",
+    "siklar": [
+      "Biyolojik etkenlerin sonucunda",
+      "Kişisel genetik yapıya göre",
+      "Fiziksel çevredeki değişimlerle",
+      "Sadece bireysel çabalarla",
+      "Sosyal ve kültürel etkileşimlerle"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Sosyal ve kültürel etkileşimlerle.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-401",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Antropolojik Yaklaşımlar ve Kültürel Psikoloji",
+    "soru": "Kültür, bireylerin psikolojik yapısını nasıl etkiler?",
+    "siklar": [
+      "Genetik özelliklerine doğrudan etki ederek",
+      "Sadece ekonomik durumlarına göre",
+      "Sadece biyolojik özelliklerini değiştirerek",
+      "Fiziksel çevreyi değiştirmeye teşvik ederek",
+      "Onların düşünce ve davranış biçimlerini şekillendirerek"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Onların düşünce ve davranış biçimlerini şekillendirerek.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-402",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Antropolojik Yaklaşımlar ve Kültürel Psikoloji",
+    "soru": "Jerome Bruner’a göre, bireyler kültürel anlatılar yoluyla neyi öğrenir?",
+    "siklar": [
+      "Toplumun ahlaki değerlerini ve sosyal normları",
+      "Genetik farklılıkları",
+      "Fiziksel becerilerini geliştirmeyi",
+      "Ekonomik karar alma yöntemlerini",
+      "Fiziksel çevreye uyum sağlamayı"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Toplumun ahlaki değerlerini ve sosyal normları.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-403",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Antropolojik Yaklaşımlar ve Kültürel Psikoloji",
+    "soru": "Michael Tomasello'nun“ortak dikkat” kavramı hangi süreci açıklar?",
+    "siklar": [
+      "Çocukların sosyal etkileşimler yoluyla kültürel bilgi edinmesini",
+      "Bireylerin çevreye adaptasyonunu",
+      "Ekonomik bağımsızlık kazanma sürecini",
+      "Fiziksel çevre ile iletişim kurmayı",
+      "Fiziksel dayanıklılığı artırma yollarını"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Çocukların sosyal etkileşimler yoluyla kültürel bilgi edinmesini.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-404",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Antropolojik Yaklaşımlar ve Kültürel Psikoloji",
+    "soru": "Bruner ve Tomasello’nun teorilerine göre kültürel öğrenmenin bireyler üzerindeki etkisi nedir?",
+    "siklar": [
+      "Sadece fiziksel çevreyle sınırlıdır",
+      "Fiziksel dayanıklılığı artırır",
+      "Sadece genetik yapıyı etkiler",
+      "Ekonomik durumlarına göre sınıflandırır",
+      "Psikolojik yapıyı derinden etkileyerek kimlik gelişimine katkıda bulunur"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Psikolojik yapıyı derinden etkileyerek kimlik gelişimine katkıda bulunur.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-405",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Antropolojik Yaklaşımlar ve Kültürel Psikoloji",
+    "soru": "Bireyci kültürlerde hangi değerlerön plana çıkar?",
+    "siklar": [
+      "Fiziksel çevreye uyum",
+      "Bağımsızlık ve kişisel başarı",
+      "Dayanışma ve uyum",
+      "Sosyal hiyerarşi",
+      "Ekonomik refah"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Bağımsızlık ve kişisel başarı.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-406",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Antropolojik Yaklaşımlar ve Kültürel Psikoloji",
+    "soru": "Tomasello’ya göre, bireyler başkalarının niyetlerini anlamada hangi beceriye ihtiyaç duyar?",
+    "siklar": [
+      "Ekonomik bilgi",
+      "Fiziksel dayanıklılık",
+      "Genetik avantajlar",
+      "Ortak dikkat ve ortak niyet",
+      "Fiziksel çevreyi gözlemleme"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Ortak dikkat ve ortak niyet.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-407",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Antropolojik Yaklaşımlar ve Kültürel Psikoloji",
+    "soru": "Kolektivist kültürlerde kimlik algısı neye dayanır?",
+    "siklar": [
+      "Ekonomik kazançlara",
+      "Bireysel başarıya",
+      "Fiziksel dayanıklılığa",
+      "Grup dinamikleri ve sosyal rollere",
+      "Bireysel özgürlüğe"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Grup dinamikleri ve sosyal rollere.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-408",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Antropolojik Yaklaşımlar ve Kültürel Psikoloji",
+    "soru": "Duygusal ifadelerin kontrol altında tutulması hangi kültürel yapı ile daha çok ilişkilidir?",
+    "siklar": [
+      "Batılı bireyci kültürler",
+      "Sadece ekonomik gelişmişlik düzeyi yüksek olan toplumlar",
+      "Doğu Asya kolektivist kültürler",
+      "Fiziksel dayanıklılığı ön planda tutan toplumlar",
+      "Genetik özelliklere göre sınıflandırılan toplumlar"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Doğu Asya kolektivist kültürler.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-409",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Antropolojik Yaklaşımlar ve Kültürel Psikoloji",
+    "soru": "Bruner’a göre kültürel ritüellerin bireyler için işlevi nedir?",
+    "siklar": [
+      "Fiziksel dayanıklılığı artırmak",
+      "Toplum içindeki kimliklerini ve aidiyet duygularını güçlendirmek",
+      "Ekonomik refahı artırmak",
+      "Genetik farklılıkları vurgulamak",
+      "Ekonomik statü belirlemek"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Toplum içindeki kimliklerini ve aidiyet duygularını güçlendirmek.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-410",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Antropolojik Yaklaşımlar ve Kültürel Psikoloji",
+    "soru": "Kültürel psikolojiye göre, farklı kültürel yapıların bireylerin ruh halini etkilemesi nedenönemlidir?",
+    "siklar": [
+      "Genetik özelliklerin aktarımı için",
+      "Fiziksel çevreyi etkilemek için",
+      "Bireylerin düşünce, duygu ve davranışlarını derinden şekillendirmek için",
+      "Sadece ekonomik statüleri sınıflandırmak için",
+      "Fiziksel özellikleri göz önünde bulundurarak sınıflandırmak için"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Bireylerin düşünce, duygu ve davranışlarını derinden şekillendirmek için.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-501",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Ekonomi ve Psikoloji",
+    "soru": "Davranışsal ekonomi, hangi temel varsayımı sorgular?",
+    "siklar": [
+      "İnsanların sezgisel ve duygusal tepkilerle hareket ettiği",
+      "İnsanların her zaman rasyonel kararlar aldığı",
+      "İnsanların tüm mevcut bilgiyi analiz edemediği",
+      "Ekonomik davranışların sosyal etkilerle yönlendiği",
+      "Ekonomik kararların bireysel çıkarları maksimize ettiği"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: İnsanların her zaman rasyonel kararlar aldığı.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-502",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Ekonomi ve Psikoloji",
+    "soru": "Beklenti Teorisi’ne göre insanlar, risk ve belirsizlik altında hangi eğilimi gösterir?",
+    "siklar": [
+      "Yüksek riskleri tercih ederler",
+      "Kesin kazancı tercih ederler",
+      "Her zaman mantıklı davranırlar",
+      "Yalnızca kendi çıkarlarını düşünürler",
+      "Bilinçli olarak risk almaktan kaçınmazlar"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Kesin kazancı tercih ederler.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-503",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Ekonomi ve Psikoloji",
+    "soru": "“Kayıptan kaçınma” terimi, insanların ekonomik kararlarında hangi eğilimi ifade eder?",
+    "siklar": [
+      "Risk almakta tereddüt etmeleri",
+      "Kazanç beklentisini en üst seviyeye çıkarmaları",
+      "Kazanma ihtimalini yüksek görmeleri",
+      "Duygusal kararlar almaktan kaçınmaları",
+      "Kayıpları önlemek adına daha muhafazakâr davranmaları"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Kayıpları önlemek adına daha muhafazakâr davranmaları.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-504",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Ekonomi ve Psikoloji",
+    "soru": "Çerçeveleme etkisi (framing effect) hangi durumu ifade eder?",
+    "siklar": [
+      "Bilginin sunum şekline göre kararların değişmesi",
+      "Bireylerin ekonomik bilgiyi tam olarak analiz edememesi",
+      "Bireylerin kendi çıkarlarına göre karar alması",
+      "Yalnızca riskli durumlarda karar almaktan kaçınma",
+      "Bireylerin mantıklı düşünceye dayalı karar vermesi"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Bilginin sunum şekline göre kararların değişmesi.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-505",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Ekonomi ve Psikoloji",
+    "soru": "Hangi kısayol, insanların geçmiş performansa dayanarak gelecekteki başarıyı öngörme eğilimlerini gösterir?",
+    "siklar": [
+      "Çerçeveleme etkisi",
+      "Bulunabilirlik kısayolu",
+      "Temsililik kısayolu",
+      "Statüko yanlılığı",
+      "Aşırı güven yanlılığı"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Temsililik kısayolu.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-506",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Ekonomi ve Psikoloji",
+    "soru": "Thaler’ın“mental accounting” kavramı hangi durumu açıklar?",
+    "siklar": [
+      "Bilinçsiz harcama yapılması",
+      "Tüm paranın tasarruf edilmesi",
+      "Paranın tamamen tüketilmesi",
+      "Paranın eşit olarak dağıtılması",
+      "Paranın belirli kategorilerde harcanması"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Paranın belirli kategorilerde harcanması.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-507",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Ekonomi ve Psikoloji",
+    "soru": "Dürtme teorisi (nudge theory) hangi alanda kullanılır?",
+    "siklar": [
+      "Kişilerin ekonomik kararlarında zorlayıcı değişiklikler yapmada",
+      "Kararların tamamen mantıklı yapılmasını sağlamada",
+      "Küçük müdahalelerle sağlıklı seçimler yapmayı teşvik etmede",
+      "Yüksek riskli durumları azaltmada",
+      "Zihinsel muhasebeyi ortadan kaldırmada"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Küçük müdahalelerle sağlıklı seçimler yapmayı teşvik etmede.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-508",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Ekonomi ve Psikoloji",
+    "soru": "“Aşırı güven yanlılığı” hangi durumu ifade eder?",
+    "siklar": [
+      "Bireylerin başkalarının kararlarına güvenmesi",
+      "Bireylerin tüm ekonomik bilgileri analiz etmesi",
+      "Bireylerin düşük riskli durumlara yönelmesi",
+      "Bireylerin kendi bilgi ve yeteneklerini fazla değerlendirmesi",
+      "Bireylerin duygusal tepkilerden kaçınması"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Bireylerin kendi bilgi ve yeteneklerini fazla değerlendirmesi.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-509",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Ekonomi ve Psikoloji",
+    "soru": "Davranışsal ekonomiye göre“statüko yanlılığı” hangi eğilimi ifade eder?",
+    "siklar": [
+      "Sürekli olarak değişiklik yapma eğilimi",
+      "Risk almaktan kaçınma",
+      "Sezgisel düşünceden kaçınma",
+      "Yeni seçenekler yerine mevcut durumu koruma",
+      "Mantıklı kararlar almada güçlük çekme"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Yeni seçenekler yerine mevcut durumu koruma.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-510",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Ekonomi ve Psikoloji",
+    "soru": "Davranışsal ekonomiye göre“sosyal karşılaştırma” hangi durumu açıklar?",
+    "siklar": [
+      "Bireylerin yalnızca kendi çıkarlarını düşünmesi",
+      "Bireylerin ekonomik durumlarını başkalarıyla kıyaslayarak değerlendirmesi",
+      "Bireylerin kendi ekonomik kararlarını sorgulaması",
+      "Bireylerin çevreye olan duyarlılıklarını artırması",
+      "Bireylerin ekonomik kararlarında duygusal tepkilerini kontrol etmesi"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Bireylerin ekonomik durumlarını başkalarıyla kıyaslayarak değerlendirmesi.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-601",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Sanat ve Estetik Psikolojisi",
+    "soru": "Sanat, bireylerin zihinsel ve duygusal dünyasını nasıl etkiler?",
+    "siklar": [
+      "Sadece yaratıcı süreçle",
+      "Hem yaratıcı hem de estetik deneyimle",
+      "Zihinsel süreçlerle",
+      "Yalnızca estetik deneyimle",
+      "Sadece psikolojik terapiyle"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Hem yaratıcı hem de estetik deneyimle.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-602",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Sanat ve Estetik Psikolojisi",
+    "soru": "Carl Jung’a göre sanatçının yaratıcı süreci nedir?",
+    "siklar": [
+      "Kendini ifade etme çabası",
+      "İçsel çatışmalarla yüzleşme",
+      "Duygusal dünyayla iletişim",
+      "Günlük hayatta duygu düzenleme yöntemi",
+      "Ruhun derinliklerine yapılan bir yolculuk"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Ruhun derinliklerine yapılan bir yolculuk.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-603",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Sanat ve Estetik Psikolojisi",
+    "soru": "Akış (flow) deneyimi, hangi psikoloğun teorisine aittir?",
+    "siklar": [
+      "Carl Jung",
+      "Sigmund Freud",
+      "Abraham Maslow",
+      "Mihaly Csikszentmihalyi",
+      "Alfred Adler"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Mihaly Csikszentmihalyi.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-604",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Sanat ve Estetik Psikolojisi",
+    "soru": "Estetik deneyim nedir?",
+    "siklar": [
+      "Yalnızca sanatçılar için bir ifade biçimi",
+      "Sanat eserinin yaratıcı süreçte kullanılması",
+      "Günlük hayattan kaçma yöntemi",
+      "İçsel çatışmaları çözme yolu",
+      "İzleyicilerin duygusal tepki yaşaması"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: İzleyicilerin duygusal tepki yaşaması.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-605",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Sanat ve Estetik Psikolojisi",
+    "soru": "Sanat terapisi, hangi durumdaözellikle etkili bir araç olarak görülür?",
+    "siklar": [
+      "Bireylerin günlük streslerini yönetmelerinde",
+      "Sadece sanatsal yeteneği olan bireylerde",
+      "Travma, kaygı ve depresyon durumlarında",
+      "Çocukların eğitim sürecinde",
+      "Yaratıcı düşünmeyi geliştirmek için"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Travma, kaygı ve depresyon durumlarında.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-606",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Sanat ve Estetik Psikolojisi",
+    "soru": "Sanatın empati geliştirmede en etkili araçlarından biri hangisidir?",
+    "siklar": [
+      "Sinema",
+      "Müzik",
+      "Heykel",
+      "Mimari",
+      "Resim"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Sinema.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-607",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Sanat ve Estetik Psikolojisi",
+    "soru": "Sanatın kimlik gelişimiüzerindeki etkisinin en belirginörneği hangisidir?",
+    "siklar": [
+      "Sadece bireysel kimlik üzerinde etkili olması",
+      "Kişisel kimliğin yalnızca sanatçılar tarafından keşfedilmesi",
+      "Frida Kahlo’nun otoportreleri ve Meksika kültürüne bağlılığı",
+      "Sanat eserlerinde toplumun beklentilerine uyulması",
+      "Toplumsal kimliğin sadece resimle ifade edilmesi"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Frida Kahlo’nun otoportreleri ve Meksika kültürüne bağlılığı.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-608",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Sanat ve Estetik Psikolojisi",
+    "soru": "“Düşünen Adam” heykeli, izleyiciye hangi duyguyu hissettirir?",
+    "siklar": [
+      "Duygusal kopukluk",
+      "Kendi içsel dünyasıyla yüzleşme",
+      "Günlük streslerden uzaklaşma",
+      "Toplumsal aidiyet",
+      "Sadece estetik haz"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Kendi içsel dünyasıyla yüzleşme.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-609",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Sanat ve Estetik Psikolojisi",
+    "soru": "Toplumsal protesto ve eleştiri için kullanılan sanat dalı örneği hangisidir?",
+    "siklar": [
+      "Vincent van Gogh’un tabloları",
+      "Johann Sebastian Bach’ın müziği",
+      "Gaudí’nin mimari eserleri",
+      "Diego Rivera’nın duvar resimleri",
+      "Michelangelo’nun heykelleri"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Diego Rivera’nın duvar resimleri.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-610",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Sanat ve Estetik Psikolojisi",
+    "soru": "Sanatın psikolojik sağlığa katkılarından biri hangisidir?",
+    "siklar": [
+      "Bireylerin travmalarla sağlıklı bir şekilde başa çıkmalarına yardımcı olması",
+      "Yalnızca estetik bir zevk vermesi",
+      "Bireylerin kimliklerini keşfetmelerini sağlaması",
+      "Zihinsel esnekliği artırması",
+      "Empati yeteneğini geliştirmesi"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Bireylerin travmalarla sağlıklı bir şekilde başa çıkmalarına yardımcı olması.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-701",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Tarihsel Perspektifleri",
+    "soru": "Psikoloji, tarihsel olayları nasıl ele alır?",
+    "siklar": [
+      "Sadece bireysel davranışları inceleyerek",
+      "Sadece travmalarla ilgilenerek",
+      "Yalnızca bireylerin zihinsel süreçleri üzerinde çalışarak",
+      "Sadece biyolojik etkileri değerlendirerek",
+      "Toplumların ortak deneyimlerinin etkilerini analiz ederek"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Toplumların ortak deneyimlerinin etkilerini analiz ederek.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-702",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Tarihsel Perspektifleri",
+    "soru": "Travma sonrası stres bozukluğu (TSSB) nedir?",
+    "siklar": [
+      "Travmatik olaylara tanık olan veya etkisini dolaylı olarak yaşayan bireylerde görülen uzun vadeli stres tepkisi",
+      "Yalnızca bireysel stresle başa çıkma zorluğu",
+      "Sadece savaş gibi geniş çaplı olaylar yaşayan toplumlarda görülen bir rahatsızlık",
+      "Sadece travma yaşayan bireylerin etkilendiği geçici bir durum",
+      "Sadece çocuklarda görülen bir bozukluk"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Travmatik olaylara tanık olan veya etkisini dolaylı olarak yaşayan bireylerde görülen uzun vadeli stres tepkisi.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-703",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Tarihsel Perspektifleri",
+    "soru": "Maurice Halbwachs’ın kolektif bellek kavramı nedir?",
+    "siklar": [
+      "Bireylerin kişisel anılarının toplamı",
+      "Yalnızca travmatik olayları kapsayan bir bellek türü",
+      "Toplumların ortak hafızasını oluşturan, geçmişe dair paylaşılan anılar ve anlatılar",
+      "Sadece biyolojik düzeyde etkili olan bir hafıza sistemi",
+      "Bireylerin aile geçmişlerine dair hafızası"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Toplumların ortak hafızasını oluşturan, geçmişe dair paylaşılan anılar ve anlatılar.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-704",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Tarihsel Perspektifleri",
+    "soru": "Toplumsal travmaların biyolojik olarak nesilden nesile aktarılabileceğiniöne süren alan hangisidir?",
+    "siklar": [
+      "Psikoloji",
+      "Epigenetik",
+      "Sosyoloji",
+      "Nörobilim",
+      "Antropoloji"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Epigenetik.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-705",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Tarihsel Perspektifleri",
+    "soru": "Holokost’un kolektif bellekte kalıcı hale gelmesinde hangi anma araçları etkili olmuştur?",
+    "siklar": [
+      "Sadece savaş sonrası hatırlama süreçleri",
+      "Yalnızca bireylerin hafızası",
+      "Psikolojik destek programları",
+      "Sadece medyadaki anlatılar",
+      "Müzeler, anıtlar ve eğitim programları"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Müzeler, anıtlar ve eğitim programları.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-706",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Tarihsel Perspektifleri",
+    "soru": "Tarihsel travmaların günümüz ruh haline olan etkilerinden biri nedir?",
+    "siklar": [
+      "Sadece savaş deneyimleri yaşayan bireylerde görülmesi",
+      "Önyargı ve sosyal kategorilerin oluşumuna katkı sağlaması",
+      "Yalnızca bireylerin kişisel gelişimlerini etkilemesi",
+      "Psikolojik sorunların tamamen ortadan kalkması",
+      "Travmatik olayların sadece geçmişe dair kalması"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Önyargı ve sosyal kategorilerin oluşumuna katkı sağlaması.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-707",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Tarihsel Perspektifleri",
+    "soru": "Toplumların geçmişle yüzleşme sürecineörnek olarak hangi ülkenin politikası verilebilir?",
+    "siklar": [
+      "Almanya’nın Holokost ile yüzleşme süreci",
+      "Fransa’nın Devrim süreci",
+      "Türkiye’nin Osmanlı İmparatorluğu’nun son dönemini anma politikası",
+      "Rusya’nın Sovyet dönemine yönelik yüzleşme süreci",
+      "İngiltere’nin sömürgecilik dönemine dair politikaları"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Almanya’nın Holokost ile yüzleşme süreci.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-708",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Tarihsel Perspektifleri",
+    "soru": "Toplumsal travmalarla başa çıkmada anma etkinliklerinin amacı nedir?",
+    "siklar": [
+      "Sadece acıların unutulmasını sağlamak",
+      "Bireylerin travmayı yeniden yaşamalarını sağlamak",
+      "Toplumun yeni travmalar yaşamasını teşvik etmek",
+      "Toplumun ortak acıları paylaşarak dayanışma duygusunu pekiştirmesi",
+      "Kolektif belleğin silinmesine yardımcı olmak"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Toplumun ortak acıları paylaşarak dayanışma duygusunu pekiştirmesi.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-709",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Tarihsel Perspektifleri",
+    "soru": "Tarihsel travmalarla başa çıkma sürecinde eğitim programlarının rolü nedir?",
+    "siklar": [
+      "Travmayı bireylerden gizlemek",
+      "Yalnızca genç nesilleri eğitmek",
+      "Geçmişte yaşanan acılardan ders çıkarılmasını sağlamak",
+      "Geçmişi tamamen unutturmak",
+      "Bireylerin geçmişle ilgisini kesmek"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Geçmişte yaşanan acılardan ders çıkarılmasını sağlamak.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-710",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Tarihsel Perspektifleri",
+    "soru": "Toplumsal iyileşme sürecinde psikososyal destek programlarının etkisi nedir?",
+    "siklar": [
+      "Travmatik olayları unutmayı sağlamak",
+      "Toplumun travmaları hafızasında tutmasını sağlamak",
+      "Yalnızca bireysel gelişimi desteklemek",
+      "Bireylerin travmatik deneyimlerle sağlıklı bir şekilde başa çıkmasına yardımcı olmak",
+      "Kolektif belleği yok etmek"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Bireylerin travmatik deneyimlerle sağlıklı bir şekilde başa çıkmasına yardımcı olmak.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-801",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Dil, Zihin ve Anlam",
+    "soru": "Dil, bireylerin zihinsel yapılarını nasıl etkiler?",
+    "siklar": [
+      "Düşünceleri sınırlandırarak şekillendirir",
+      "Sadece iletişim için kullanılır",
+      "Kavramlar ve imgeler aracılığıyla düşünceleri yapılandırır",
+      "Yalnızca toplumsal değerleri aktarır",
+      "Sadece sosyal etkileşimlerde kullanılır"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Kavramlar ve imgeler aracılığıyla düşünceleri yapılandırır.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-802",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Dil, Zihin ve Anlam",
+    "soru": "Noam Chomsky’nin evrensel gramer teorisi hangi düşünceyi savunur?",
+    "siklar": [
+      "Dilin tamamen kültürel bir yapı olduğu",
+      "Dilin doğuştan gelen bir zihinsel yapı olduğu",
+      "Dilin yalnızca iletişim aracı olduğu",
+      "Dilin toplumsal bağlamda şekillendiği",
+      "Dilin düşünceyi sınırladığı"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Dilin doğuştan gelen bir zihinsel yapı olduğu.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-803",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Dil, Zihin ve Anlam",
+    "soru": "Vygotsky’nin sosyokültürel gelişim teorisine göre dilin rolü nedir?",
+    "siklar": [
+      "Bireylerin düşüncelerini bağımsız olarak geliştirmesini sağlar",
+      "Sadece gramer yapılarının öğrenilmesine katkı sağlar",
+      "Toplumsal değerleri ve normları içselleştirme aracıdır",
+      "Duygusal temaların dil aracılığıyla oluşmasını sağlar",
+      "Sadece bireysel bir süreçtir"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Toplumsal değerleri ve normları içselleştirme aracıdır.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-804",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Dil, Zihin ve Anlam",
+    "soru": "Frege’ye göre, dilin düşünce üzerindeki etkisi nedir?",
+    "siklar": [
+      "Dil sadece bir iletişim aracıdır",
+      "Dil, düşüncenin yapılandırılmasına katkı sağlar",
+      "Dil yalnızca somut fikirler oluşturur",
+      "Dil, bireysel hafızanın yansımasıdır",
+      "Dil ve düşünce arasında bir ilişki yoktur"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Dil, düşüncenin yapılandırılmasına katkı sağlar.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-805",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Dil, Zihin ve Anlam",
+    "soru": "Peirce’in göstergebilim teorisine göre anlam nasıl oluşur?",
+    "siklar": [
+      "Sadece bireysel tecrübeler aracılığıyla",
+      "Kelimenin sözlük tanımıyla sınırlı olarak",
+      "Duygusal çağrışımlarla bağımsız olarak",
+      "Sadece toplumsal normlara dayanarak",
+      "Gösteren, gönderilen ve yorumlayıcı arasındaki ilişkiyle"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Gösteren, gönderilen ve yorumlayıcı arasındaki ilişkiyle.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-806",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Dil, Zihin ve Anlam",
+    "soru": "John Searle'ün konuşma edimleri teorisine göre, dilin sosyal rolü nedir?",
+    "siklar": [
+      "Belirli bağlamlarda etkili eylemler aracılığıyla ilişki kurar",
+      "Yalnızca bilgi aktarmakla sınırlıdır",
+      "Dilsel ifadeler tüm sosyal bağlamlardan bağımsızdır",
+      "Bireysel düşünceleri ifade etmekten ibarettir",
+      "Sadece duygusal ifadeleri içerebilir"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Belirli bağlamlarda etkili eylemler aracılığıyla ilişki kurar.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-807",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Dil, Zihin ve Anlam",
+    "soru": "Quine’ın anlambilimsel belirsizlik kavramı neyiöne sürer?",
+    "siklar": [
+      "Anlam, bireylerin yorumlarına göre değişebilir",
+      "Her kelimenin tek bir kesin anlamı vardır",
+      "Dil, düşünceyi mutlak olarak belirler",
+      "Anlam yalnızca gramer yapılarında bulunur",
+      "Dil bireylerin dünyayı algılama biçimini sınırlamaz"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Anlam, bireylerin yorumlarına göre değişebilir.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-808",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Dil, Zihin ve Anlam",
+    "soru": "Wittgenstein’ın dil oyunları teorisi, dilin nasıl kullanıldığını nasıl açıklar?",
+    "siklar": [
+      "Dil her zaman aynı anlamı taşır",
+      "Dil toplumsal bağlamdan bağımsızdır",
+      "Dilin sadece bireyler arasında kullanımı vardır",
+      "Dil, kullanıldığı bağlama göre farklı anlamlar kazanır",
+      "Dil, yalnızca düşünceleri sınırlandırır"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Dil, kullanıldığı bağlama göre farklı anlamlar kazanır.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-809",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Dil, Zihin ve Anlam",
+    "soru": "Vygotsky’ye göre dil, düşünceyi nasıl şekillendirir?",
+    "siklar": [
+      "Sadece bireysel gelişimi etkiler",
+      "Duygusal temaların oluşmasını sağlar",
+      "Yalnızca iletişim amacıyla kullanılır",
+      "Kültürel bağlamda değerlerin içselleştirilmesiyle düşünceyi şekillendirir",
+      "Toplumsal yapılar üzerinde etkili değildir"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Kültürel bağlamda değerlerin içselleştirilmesiyle düşünceyi şekillendirir.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-810",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Dil, Zihin ve Anlam",
+    "soru": "Dil, bireylerin dünyayıalgılama süreçlerinde nasıl bir rol oynar?",
+    "siklar": [
+      "Yalnızca soyut kavramları açıklar",
+      "Düşünceyi sadece bireysel bir düzeyde etkiler",
+      "Kültürel etkilerden bağımsızdır",
+      "Yalnızca mantıksal bir yapı olarak işlev görür",
+      "Düşünceleri somutlaştırarak dünya algısını düzenler"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Düşünceleri somutlaştırarak dünya algısını düzenler.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-901",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Yaşam Boyu Gelişim",
+    "soru": "Gelişimsel psikolojinin temel amacı nedir?",
+    "siklar": [
+      "Bireylerin yalnızca biyolojik gelişimlerini incelemek",
+      "Bireylerin sosyal değişimlerini anlamak",
+      "Bireylerin tüm yaşam evrelerindeki gelişimlerini ve bu süreçlerin etkilerini anlamak",
+      "Bireylerin zihinsel değişimlerini anlamak",
+      "Bireylerin kültürel uyum süreçlerini incelemek"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Bireylerin tüm yaşam evrelerindeki gelişimlerini ve bu süreçlerin etkilerini anlamak.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-902",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Yaşam Boyu Gelişim",
+    "soru": "Piaget’ye göre, çocukların bilişsel gelişim süreci kaç ana evreden oluşur?",
+    "siklar": [
+      "2",
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: 4.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-903",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Yaşam Boyu Gelişim",
+    "soru": "Duyusal-motor evredeki bir çocuğun keşfettiği bilişsel kavram hangisidir?",
+    "siklar": [
+      "Korunum",
+      "Soyut düşünme",
+      "Deneme-yanılma",
+      "Sembolik düşünme",
+      "Nesne sürekliliği"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Nesne sürekliliği.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-904",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Yaşam Boyu Gelişim",
+    "soru": "İşlemöncesi dönemde çocukların zorluk yaşadığı özellik aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Nesnelerin korunumu",
+      "Sembolik oyunlar",
+      "Ahlaki değerler",
+      "Post-formal düşünme",
+      "Benmerkezcilik"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Benmerkezcilik.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-905",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Yaşam Boyu Gelişim",
+    "soru": "Valsiner’in kültürel-historik gelişim yaklaşımı hangi sürecin çocuk gelişimindeönemli olduğunu vurgular?",
+    "siklar": [
+      "Deneme-yanılma",
+      "Biyolojik gelişim",
+      "Fiziksel çevre ile etkileşim",
+      "İçselleştirme",
+      "Post-formal düşünme"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: İçselleştirme.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-906",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Yaşam Boyu Gelişim",
+    "soru": "Erikson’a göre, ergenlik döneminde bireylerin temel gelişimsel görevi nedir?",
+    "siklar": [
+      "Kimlik kazanımı",
+      "Soyut işlemler evresine geçmek",
+      "Toplumsal roller üstlenmek",
+      "Üretkenlik sağlamak",
+      "Post-formal düşünme becerisi geliştirmek"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Kimlik kazanımı.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-907",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Yaşam Boyu Gelişim",
+    "soru": "Ergenlik döneminde bireylerin kimlik kazanımlarında hangi sosyal çevre daha etkili olur?",
+    "siklar": [
+      "Aile",
+      "Arkadaş grupları",
+      "Eğitim kurumları",
+      "Medya",
+      "Kültürel ritüeller"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Arkadaş grupları.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-908",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Yaşam Boyu Gelişim",
+    "soru": "Yetişkinlik döneminde Erikson’ın“yakınlık vs. yalıtım” çatışması hangi gelişimsel görevi ifade eder?",
+    "siklar": [
+      "Kendi kimliğini bulma",
+      "Kariyer hedeflerini belirleme",
+      "Anlamlı ve derin ilişkiler kurma",
+      "Sembolik düşünme geliştirme",
+      "Kültürel değerlere uyum sağlama"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Anlamlı ve derin ilişkiler kurma.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-909",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Yaşam Boyu Gelişim",
+    "soru": "Piaget’ye göre, yetişkinlik döneminde ortaya çıkan post-formal düşünme aşağıdakilerden hangisini sağlar?",
+    "siklar": [
+      "Nesneleri tanıma",
+      "Çelişkili bilgileri sentezleyebilme",
+      "Korunum kavramını anlama",
+      "Soyut düşünme becerisini kazanma",
+      "Nesne sürekliliğini keşfetme"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Çelişkili bilgileri sentezleyebilme.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-910",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Yaşam Boyu Gelişim",
+    "soru": "Yaşlılık döneminde bireylerin geçmişlerini değerlendirip iç huzur bulma süreci hangi Erikson çatışmasına karşılık gelir?",
+    "siklar": [
+      "Benlik bütünlüğü vs. umutsuzluk",
+      "Yakınlık vs. yalıtım",
+      "Üretkenlik vs. durgunluk",
+      "Ahlaki gelişim vs. ahlaki çöküş",
+      "Kimlik kazanımı vs. kimlik karmaşası"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Benlik bütünlüğü vs. umutsuzluk.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1001",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Çevre Psikolojisi ve Ekoloji",
+    "soru": "Çevre psikolojisinin temel amacı nedir?",
+    "siklar": [
+      "Sadece doğanın insanlar üzerindeki etkisini incelemek",
+      "Yapay çevrelerin estetik değerini araştırmak",
+      "Çevresel kirliliğin insan sağlığı üzerindeki etkilerini incelemek",
+      "Şehirleşmenin ekonomik boyutlarını analiz etmek",
+      "Çevresel faktörlerin insan ruh haline etkilerini anlamak"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Çevresel faktörlerin insan ruh haline etkilerini anlamak.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1002",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Çevre Psikolojisi ve Ekoloji",
+    "soru": "Doğada vakit geçirmenin insan ruh hali üzerindeki etkilerini açıklamak için hangi teori kullanılmaktadır?",
+    "siklar": [
+      "Bilişsel Yük Teorisi",
+      "Motivasyon Teorisi",
+      "Dikkat Restorasyon Teorisi",
+      "Sosyal Öğrenme Teorisi",
+      "İnsan Gelişimi Teorisi"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Dikkat Restorasyon Teorisi.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1003",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Çevre Psikolojisi ve Ekoloji",
+    "soru": "Richard Louv, doğadan uzak büyümenin çocuklarda hangi duruma yol açabileceğiniöne sürmüştür?",
+    "siklar": [
+      "Fiziksel gelişim bozuklukları",
+      "Sosyal etkileşim eksikliği",
+      "Yaratıcı düşünce azalması",
+      "Dikkat dağınıklığı, kaygı ve depresyon",
+      "Özgüven kaybı"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Dikkat dağınıklığı, kaygı ve depresyon.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1004",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Çevre Psikolojisi ve Ekoloji",
+    "soru": "Ekopsikolojiye göre doğa ile kurulan güçlü bir bağ hangi sonuçlara yol açar?",
+    "siklar": [
+      "Çevresel sorunlara karşı duyarsızlık",
+      "Yalnızlık duygusunun artması",
+      "Bilişsel performansta azalma",
+      "Ruh sağlığının ve genel iyilik halinin artması",
+      "Toplumsal değerlerden uzaklaşma"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Ruh sağlığının ve genel iyilik halinin artması.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1005",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Çevre Psikolojisi ve Ekoloji",
+    "soru": "Şehirde yaşayan bireylerin doğal çevreye erişim eksikliği hangi duruma neden olabilir?",
+    "siklar": [
+      "Yaratıcılığın artması",
+      "Stres ve sosyal izolasyonun artması",
+      "Bilişsel gelişimin hızlanması",
+      "Fiziksel dayanıklılığın artması",
+      "Öz farkındalık gelişimi"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Stres ve sosyal izolasyonun artması.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1006",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Çevre Psikolojisi ve Ekoloji",
+    "soru": "Biyofilik tasarımın ofis ortamlarında uygulanması hangi faydayı sağlamaktadır?",
+    "siklar": [
+      "İşyerinde sosyal izolasyonu artırmak",
+      "Çalışanların motivasyonunu düşürmek",
+      "Çalışanların verimliliğini artırmak",
+      "Yalnızlık hissini artırmak",
+      "Üretkenliği azaltmak"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Çalışanların verimliliğini artırmak.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1007",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Çevre Psikolojisi ve Ekoloji",
+    "soru": "Ulrich’e göre, yapay çevrelerin bireyler üzerindeki etkisi nasıldır?",
+    "siklar": [
+      "Stresi azaltır",
+      "Ruh halini olumsuz etkiler",
+      "Bilişsel işlevleri artırır",
+      "Fiziksel sağlığı iyileştirir",
+      "Sosyal bağları güçlendirir"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Ruh halini olumsuz etkiler.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1008",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Çevre Psikolojisi ve Ekoloji",
+    "soru": "“Orman banyosu” terimi hangi ülke ile ilişkilidir?",
+    "siklar": [
+      "Çin",
+      "Almanya",
+      "Kanada",
+      "İsveç",
+      "Japonya"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Japonya.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1009",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Çevre Psikolojisi ve Ekoloji",
+    "soru": "Topluluk bahçeleri, bireyler üzerinde hangi etkileri sağlamaktadır?",
+    "siklar": [
+      "Stres azaltma ve aidiyet duygusu sağlama",
+      "Sosyal bağları zayıflatma",
+      "İzolasyon hissini artırma",
+      "Bireysel yaratıcılığı azaltma",
+      "Fiziksel aktiviteyi kısıtlama"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Stres azaltma ve aidiyet duygusu sağlama.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1010",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Çevre Psikolojisi ve Ekoloji",
+    "soru": "Gürültü kirliliğiözellikle çocuklarda hangi olumsuz etkiye yol açabilir?",
+    "siklar": [
+      "Dikkat süresinin azalması",
+      "Fiziksel büyümenin hızlanması",
+      "Uyku kalitesinin artması",
+      "Sosyal etkileşimlerin artması",
+      "Yaratıcı düşüncenin gelişmesi"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Dikkat süresinin azalması.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1101",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikoloji ve Teknoloji",
+    "soru": "Dijital çağda bireylerin sosyal kimliklerini veöz değerlerini en çok etkileyen faktör nedir?",
+    "siklar": [
+      "Yüz yüze iletişim",
+      "Çevrimiçi görünür olma isteği",
+      "Dijital cihaz kullanımı",
+      "Geleneksel medya",
+      "Fiziksel etkinlikler"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Çevrimiçi görünür olma isteği.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1102",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikoloji ve Teknoloji",
+    "soru": "Dijital çağın genç nesiller üzerindeki etkilerinden biri nedir?",
+    "siklar": [
+      "Çevrimdışı sosyal bağların güçlenmesi",
+      "Gerçek benliğin ön plana çıkması",
+      "Yüz yüze etkileşimlerin artması",
+      "Çevrimiçi kimliğin günlük yaşamda daha önemli hale gelmesi",
+      "Dijital bağımlılığın azalması"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Çevrimiçi kimliğin günlük yaşamda daha önemli hale gelmesi.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1103",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikoloji ve Teknoloji",
+    "soru": "Sosyal medya kullanımının artmasıyla birlikte bireylerde hangi psikolojik sorunlar gözlemlenmektedir?",
+    "siklar": [
+      "Kaygı ve depresyon belirtilerinde artış",
+      "Düşük kaygı seviyesi",
+      "Artan özgüven",
+      "Sosyal becerilerde gelişim",
+      "Duygusal stabilite"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Kaygı ve depresyon belirtilerinde artış.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1104",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikoloji ve Teknoloji",
+    "soru": "Dijital ortamda sürekli başkalarının onayını arama, bireylerde hangi duruma yol açabilir?",
+    "siklar": [
+      "Öz saygıda dalgalanma ve yetersizlik hissi",
+      "Öz değer algısında artış",
+      "Psikolojik sağlamlığın güçlenmesi",
+      "Yalnızlık duygusunun azalması",
+      "Duygusal dayanıklılık"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Öz saygıda dalgalanma ve yetersizlik hissi.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1105",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikoloji ve Teknoloji",
+    "soru": "Dijital cihazların çocukların empati gelişimi üzerindeki etkisi nasıl olabilir?",
+    "siklar": [
+      "Empati becerisini güçlendirir",
+      "Fiziksel becerileri artırır",
+      "İnsan-insan etkileşimi eksikliği nedeniyle olumsuz etkiler",
+      "Akademik performansı geliştirir",
+      "Empati gelişimini hızlandırır"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: İnsan-insan etkileşimi eksikliği nedeniyle olumsuz etkiler.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1106",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikoloji ve Teknoloji",
+    "soru": "Yapay Zeka ile etkileşimlerin bireylerin kimlik gelişimine etkisi nedir?",
+    "siklar": [
+      "Kendilik algısını güçlendirir",
+      "Duygusal bağ kurmayı kolaylaştırır",
+      "Dış etkilere bağımlılığı artırabilir",
+      "Yüz yüze iletişimi teşvik eder",
+      "Eleştirel düşünmeyi destekler"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Dış etkilere bağımlılığı artırabilir.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1107",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikoloji ve Teknoloji",
+    "soru": "Dijital etkileşimlerin sosyal yapılar üzerindeki etkisi nasıl açıklanabilir?",
+    "siklar": [
+      "Fiziksel mesafeyi artırır",
+      "Toplumsal normları güçlendirir",
+      "Geleneksel aile bağlarını kuvvetlendirir",
+      "Dijital kimliği önemini azaltır",
+      "Geleneksel toplumsal bağlılıkları zayıflatabilir"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Geleneksel toplumsal bağlılıkları zayıflatabilir.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1108",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikoloji ve Teknoloji",
+    "soru": "Sosyal medya bağımlılığının bir sonucu nedir?",
+    "siklar": [
+      "Sosyal tatminsizlik hissinin azalması",
+      "Duygusal tatminsizlik hissinin artması",
+      "Duygusal denge sağlama becerisinin artması",
+      "Özgüven seviyesinin yükselmesi",
+      "Yalnızlık hissinin azalması"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Duygusal tatminsizlik hissinin artması.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1109",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikoloji ve Teknoloji",
+    "soru": "Dijital cihazların aşırı kullanımının uyku üzerindeki etkisi nedir?",
+    "siklar": [
+      "Uyku düzenini iyileştirir",
+      "Uyku süresini artırır",
+      "Uykusuzluğu giderir",
+      "Duygusal iyiliği artırır",
+      "Uyku bozukluklarına yol açar"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Uyku bozukluklarına yol açar.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1110",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikoloji ve Teknoloji",
+    "soru": "Dijital sağlığı korumak içinönerilen stratejilerden biri nedir?",
+    "siklar": [
+      "Ekran süresini artırma",
+      "Bildirimleri sürekli açık tutma",
+      "Teknolojiye sürekli erişim sağlama",
+      "Dijital detoks yapma",
+      "Çevrimiçi ortamda daha fazla zaman geçirme"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Dijital detoks yapma.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1201",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Geleceği",
+    "soru": "Psikolojinin diğer disiplinlerle entegre olmasının enönemli yararı nedir?",
+    "siklar": [
+      "Psikolojiye daha geniş bir perspektif kazandırması",
+      "Klasik teorilerin güncellenmesi",
+      "Sadece biyolojik çalışmalara katkı sağlaması",
+      "Geleneksel tedavi yöntemlerini sınırlaması",
+      "Sosyoloji ile iç içe geçmesi"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Psikolojiye daha geniş bir perspektif kazandırması.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1202",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Geleceği",
+    "soru": "Psikolojinin biyolojiyle entegrasyonunun sağladığı enönemli katkılardan biri nedir?",
+    "siklar": [
+      "Sosyal davranışların biyolojik temelde incelenmesi",
+      "Nörobilim alanında yapılan yeni araştırmalar",
+      "Kültürel analizlerin daha doğru yapılabilmesi",
+      "Ekonomik analizlerin psikolojiye uygulanabilmesi",
+      "Sanal gerçeklik tedavilerine katkıda bulunması"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Nörobilim alanında yapılan yeni araştırmalar.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1203",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Geleceği",
+    "soru": "Sosyal medya kullanımının gençler üzerinde hangi olumsuz etkisi sıklıkla gözlemlenmektedir?",
+    "siklar": [
+      "Sosyal becerilerin güçlenmesi",
+      "Bireysel öz güvenin artması",
+      "Aile içi iletişimde azalma",
+      "Akademik performansın yükselmesi",
+      "Giderek artan kaygı düzeyi"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Giderek artan kaygı düzeyi.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1204",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Geleceği",
+    "soru": "Sanal gerçeklik (VR) terapilerinin kullanımı hangi tür rahatsızlıklar içinözellikle yararlı olmaktadır?",
+    "siklar": [
+      "Hafıza kaybı",
+      "Beslenme bozuklukları",
+      "Fiziksel hastalıklar",
+      "Kaygı ve fobi temelli sorunlar",
+      "Genetik bozukluklar"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Kaygı ve fobi temelli sorunlar.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1205",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Geleceği",
+    "soru": "Psikolojinin sosyolojiyle entegrasyonu, bireylerin hangi yönünü anlamayı kolaylaştırır?",
+    "siklar": [
+      "Biyolojik yatkınlıklarını",
+      "Kişisel gelişimlerini",
+      "Kültürel bağlamdaki davranışlarını",
+      "Genetik özelliklerini",
+      "Kimlik oluşum süreçlerini"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Kültürel bağlamdaki davranışlarını.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1206",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Geleceği",
+    "soru": "Yapay Zeka teknolojileri hangi alanlarda psikolojik değerlendirmeyi geliştirmektedir?",
+    "siklar": [
+      "Yalnızca sanal ortamda",
+      "Genetik yatkınlıkları analiz ederek",
+      "Ruhsal sağlık durumlarının erken teşhisinde",
+      "Fiziksel sağlığı izleyerek",
+      "Sadece sosyokültürel analizlerde"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Fiziksel sağlığı izleyerek.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1207",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Geleceği",
+    "soru": "Psikologların teleterapi yöntemleriyle sağladıkları enönemli avantaj nedir?",
+    "siklar": [
+      "Danışanlara daha geniş bir coğrafi erişim sağlanması",
+      "Tüm biyolojik verilerin analiz edilmesi",
+      "Genetik testlerin uygulanması",
+      "Bireylerin sosyokültürel yapılarına göre analiz yapılması",
+      "Sadece fobileri ele alması"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Danışanlara daha geniş bir coğrafi erişim sağlanması.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1208",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Geleceği",
+    "soru": "Sanal gerçeklik (VR) hangi koşulda bireylerin zihinsel sağlığınıgeliştirebilir?",
+    "siklar": [
+      "Sanal asistanlarla oyun oynarken",
+      "Çevrimdışı aktivitelerde kullanıldığında",
+      "Güvenli bir ortamda korkularla yüzleşmeleri sağlanarak",
+      "Biyometrik analizlerde",
+      "Sadece teknolojik eğitimlerde"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Sadece teknolojik eğitimlerde.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1209",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Geleceği",
+    "soru": "Psikologların toplumda üstlendiği yeni rollerden biri nedir?",
+    "siklar": [
+      "Sadece bireysel terapiler sunmak",
+      "Sadece ruhsal sağlık üzerine çalışmak",
+      "Kriz anında toplumsal destek sağlamak",
+      "Ekonomik verimlilik arttırma projelerine destek vermek",
+      "Sosyal medya bağımlılığını azaltmak"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Kriz anında toplumsal destek sağlamak.",
+    "dersAdi": "Psikolojiye Giriş II"
+  },
+  {
+    "id": "psikogiris2-1210",
+    "ders": "psikolojiye-giris-2",
+    "konu": "Psikolojinin Geleceği",
+    "soru": "Dijitalleşme süreci psikolojiye nasıl bir katkı sunmaktadır?",
+    "siklar": [
+      "Kişisel tedavi süreçlerini karmaşıklaştırarak",
+      "Ruh sağlığı hizmetlerinin erişilebilirliğini artırarak",
+      "Fiziksel sağlık takibine yoğunlaşarak",
+      "Dijital terapi yöntemlerinin yaygınlaşmasını sağlayarak",
+      "Yalnızca biyolojik araştırmaları sınırlandırarak"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Ruh sağlığı hizmetlerinin erişilebilirliğini artırarak.",
+    "dersAdi": "Psikolojiye Giriş II"
+  }
+]

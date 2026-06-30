@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "klasiktr-101",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Düşüncenin Anlamı ve Toplumsal Düşünce",
+    "soru": "Psikolojik ihtiyaçların giderilmesinde öne çıkan değer sistemi aşağıdakilerden hangisidir?",
+    "siklar": [
+      "İnanç",
+      "Tarih",
+      "Bilim",
+      "Siyaset",
+      "İktisat"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: İnanç.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-102",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Düşüncenin Anlamı ve Toplumsal Düşünce",
+    "soru": "Aşağıdakilerden hangisi ihtiyaçların giderilmesinde belirleyicidir?",
+    "siklar": [
+      "Bilim",
+      "İktisat",
+      "Zanaat",
+      "Çarşı",
+      "Toplum"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: İktisat.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-103",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Düşüncenin Anlamı ve Toplumsal Düşünce",
+    "soru": "Aşağıdakilerden hangisi devleti ortaya çıkaran üçlüdür?",
+    "siklar": [
+      "Kabile- düşman- arazi",
+      "Okul- asker- silah",
+      "İktisat- hukuk- ordu",
+      "Ordu- okul- aile",
+      "Aile- iktisat- din"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: İktisat- hukuk- ordu.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-104",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Düşüncenin Anlamı ve Toplumsal Düşünce",
+    "soru": "Toplumların kimliğinin tanımlanmasında aşağıdakilerden hangisi öne çıkmaktadır?",
+    "siklar": [
+      "Kişi olmak",
+      "İktisat",
+      "Siyaset",
+      "Tarih",
+      "Düşman"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Tarih.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-105",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Düşüncenin Anlamı ve Toplumsal Düşünce",
+    "soru": "Aşağıdakilerden hangisi ozanı tanımlamaktadır?",
+    "siklar": [
+      "Şiir",
+      "İsyan",
+      "Sanat",
+      "İşsizlik",
+      "Toplumun sesi"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Toplumun sesi.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-106",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Düşüncenin Anlamı ve Toplumsal Düşünce",
+    "soru": "Aşağıdakilerden hangisi kişilerin topluma karşı sorumluluklarını iyi şekilde yerine getirdiklerini göstermektedir?",
+    "siklar": [
+      "Sorun çözme becerilerini geliştirmek",
+      "Evlenmek",
+      "İşe girmek",
+      "Okula gitmek",
+      "Çiftçi olmak"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Sorun çözme becerilerini geliştirmek.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-107",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Düşüncenin Anlamı ve Toplumsal Düşünce",
+    "soru": "Olağan bir şeye müdahale ederek onu olması istenen şekle dönüştürme tekniğine ne ad verilmektedir?",
+    "siklar": [
+      "Sihir",
+      "Büyü",
+      "Üretim",
+      "Yaratıcılık",
+      "Zanaat"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Büyü.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-108",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Düşüncenin Anlamı ve Toplumsal Düşünce",
+    "soru": "Temel ihtiyaçları karşılamak için araç-gereçleri üreten kişilere ne ad verilmektedir?",
+    "siklar": [
+      "Usta",
+      "Teknik elaman",
+      "Zanaatkar",
+      "Çırak",
+      "Tamirci"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Zanaatkar.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-109",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Düşüncenin Anlamı ve Toplumsal Düşünce",
+    "soru": "Dini konuların yanında gündelik olayları, siyasi konuları, halkın yaşadığı sıkıntıları sanatla yorumlayarak aktaran kişinin mesleki adı nedir?",
+    "siklar": [
+      "Ozan",
+      "Ressam",
+      "Heykeltıraş",
+      "Mimar",
+      "Tiyatrocu"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Ozan.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-110",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Düşüncenin Anlamı ve Toplumsal Düşünce",
+    "soru": "Alana ilişkin değerler ile eylemlerin nasıl gerçekleştirileceğini öğreten ve ilgili bilgilerin uygulamasını gösteren unsur aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Okul",
+      "Aile",
+      "Görenek",
+      "Taklit",
+      "Gelenek"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Gelenek.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-201",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Türk Düşüncesinin Sorunları",
+    "soru": "Türklerin toplumsal varoluşlarının sürekliliğini belirleyen en temel unsur aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Devlet",
+      "Türkçe",
+      "Ölüm kültü",
+      "Coğrafya",
+      "Gelenekler"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Türkçe.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-202",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Türk Düşüncesinin Sorunları",
+    "soru": "Geleneği aşağıdakilerden hangisi açıklamaktadır?",
+    "siklar": [
+      "Belli bir sorunu çözme yöntemidir",
+      "Yaşlılık belirtisidir.",
+      "Düşünmeme tarzıdır.",
+      "Meydan okumadır.",
+      "Görgüleri artırmaktadır."
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Belli bir sorunu çözme yöntemidir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-203",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Türk Düşüncesinin Sorunları",
+    "soru": "Aşağıdakilerden hangisi tarihsel kimlik açısından varoluşsal bir değere sahiptir?",
+    "siklar": [
+      "Meydan savaşları",
+      "Kültürel savaşlar",
+      "Deniz savaşları",
+      "Siber saldırılar",
+      "Kültürel alış verişler"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Kültürel savaşlar.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-204",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Türk Düşüncesinin Sorunları",
+    "soru": "Aşağıdakilerden hangisi savaşı Türkler için en önemli değer sistemlerinden biri haline getirmiştir?",
+    "siklar": [
+      "Ganimet tutkusu",
+      "Hayvancılığın gereklilikleri",
+      "Toplumsal varoluşun sürekliliği",
+      "Askeri imkanlar",
+      "Toplumun hobilerinden biri olması"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Toplumsal varoluşun sürekliliği.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-205",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Türk Düşüncesinin Sorunları",
+    "soru": "Aşağıdakilerden hangisi Türk düşünce tarihini araştırmanın önündeki engeller arasındadır?",
+    "siklar": [
+      "Toplumdaki ekonomik sorunlar",
+      "Türklerin Avrasya’nın her yerine yayılmaları",
+      "Çok sayıda medeniyeti tanıyıp onların kaynaklarını incelemek",
+      "Bilim insanlarındaki merakın yetersizliği",
+      "Eski medeniyetlerin dillerinin bilinmemesi"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Çok sayıda medeniyeti tanıyıp onların kaynaklarını incelemek.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-206",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Türk Düşüncesinin Sorunları",
+    "soru": "Kültürel unsurların sürekliliğini sağlayan unsur aşağıdakilerden hangisidir?",
+    "siklar": [
+      "İktisadi değerler",
+      "Güvenlik",
+      "Gelenek",
+      "Eskilik",
+      "İşlevsellik"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: İşlevsellik.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-207",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Türk Düşüncesinin Sorunları",
+    "soru": "Kültürler arası ilişkilerde kültürel unsurların sentezlenmesi neden önemlidir?",
+    "siklar": [
+      "Ticareti artırmaktadır",
+      "Komşuların egemenlik altına alınması kolaylaşmaktadır",
+      "Düşünce üretimini kolaylaştırmaktadır",
+      "Eksiklikleri gidermektedir",
+      "Kültürü güçlendirmekte ve varoluşunu güvenceye almaktadır"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Kültürü güçlendirmekte ve varoluşunu güvenceye almaktadır.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-208",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Türk Düşüncesinin Sorunları",
+    "soru": "Değerler önemli kılan unsurlar aşağıdakilerden hangisidir?",
+    "siklar": [
+      "İhtiyaçları karşılamaları",
+      "Düşünce ve eylemleri anlamlandırma",
+      "Geleneksel oluşları",
+      "Kurumların oluşmasını sağlamaktadır",
+      "Değişmemeleri"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Düşünce ve eylemleri anlamlandırma.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-209",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Türk Düşüncesinin Sorunları",
+    "soru": "Aşağıdakilerden hangisi kuramsal düşünce açısından ölüm kavramının anlamını açıklamaktadır?",
+    "siklar": [
+      "Sonluluk",
+      "Sevdiklerinden ayrılmak",
+      "Dünyada yaşanılan en kötü şey",
+      "İnsanın bilinçli davranma nedeni",
+      "İnsanın dünyada varoluş şartlarını anlamaD"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: İnsanın dünyada varoluş şartlarını anlamaD.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-210",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Türk Düşüncesinin Sorunları",
+    "soru": "Aşağıdakilerden hangisi savaş kavramına silahlı çatışma dışında bir anlam yüklemektedir?",
+    "siklar": [
+      "Kişilerin becerilerini geliştirmeleri aralarındaki diyalektik çatışmalarla mümkündür",
+      "Her çatışma karşılıklı zarar vermedir",
+      "Devletler arası savaşlar barış amaçlı yapılır",
+      "Siber savaşlarda insanlar ölmemektedir",
+      "Güvenlik duygusu her türden saldırıya karşı hazır olmayı gerektirmektedir"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Kişilerin becerilerini geliştirmeleri aralarındaki diyalektik çatışmalarla mümkündür.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-301",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Öncesi Türk Evren Tasavvuru",
+    "soru": "Dünyaya paralel ve kubbeli bir daire olan şey aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Yer",
+      "Yer altı",
+      "Hava",
+      "Gök",
+      "Toprak"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Gök.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-302",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Öncesi Türk Evren Tasavvuru",
+    "soru": "Hükümdarın otağı ile halkın yaşadığı çadırlara model oluşturan şey aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Su kabarcıkları",
+      "Zanaatkarlar",
+      "Mezar anlayışları",
+      "Tanrı tasarımı",
+      "Göğün kubbeli yapısı"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Göğün kubbeli yapısı.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-303",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Öncesi Türk Evren Tasavvuru",
+    "soru": "Dünyanın merkezi kabul edilen yer aşağıdakilerden hangisini de kapsamaktadır?",
+    "siklar": [
+      "Kutsal Merkez",
+      "Tarihsel merkez",
+      "Devlet merkezi",
+      "Başkent",
+      "Sulak ova"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Kutsal Merkez.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-304",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Öncesi Türk Evren Tasavvuru",
+    "soru": "Iduk teriminin anlamı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Savaşçı",
+      "Kutsal",
+      "Kam",
+      "Otacı",
+      "Dağ"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Kutsal.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-305",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Öncesi Türk Evren Tasavvuru",
+    "soru": "Yer yüzünün temel unsurları olan bitkiler ve hayvanlarla insanın ilişkilerini aşağıdakilerden hangisi açıklamaktadır?",
+    "siklar": [
+      "Hayvanların üstünlüğü",
+      "Hiyerarşik",
+      "Eşitlik",
+      "İnsanın üstünlüğü",
+      "Bitkilerin üstünlüğü"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Eşitlik.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-306",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Öncesi Türk Evren Tasavvuru",
+    "soru": "Kaşgarlı’ya göre Türkler büyük bir ağaç gibi ulu gördükleri şeylere ne ad vermektedirler?",
+    "siklar": [
+      "Yüce",
+      "Kutsal",
+      "Dünya ağacı",
+      "Tengri",
+      "Kut"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Tengri.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-307",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Öncesi Türk Evren Tasavvuru",
+    "soru": "Altay Türklerinin inancına göre aşağıdakilerden hangisi hayvanların nitelikleri arasındadır?",
+    "siklar": [
+      "Savaşçı olmaları",
+      "İnsanlara bağlı olmaları",
+      "İnsanlardan korkmaları",
+      "Komşuluk değerlerini tanımaları",
+      "Tanrı’ya dua etmeleri"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Tanrı’ya dua etmeleri.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-308",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Öncesi Türk Evren Tasavvuru",
+    "soru": "Türkçede hayat ve ölüm aşağıdaki terimlerden hangisiyle açıklanmaktadır?",
+    "siklar": [
+      "Toprak",
+      "Su",
+      "Ateş",
+      "Kaya",
+      "Hava"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Su.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-309",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Öncesi Türk Evren Tasavvuru",
+    "soru": "Halk açısından hayatın düzenli gitmesini sağlayan unsur aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Yer-Su Ruhları",
+      "Cinler",
+      "Şamanlar",
+      "Hayvanlar",
+      "Bitkiler"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Yer-Su Ruhları.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-310",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Öncesi Türk Evren Tasavvuru",
+    "soru": "“Uğur, devlet, baht, talih, saadet” anlamlarını taşıyan terim aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Iduk",
+      "Demir Kazık",
+      "Kut",
+      "Çığrı",
+      "Tengri"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Kut.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-401",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesi",
+    "soru": "İslam düşüncesinde çok önemli bir yer tutan siyasi kavram aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Halifelik",
+      "Ordu",
+      "Adalet",
+      "İnanç",
+      "Zekat"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Halifelik.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-402",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesi",
+    "soru": "Aynı konu hakkında düşüncelerin dönüşmelerinin ve etkisizleşmelerinin nedenini aşağıdakilerden hangisi açıklamaktadır?",
+    "siklar": [
+      "Yanlış olmaları",
+      "Eksik olmaları",
+      "Konuların içerikçe değişmeleri ve bilgi birikimleri",
+      "Ortaya çıktıkları dönemde öğretim sitemlerinin yeterince gelişmemiş olması",
+      "Doğruluk anlayışlarının değişmesi"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Konuların içerikçe değişmeleri ve bilgi birikimleri.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-403",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesi",
+    "soru": "Siyasi yapının toplumsal düşünce üzerinde etkili olmasının nedeni aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Toplumun yaşama şartlarını büyük ölçüde belirleyen hususlardan biri olması",
+      "Herkesin siyaset konuşmayı çok sevmesi",
+      "Siyaset yapıcılarının çok becerikli olmaları",
+      "Yönetim çevrelerinde oluştuklarından",
+      "Anlaşılmaları kolay olduklarından"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Toplumun yaşama şartlarını büyük ölçüde belirleyen hususlardan biri olması.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-404",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesi",
+    "soru": "Bütün değerlerin toplumlarda farklı yorumlanmalarının nedeni aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Çıkar ilişkileri öyle gerektirmektedir",
+      "Değerlerin formları farklılık göstermektedir",
+      "Değerler kurumlar tarafından belirlenmektedir",
+      "Akıl sahibi olan insan her değeri kendi konumu açısından yorumlayabilmektedir.",
+      "Toplumda değerler yoktur duygular vardır."
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Akıl sahibi olan insan her değeri kendi konumu açısından yorumlayabilmektedir..",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-405",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesi",
+    "soru": "Kişilerin kendi düşüncelerinin en doğru olduğuna inanmalarının nedeni aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Ailede öğrendikleriyle yargıya varmak",
+      "Bilgi eksikliği ve başka düşünceleri tanımamak",
+      "Düşüncelerin zayıf tutarlılıkları",
+      "Matematiksel olarak temellendirilememeleri",
+      "Üniversite eğitimi almaları"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Bilgi eksikliği ve başka düşünceleri tanımamak.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-406",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesi",
+    "soru": "Aşağıdakilerden hangisi iç savaşların temel nedenlerinin başında gelir?",
+    "siklar": [
+      "Toplumların demokrasiyle yönetilmemeleri",
+      "Siyasi partilerin olmaması",
+      "İktisadi şartların yetersizliği ve kabilecilik",
+      "Dini konuların çok fazla tartışılması",
+      "Askerlerin çok olması"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: İktisadi şartların yetersizliği ve kabilecilik.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-407",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesi",
+    "soru": "İnanç - özgürlük ilişkisini aşağıdakilerden hangisi daha iyi açıklamaktadır?",
+    "siklar": [
+      "İnsanın kendine ve Tanrı’ya karşı sorumluluklarını yerine getirmesi için özgürlük şarttır.",
+      "Özgürlük günah işlemeyi sağladığından inançta yeri yoktur",
+      "Özgürlük siyasi bir kavramdır inançla ilişkili değildir",
+      "Felsefi kavram olan özgürlük dini tartışmak için gereklidir",
+      "İnanç bağlanmayı gerektirdiğinden özgürlüğe yer vermez"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: İnsanın kendine ve Tanrı’ya karşı sorumluluklarını yerine getirmesi için özgürlük şarttır..",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-408",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesi",
+    "soru": "İslam medeniyetinde siyasi tartışmaların sürekli olmasının nedeni aşağıdakilerden hangisidir?",
+    "siklar": [
+      "İslam medeniyeti gelişmemiştir.",
+      "Hıristiyan medeniyetinde papalık tartışmaları yasaklamıştır.",
+      "Medeniyetlerin gelişmelerinde tartışmalara yer verilmemektedir.",
+      "Siyasi birliği gerçekleştiremediğinden",
+      "Tartışma insanın akıl sahibi olmasının en önemli göstergesidir."
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Tartışma insanın akıl sahibi olmasının en önemli göstergesidir..",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-409",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesi",
+    "soru": "İnanç sistemlerinin medeniyetleri biçimlendirmeleri aşağıdaki unsurlardan hangisiyle açıklanmaktadır?",
+    "siklar": [
+      "Medeniyetin dayandığı zihniyeti biçimlendirmesi.",
+      "Medeniyete katılan bütün kültürleri ortadan kaldırması.",
+      "Kurumların ilkelerini ve amaçlarını yeniden kurması.",
+      "Değerlerin formlarını değiştirmesi",
+      "İnsanları tek biçimli bir hale getirmesi."
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Medeniyetin dayandığı zihniyeti biçimlendirmesi..",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-410",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesi",
+    "soru": "İslam inancının temel metinleri aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Fıkıh kitapları",
+      "Kelam kitapları",
+      "Kur’an ve Hadisler",
+      "Hadisler ve fıkıh kitapları",
+      "Tefsirler"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Kur’an ve Hadisler.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-501",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesinde İlimler",
+    "soru": "Bilginin üretilmesinde belirleyici olan kavram aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Sezgi",
+      "Duyum",
+      "Gelenek",
+      "Kitap",
+      "Algı"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Duyum.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-502",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesinde İlimler",
+    "soru": "Fıkıh ilminin anlamını aşağıdakilerden hangisi ifade etmektedir?",
+    "siklar": [
+      "Tarih",
+      "Siyer",
+      "Hukuk",
+      "Matematik",
+      "Siyaset"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Hukuk.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-503",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesinde İlimler",
+    "soru": "Aşağıdakilerden hangisi bilimi ilimden ayıran özellik olarak öne çıkmaktadır?",
+    "siklar": [
+      "Bilimleri Sümerler keşfetmiş ilmi Müslümanlar",
+      "Konu farkı",
+      "Medeniyet farkı",
+      "Adlandırma farkı",
+      "Bilim keşfe dayanır ilim nakle"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Bilim keşfe dayanır ilim nakle.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-504",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesinde İlimler",
+    "soru": "Aşağıdakilerden hangisi tefsirin araştırma alanıdır?",
+    "siklar": [
+      "Fıkıh",
+      "Siyaset",
+      "Umran",
+      "Kur’an",
+      "Tarih"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Kur’an.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-505",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesinde İlimler",
+    "soru": "Medeniyetlerin bilgi anlayışları araştırmacıya aşağıdakilerden hangisini öğretmektedir?",
+    "siklar": [
+      "Değer sistemlerini ve düşünce tarzlarını",
+      "İktisadi yapısının işleyişini",
+      "Dış siyaset ilişkilerini",
+      "Sanat anlayışlarını",
+      "Nasıl yaşadıklarını"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Değer sistemlerini ve düşünce tarzlarını.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-506",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesinde İlimler",
+    "soru": "Aşağıdakilerden hangisi İslam düşüncesinde bilginin temel özelliğini vermektedir?",
+    "siklar": [
+      "Bilimsel araştırmadır",
+      "Bilgi verilidir ve hakikati içerir",
+      "Mantıksal tutarlılıktır",
+      "Felsefi temellendirmedir",
+      "Zanaatkarın işidir"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Bilgi verilidir ve hakikati içerir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-507",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesinde İlimler",
+    "soru": "Müslüman düşünürlerin ilimlerin yapıları, konuları, değerleri ve sınıfları üzerine çalışmaları aşağıdakilerden hangisiyle ifade edilebilir?",
+    "siklar": [
+      "Bilim felsefesi",
+      "Varlık felsefesi",
+      "İlim felsefesi",
+      "Tarih felsefesi",
+      "Bilgi felsefesi"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: İlim felsefesi.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-508",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesinde İlimler",
+    "soru": "Nakilciler açısından bilginin doğruluğunun kaynağı nedir?",
+    "siklar": [
+      "Deney",
+      "Gözlem",
+      "Eleştiri",
+      "Kur’an ve Hadis",
+      "Mantık"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Kur’an ve Hadis.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-509",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesinde İlimler",
+    "soru": "Aşağıdakilerden hangisi bilgilerin güvenilirliğini sağlayan bilimler arasındadır?",
+    "siklar": [
+      "Coğrafya",
+      "Çömlekçilik",
+      "Simya",
+      "Müneccimlik",
+      "Tarih"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Tarih.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-510",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "İslam Düşüncesinde İlimler",
+    "soru": "Bilimlerin sınıflandırılmasında belirleyici olan ilke aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Nesne özellikleri",
+      "Yöntem",
+      "Dönemler",
+      "İnançlar",
+      "Önyargılar"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Nesne özellikleri.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-601",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Sentez ve Medeniyet",
+    "soru": "Başka toplumlardan gelen verileri kendi kültürel formuna dönüştürmeye ne ad verilmektedir?",
+    "siklar": [
+      "Sentez",
+      "Gelişme",
+      "Taklit",
+      "Aktarma",
+      "Kopya"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Sentez.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-602",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Sentez ve Medeniyet",
+    "soru": "Aşağıdakilerden hangisi medeniyetlerin güçlü olmalarında daha etkilidir?",
+    "siklar": [
+      "Siyaset",
+      "İktisat",
+      "Ordu",
+      "İnanç",
+      "Hukuk"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: İktisat.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-603",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Sentez ve Medeniyet",
+    "soru": "Medeniyetlerin oluşumunda inançların rolünü aşağıdakilerden hangisi daha iyi açıklamaktadır?",
+    "siklar": [
+      "İktisadi yapıyı yeniden kurarlar",
+      "Siyasi yapıyı yeniden kurarlar",
+      "Yeni bir zihniyetin oluşmasında etkilidirler",
+      "Zanaatları kökten değiştirirler",
+      "Mimariyi değiştirirler"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Yeni bir zihniyetin oluşmasında etkilidirler.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-604",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Sentez ve Medeniyet",
+    "soru": "Aşağıdakilerden hangisi toplumların inançlarını değiştirmeye yönelmelerini daha iyi açıklamaktadır?",
+    "siklar": [
+      "Kültürel ilişkilerin yoğunluğu",
+      "Askeri mücadeleler",
+      "Sömürgecilik",
+      "İnançların açıklama güçlerinin zayıflıkları ya da yükseklikleri",
+      "Kişisel tercihler"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Kültürel ilişkilerin yoğunluğu.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-605",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Sentez ve Medeniyet",
+    "soru": "Osmanlı Devleti’nin uzun süreli yaşamasının nedeni aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Adaleti en iyi şekilde uyguladıklarından",
+      "İktisadi devrim yaptıklarından",
+      "Sorun çözme becerilerini geliştirdiklerinden",
+      "Bütün savaşları kazandıklarından",
+      "Lonca sisteminin gücü nedeniyle"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Sorun çözme becerilerini geliştirdiklerinden.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-606",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Sentez ve Medeniyet",
+    "soru": "Aşağıdakilerden hangisi Osmanlıların toplumsal kimliğini en iyi gösteren unsurdur?",
+    "siklar": [
+      "Padişahın halife unvanını taşıması",
+      "Tarım anlayışları",
+      "İstanbul’un başkent olması",
+      "Türkçe konuşmaları",
+      "Mimari tarzları"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Türkçe konuşmaları.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-607",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Sentez ve Medeniyet",
+    "soru": "Aşağıdakilerden hangisi Osmanlı kimliğini temsil etmektedir?",
+    "siklar": [
+      "Bursa Ulu Cami",
+      "Aya İrini Kilisesi",
+      "Erzurum Üç kümbetler",
+      "Beyşehir Eşrefoğlu Cami",
+      "Sultan Ahmet Cami"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Sultan Ahmet Cami.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-608",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Sentez ve Medeniyet",
+    "soru": "Türk mezar taşı anlayışının kökenini temsil eden unsur aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Balbal",
+      "Çin heykelleri",
+      "Bizans Aziz heykelleri",
+      "Zerdüşt mezarları",
+      "Kurganlar"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Balbal.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-609",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Sentez ve Medeniyet",
+    "soru": "Türklerin iki bin yıldır varlıklarını sürdürmelerinin en önemli nedeni aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Kabile bağlarının güçlü olmaları",
+      "Devletin sürekliliği",
+      "Ölüm anlayışlarının etkili olması",
+      "Şiirde güçlü olmaları",
+      "Hayvancılığı önemsemeleri"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Devletin sürekliliği.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-610",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Sentez ve Medeniyet",
+    "soru": "Kültürel değişmeler ile medeniyet değişmeleri arasında ne fark vardır?",
+    "siklar": [
+      "Kültürlerde kişiler değişir medeniyetlerde toplumlar değişir",
+      "Kültürler gelişerek medeniyet olurlar",
+      "Kültürlerde nesneler ve alışkanlıklar değişirken medeniyetlerde değerler ve kurumlar değişmektedir.",
+      "Kültürlerde görenekler değişir medeniyetlerde inançlar değişir",
+      "Medeniyetler küçülerek kültür olurlar"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Kültürlerde nesneler ve alışkanlıklar değişirken medeniyetlerde değerler ve kurumlar değişmektedir..",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-701",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devletin Kuramsal Temelleri",
+    "soru": "Aşağıdakilerden hangisi Yusuf Has Hacip’in insan anlayışını yansıtmaktadır?",
+    "siklar": [
+      "Zenginliğin adı olarak insan",
+      "Savaşçı",
+      "Zahit",
+      "Doğruluğun adı olarak insan",
+      "Hükümdar olarak insan"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Doğruluğun adı olarak insan.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-702",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devletin Kuramsal Temelleri",
+    "soru": "Yusuf Has Hacip neden insanı hem yanılan bir varlık olarak hem de doğruluğun adı olarak tanımlamaktadır?",
+    "siklar": [
+      "Çelişkiye düştüğünün farkında değildir",
+      "İnsanların dürüst olmalarını sağlayamadığından iki yanını da kabul etmektedir",
+      "Hükümdarların durumunu meşru göstermek için",
+      "İnsanların cahilliklerini bildiğinden",
+      "İnsan her iki niteliği de taşıdığı gerçeğinden hareket etmektedir"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: İnsan her iki niteliği de taşıdığı gerçeğinden hareket etmektedir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-703",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devletin Kuramsal Temelleri",
+    "soru": "Dünyaya ışığın güneşten gelmesi gibi memlekette de her türlü bilgi hükümdardan gelmektedirkarşılaştırmasının nedeni nedir?",
+    "siklar": [
+      "Dönemin devlet anlayışında halkın hükümdara zorunlulukla bağlanması gerektiğini görmüştür.",
+      "Hükümdarı övmek için bilerek hata yapmaktadır.",
+      "Halkın sorunlarını çözebilmesi için hükümdar bilgili olmalı ve bilgileri uygulamalıdır.",
+      "Dönemin hükümdarı filozof olduğundan bu beklenti doğaldır.",
+      "Hükümdara yapması gerekenleri hatırlatmaktadır."
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Halkın sorunlarını çözebilmesi için hükümdar bilgili olmalı ve bilgileri uygulamalıdır..",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-704",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devletin Kuramsal Temelleri",
+    "soru": "Yusuf Has Hacip devletin dönek olduğunu söylemekle ne kastetmektedir?",
+    "siklar": [
+      "Yöneticilere güvenilmemesi gerektiğini",
+      "Yöneticilerin devlette sürmeyeceklerini ve cezalandırılacaklarını",
+      "Kurum olarak devlet yöneticilere zulüm etmektedir",
+      "Halkın en bahtsız kişilerinin yöneticiler olduklarını",
+      "Yöneticiler arasında çekişmeler yaşandığını"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Yöneticilerin devlette sürmeyeceklerini ve cezalandırılacaklarını.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-705",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devletin Kuramsal Temelleri",
+    "soru": "Bilgeliğin dayandığı temel alan aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Siyaset",
+      "Din",
+      "Ahlak",
+      "Adalet",
+      "Savaş"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Ahlak.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-706",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devletin Kuramsal Temelleri",
+    "soru": "Kutadgu Bilig anlayışına göre bilgili insanların yapmayacağı şey nedir?",
+    "siklar": [
+      "Kötülük",
+      "İyilik",
+      "Yardım",
+      "Eğitim",
+      "Günah işlemezler"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Kötülük.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-707",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devletin Kuramsal Temelleri",
+    "soru": "Yusuf Has Hacip’e göre bir hükümdarı ne başarılı kılmaktadır?",
+    "siklar": [
+      "Dindarlığı",
+      "Savaşçılığı",
+      "Bilgeliği",
+      "Zenginliği",
+      "Öfkesi"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Bilgeliği.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-708",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devletin Kuramsal Temelleri",
+    "soru": "Kutadgu Bilig’de hükümdar aşağıdakilerden hangisiyle açıklanmaktadır?",
+    "siklar": [
+      "Güneş",
+      "Ay",
+      "Su",
+      "Toprak",
+      "Taht"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Güneş.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-709",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devletin Kuramsal Temelleri",
+    "soru": "Yusuf Has Hacip, halk bozulursa onu hükümdar (beyler) düzeltir; hükümdar (beyler) bozulursa onu kim düzeltir? sorusunu nasıl cevaplamaktadır?",
+    "siklar": [
+      "Büyücülere göndermekte",
+      "Akıl ve bilgiyle",
+      "Zahite teslim etmekte",
+      "Hastaneye yatırmakta",
+      "Görevden almakta"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Akıl ve bilgiyle.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-710",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devletin Kuramsal Temelleri",
+    "soru": "Yusuf Has Hacip’e göre yönetimin denetimi nasıl yapılmaktadır?",
+    "siklar": [
+      "Hukuk aracılığıyla",
+      "Halk tarafından",
+      "İlahi adaletle",
+      "Bilgeler meclisi tarafından",
+      "Tarih tarafından"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: İlahi adaletle.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-801",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devlet Düşüncesi",
+    "soru": "Osmanlı toplumunu Batılı devlet ve toplumlarından kökten ayıran özellik aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Mülkiyetsizlik ve sınıfsızlık",
+      "Sultanlıkla yönetilmesi",
+      "Dindarlıkları",
+      "Giyim tarzları",
+      "Özgürlük anlayışları"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Mülkiyetsizlik ve sınıfsızlık.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-802",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devlet Düşüncesi",
+    "soru": "Osmanlılarda mülkiyet olmadığından aşağıdakilerden hangisi gerçekleşmemiştir?",
+    "siklar": [
+      "Köylü sınıf ortaya çıkmamıştır",
+      "Aristokrat sınıf ortaya çıkmamıştır",
+      "Zanaatkarlar yoktur",
+      "Loncalar oluşmamıştır",
+      "Haksızlık olmamıştır"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Aristokrat sınıf ortaya çıkmamıştır.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-803",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devlet Düşüncesi",
+    "soru": "Toplumsal düşüncenin temelini aşağıdakilerden hangisi oluşturmaktadır?",
+    "siklar": [
+      "Kurumlar",
+      "Gelenekler",
+      "Değerler",
+      "Düşünceler",
+      "Bilgi"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Değerler.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-804",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devlet Düşüncesi",
+    "soru": "İnsanın dünyadaki konumunu, kurumların, değerlerin ve geleneklerin birbirleriyle ilişkilerini bütünlüklü bir şekilde düşünülmesini sağlayan şey aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Karmaşa",
+      "Hukuk",
+      "İktisat",
+      "Düzen",
+      "Ordu"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Düzen.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-805",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devlet Düşüncesi",
+    "soru": "Hukuk sisteminin temellerini, yapısını, uygulayıcılarının eğitim ve becerilerini, uygulayıcı kurumları, dayandıkları kuralları ve hedefleri bütünlüklü bir şekilde ortaya çıkaran şey nedir?",
+    "siklar": [
+      "Hak",
+      "Yasa",
+      "Anayasa",
+      "Ahlak",
+      "Adalet"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Adalet.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-806",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devlet Düşüncesi",
+    "soru": "Hükümdarların adil olmaları eski kültürlerde neden çok önemsenmiştir?",
+    "siklar": [
+      "Haksızlıkların çok fazla olması nedeniyle",
+      "Hakları koruyucu kurumlar yeterince gelişmediği için",
+      "Eşitsizlikler çok yoğun olduğundan",
+      "Umut olması için",
+      "İnançlar öyle istediklerinden"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Hakları koruyucu kurumlar yeterince gelişmediği için.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-807",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devlet Düşüncesi",
+    "soru": "Ölüm sonrası gerçekleşecek ilahi adalet neden çok önemsenmiştir?",
+    "siklar": [
+      "Her haksızlığın hesabının görüleceğinin bilinmesi insanları mutlu etmiştir",
+      "Dünyadaki yargı sistemi yeterince çalışmamaktadır",
+      "Herkes kendinden emin olarak ilahi adaleti beklemektedir",
+      "Hükümdarları yargılamak ancak Tanrı’ya mahsustur",
+      "Hiçbir suçun cezasız kalmaması önemsenmiştir."
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Her haksızlığın hesabının görüleceğinin bilinmesi insanları mutlu etmiştir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-808",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devlet Düşüncesi",
+    "soru": "Devletin topluma karşı sorumluluğu aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Vergi toplamak",
+      "Asker toplamak",
+      "Toplumsal düzenin sürekliliğini sağlamak",
+      "Eğitim sistemi kurmak",
+      "İktisadi yapıyı güçlendirmek"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Toplumsal düzenin sürekliliğini sağlamak.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-809",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devlet Düşüncesi",
+    "soru": "Hükümdar neyin temsilcisidir?",
+    "siklar": [
+      "Halkın",
+      "Ordunun",
+      "Tanrı’nın",
+      "Devletin",
+      "Aristokrasinin"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Devletin.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-810",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Devlet Düşüncesi",
+    "soru": "Aşağıdakilerden hangisi Osmanlı devletinin uzun ömürlü olmasını sağlayan unsurlardan biridir?",
+    "siklar": [
+      "Hukuk",
+      "İktisat",
+      "Yönetim",
+      "Zanaat",
+      "Ordu"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Hukuk.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-901",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tarih Düşüncesi",
+    "soru": "Tarih düşüncesi ile evren tasavvuru arasında nasıl bir ilişki vardır?",
+    "siklar": [
+      "Tarih düşüncesi evren tasavvurunun anlatımıdır",
+      "Tarih düşüncesi evren tasavvurunu dışlamaktadır",
+      "Evren tasavvuru tarih düşüncesini içermektedir",
+      "Evren tasavvuru en geniş teorik düşüncedir",
+      "Tarih düşüncesi değişkendir"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Tarih düşüncesi evren tasavvurunun anlatımıdır.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-902",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tarih Düşüncesi",
+    "soru": "Kabile kültürlerinde köken efsanesinin işlevi nedir?",
+    "siklar": [
+      "Şiir işlevi",
+      "Siyaset işlevi",
+      "Tarihçilik işlevi",
+      "Masal işlevi",
+      "Büyü işlevi"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Tarihçilik işlevi.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-903",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tarih Düşüncesi",
+    "soru": "Osmanlı tarihçiliğinde en ağırlıklı konu aşağıdakilerden hangisidir?",
+    "siklar": [
+      "İktisat",
+      "Hükümdarlar ve yaptıkları işler",
+      "Siyasi tartışmalar",
+      "Dünya tarihi",
+      "Evrim konuları"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Hükümdarlar ve yaptıkları işler.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-904",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tarih Düşüncesi",
+    "soru": "Geleneksel tarihçiliğin baskın konusu aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Bilim",
+      "Sanat",
+      "Matematik",
+      "Siyaset",
+      "Teknoloji"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Siyaset.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-905",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tarih Düşüncesi",
+    "soru": "Osmanlı tarihçileri düşünce tarihçiliği açısından hangi konulara yer vermişlerdir?",
+    "siklar": [
+      "Ulema üzerinde çalışmışlar",
+      "Fakihler üzerinde çalışmışlardır",
+      "Alimler üzerinde çalışmışlar",
+      "Kavramlar üzerine çalışmışlar",
+      "Şairler hakkında çalışmışlardır"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Şairler hakkında çalışmışlardır.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-906",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tarih Düşüncesi",
+    "soru": "İslam tarihçiliğinde gelişme var mıdır?",
+    "siklar": [
+      "Peygamber’e kadar tarihte bir gelişme olduğu izlenimi verilmektedir",
+      "Gelişme yoktur",
+      "Çöküş vardır",
+      "Döngüsel bir yapı hakimdir",
+      "Çöküş ve gelişme değerlerini konu edinmemektedir"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Peygamber’e kadar tarihte bir gelişme olduğu izlenimi verilmektedir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-907",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tarih Düşüncesi",
+    "soru": "Osmanlı tarihçileri Devlet’in meşruluğunu neyle açıklamaktadırlar?",
+    "siklar": [
+      "Halife olmalarıyla",
+      "Oğuz Kağan şeceresiyle",
+      "Hukukla",
+      "Askeri güçle",
+      "Dinle"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Oğuz Kağan şeceresiyle.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-908",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tarih Düşüncesi",
+    "soru": "Hükümdar cüluslarında (tahta geçme törenlerinde) Yeniçeriler ne almaktadırlar?",
+    "siklar": [
+      "Görev",
+      "Kazan",
+      "Bahşiş",
+      "Rütbe",
+      "Ceza"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Bahşiş.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-909",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tarih Düşüncesi",
+    "soru": "Osmanlı tarihçiliğinde aşağıdakilerden hangisi eksiktir?",
+    "siklar": [
+      "Karşılaştırma",
+      "Vergilerin anlatımı",
+      "Gözlem",
+      "Eleştiri",
+      "Üslup"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Eleştiri.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-910",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tarih Düşüncesi",
+    "soru": "Osmanlı tarihçileri yazdıkları tarihlerin belge değeri taşıyacağını düşünmüşler midir?",
+    "siklar": [
+      "Tarihçilikte belge değeri yeterince gelişmediğinden düşünmemişlerdir",
+      "Belge derlemek ve kullanmak alışkanlıkları yoktur",
+      "Tarihçiler resmi belgeleri düzenleyen memurlardır",
+      "Memur olduklarından tarihçi sayılmazlar",
+      "Tarihçilik ders almaya hizmet ettiğinden belge değeri taşıdığının bilincindedirler"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Tarihçilik ders almaya hizmet ettiğinden belge değeri taşıdığının bilincindedirler.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1001",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tasavvuf",
+    "soru": "İbnu’l-Arabi’ye göre insan hem bedeni hem de manevi yanıyla, Tanrı karşısında neyi temsil etmektedir?",
+    "siklar": [
+      "Evreni",
+      "İnsanı",
+      "Dünyayı",
+      "Alemi",
+      "Kendini"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Evreni.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1002",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tasavvuf",
+    "soru": "“Alem büyük insan, insan küçük alem olduğundan, insan alemin mizanı kabul edilir” düşüncesi kime aittir?",
+    "siklar": [
+      "Mevlana’ya",
+      "İbnü’l-Arabi’ye",
+      "Farabi’ye",
+      "Derviş Paşa’ya",
+      "Yunus Emre’ye"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: İbnü’l-Arabi’ye.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1003",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tasavvuf",
+    "soru": "“Dokuz felek yaratılmamış, insanlar ve melekler daha vücut bulmamışken biz Hakk’ın varlığı ile vardık ve o sevgili ile dost idik. Ayrılık, uzaklık, ölüm ve hastalık da yoktu. Halimiz birlik ve beraberlikti” düşünceleri aşağıdaki düşünürlerden hangisine aittir?",
+    "siklar": [
+      "Ahmet Yesevi",
+      "Cüneydi Bağdadi",
+      "Aşık Paşa",
+      "İbnu’l-Arabi",
+      "Hacı Bektaş Veli"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Aşık Paşa.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1004",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tasavvuf",
+    "soru": "Aşık Paşa’nın, “akıllı insan, efendinin emirlerini yerine getirendir” cümlesinde efendi olarak kimi kast etmektedir?",
+    "siklar": [
+      "İnsanı",
+      "Hükümdarı",
+      "Tarikat Şeyhini",
+      "Tanrı’yı",
+      "Peygamberi"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Tanrı’yı.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1005",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tasavvuf",
+    "soru": "Aşık Paşa’ya göre Tanrı ile insan arasına perde ne zaman çekilmiştir?",
+    "siklar": [
+      "Tanrı’nın zihninde insan oluştuğunda",
+      "İnsan dünyaya gönderildiğinde",
+      "İlk günahı işlediğinde",
+      "Nefsini fark ettiğinde",
+      "İnsan bedenlendiğinde"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: İnsan bedenlendiğinde.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1006",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tasavvuf",
+    "soru": "Aşık Paşa, hürdük, muhtaç değildik, gam ve tasadan uzak neşe içinde idik, küfür, nifak, şüphe bulunmazdı, ifadelerini insanın hangi dönemi için kullanmaktadır?",
+    "siklar": [
+      "Kökendeki (ezelde) hayat için",
+      "Gelecekteki hayat için",
+      "Asrı saadet için",
+      "Tasavvuf hayatı için",
+      "Dünya hayatı için"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Kökendeki (ezelde) hayat için.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1007",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tasavvuf",
+    "soru": "Kendi ilmini bilen, kendini tanıyan, mutlaka Tanrı’ya kendinden yol açmaktadır düşüncesine uygun nitelik aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Müderris",
+      "Alim",
+      "Şeyh",
+      "Fakih",
+      "Şeyhülislam"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Alim.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1008",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tasavvuf",
+    "soru": "Sözlerin yazılı olduğu yer olarak aşağıdakilerden hangisi kabul edilir?",
+    "siklar": [
+      "Kalp",
+      "Akıl",
+      "Gönül",
+      "Ruh",
+      "Dimağ"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Gönül.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1009",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tasavvuf",
+    "soru": "Nefse Allah’ın emirlerini bildiren ve ona karşı kulluk yaptıran, nefse doğru yolu gösteren ve şeytanın yağmasından kurtaran ilim aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Fıkıh",
+      "Kelam",
+      "Hadis Usulü",
+      "Zahir ilmi",
+      "Matematik"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Zahir ilmi.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1010",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Tasavvuf",
+    "soru": "İbnul Arabi’ye göre insanın ulaştığı en üstün nitelik aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Şeyh olmak",
+      "Mürşid olmak",
+      "Sultan olmak",
+      "Tarikat yoluna girmek",
+      "İnsan-ı kamil"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: İnsan-ı kamil.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1101",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Bilgi Anlayışı ve Medrese",
+    "soru": "İlim öğrenme ve öğretmedeki amaç nedir?",
+    "siklar": [
+      "Allah’ı tanımak",
+      "Kendini geliştirmek",
+      "Mutlu olmak",
+      "Yaşama şartlarını iyileştirmek",
+      "Doğayı keşfetmek"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Allah’ı tanımak.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1102",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Bilgi Anlayışı ve Medrese",
+    "soru": "Ezberlemeyi ilim yapmanın temel yöntem unsurlarından bir yapmanın nedeni aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Bütün bilgilerin hafızada bulundurulması düşünmeyi kolaylaştırmaktadır",
+      "Kitapların kaybolmasının yarattığı korku",
+      "Eski düşünürlere olan saygı",
+      "İlim öğretme yöntemi olduğundan",
+      "Medrese sistemi"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Kitapların kaybolmasının yarattığı korku.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1103",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Bilgi Anlayışı ve Medrese",
+    "soru": "Bilginin inanç sistemine göre tanımlanması ne türden sorunlar ortaya çıkarmaktadır?",
+    "siklar": [
+      "Kişiler dünyayla ilgilerini artırmaktadır",
+      "Siyaset güçlenmektedir",
+      "Bilimler gelişmektedir",
+      "Refah seviyesi artmaktadır",
+      "Din dışı alanların yapılarını anlamak ihmal edilmektedir"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Din dışı alanların yapılarını anlamak ihmal edilmektedir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1104",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Bilgi Anlayışı ve Medrese",
+    "soru": "Osmanlı düşünürleri ilim anlayışına neden eleştirel yaklaşmamışlardır?",
+    "siklar": [
+      "Modern bilim anlayışını bilmediklerin karşılaştırma yapamamışlardır",
+      "Felsefenin yasaklanması nedeniyle",
+      "Şüphe unsurunu kullanmışlardır",
+      "Eleştiri yöntemini bilmediklerinden",
+      "İlimler tarihini iyi tahlil edemediklerinden"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Modern bilim anlayışını bilmediklerin karşılaştırma yapamamışlardır.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1105",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Bilgi Anlayışı ve Medrese",
+    "soru": "İlimlerin sınıflandırılması neye göre yapılmıştır?",
+    "siklar": [
+      "İnançla ilgilerine göre",
+      "İlimleri yerleştirdikleri değer hiyerarşisine göre",
+      "Konularına göre",
+      "Araştırma tekniklerine göre",
+      "İşlevlerine göre"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: İlimleri yerleştirdikleri değer hiyerarşisine göre.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1106",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Bilgi Anlayışı ve Medrese",
+    "soru": "İlim hiyerarşisinde varlık hakkındaki bilgilerin yeri neresidir?",
+    "siklar": [
+      "İlahiyat",
+      "Fıkıh",
+      "Felsefe",
+      "Mantık",
+      "Tasavvuf"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Felsefe.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1107",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Bilgi Anlayışı ve Medrese",
+    "soru": "İlim anlayışlarında felsefinin yerini aşağıdakilerden hangisi açıklamaktadır?",
+    "siklar": [
+      "Felsefe yasaklandığından hiç etkisi yoktur",
+      "Dinden çıkardığı için felsefeden uzak durmuşlardır",
+      "Diyalektik ve analitiği felsefe saymadıklarından sürekli kullanmışlardır",
+      "Tartışmalar ve temellendirmeler felsefenin önemli bir yer tuttuğunu göstermektedir",
+      "Şiir bütün sorunları çözmüştür"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Tartışmalar ve temellendirmeler felsefenin önemli bir yer tuttuğunu göstermektedir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1108",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Bilgi Anlayışı ve Medrese",
+    "soru": "Osmanlılarda siyasetin ilim anlayışındaki yeri nedir?",
+    "siklar": [
+      "İlimlerle hiç ilgilenmemiştir",
+      "Beş yıllık ilim programları yapıp uygulamışlardır",
+      "Medreselerden toplumsal sorunlar hakkında çözümler istediler",
+      "Silah teknolojileri hakkında medreseyle birlikte çalıştılar",
+      "Medreselerdeki tayinler dışında ilimler siyaset gündemine girmemişlerdir"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Medreselerdeki tayinler dışında ilimler siyaset gündemine girmemişlerdir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1109",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Bilgi Anlayışı ve Medrese",
+    "soru": "Aşağıdaki tanımlardan hangisi ilimlerle bilimleri birbirlerine yaklaştırmaktadır?",
+    "siklar": [
+      "Her ikisi de araştırma alanları hakkında derlenen bilgilerin sistemleştirilmesidir",
+      "Kabullerden hareketle bilgileri düzenlemektedirler",
+      "İlimler insan hayatını düzenleyerek onu kurtuluşa erdirmekte, bilimler bilgilerini işe dönüştürerek toplumu zenginleştirmektedirler.",
+      "Benzerlikleri yoktur",
+      "İlimler İslam medeniyetinin ve bilimler Hıristiyan dünyanın bilgi sistemleridirler"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Her ikisi de araştırma alanları hakkında derlenen bilgilerin sistemleştirilmesidir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1110",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Bilgi Anlayışı ve Medrese",
+    "soru": "Bilmek nasıl bir eylem türüdür?",
+    "siklar": [
+      "Zihinsel",
+      "Kişisel",
+      "Toplumsal",
+      "Küresel",
+      "Kültürel"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Zihinsel.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1201",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Şiir Düşüncesi",
+    "soru": "Neden ozanlar halkın üzerinde daha fazla etkiye sahiptirler?",
+    "siklar": [
+      "Halkın diliyle konuşmaktadırlar ve sorunlarını dile getirmektedirler",
+      "Mahkemelerde avukatlık yapmaktadırlar",
+      "Şehirleşmediklerinden",
+      "Dünyayı tanıdıklarından",
+      "Ülkeyi tanıdıklarından"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Halkın diliyle konuşmaktadırlar ve sorunlarını dile getirmektedirler.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1202",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Şiir Düşüncesi",
+    "soru": "Şiir aracılığıyla gerçekleştirilen amaçları aşağıdakilerden hangisi ifade etmektedir?",
+    "siklar": [
+      "Estetik kaygıları en üst seviyeye",
+      "Şairin ve halkın duygularını dile getirmek",
+      "Sanat teknikleri",
+      "Beğeni toplamak",
+      "Siyaseti etkilemek"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Şairin ve halkın duygularını dile getirmek.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1203",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Şiir Düşüncesi",
+    "soru": "Aşağıdakilerden hangisi şiir düşüncesini oluşturmaktadırlar?",
+    "siklar": [
+      "Doğa ve bilimsel düşünceler",
+      "İktisadi yapının özellikleri",
+      "Duygu türleri ve toplumsal sorunlar",
+      "Çobanlık işiyle ilgili olanlar",
+      "Siyaset konuları"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Duygu türleri ve toplumsal sorunlar.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1204",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Şiir Düşüncesi",
+    "soru": "Aşağıdaki şiir türlerinden hangisi halktan kopuk olduğu düşünülmektedir?",
+    "siklar": [
+      "Koşma",
+      "Tekke",
+      "Destan",
+      "Divan",
+      "Halk"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Divan.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1205",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Şiir Düşüncesi",
+    "soru": "Şiirle din arasındaki ilişkileri aşağıdakilerden hangisi daha iyi açıklamaktadır?",
+    "siklar": [
+      "Din bütün zihinsel faaliyetler tarafından tanıtılır",
+      "Şiir dini de konu edinir",
+      "Her şey gibi şiir de büyücünün ürünleri arasındadır",
+      "İlk şairler büyücüler ya da rahiplerdir",
+      "Şiir duyguları esas aldığından dini duyguyu da çok iyi dile getirir"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Şiir duyguları esas aldığından dini duyguyu da çok iyi dile getirir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1206",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Şiir Düşüncesi",
+    "soru": "Tasavvuf şiirinin felsefi olmasının nedenlerini aşağıdakilerden hangisi açıklamaktadır?",
+    "siklar": [
+      "Evrenin yapısını bütünlüklü bir şekilde açıkladığından felsefidir",
+      "Tasavvuf şairleri felsefe öğretiminden geçmişlerdir",
+      "İnsan kendi varoluşunu açıklaması her durumda felsefi bir boyut içermektedir",
+      "Felsefe terimi çok geniş anlamda kullanılmaktadır",
+      "İnanç sistemi felsefi yaklaşımı desteklediğinden"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Evrenin yapısını bütünlüklü bir şekilde açıkladığından felsefidir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1207",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Şiir Düşüncesi",
+    "soru": "Şiirin tarih açısından önemini aşağıdakilerden hangisi açıklamaktadır?",
+    "siklar": [
+      "Şiir tarzında yazılmış çok çeşitli metinler vardır",
+      "Köken efsaneleri, destanlar, menkıbeler şiir tarzında yazılan tarih metinleridir",
+      "Şiir ve tarih ayrı kategorilerde yer aldıklarından birbirleriyle ilişkileri yoktur",
+      "İnsanın ürettiği her düşünce türü birbirleriyle doğal olarak ilişkilidir",
+      "Şairlerin tarihçilik özellikleri de vardır"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Köken efsaneleri, destanlar, menkıbeler şiir tarzında yazılan tarih metinleridir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1208",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Şiir Düşüncesi",
+    "soru": "Divan şiirinin soyut içeriği neden entelektüel kesimlerde kabul görmüştür?",
+    "siklar": [
+      "Dönemin moda akımlarından biri olması nedeniyle",
+      "Teknik özellikleri nedeniyle",
+      "Entelektüel seviye arttıkça soyut şeylerin kavranılması zihinsel bir tat verir",
+      "Aruz vezniyle yazıldığından",
+      "Hece vezniyle yazıldığından"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Entelektüel seviye arttıkça soyut şeylerin kavranılması zihinsel bir tat verir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1209",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Şiir Düşüncesi",
+    "soru": "“Sanatın amacı kendindedir” düşüncesini aşağıdakilerden hangisi açıklamaktadır?",
+    "siklar": [
+      "Soruları cevaplayamayan sanatçıların geliştirdikleri bir savunma taktiği",
+      "Sanat da kültürel her şey gibi başkalarının değerlendirmesiyle varolabilmektedir",
+      "Dini ilkeleri görmezlikten gelmektir",
+      "Sanat kendisi için vardır ve başka bir şeyin aracı değildir",
+      "Yanlış bir yargı. Her şey başka bir şey için üretilmektedir"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Sanat kendisi için vardır ve başka bir şeyin aracı değildir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1210",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Şiir Düşüncesi",
+    "soru": "Türk şiiri Türk düşüncesini ne kadar yansıtmaktadır?",
+    "siklar": [
+      "Şiirin Türk düşüncesini yansıtma imkanı yoktur",
+      "Bilimler, siyasetler, iktisat şiirle ifade edilmişler midir?",
+      "Hangi zanaatkar zanaatını şiirle anlatmıştır",
+      "Türk şiirinde siyaset teorisi var mıdır?",
+      "Türk düşüncesini en geniş boyutlarıyla yansıtan Türk şiiridir"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Türk düşüncesini en geniş boyutlarıyla yansıtan Türk şiiridir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1301",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Büyücüler",
+    "soru": "Sonradan ortaya çıkan bidatlerden çok sakınmak ve kendini korumak neyin göstergesidir?",
+    "siklar": [
+      "İyi alim olmanın",
+      "Özgür düşünmenin",
+      "Her türden düşünceyi öğrenmenin",
+      "Toplumda bozgunculuk yapacak unsurları engellemenin",
+      "Ahlaki yetersizliğin"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: İyi alim olmanın.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1302",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Büyücüler",
+    "soru": "Medrese hocasına ne ad verilmektedir?",
+    "siklar": [
+      "Şeyh",
+      "Müderris",
+      "Müftü",
+      "Kadı",
+      "Derviş"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Müderris.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1303",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Büyücüler",
+    "soru": "Şeyh aşağıdakilerden hangisini temsil etmektedir?",
+    "siklar": [
+      "Ordu",
+      "Lonca",
+      "Tekke",
+      "Medrese",
+      "Köy"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Tekke.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1304",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Büyücüler",
+    "soru": "Şeyhülislam aşağıdakilerden hangi grubu temsil etmektedir?",
+    "siklar": [
+      "Müderrisleri",
+      "Alimleri",
+      "Dervişleri",
+      "Ozanları",
+      "Ulemayı"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Ulemayı.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1305",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Büyücüler",
+    "soru": "Aşağıdaki mesleklerden hangisi medrese eğitimini gerekli şart görmektedir?",
+    "siklar": [
+      "Askerlik",
+      "Denizcilik",
+      "Enderuna girmek",
+      "Kadılık",
+      "Hekimlik"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Kadılık.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1306",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Büyücüler",
+    "soru": "Ulemanın toplumun kanı olarak görülmesi ne anlama gelmektedir?",
+    "siklar": [
+      "Abartılı bir benzetme",
+      "Gerçekçi değil",
+      "Ulema toplumsal canlılığın dayandığı ilke olarak görülmektedir",
+      "Ulemanın gücünü göstermektedir",
+      "Toplumsal sorunların çözümündeki katkılarına işaret etmektedir"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Ulema toplumsal canlılığın dayandığı ilke olarak görülmektedir.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1307",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Büyücüler",
+    "soru": "Ulema bozulduğunda onu ne iyileştirir?",
+    "siklar": [
+      "Siyasi kadrolar",
+      "Tarikat şeyhleri",
+      "Hükümdar",
+      "Askeri mahkeme",
+      "Ulemanın kendisi"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Ulemanın kendisi.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1308",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Büyücüler",
+    "soru": "Dervişler ve tekkelerin Türk toplumuna katkıları nelerdir?",
+    "siklar": [
+      "Sivil örgütler olarak halkın yanında olmuşlardır",
+      "Esnek İslam anlayışını temsil etmişlerdir",
+      "Özgürlüklerini geliştirmişlerdir",
+      "Savaşlarda öncü olmuşlardır",
+      "Medreseyi kontrol etmişlerdir"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Sivil örgütler olarak halkın yanında olmuşlardır.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1309",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Büyücüler",
+    "soru": "Ulemanın topluma karşı görevlerini tam olarak yapıp yapmadıkları nasıl anlaşılmalıdır?",
+    "siklar": [
+      "Toplumsal dindarlığı güvenceye almışlardır",
+      "Toplumsal sorunların çözümündeki katkıları araştırılmalıdır",
+      "Siyasi sorunları gidermişlerdir",
+      "İslam medeniyetini en yüksek seviyede tutmaktadırlar",
+      "Toplumsal gelecek hakkında çok iyi modeller geliştirmişlerdir"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Toplumsal sorunların çözümündeki katkıları araştırılmalıdır.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1310",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Büyücüler",
+    "soru": "21.yüzyılda büyücüler hangi özellikleriyle yeniden tanımlanmalıdırlar?",
+    "siklar": [
+      "Araştırma alanlarındaki sorumluluklarıyla",
+      "Toplumsal sorunların çözümündeki katkılarıyla",
+      "Dünya sorunları hakkındaki tutumlarıyla",
+      "Tarihsel kimliğe uygun davranıp davranmadıklarıyla",
+      "Düşünce üretimindeki yeterlilikleriyle"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Araştırma alanlarındaki sorumluluklarıyla.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1401",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Felsefe Sorunu",
+    "soru": "Yunan düşüncesinde varlığın ezeli ve ebedi düşünülmesinin başlıca nedeni nedir?",
+    "siklar": [
+      "Yoktan var etmek anlamında yaratıcılık anlayışı yoktur",
+      "Şehir devleti şeklinde teşkilatlanmaları",
+      "Filozoflar konunun sorunlarını anlamamışlar",
+      "Varlığını başka türlü açıklamak mümkün değildir",
+      "Sanı türünden düşünceler için temel teşkil etmesi"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Yoktan var etmek anlamında yaratıcılık anlayışı yoktur.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1402",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Felsefe Sorunu",
+    "soru": "Felsefi sistemlerin en temel özelliği aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Başka düşünürlerden üstün olduğunu göstermek",
+      "Tanrı, evren ve insanı ilgilendiren temel konuları tutarlılık ve bütünlük ölçeklerinde açıklamaktır",
+      "Dine paralel düşünceler geliştirmektir",
+      "Siyaset sahasına girmektir",
+      "Düşünürün sorularını cevaplamasının bir sonucudur"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğru cevap: Tanrı, evren ve insanı ilgilendiren temel konuları tutarlılık ve bütünlük ölçeklerinde açıklamaktır.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1403",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Felsefe Sorunu",
+    "soru": "Düşünürlerin birbirlerinden üstünlüklerini iddia etmek doğru mudur?",
+    "siklar": [
+      "Doğru değildir her düşünür kendi görevini yapmıştır",
+      "Doğrudur üretilen düşüncelerin kalitesi ve kapsamı onların üstünlük gerekçeleridir",
+      "Düşünürleri değerlendirmek kişisel tutumlara göre değişmektedir",
+      "Toplumsal ilişkiler düşünürler hakkındaki değerlendirmeyi etkilemektedir",
+      "Konularla ilişkileri düşünürlerin zayıflıklarını ve üstünlüklerini ortaya koyar"
+    ],
+    "dogru": 0,
+    "aciklama": "Doğru cevap: Doğru değildir her düşünür kendi görevini yapmıştır.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1404",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Felsefe Sorunu",
+    "soru": "İslam ilimleri çerçevesinde felsefi temelde gelişen ilim aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Tarih",
+      "Hadis",
+      "Fıkıh",
+      "Kelam",
+      "Hikmet"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: Kelam.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1405",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Felsefe Sorunu",
+    "soru": "Felsefe eğitiminin kişilere zarar vermemesi için Osmanlı düşünürleri aşağıdakilerden hangisini öremektedirler?",
+    "siklar": [
+      "Tekkelerde çalışmalarını",
+      "Askeri işlerde çalışmaların",
+      "Felsefe mekteplerine gitmelerini",
+      "Siyasi ilkeleri bilmelerini",
+      "Dini bilgilerini güçlendirmelerini"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Dini bilgilerini güçlendirmelerini.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1406",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Felsefe Sorunu",
+    "soru": "Felsefe topluma ne kazandırmaktadır, sorusunu cevaplayan şık aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Öğretim sistemini sürekli yenilenmesini sağlar",
+      "Toplumsal ufkun genişletilmesine yardımcı olmaktadır",
+      "Sorun çözme becerilerini geliştirir",
+      "Sorunlar hakkında teoriler geliştirmesinin alt yapılarını oluşturmaktadır",
+      "Sorunları bütünlüklü bir şekilde araştırarak çok çeşitli konularda haritalar yaparak toplumsal bilincin derinleşmesine ve güçlenmesine yardımcı olur"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Sorunları bütünlüklü bir şekilde araştırarak çok çeşitli konularda haritalar yaparak toplumsal bilincin.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1407",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Felsefe Sorunu",
+    "soru": "İslam medeniyetinde felsefenin olmadığı düşüncesini kimler ileri sürmüşlerdir?",
+    "siklar": [
+      "Müslüman düşünürler",
+      "Modern dönem Batılı filozoflar",
+      "Batılı Şarkiyatçılar",
+      "Düşünce tarihçileri",
+      "Sofistler"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Batılı Şarkiyatçılar.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1408",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Felsefe Sorunu",
+    "soru": "Bugün neden felsefeye ihtiyaç duyulmaktadır?",
+    "siklar": [
+      "Bilimler tıkandıklarından",
+      "Dini duygular zayıfladığından",
+      "Siyasi karmaşa giderek arttığından",
+      "İnsanlığı taşıyan değerleri ve kurumları bütünlüklü bir şekilde değerlendirmek için",
+      "Yapay zekaları geliştirmek için"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğru cevap: İnsanlığı taşıyan değerleri ve kurumları bütünlüklü bir şekilde değerlendirmek için.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1409",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Felsefe Sorunu",
+    "soru": "Felsefe yapmakla tarihçilik arasında ne türden ilişkiler vardır?",
+    "siklar": [
+      "Felsefenin en önemli ayaklarından biri felsefe tarihidir",
+      "Düşünce tarihi düşünce üretiminin esas kaynağıdır",
+      "Felsefenin çözüm denemelerinde bulunduğu dünya sorunları tarihsel arka planlara sahiptirler",
+      "Düşünce üretimi düşünce tarihi bilmeyi gerektirir",
+      "Felsefe yapmak tarihin hiçbir türüne ihtiyaç duymaz"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğru cevap: Felsefenin çözüm denemelerinde bulunduğu dünya sorunları tarihsel arka planlara sahiptirler.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  },
+  {
+    "id": "klasiktr-1410",
+    "ders": "klasik-turk-dusuncesi",
+    "konu": "Felsefe Sorunu",
+    "soru": "Bilimlerin çok hızlı bir şekilde gelişmeleri felsefeyi etkisizleştirmekte midir?",
+    "siklar": [
+      "Bilimler insanlık sorunlarını en güvenilir şekilde çözmektedirler",
+      "Bilimler insanlık için çok büyük tehlikeler yaratmaktadırlar",
+      "Yapay zekalı siber varlıklar insanlığın sonunu getirebileceklerdir",
+      "İktisadi ve siyasi eşitsizlikler insanlığın geleceğini tehdit etmektedir",
+      "Sıralanan sorunları felsefe dışında hangi yollarla çözüm aranabilir?"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğru cevap: Sıralanan sorunları felsefe dışında hangi yollarla çözüm aranabilir?.",
+    "dersAdi": "Klasik Türk Düşüncesi"
+  }
+]
