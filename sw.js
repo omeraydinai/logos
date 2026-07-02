@@ -1,10 +1,12 @@
 // Logos service worker — çevrimdışı destek
-const CACHE = 'logos-v1';
+const CACHE = 'logos-v2';
 const PRECACHE = [
   './',
   './index.html',
   './app.webmanifest',
   './icon.svg',
+  './icon-192.png',
+  './icon-512.png',
   './sorular/manifest.json',
 ];
 
