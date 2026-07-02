@@ -618,6 +618,19 @@
   }
   .footer-meander{margin-top:var(--space-2xl); opacity:0.3;}
 
+  /* günlük hedef kutusu */
+  .daily-box{border-top:1px solid var(--line); padding-top:var(--space-md);}
+  .daily-top{
+    display:flex; justify-content:space-between; align-items:baseline;
+    font-size:0.82rem; color:var(--ink-dim); margin-bottom:8px;
+  }
+  .daily-streak{color:var(--terracotta); font-weight:600;}
+
+  /* tıklanabilir tekrar rozeti */
+  .due-badge.clickable{cursor:pointer; transition:transform 0.18s, box-shadow 0.18s;}
+  .due-badge.clickable:hover{transform:translateY(-2px); box-shadow:0 4px 12px rgba(122,154,94,0.25);}
+  .due-badge.clickable strong{font-weight:700;}
+
   @media (prefers-reduced-motion: reduce){
     *{animation-duration:0.001ms !important; transition-duration:0.001ms !important;}
   }
@@ -682,6 +695,10 @@
             <div class="stat-num" id="statTotalQ">80</div>
             <div class="stat-label">Toplam Soru</div>
           </div>
+        </div>
+        <div class="daily-box" id="dailyBox">
+          <div class="daily-top"><span id="dailyText">Bugün: 0 / 20</span><span class="daily-streak" id="dailyStreak"></span></div>
+          <div class="topic-bar"><div class="topic-bar-fill" id="dailyFill" style="width:0%; background:var(--gold);"></div></div>
         </div>
         <button class="btn-ghost" id="goStats" style="text-align:left;">Tüm istatistikleri gör →</button>
       </div>
@@ -781,6 +798,11 @@
     </div>
 
     <div class="panel">
+      <h2>Sınav Geçmişi</h2>
+      <div id="examHistory" style="margin-top:var(--space-md);"></div>
+    </div>
+
+    <div class="panel">
       <h2>En Çok Yanlış Yapılan Sorular</h2>
       <div id="missList" style="margin-top:var(--space-md);"></div>
     </div>
@@ -790,6 +812,20 @@
   <section class="screen" id="screen-settings">
     <button class="back-link" data-back="dashboard">&larr; Panele dön</button>
     <h1 style="margin-bottom:var(--space-lg);">Ayarlar</h1>
+    <div class="panel">
+      <h2>Günlük Hedef</h2>
+      <p class="panel-desc">Her gün çözmeyi hedeflediğin soru sayısı. Panelde ilerleme çubuğu olarak görünür.</p>
+      <div class="field">
+        <label for="goalSelect">Hedef</label>
+        <select id="goalSelect" style="max-width:180px;">
+          <option value="10">10 soru</option>
+          <option value="20">20 soru</option>
+          <option value="30">30 soru</option>
+          <option value="50">50 soru</option>
+        </select>
+      </div>
+    </div>
+
     <div class="panel">
       <h2>Yedekleme</h2>
       <p class="panel-desc">İlerleme verin (cevap geçmişi, tekrar takvimi) bu tarayıcıda saklanır. Tarayıcı verisini silersen kaybolur — yedeklemek için dışa aktar.</p>
@@ -870,6 +906,38 @@ function saveProgress(p){
 }
 let progress = loadProgress();
 
+/* ---------- günlük hedef & seri ---------- */
+const DAILY_KEY = 'logos_daily_counts';
+const GOAL_KEY = 'logos_daily_goal';
+function todayStr(d){
+  d = d || new Date();
+  return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+}
+function loadDaily(){
+  try{ return JSON.parse(localStorage.getItem(DAILY_KEY)) || {}; }catch(e){ return {}; }
+}
+let dailyCounts = loadDaily();
+function bumpDaily(){
+  const t = todayStr();
+  dailyCounts[t] = (dailyCounts[t]||0) + 1;
+  try{ localStorage.setItem(DAILY_KEY, JSON.stringify(dailyCounts)); }catch(e){}
+}
+function dailyGoal(){
+  const g = parseInt(localStorage.getItem(GOAL_KEY),10);
+  return (g>0) ? g : 20;
+}
+function dayStreak(){
+  // bugünden (bugün boşsa dünden) geriye kesintisiz çalışılan gün sayısı
+  let streak = 0;
+  const d = new Date();
+  if(!dailyCounts[todayStr(d)]) d.setDate(d.getDate()-1);
+  while(dailyCounts[todayStr(d)]){
+    streak++;
+    d.setDate(d.getDate()-1);
+  }
+  return streak;
+}
+
 let currentDers = null;
 function setCurrentDers(id){
   currentDers = id;
@@ -897,6 +965,7 @@ function answerQuestion(key, isCorrect){
   const days = INTERVALS[rec.level];
   rec.nextDue = Date.now() + days*24*60*60*1000;
   saveProgress(progress);
+  bumpDaily();
 }
 
 function totalAnswered(dersId){
@@ -922,6 +991,12 @@ function dueTodayCount(dersId){
     const rec = progress[qKey(q)];
     return rec && rec.nextDue <= Date.now();
   }).length;
+}
+function dueTodayIds(dersId){
+  return questionsForCourse(dersId).filter(q=>{
+    const rec = progress[qKey(q)];
+    return rec && rec.nextDue <= Date.now();
+  }).map(q=>q.id);
 }
 function wrongEverIds(dersId){
   return questionsForCourse(dersId).filter(q=>{
@@ -981,11 +1056,26 @@ function renderDashboard(){
   document.getElementById('statMastered').textContent = masteredCount(currentDers);
   document.getElementById('statTotalQ').textContent = courseQs.length;
 
+  // günlük hedef & seri
+  const todayCount = dailyCounts[todayStr()] || 0;
+  const goal = dailyGoal();
+  document.getElementById('dailyText').textContent = `Bugün: ${todayCount} / ${goal} soru`;
+  document.getElementById('dailyFill').style.width = Math.min(100, Math.round(100*todayCount/goal)) + '%';
+  const streak = dayStreak();
+  document.getElementById('dailyStreak').textContent = streak > 0 ? `🔥 ${streak} gün` : '';
+
   const due = dueTodayCount(currentDers);
   const badge = document.getElementById('dueBadge');
+  badge.onclick = null;
+  badge.classList.remove('clickable');
   if(due>0){
     badge.classList.remove('zero');
-    badge.textContent = `Bugün tekrar edilecek ${due} soru var`;
+    badge.classList.add('clickable');
+    badge.innerHTML = `Bugün tekrar edilecek ${due} soru var — <strong>başla →</strong>`;
+    badge.onclick = ()=>{
+      const ids = dueTodayIds(currentDers);
+      startRun({mode:'quiz', topic:null, count: ids.length, idsOverride: ids});
+    };
   } else {
     badge.classList.add('zero');
     badge.textContent = 'Bugün için bekleyen tekrar yok';
@@ -1124,18 +1214,22 @@ function renderRunQuestion(){
   const optWrap = document.getElementById('runOptions');
   optWrap.innerHTML = '';
   const letters = ['A','B','C','D','E'];
-  q.siklar.forEach((opt, i)=>{
+  // şıkları karıştır — "cevap hep C'ydi" ezberini kırar
+  runState.perm = shuffle(q.siklar.map((_,i)=>i));
+  runState.perm.forEach((origIdx, i)=>{
     const btn = document.createElement('button');
     btn.className = 'option';
     btn.style.setProperty('--i', i);
-    btn.innerHTML = `<span class="letter">${letters[i]}</span><span>${opt}</span>`;
+    btn.innerHTML = `<span class="letter">${letters[i]}</span><span>${q.siklar[origIdx]}</span>`;
     btn.addEventListener('click', ()=> selectOption(i));
     optWrap.appendChild(btn);
   });
 }
 
-function selectOption(chosenIdx){
+function selectOption(displayIdx){
   const q = runState.questions[runState.idx];
+  const chosenIdx = runState.perm[displayIdx]; // orijinal şık indeksi
+  const correctDisplayIdx = runState.perm.indexOf(q.dogru);
   const isCorrect = chosenIdx === q.dogru;
   const optWrap = document.getElementById('runOptions');
   const buttons = optWrap.querySelectorAll('.option');
@@ -1143,8 +1237,8 @@ function selectOption(chosenIdx){
   if(runState.mode==='quiz'){
     buttons.forEach((b,i)=>{
       b.disabled = true;
-      if(i===q.dogru) b.classList.add('correct');
-      else if(i===chosenIdx) b.classList.add('wrong');
+      if(i===correctDisplayIdx) b.classList.add('correct');
+      else if(i===displayIdx) b.classList.add('wrong');
       else b.classList.add('dim');
     });
     const exp = document.getElementById('runExplain');
@@ -1158,7 +1252,7 @@ function selectOption(chosenIdx){
     void cardEl.offsetWidth; // animasyonu yeniden tetikle
     if(isCorrect){
       cardEl.classList.add('glow');
-      burstLaurel(buttons[chosenIdx]);
+      burstLaurel(buttons[displayIdx]);
     } else {
       cardEl.classList.add('shake');
     }
@@ -1166,7 +1260,7 @@ function selectOption(chosenIdx){
     // exam mode: no feedback, just lock in selection visually (neutral highlight)
     buttons.forEach((b,i)=>{
       b.disabled = true;
-      if(i===chosenIdx) b.style.borderColor = 'var(--aegean-bright)';
+      if(i===displayIdx) b.style.borderColor = 'var(--aegean-bright)';
       else b.classList.add('dim');
     });
   }
@@ -1202,6 +1296,14 @@ function finishRun(timedOut){
   // for exam mode, record progress for spaced repetition now (after reveal)
   if(runState.mode==='exam'){
     runState.answers.forEach(a=> answerQuestion(qKey(a.q), a.isCorrect));
+    recordExam({
+      t: Date.now(),
+      ders: currentDers,
+      total: runState.questions.length,
+      correct: runState.correct,
+      wrong: runState.wrong,
+      empty: runState.questions.length - answeredCount,
+    });
   }
 
   document.getElementById('resultRaw').textContent = `${runState.correct}/${runState.questions.length}`;
@@ -1289,8 +1391,51 @@ document.getElementById('resultBackBtn').addEventListener('click', ()=>{
   showScreen('dashboard');
 });
 
+/* ---------- exam history ---------- */
+const EXAM_HIST_KEY = 'logos_exam_history';
+function loadExamHistory(){
+  try{ return JSON.parse(localStorage.getItem(EXAM_HIST_KEY)) || []; }catch(e){ return []; }
+}
+function recordExam(entry){
+  const hist = loadExamHistory();
+  hist.push(entry);
+  while(hist.length > 200) hist.shift();
+  try{ localStorage.setItem(EXAM_HIST_KEY, JSON.stringify(hist)); }catch(e){}
+}
+function renderExamHistory(){
+  const wrap = document.getElementById('examHistory');
+  const hist = loadExamHistory().filter(h=>h.ders===currentDers);
+  if(hist.length===0){
+    wrap.innerHTML = '<p class="panel-desc">Bu ders için henüz sınav simülasyonu tamamlanmadı.</p>';
+    return;
+  }
+  const pts = hist.map(h=> Math.round(100*h.correct/h.total));
+  let svg = '';
+  if(hist.length >= 2){
+    const W=600, H=140, PAD=14;
+    const xs = pts.map((_,i)=> PAD + i*(W-2*PAD)/(pts.length-1));
+    const ys = pts.map(p=> H-PAD - (H-2*PAD)*p/100);
+    const line = xs.map((x,i)=> `${x},${ys[i]}`).join(' ');
+    const dots = xs.map((x,i)=> `<circle cx="${x}" cy="${ys[i]}" r="4" fill="var(--gold)"/>`).join('');
+    svg = `<svg viewBox="0 0 ${W} ${H}" style="width:100%; height:auto; margin-bottom:var(--space-md);" aria-label="Sınav skoru gelişimi">
+      <line x1="${PAD}" y1="${H-PAD}" x2="${W-PAD}" y2="${H-PAD}" stroke="var(--line)" stroke-width="1"/>
+      <line x1="${PAD}" y1="${PAD}" x2="${W-PAD}" y2="${PAD}" stroke="var(--line)" stroke-width="1" stroke-dasharray="4 4"/>
+      <polyline points="${line}" fill="none" stroke="var(--terracotta)" stroke-width="2.5" stroke-linejoin="round"/>
+      ${dots}
+    </svg>`;
+  }
+  const rows = hist.slice().reverse().slice(0,10).map(h=>{
+    const d = new Date(h.t);
+    const ds = d.toLocaleDateString('tr-TR', {day:'numeric', month:'short'}) + ' ' + d.toLocaleTimeString('tr-TR', {hour:'2-digit', minute:'2-digit'});
+    const pct = Math.round(100*h.correct/h.total);
+    return `<div class="miss-row"><span class="miss-q">${ds} · ${h.total} soru</span><span class="topic-stat-pct" style="flex:0 0 auto;">${h.correct}/${h.total} (%${pct})</span></div>`;
+  }).join('');
+  wrap.innerHTML = svg + rows;
+}
+
 /* ---------- stats screen ---------- */
 function renderStats(){
+  renderExamHistory();
   const courseQs = questionsForCourse(currentDers);
   const topics = topicsForCourse(currentDers);
 
@@ -1331,6 +1476,12 @@ function renderStats(){
 }
 
 /* ---------- settings ---------- */
+const goalSelect = document.getElementById('goalSelect');
+goalSelect.value = String(dailyGoal());
+goalSelect.addEventListener('change', ()=>{
+  try{ localStorage.setItem(GOAL_KEY, goalSelect.value); }catch(e){}
+});
+
 document.getElementById('exportBtn').addEventListener('click', ()=>{
   const data = JSON.stringify(progress, null, 2);
   const blob = new Blob([data], {type:'application/json'});
