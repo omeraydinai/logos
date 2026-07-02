@@ -1,0 +1,1376 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Logos — İlkçağ Felsefesi Sınav Hazırlığı</title>
+<meta name="description" content="İlkçağ Klasik Dönem Felsefesi için kişisel soru bankası ve tekrar sistemi.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%23151009'/%3E%3Cpath d='M30 75 L30 35 L50 20 L70 35 L70 75 Z' fill='none' stroke='%23C9A24B' stroke-width='4'/%3E%3Cline x1='40' y1='75' x2='40' y2='45' stroke='%23C9A24B' stroke-width='3'/%3E%3Cline x1='60' y1='75' x2='60' y2='45' stroke='%23C9A24B' stroke-width='3'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  /* ============ LOGOS — Antik Yunan Teması ============ */
+  :root{
+    --serif:'Cormorant Garamond','Fraunces',serif;
+
+    /* Gece Tapınağı (varsayılan) */
+    --bg:#0b0f1e;
+    --bg-elev:#101529;
+    --surface:#141a30;
+    --surface-2:#1b2240;
+    --line:#2a3352;
+    --ink:#ece4d0;
+    --ink-dim:#a89f8a;
+    --ink-faint:#6a645a;
+    --terracotta:#c1572a;
+    --terracotta-dim:#7d3a1d;
+    --gold:#d4af5a;
+    --gold-soft:rgba(212,175,90,0.14);
+    --aegean:#3f6273;
+    --aegean-bright:#6fa8c0;
+    --good:#7a9a5e;
+    --good-bg:#1d2818;
+    --bad:#b8453a;
+    --bad-bg:#2c1c19;
+    --marble-vein:rgba(212,175,90,0.05);
+    --space-xs:4px; --space-sm:8px; --space-md:16px;
+    --space-lg:24px; --space-xl:48px; --space-2xl:80px;
+    --radius:3px;
+    --shadow-1: 0 1px 2px rgba(0,0,0,0.35), 0 4px 12px rgba(0,0,0,0.3);
+    --shadow-2: 0 2px 4px rgba(0,0,0,0.4), 0 14px 32px rgba(0,0,0,0.45);
+  }
+
+  /* Gündüz Agorası — mermer */
+  html[data-theme='day']{
+    --bg:#f2ecdf;
+    --bg-elev:#eae2d0;
+    --surface:#faf6ec;
+    --surface-2:#f0e9d9;
+    --line:#d9cdb4;
+    --ink:#2b2419;
+    --ink-dim:#6e6350;
+    --ink-faint:#a09378;
+    --terracotta:#b34f24;
+    --terracotta-dim:#e0b9a4;
+    --gold:#a8842e;
+    --gold-soft:rgba(168,132,46,0.13);
+    --aegean:#33586b;
+    --aegean-bright:#2f7a99;
+    --good:#5d7f43;
+    --good-bg:#e6ecda;
+    --bad:#a83c31;
+    --bad-bg:#f2ddd8;
+    --marble-vein:rgba(120,100,60,0.06);
+    --shadow-1: 0 1px 2px rgba(80,60,30,0.10), 0 4px 12px rgba(80,60,30,0.10);
+    --shadow-2: 0 2px 4px rgba(80,60,30,0.12), 0 14px 32px rgba(80,60,30,0.16);
+  }
+
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--bg);
+    background-image:
+      radial-gradient(ellipse at 15% 0%, var(--gold-soft), transparent 50%),
+      radial-gradient(ellipse at 85% 100%, rgba(63,98,115,0.12), transparent 55%),
+      url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E");
+    color:var(--ink);
+    font-family:'Work Sans', sans-serif;
+    line-height:1.55;
+    min-height:100vh;
+    -webkit-font-smoothing:antialiased;
+    transition:background-color 0.5s, color 0.5s;
+  }
+  h1,h2,h3,.display{
+    font-family:var(--serif);
+    font-weight:600;
+    letter-spacing:0.005em;
+    margin:0;
+  }
+  button{font-family:inherit;}
+  a{color:var(--gold);}
+  ::selection{background:var(--terracotta-dim); color:var(--ink);}
+
+  button:focus-visible, [tabindex]:focus-visible, input:focus-visible{
+    outline:2px solid var(--aegean-bright);
+    outline-offset:2px;
+  }
+
+  .wrap{
+    max-width:880px;
+    margin:0 auto;
+    padding:var(--space-lg) var(--space-md) var(--space-2xl);
+  }
+
+  /* ---- Meander (Yunan anahtarı) şeridi ---- */
+  .meander{
+    height:12px;
+    background-color:var(--gold);
+    opacity:0.55;
+    -webkit-mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M1 23 V1 H23 V15 H9 V9 H17 V7 H7 V23' fill='none' stroke='black' stroke-width='2'/%3E%3C/svg%3E");
+    mask-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M1 23 V1 H23 V15 H9 V9 H17 V7 H7 V23' fill='none' stroke='black' stroke-width='2'/%3E%3C/svg%3E");
+    -webkit-mask-repeat:repeat-x; mask-repeat:repeat-x;
+    -webkit-mask-size:auto 100%; mask-size:auto 100%;
+    animation:meanderScroll 18s linear infinite;
+  }
+  @keyframes meanderScroll{
+    from{-webkit-mask-position-x:0; mask-position:0 0;}
+    to{-webkit-mask-position-x:240px; mask-position:240px 0;}
+  }
+
+  /* ---- Header ---- */
+  .site-header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:var(--space-lg) 0 var(--space-md);
+    margin-bottom:var(--space-sm);
+  }
+  .header-meander{margin-bottom:var(--space-xl);}
+  .brand{
+    display:flex;
+    align-items:center;
+    gap:var(--space-sm);
+  }
+  .brand svg{width:34px;height:34px;flex-shrink:0; animation:templeGlow 4s ease-in-out infinite;}
+  @keyframes templeGlow{
+    0%,100%{filter:drop-shadow(0 0 0px var(--gold));}
+    50%{filter:drop-shadow(0 0 5px var(--gold));}
+  }
+  .brand-text{display:flex; flex-direction:column; line-height:1.1;}
+  .brand-text strong{font-family:var(--serif); font-size:1.45rem; font-weight:700; letter-spacing:0.04em;}
+  .brand-text span{font-size:0.68rem; color:var(--ink-faint); letter-spacing:0.28em; text-transform:uppercase;}
+  .header-nav{display:flex; gap:var(--space-sm);}
+  .icon-btn{
+    background:transparent;
+    border:1px solid var(--line);
+    color:var(--ink-dim);
+    width:38px;height:38px;
+    border-radius:50%;
+    display:flex; align-items:center; justify-content:center;
+    cursor:pointer;
+    transition:transform 0.2s cubic-bezier(0.34,1.56,0.64,1), border-color 0.2s, color 0.2s;
+  }
+  .icon-btn:hover{border-color:var(--gold); color:var(--gold); transform:translateY(-2px) rotate(6deg);}
+  .icon-btn svg{width:17px;height:17px;}
+
+  /* ---- Screens ---- */
+  .screen{display:none;}
+  .screen.active{display:block; animation:rise 0.5s cubic-bezier(0.22,1,0.36,1);}
+  @keyframes rise{from{opacity:0; transform:translateY(14px);} to{opacity:1; transform:translateY(0);}}
+
+  /* ---- Dashboard ---- */
+  .hero{
+    display:grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap:var(--space-lg);
+    margin-bottom:var(--space-xl);
+  }
+  @media (max-width:760px){ .hero{grid-template-columns:1fr;} }
+
+  .hero-main{
+    background:linear-gradient(165deg, var(--surface) 0%, var(--bg-elev) 100%);
+    border:1px solid var(--line);
+    border-top:3px solid var(--gold);
+    border-radius:var(--radius);
+    padding:var(--space-xl) var(--space-lg);
+    position:relative;
+    overflow:hidden;
+    box-shadow:var(--shadow-1);
+  }
+  /* sütun silueti sağda */
+  .hero-main::before{
+    content:"";
+    position:absolute; top:0; right:18px; bottom:0;
+    width:120px;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='300' viewBox='0 0 120 300'%3E%3Cg fill='none' stroke='%23d4af5a' stroke-width='2' opacity='0.8'%3E%3Crect x='18' y='18' width='84' height='10'/%3E%3Crect x='26' y='28' width='68' height='8'/%3E%3Cpath d='M30 36 C30 48 24 46 24 54 L96 54 C96 46 90 48 90 36 Z'/%3E%3Cline x1='38' y1='54' x2='38' y2='262'/%3E%3Cline x1='50' y1='54' x2='50' y2='262'/%3E%3Cline x1='62' y1='54' x2='62' y2='262'/%3E%3Cline x1='74' y1='54' x2='74' y2='262'/%3E%3Cline x1='86' y1='54' x2='86' y2='262'/%3E%3Crect x='26' y='262' width='68' height='8'/%3E%3Crect x='18' y='270' width='84' height='12'/%3E%3C/g%3E%3C/svg%3E");
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center right;
+    opacity:0.12;
+    pointer-events:none;
+  }
+  /* süzülen toz zerreleri */
+  .dust{position:absolute; inset:0; pointer-events:none; overflow:hidden;}
+  .dust span{
+    position:absolute;
+    width:4px; height:4px;
+    border-radius:50%;
+    background:var(--gold);
+    opacity:0;
+    animation:dustFloat 9s linear infinite;
+  }
+  .dust span:nth-child(1){left:12%; animation-delay:0s;}
+  .dust span:nth-child(2){left:30%; animation-delay:2.2s; width:3px; height:3px;}
+  .dust span:nth-child(3){left:52%; animation-delay:4.5s;}
+  .dust span:nth-child(4){left:68%; animation-delay:1.3s; width:2px; height:2px;}
+  .dust span:nth-child(5){left:83%; animation-delay:5.8s; width:3px; height:3px;}
+  .dust span:nth-child(6){left:44%; animation-delay:7.1s; width:2px; height:2px;}
+  @keyframes dustFloat{
+    0%{transform:translateY(105%); opacity:0;}
+    12%{opacity:0.5;}
+    85%{opacity:0.25;}
+    100%{transform:translateY(-380px); opacity:0;}
+  }
+
+  .hero-eyebrow{
+    font-family:var(--serif);
+    font-size:0.85rem;
+    letter-spacing:0.3em;
+    text-transform:uppercase;
+    color:var(--terracotta);
+    margin-bottom:var(--space-sm);
+    display:block;
+  }
+  .hero-main h1{font-size:clamp(1.7rem, 4vw, 2.5rem); margin-bottom:var(--space-sm); position:relative;}
+  .hero-main p{color:var(--ink-dim); max-width:46ch; margin-bottom:var(--space-lg); position:relative;}
+  .due-badge{
+    display:inline-flex; align-items:center; gap:var(--space-sm);
+    background:var(--good-bg);
+    border:1px solid var(--good);
+    color:var(--good);
+    padding:6px 14px;
+    border-radius:20px;
+    font-size:0.85rem;
+    margin-bottom:var(--space-lg);
+    position:relative;
+  }
+  .due-badge.zero{color:var(--ink-faint); border-color:var(--line); background:transparent;}
+  .cta-row{display:flex; gap:var(--space-sm); flex-wrap:wrap; position:relative;}
+
+  .btn{
+    appearance:none;
+    border:none;
+    cursor:pointer;
+    padding:13px 22px;
+    border-radius:var(--radius);
+    font-size:0.95rem;
+    font-weight:600;
+    letter-spacing:0.01em;
+    transition:transform 0.18s cubic-bezier(0.34,1.56,0.64,1), box-shadow 0.18s;
+    position:relative;
+    overflow:hidden;
+  }
+  .btn:active{transform:scale(0.97);}
+  .btn-primary{
+    background:var(--terracotta);
+    color:#fff4ea;
+    box-shadow:0 4px 14px rgba(193,87,42,0.35);
+  }
+  .btn-primary::after{
+    content:"";
+    position:absolute; top:0; left:-80%;
+    width:50%; height:100%;
+    background:linear-gradient(100deg, transparent, rgba(255,244,220,0.35), transparent);
+    transform:skewX(-20deg);
+    transition:left 0.45s ease;
+  }
+  .btn-primary:hover::after{left:130%;}
+  .btn-primary:hover{transform:translateY(-2px); box-shadow:0 8px 20px rgba(193,87,42,0.45);}
+  .btn-secondary{
+    background:transparent;
+    color:var(--ink);
+    border:1px solid var(--line);
+  }
+  .btn-secondary:hover{border-color:var(--aegean-bright); color:var(--aegean-bright); transform:translateY(-2px);}
+  .btn-ghost{
+    background:transparent; color:var(--ink-dim); border:none; padding:8px 4px; text-decoration:underline; text-underline-offset:3px;
+  }
+  .btn-ghost:hover{color:var(--gold);}
+  .btn:disabled{opacity:0.4; cursor:not-allowed; transform:none !important;}
+
+  .stat-card{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    padding:var(--space-lg);
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    gap:var(--space-md);
+    box-shadow:var(--shadow-1);
+  }
+  .stat-grid-mini{display:grid; grid-template-columns:1fr 1fr; gap:var(--space-md);}
+  .stat-num{font-family:var(--serif); font-size:2.2rem; font-weight:700; color:var(--gold); line-height:1;}
+  .stat-label{font-size:0.72rem; color:var(--ink-faint); text-transform:uppercase; letter-spacing:0.08em; margin-top:4px;}
+
+  /* topic chooser */
+  .section-label{
+    font-family:var(--serif);
+    font-size:0.85rem; letter-spacing:0.26em; text-transform:uppercase; color:var(--ink-faint);
+    margin-bottom:var(--space-md); display:flex; align-items:center; gap:var(--space-md);
+  }
+  .section-label::after{
+    content:""; flex:1; height:1px;
+    background:linear-gradient(90deg, var(--line), transparent);
+  }
+  .topic-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(220px,1fr));
+    gap:var(--space-sm);
+    margin-bottom:var(--space-xl);
+  }
+  .topic-card{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-left:3px solid var(--line);
+    border-radius:var(--radius);
+    padding:var(--space-md);
+    cursor:pointer;
+    text-align:left;
+    color:var(--ink);
+    position:relative;
+    transition:transform 0.22s cubic-bezier(0.34,1.56,0.64,1), border-color 0.22s, box-shadow 0.22s;
+    animation:cardRise 0.55s cubic-bezier(0.22,1,0.36,1) both;
+    animation-delay:calc(var(--i,0) * 60ms);
+  }
+  @keyframes cardRise{
+    from{opacity:0; transform:translateY(22px);}
+    to{opacity:1; transform:translateY(0);}
+  }
+  .topic-card:hover{transform:translateY(-5px); border-color:var(--gold); border-left-color:var(--gold); box-shadow:var(--shadow-2);}
+  .topic-card .tnum{font-family:var(--serif); color:var(--terracotta); font-size:0.85rem; font-weight:700; display:block; margin-bottom:6px; letter-spacing:0.1em;}
+  .topic-card .tname{font-weight:600; font-size:0.95rem; display:block; margin-bottom:8px;}
+  .topic-bar{height:4px; background:var(--line); border-radius:2px; overflow:hidden;}
+  .topic-bar-fill{height:100%; background:var(--aegean-bright); border-radius:2px; transition:width 0.6s cubic-bezier(0.22,1,0.36,1);}
+  .topic-meta{font-size:0.72rem; color:var(--ink-faint); margin-top:6px; display:block;}
+
+  /* ---- Mode select panels ---- */
+  .panel{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    padding:var(--space-lg);
+    margin-bottom:var(--space-lg);
+    box-shadow:var(--shadow-1);
+  }
+  .panel h2{font-size:1.35rem; margin-bottom:var(--space-sm);}
+  .panel-desc{color:var(--ink-dim); font-size:0.9rem; margin-bottom:var(--space-md);}
+  .field-row{display:flex; gap:var(--space-md); flex-wrap:wrap; margin-bottom:var(--space-md);}
+  .field{display:flex; flex-direction:column; gap:6px;}
+  .field label{font-size:0.78rem; color:var(--ink-faint); text-transform:uppercase; letter-spacing:0.06em;}
+  select, input[type=number]{
+    background:var(--bg-elev);
+    border:1px solid var(--line);
+    color:var(--ink);
+    padding:9px 12px;
+    border-radius:var(--radius);
+    font-family:inherit;
+    font-size:0.9rem;
+  }
+  .chip-row{display:flex; gap:8px; flex-wrap:wrap;}
+  .chip{
+    border:1px solid var(--line);
+    background:transparent;
+    color:var(--ink-dim);
+    padding:8px 16px;
+    border-radius:20px;
+    font-size:0.83rem;
+    cursor:pointer;
+    transition:border-color 0.18s, color 0.18s, background 0.18s, transform 0.18s;
+  }
+  .chip:hover{border-color:var(--gold); color:var(--gold); transform:translateY(-1px);}
+  .chip.active{
+    border-color:var(--gold); color:var(--gold); background:var(--gold-soft);
+    font-weight:600;
+  }
+
+  /* ---- Quiz / Exam screen ---- */
+  .quiz-top{
+    display:flex; align-items:center; justify-content:space-between;
+    margin-bottom:var(--space-lg);
+    gap:var(--space-md);
+    flex-wrap:wrap;
+  }
+  .progress-track{
+    flex:1;
+    height:10px;
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:5px;
+    overflow:hidden;
+    min-width:120px;
+  }
+  .progress-fill{
+    height:100%;
+    background:linear-gradient(90deg, var(--terracotta), var(--gold));
+    border-radius:5px;
+    transition:width 0.35s cubic-bezier(0.34,1.56,0.64,1);
+    position:relative;
+  }
+  .quiz-counter{font-size:0.85rem; color:var(--ink-dim); white-space:nowrap;}
+  .timer{
+    font-family:var(--serif);
+    font-weight:700;
+    font-size:1.15rem;
+    color:var(--gold);
+    border:1px solid var(--line);
+    border-radius:20px;
+    padding:5px 14px;
+    white-space:nowrap;
+  }
+  .timer.urgent{color:var(--bad); border-color:var(--bad); animation:pulse 1s infinite;}
+  @keyframes pulse{0%,100%{opacity:1;} 50%{opacity:0.5;}}
+
+  .question-card{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-top:3px solid var(--gold);
+    border-radius:var(--radius);
+    padding:var(--space-xl) var(--space-lg);
+    position:relative;
+    box-shadow:var(--shadow-1);
+  }
+  .question-card.shake{animation:shake 0.4s cubic-bezier(0.36,0.07,0.19,0.97);}
+  @keyframes shake{
+    10%,90%{transform:translateX(-2px);}
+    20%,80%{transform:translateX(3px);}
+    30%,50%,70%{transform:translateX(-5px);}
+    40%,60%{transform:translateX(5px);}
+  }
+  .question-card.glow{animation:glowPop 0.6s ease;}
+  @keyframes glowPop{
+    0%{box-shadow:var(--shadow-1);}
+    35%{box-shadow:0 0 0 3px var(--good), 0 0 30px rgba(122,154,94,0.35);}
+    100%{box-shadow:var(--shadow-1);}
+  }
+  .q-topic-tag{
+    display:inline-block;
+    font-size:0.7rem;
+    text-transform:uppercase;
+    letter-spacing:0.12em;
+    color:var(--aegean-bright);
+    border:1px solid var(--aegean);
+    padding:3px 10px;
+    border-radius:12px;
+    margin-bottom:var(--space-md);
+  }
+  .q-text{font-family:var(--serif); font-size:1.45rem; font-weight:600; line-height:1.35; margin-bottom:var(--space-lg);}
+  .options{display:flex; flex-direction:column; gap:10px;}
+  .option{
+    text-align:left;
+    background:var(--bg-elev);
+    border:1px solid var(--line);
+    color:var(--ink);
+    padding:14px 16px;
+    border-radius:var(--radius);
+    cursor:pointer;
+    font-size:0.96rem;
+    display:flex;
+    align-items:flex-start;
+    gap:12px;
+    transition:border-color 0.18s, transform 0.15s, background 0.18s;
+    animation:optSlide 0.4s cubic-bezier(0.22,1,0.36,1) both;
+    animation-delay:calc(var(--i,0) * 45ms);
+  }
+  @keyframes optSlide{
+    from{opacity:0; transform:translateX(-12px);}
+    to{opacity:1; transform:translateX(0);}
+  }
+  .option:hover:not(:disabled){border-color:var(--gold); transform:translateX(4px);}
+  .option .letter{
+    font-family:var(--serif);
+    color:var(--ink-faint);
+    font-weight:700;
+    flex-shrink:0;
+  }
+  .option.correct{border-color:var(--good); background:var(--good-bg); color:var(--good);}
+  .option.correct .letter{color:var(--good);}
+  .option.wrong{border-color:var(--bad); background:var(--bad-bg); color:var(--bad);}
+  .option.wrong .letter{color:var(--bad);}
+  .option.dim{opacity:0.45;}
+  .option:disabled{cursor:default;}
+
+  /* defne yaprağı konfetisi */
+  .leaf-bit{
+    position:fixed;
+    width:12px; height:12px;
+    pointer-events:none;
+    z-index:99;
+    animation:leafFly 0.9s cubic-bezier(0.22,1,0.36,1) forwards;
+  }
+  @keyframes leafFly{
+    0%{transform:translate(0,0) rotate(0deg) scale(1); opacity:1;}
+    100%{transform:translate(var(--dx,40px), var(--dy,-80px)) rotate(var(--rot,220deg)) scale(0.5); opacity:0;}
+  }
+
+  .explain{
+    margin-top:var(--space-lg);
+    padding:var(--space-md);
+    border-radius:var(--radius);
+    border:1px solid var(--line);
+    border-left:3px solid var(--gold);
+    background:var(--bg-elev);
+    font-size:0.9rem;
+    color:var(--ink-dim);
+    animation:rise 0.3s cubic-bezier(0.22,1,0.36,1);
+  }
+  .explain strong{color:var(--ink);}
+
+  .quiz-footer{
+    display:flex; justify-content:space-between; align-items:center;
+    margin-top:var(--space-lg);
+  }
+
+  /* ---- Result screen ---- */
+  .result-hero{text-align:center; padding:var(--space-xl) 0 var(--space-lg); position:relative;}
+  .wreath{
+    width:230px; height:150px;
+    display:block;
+    margin:0 auto -118px;
+  }
+  .wreath path{
+    stroke:var(--gold);
+    fill:none;
+    stroke-width:2.5;
+    stroke-linecap:round;
+    stroke-dasharray:420;
+    stroke-dashoffset:420;
+    animation:wreathDraw 1.4s cubic-bezier(0.4,0,0.2,1) 0.2s forwards;
+  }
+  @keyframes wreathDraw{to{stroke-dashoffset:0;}}
+  .result-score{
+    font-family:var(--serif);
+    font-size:4.5rem;
+    font-weight:700;
+    color:var(--gold);
+    line-height:1;
+    position:relative;
+    animation:scorePop 0.7s cubic-bezier(0.34,1.56,0.64,1) 0.3s both;
+  }
+  @keyframes scorePop{
+    from{opacity:0; transform:scale(0.6);}
+    to{opacity:1; transform:scale(1);}
+  }
+  .result-score span{font-size:1.8rem; color:var(--ink-faint);}
+  .result-label{color:var(--ink-dim); margin-top:var(--space-sm); position:relative;}
+  .result-grid{
+    display:grid; grid-template-columns:repeat(3,1fr); gap:var(--space-sm);
+    margin:var(--space-xl) 0;
+  }
+  .result-stat{
+    background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
+    padding:var(--space-md); text-align:center;
+    animation:cardRise 0.5s cubic-bezier(0.22,1,0.36,1) both;
+  }
+  .result-stat:nth-child(1){animation-delay:0.5s;}
+  .result-stat:nth-child(2){animation-delay:0.62s;}
+  .result-stat:nth-child(3){animation-delay:0.74s;}
+  .result-stat .n{font-family:var(--serif); font-size:1.7rem; font-weight:700;}
+  .result-stat.good .n{color:var(--good);}
+  .result-stat.bad .n{color:var(--bad);}
+  .result-stat.empty .n{color:var(--ink-faint);}
+  .result-stat .l{font-size:0.72rem; color:var(--ink-faint); text-transform:uppercase; letter-spacing:0.06em; margin-top:4px;}
+
+  .review-list{display:flex; flex-direction:column; gap:10px; margin-top:var(--space-lg);}
+  .review-item{
+    background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
+    padding:var(--space-md);
+  }
+  .review-item .rq{font-size:0.92rem; margin-bottom:6px;}
+  .review-item .ra{font-size:0.82rem; color:var(--ink-dim);}
+  .review-item.bad{border-left:3px solid var(--bad);}
+  .review-item.good{border-left:3px solid var(--good);}
+
+  /* ---- Stats screen ---- */
+  .topic-stat-row{
+    display:flex; align-items:center; gap:var(--space-md);
+    padding:12px 0;
+    border-bottom:1px solid var(--line);
+  }
+  .topic-stat-row:last-child{border-bottom:none;}
+  .topic-stat-name{flex:0 0 200px; font-size:0.88rem;}
+  .topic-stat-bar{flex:1; height:8px; background:var(--bg-elev); border-radius:4px; overflow:hidden;}
+  .topic-stat-fill{height:100%; border-radius:4px; transition:width 0.7s cubic-bezier(0.22,1,0.36,1);}
+  .topic-stat-pct{flex:0 0 48px; text-align:right; font-size:0.85rem; color:var(--ink-dim); font-family:var(--serif); font-weight:700;}
+
+  .miss-row{
+    display:flex; justify-content:space-between; align-items:center;
+    padding:10px 0; border-bottom:1px solid var(--line); gap:var(--space-md);
+  }
+  .miss-row:last-child{border-bottom:none;}
+  .miss-q{font-size:0.85rem; color:var(--ink-dim); flex:1;}
+  .miss-count{font-family:var(--serif); color:var(--bad); font-weight:700; flex-shrink:0;}
+
+  .back-link{
+    display:inline-flex; align-items:center; gap:6px;
+    color:var(--ink-dim); text-decoration:none; font-size:0.88rem; cursor:pointer;
+    margin-bottom:var(--space-lg); background:none; border:none; padding:0;
+  }
+  .back-link:hover{color:var(--gold);}
+
+  .empty-state{
+    text-align:center; padding:var(--space-2xl) var(--space-md); color:var(--ink-faint);
+  }
+  .empty-state svg{width:48px; height:48px; margin-bottom:var(--space-md); opacity:0.5;}
+
+  textarea.json-area{
+    width:100%; min-height:120px; background:var(--bg-elev); border:1px solid var(--line);
+    color:var(--ink-dim); border-radius:var(--radius); padding:var(--space-md); font-family:monospace; font-size:0.78rem;
+  }
+
+  footer.site-footer{
+    text-align:center; color:var(--ink-faint); font-size:0.78rem; padding-top:var(--space-lg); margin-top:var(--space-xl);
+  }
+  .footer-meander{margin-top:var(--space-2xl); opacity:0.3;}
+
+  @media (prefers-reduced-motion: reduce){
+    *{animation-duration:0.001ms !important; transition-duration:0.001ms !important;}
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <header class="site-header">
+    <div class="brand">
+      <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M30 78 L30 38 L50 22 L70 38 L70 78 Z" stroke="#c9a24b" stroke-width="4"/><line x1="40" y1="78" x2="40" y2="48" stroke="#c9a24b" stroke-width="3"/><line x1="60" y1="78" x2="60" y2="48" stroke="#c9a24b" stroke-width="3"/></svg>
+      <div class="brand-text">
+        <strong>Logos</strong>
+        <span>ΛΟΓΟΣ</span>
+      </div>
+    </div>
+    <nav class="header-nav">
+      <button class="icon-btn" id="themeToggle" title="Gündüz / Gece" aria-label="Tema değiştir">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+      </button>
+      <button class="icon-btn" id="navStats" title="İstatistikler" aria-label="İstatistikler">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 3v18h18"/><path d="M7 16l4-6 4 3 5-8"/></svg>
+      </button>
+      <button class="icon-btn" id="navSettings" title="Ayarlar" aria-label="Ayarlar">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+      </button>
+    </nav>
+  </header>
+  <div class="meander header-meander" aria-hidden="true"></div>
+
+  <!-- ============ DASHBOARD ============ -->
+  <section class="screen active" id="screen-dashboard">
+    <div class="chip-row" id="courseTabs" style="margin-bottom:var(--space-lg);"></div>
+    <div class="hero">
+      <div class="hero-main">
+        <div class="dust" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span></div>
+        <span class="hero-eyebrow">İlkçağ Klasik Dönem Felsefesi</span>
+        <h1>Sınava değil, kavrama çalış.</h1>
+        <p>80 soruluk havuzdan çalış; yanlış yaptıkların belirli aralıklarla önüne tekrar gelsin.</p>
+        <div id="dueBadge" class="due-badge zero">— yükleniyor —</div>
+        <div class="cta-row">
+          <button class="btn btn-primary" id="startQuizBtn">Quiz Başlat</button>
+          <button class="btn btn-secondary" id="startExamBtn">Sınav Simülasyonu</button>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-grid-mini">
+          <div>
+            <div class="stat-num" id="statTotalAnswered">0</div>
+            <div class="stat-label">Çözülen Soru</div>
+          </div>
+          <div>
+            <div class="stat-num" id="statAccuracy">—</div>
+            <div class="stat-label">Başarı Oranı</div>
+          </div>
+          <div>
+            <div class="stat-num" id="statMastered">0</div>
+            <div class="stat-label">Oturmuş Soru</div>
+          </div>
+          <div>
+            <div class="stat-num" id="statTotalQ">80</div>
+            <div class="stat-label">Toplam Soru</div>
+          </div>
+        </div>
+        <button class="btn-ghost" id="goStats" style="text-align:left;">Tüm istatistikleri gör →</button>
+      </div>
+    </div>
+
+    <span class="section-label">Konuya göre çalış</span>
+    <div class="topic-grid" id="topicGrid"></div>
+
+    <span class="section-label">Yalnızca yanlış yapılanlar</span>
+    <div class="panel" style="margin-bottom:0;">
+      <p class="panel-desc">Şimdiye kadar en az bir kez yanlış cevapladığın sorulardan oluşan hızlı bir tur.</p>
+      <button class="btn btn-secondary" id="wrongOnlyBtn">Yanlışları Tekrar Et</button>
+    </div>
+  </section>
+
+  <!-- ============ QUIZ SETUP (topic confirm) handled inline, MODE: quiz/exam runner ============ -->
+  <section class="screen" id="screen-examsetup">
+    <button class="back-link" data-back="dashboard">&larr; Panele dön</button>
+    <div class="panel">
+      <h2>Sınav Simülasyonu</h2>
+      <p class="panel-desc">Süreli bir tur. Cevaplar sınav bitene kadar gösterilmez.</p>
+      <div class="field-row">
+        <div class="field">
+          <label for="examCount">Soru sayısı</label>
+          <select id="examCount">
+            <option value="10">10 soru</option>
+            <option value="20" selected>20 soru</option>
+            <option value="40">40 soru</option>
+            <option value="80">80 soru (tamamı)</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="examMinutes">Süre (dakika)</label>
+          <select id="examMinutes">
+            <option value="10">10 dk</option>
+            <option value="15" selected>15 dk</option>
+            <option value="25">25 dk</option>
+            <option value="40">40 dk</option>
+          </select>
+        </div>
+      </div>
+      <button class="btn btn-primary" id="examBeginBtn">Sınavı Başlat</button>
+    </div>
+  </section>
+
+  <!-- ============ QUIZ / EXAM RUNNER ============ -->
+  <section class="screen" id="screen-run">
+    <div class="quiz-top">
+      <button class="back-link" id="quitRunBtn" style="margin-bottom:0;">&larr; Çık</button>
+      <div class="progress-track"><div class="progress-fill" id="runProgressFill" style="width:0%"></div></div>
+      <span class="quiz-counter" id="runCounter">1 / 10</span>
+      <span class="timer" id="runTimer" style="display:none;">15:00</span>
+    </div>
+
+    <div class="question-card">
+      <span class="q-topic-tag" id="runTopicTag">Konu</span>
+      <h2 class="q-text" id="runQuestionText">Soru metni</h2>
+      <div class="options" id="runOptions"></div>
+      <div class="explain" id="runExplain" style="display:none;"></div>
+    </div>
+
+    <div class="quiz-footer">
+      <span></span>
+      <button class="btn btn-primary" id="runNextBtn" disabled>Sonraki Soru</button>
+    </div>
+  </section>
+
+  <!-- ============ RESULT ============ -->
+  <section class="screen" id="screen-result">
+    <div class="result-hero">
+      <svg class="wreath" viewBox="0 0 230 150" aria-hidden="true">
+        <path d="M115 138 C60 138 28 100 30 48 M30 48 l-8 10 M30 48 l11 6 M38 78 l-11 7 M38 78 l12 3 M50 103 l-10 9 M50 103 l13 1 M70 122 l-7 11 M70 122 l12 -2 M94 133 l-3 12 M94 133 l10 -6"/>
+        <path d="M115 138 C170 138 202 100 200 48 M200 48 l8 10 M200 48 l-11 6 M192 78 l11 7 M192 78 l-12 3 M180 103 l10 9 M180 103 l-13 1 M160 122 l7 11 M160 122 l-12 -2 M136 133 l3 12 M136 133 l-10 -6"/>
+      </svg>
+      <div class="result-score"><span id="resultRaw">0/0</span></div>
+      <div class="result-label" id="resultLabel">Tur tamamlandı</div>
+    </div>
+    <div class="result-grid">
+      <div class="result-stat good"><div class="n" id="resCorrect">0</div><div class="l">Doğru</div></div>
+      <div class="result-stat bad"><div class="n" id="resWrong">0</div><div class="l">Yanlış</div></div>
+      <div class="result-stat empty"><div class="n" id="resEmpty">0</div><div class="l">Boş</div></div>
+    </div>
+    <div class="cta-row" style="justify-content:center;">
+      <button class="btn btn-primary" id="resultBackBtn">Panele Dön</button>
+    </div>
+    <div id="resultReview"></div>
+  </section>
+
+  <!-- ============ STATS ============ -->
+  <section class="screen" id="screen-stats">
+    <button class="back-link" data-back="dashboard">&larr; Panele dön</button>
+    <h1 style="margin-bottom:var(--space-lg);">İstatistikler</h1>
+
+    <div class="panel">
+      <h2>Konu Bazlı Başarı</h2>
+      <div id="topicStatsList" style="margin-top:var(--space-md);"></div>
+    </div>
+
+    <div class="panel">
+      <h2>En Çok Yanlış Yapılan Sorular</h2>
+      <div id="missList" style="margin-top:var(--space-md);"></div>
+    </div>
+  </section>
+
+  <!-- ============ SETTINGS ============ -->
+  <section class="screen" id="screen-settings">
+    <button class="back-link" data-back="dashboard">&larr; Panele dön</button>
+    <h1 style="margin-bottom:var(--space-lg);">Ayarlar</h1>
+    <div class="panel">
+      <h2>Yedekleme</h2>
+      <p class="panel-desc">İlerleme verin (cevap geçmişi, tekrar takvimi) bu tarayıcıda saklanır. Tarayıcı verisini silersen kaybolur — yedeklemek için dışa aktar.</p>
+      <div class="cta-row" style="margin-bottom:var(--space-md);">
+        <button class="btn btn-secondary" id="exportBtn">Dışa Aktar (JSON)</button>
+        <button class="btn btn-secondary" id="importBtn">İçe Aktar</button>
+        <button class="btn btn-ghost" id="resetBtn">Tüm ilerlemeyi sıfırla</button>
+      </div>
+      <textarea class="json-area" id="jsonArea" placeholder="İçe aktarmak için JSON verisini buraya yapıştır ve İçe Aktar'a bas." style="display:none;"></textarea>
+    </div>
+  </section>
+
+</div>
+
+<footer class="site-footer wrap" style="padding-top:0; margin-top:0; border:none;">
+  <div class="meander footer-meander" aria-hidden="true"></div>
+  <p>Logos — γνῶθι σεαυτόν · kişisel çalışma aracı. Veriler yalnızca bu tarayıcıda saklanır.</p>
+</footer>
+
+<script>
+const QUESTIONS = [{"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q101", "konu": "Atina ve Demokrasi", "soru": "Antik Yunan düşüncesinde dünyayı mitolojik anlatılarla açıklayan çerçeveden akılcı sorgulamalara geçişi ifade eden kavram çifti aşağıdakilerden hangisidir?", "siklar": ["Nomos'tan Physis'e", "Doxa'dan Episteme'ye", "Arkhe'den Telos'a", "Kaos'tan Kozmos'a", "Mitos'tan Logos'a"], "dogru": 4, "aciklama": "Doğru cevap: Mitos'tan Logos'a."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q102", "konu": "Atina ve Demokrasi", "soru": "Friedell'e göre bir polis'ten beklenen temel özellikler arasında aşağıdakilerden hangisi yer almaz?", "siklar": ["Eleutheria (bağımsızlık)", "Autonomia (özerklik)", "Autarkeia (kendine yeterlik)", "Politeia (yönetim biçimi)", "Bu özelliklerin hepsi beklenir."], "dogru": 3, "aciklama": "Doğru cevap: Politeia (yönetim biçimi)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q103", "konu": "Atina ve Demokrasi", "soru": "Heredotos'a göre Yunanlı kimliğini ve biraradalığını oluşturan dört temel unsur arasında aşağıdakilerden hangisi sayılmamıştır?", "siklar": ["Ortak köken", "Ortak dil", "Ortak askeri ittifak", "Ortak kutsal yerler ve kültler", "Ortak gelenek ve görenekler"], "dogru": 2, "aciklama": "Doğru cevap: Ortak askeri ittifak."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q104", "konu": "Atina ve Demokrasi", "soru": "Atina'da yaşanan krizleri çözmek amacıyla hazırlanan ancak çok sert cezalar öngördüğü için başarısız olan ilk yasalar kime aittir?", "siklar": ["Drakon", "Solon", "Kleisthenes", "Perikles", "Peisistratos"], "dogru": 0, "aciklama": "Doğru cevap: Drakon."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q105", "konu": "Atina ve Demokrasi", "soru": "Atina demokrasisinin gelişiminde borç köleliğini kaldırarak toplumsal uzlaşıyı sağlamayı amaçlayan reformcu lider kimdir?", "siklar": ["Drakon", "Solon", "Kleisthenes", "Themistokles", "Peisistratos"], "dogru": 1, "aciklama": "Doğru cevap: Solon."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q106", "konu": "Atina ve Demokrasi", "soru": "Solon'un yasalarının halk arasında bir alışkanlık haline gelmesine ironik bir şekilde ön ayak olan tiran kimdir?", "siklar": ["Hippias", "Hipparkhos", "Peisistratos", "Kritias", "Alkibiades"], "dogru": 2, "aciklama": "Doğru cevap: Peisistratos."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q107", "konu": "Atina ve Demokrasi", "soru": "Antik Atina'da şehir işlerine karışmayan, kamusal yaşama katılmayan \"önemsiz\" birey için kullanılan ve \"alık\" kelimesinin de kökeni olan terim nedir?", "siklar": ["Polites", "Barbaros", "İdiotes", "Metoikos", "Helot"], "dogru": 2, "aciklama": "Doğru cevap: İdiotes."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q108", "konu": "Atina ve Demokrasi", "soru": "Metne göre Sofistlerin ortaya çıkışını sağlayan temel pratik ihtiyaç aşağıdakilerden hangisidir?", "siklar": ["Doğa felsefesine duyulan ilginin artması", "Olimpiyat oyunlarına hazırlanma gerekliliği", "Halk meclisinde ve mahkemelerde yurttaşların ikna etme becerisine ihtiyaç duyması", "Sparta ile yapılacak savaşlar için strateji geliştirme ihtiyacı", "E) Tanrılara sunulacak kurban törenlerini yönetme bilgisi"], "dogru": 2, "aciklama": "Doğru cevap: Halk meclisinde ve mahkemelerde yurttaşların ikna etme becerisine ihtiyaç duyması."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q109", "konu": "Atina ve Demokrasi", "soru": "Sofistlerin ücret karşılığında öğrettiği ve siyasi başarının anahtarı olarak görülen sanat aşağıdakilerden hangisidir?", "siklar": ["Heykeltıraşlık", "Diyalektik", "Retorik", "Geometri", "Astronomi"], "dogru": 2, "aciklama": "Doğru cevap: Retorik."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q110", "konu": "Atina ve Demokrasi", "soru": "\"İnsan her şeyin ölçüsüdür\" sözüyle mutlak ve evrensel bir hakikatin varlığını reddeden, doğruluğu bireyin algısına bağlayan Sofist düşünür kimdir?", "siklar": ["Protagoras", "Gorgias", "Thrasymakhos", "Hippias", "Prodikos"], "dogru": 0, "aciklama": "Doğru cevap: Protagoras."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q201", "konu": "Edebiyat ve Politika", "soru": "Tragedyanın temellerini atan ve Büyük Dionysia şenliklerini başlatan Atinalı tiran kimdir?", "siklar": ["Solon", "Kleisthenes", "Drakon", "Peisistratos", "Perikles"], "dogru": 3, "aciklama": "Doğru cevap: Peisistratos."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q202", "konu": "Edebiyat ve Politika", "soru": "Tragedya kelimesinin (Tragodia) etimolojik anlamı nedir?", "siklar": ["Tanrının şarkısı", "Kahramanın ağıtı", "Keçi için söylenen şarkı", "Şehrin öyküsü", "Kaderin oyunu"], "dogru": 2, "aciklama": "Doğru cevap: Keçi için söylenen şarkı."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q203", "konu": "Edebiyat ve Politika", "soru": "Tragedyanın köken aldığı, taşkınlık ve sınırların ihlaliyle ilişkili olan tanrı kimdir?", "siklar": ["Dionysos", "Apollon", "Zeus", "Athena", "Hermes"], "dogru": 0, "aciklama": "Doğru cevap: Dionysos."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q204", "konu": "Edebiyat ve Politika", "soru": "Aristoteles'in Poetika adlı eserine göre, tragedyanın izleyicide korku ve acıma duyguları uyandırarak sağladığı ruhsal arınmaya ne ad verilir?", "siklar": ["Hamartia", "Peripeteia", "Anagnorisis", "Katharsis", "Mimesis"], "dogru": 3, "aciklama": "Doğru cevap: Katharsis."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q205", "konu": "Edebiyat ve Politika", "soru": "Aristoteles'e göre trajik kahramanın düşüşüne neden olan \"trajik hata\" veya \"kusur\"u ifade eden kavram hangisidir?", "siklar": ["Hamartia", "Hubris", "Nemesis", "Ate", "Moira"], "dogru": 0, "aciklama": "Doğru cevap: Hamartia."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q206", "konu": "Edebiyat ve Politika", "soru": "Yunan tragedyası, metne göre nasıl bir toplumsal işlev görmektedir?", "siklar": ["Yalnızca aristokratları eğlendiren bir etkinliktir.", "Tarihsel olayları birebir anlatan belgesel bir nitelik taşır.", "Kentin tüm yurttaşlarının kendi sorunlarını kamusal olarak tartıştığı bir platformdur.", "Tanrılara kurban sunulan dini bir ritüeldir.", "Yabancı elçileri etkilemek için düzenlenen bir gösteridir."], "dogru": 2, "aciklama": "Doğru cevap: Kentin tüm yurttaşlarının kendi sorunlarını kamusal olarak tartıştığı bir platformdur.."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q207", "konu": "Edebiyat ve Politika", "soru": "Aristoteles'e göre şiir (tragedya) ile tarih arasındaki temel fark nedir?", "siklar": ["Şiir düzyazı, tarih ise dizelerle yazılır.", "Tarihçi gerçekten olmuş şeyleri, ozan ise olabilecek şeyleri anlatır.", "Şiir tanrılardan, tarih ise insanlardan bahseder.", "Tarih nesnel, şiir ise tamamen özneldir.", "Şiir eğlendirir, tarih ise öğretir."], "dogru": 1, "aciklama": "Doğru cevap: Tarihçi gerçekten olmuş şeyleri, ozan ise olabilecek şeyleri anlatır.."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q208", "konu": "Edebiyat ve Politika", "soru": "Eski Komedya'nın en büyük temsilcisi olan ve eserlerinde Peloponnesos Savaşları'nı, politikacıları ve entelektüelleri hicveden yazar kimdir?", "siklar": ["Aristofanes", "Menandros", "Euripides", "Aiskhylos", "Thespis"], "dogru": 0, "aciklama": "Doğru cevap: Aristofanes."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q209", "konu": "Edebiyat ve Politika", "soru": "Aristofanes'in Barış oyununda, savaşın yalnızca toprağın ürünlerini değil, aynı zamanda aklı ve bilgeliği de esir aldığını göstermek için kullandığı alegorik karakterlerden biri aşağıdakilerden hangisidir?", "siklar": ["Adalet (Dike)", "Barış (Eirene)", "Zenginlik (Ploutos)", "Bilgelik (Theoria)", "Cesaret (Andreia)"], "dogru": 3, "aciklama": "Doğru cevap: Bilgelik (Theoria)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q210", "konu": "Edebiyat ve Politika", "soru": "Aristofanes'in Bulutlar adlı oyununda, halkın sorunlarından kopuk ve anlaşılmaz bir dille konuşan \"züppeler\" olarak hicvettiği figürler kimlerdir?", "siklar": ["Politikacılar ve generaller", "Şairler ve müzisyenler", "Sokrates ve Sofistler", "Rahipler ve kahinler", "Sporcular ve tüccarlar"], "dogru": 2, "aciklama": "Doğru cevap: Sokrates ve Sofistler."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q301", "konu": "Sokrates ve Minotouros", "soru": "Sokrates'in düşüncelerine dair yazılı eser bırakmamasının temel nedeni nedir?", "siklar": ["Yazı yazmayı bilmemesi", "Felsefeyi canlı bir diyalog ve sorgulama faaliyeti olarak görmesi", "Eserlerinin zamanla kaybolması", "Atina'da kağıt ve mürekkebin bulunmaması", "Düşüncelerinin gizli kalmasını istemesi"], "dogru": 1, "aciklama": "Doğru cevap: Felsefeyi canlı bir diyalog ve sorgulama faaliyeti olarak görmesi."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q302", "konu": "Sokrates ve Minotouros", "soru": "Sokrates hakkındaki tanıklıklar arasında, onu bir \"güldürü malzemesi\" olarak kullanan ve diğer tanıklıklarla en az tutarlı olanı kime aittir?", "siklar": ["Aristofanes", "Ksenophon", "Platon", "Aristoteles", "Diogenes Laertios"], "dogru": 0, "aciklama": "Doğru cevap: Aristofanes."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q303", "konu": "Sokrates ve Minotouros", "soru": "Platon'un özellikle hangi dönem diyaloglarının tarihsel Sokrates'i yansıtmaya daha yakın olduğu kabul edilir?", "siklar": ["İlk dönem diyalogları", "Orta dönem diyalogları", "Geç dönem diyalogları", "Sadece son eseri olan Yasalar", "Tüm diyalogları eşit derecede yansıtır."], "dogru": 0, "aciklama": "Doğru cevap: İlk dönem diyalogları."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q304", "konu": "Sokrates ve Minotouros", "soru": "Sokrates'in kendisini, Atina devletini uyuşukluğundan uyandırmak için \"Tanrının musallat ettiği\" bir varlık olarak tanımlarken kullandığı benzetme nedir?", "siklar": ["Kılavuz köpek", "Bilge baykuş", "At sineği", "Bekçi köpeği", "Sadık hizmetkar"], "dogru": 2, "aciklama": "Doğru cevap: At sineği."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q305", "konu": "Sokrates ve Minotouros", "soru": "Sokrates'in yaşadığı ve Atina'nın gücünü yitirmesine neden olan yaklaşık otuz yıl süren savaş aşağıdakilerden hangisidir?", "siklar": ["Pers Savaşları", "Peloponnesos Savaşları", "Troya Savaşı", "Korint Savaşı", "Makedon Savaşları"], "dogru": 1, "aciklama": "Doğru cevap: Peloponnesos Savaşları."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q306", "konu": "Sokrates ve Minotouros", "soru": "Sokrates'in felsefi yönteminin ilk aşaması olan ve muhatabın iddiasındaki çelişkileri ortaya çıkararak onun cehaletini fark etmesini sağlayan tekniğe ne ad verilir?", "siklar": ["Elenkhos (Çürütme)", "Maiotik (Doğurtma sanatı)", "Diyalektik", "Aporia (Çıkmaz)", "Anamnesis (Anımsama)"], "dogru": 0, "aciklama": "Doğru cevap: Elenkhos (Çürütme)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q307", "konu": "Sokrates ve Minotouros", "soru": "Sokrates'in, bilginin dışarıdan aktarılamayacağını, ancak doğru sorularla kişinin ruhundan \"doğurtulabileceğini\" ifade eden yönteminin adı nedir?", "siklar": ["Elenkhos", "Maiotik", "Retorik", "Sofistik", "Analitik"], "dogru": 1, "aciklama": "Doğru cevap: Maiotik."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q308", "konu": "Sokrates ve Minotouros", "soru": "Aşağıdakilerden hangisi Sokrates'in temel felsefi ilkelerinden biridir?", "siklar": ["İnsan her şeyin ölçüsüdür.", "Aynı nehirde iki kez yıkanılmaz.", "Savaş her şeyin babasıdır.", "Sorgulanmamış bir hayat yaşamaya değmez.", "Hiçbir şey yoktan var olmaz."], "dogru": 3, "aciklama": "Doğru cevap: Sorgulanmamış bir hayat yaşamaya değmez.."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q309", "konu": "Sokrates ve Minotouros", "soru": "Sokrates'e göre en büyük kötülük nedir?", "siklar": ["Cehalet", "Fakirlik", "Hastalık", "Ölüm", "Yalnızlık"], "dogru": 0, "aciklama": "Doğru cevap: Cehalet."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q310", "konu": "Sokrates ve Minotouros", "soru": "Sokrates'in, dönemin siyasetine egemen olan ve sadece ikna gücüne dayandığı için tehlikeli bulduğu sanat nedir?", "siklar": ["Tragedya", "Komedya", "Retorik", "Müzik", "Heykel"], "dogru": 2, "aciklama": "Doğru cevap: Retorik."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q401", "konu": "Platon: İdealar Kuramı", "soru": "Platon'un felsefi projesinin temel amacı aşağıdakilerden hangisidir?", "siklar": ["Doğanın temel maddesini (arkhe) bulmak", "Retorik sanatını en üst seviyeye çıkarmak", "Değişen ve göreceli dünyaya karşı, değişmez ve mutlak bir hakikat zemini bulmak", "Atina demokrasisini olduğu gibi savunmak", "Mitolojik anlatıları yeniden canlandırmak"], "dogru": 2, "aciklama": "Doğru cevap: Değişen ve göreceli dünyaya karşı, değişmez ve mutlak bir hakikat zemini bulmak."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q402", "konu": "Platon: İdealar Kuramı", "soru": "Platon'un felsefi sisteminde, beş duyuyla algılanan, sürekli değişim halindeki dünyaya ne ad verilir?", "siklar": ["Duyusal dünya (Görünüşler dünyası)", "İdealar dünyası", "Matematiksel nesneler dünyası", "Tanrılar dünyası", "Ruhlar dünyası"], "dogru": 0, "aciklama": "Doğru cevap: Duyusal dünya (Görünüşler dünyası)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q403", "konu": "Platon: İdealar Kuramı", "soru": "Yalnızca saf akılla kavranabilen, değişmeyen, ezeli-ebedi ve mükemmel formların bulunduğu gerçeklik alanına ne ad verilir?", "siklar": ["Duyusal dünya", "İdealar dünyası", "Fiziksel dünya", "Gölgeler dünyası", "Sanılar dünyası"], "dogru": 1, "aciklama": "Doğru cevap: İdealar dünyası."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q404", "konu": "Platon: İdealar Kuramı", "soru": "Platon'a göre duyusal dünyaya ilişkin bilgimiz hangi düzeydedir?", "siklar": ["Episteme (Kesin bilgi)", "Doxa (Sanı, kanaat)", "Noesis (Saf akıl)", "Dianoia (Anlama yetisi)", "Anamnesis (Anımsama)"], "dogru": 1, "aciklama": "Doğru cevap: Doxa (Sanı, kanaat)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q405", "konu": "Platon: İdealar Kuramı", "soru": "Duyusal dünyadaki tikel bir \"güzel\" nesnenin varlığını borçlu olduğu asıl gerçeklik nedir?", "siklar": ["Onu yapan sanatçı", "Onu algılayan insan", "Güzellik İdeası", "Maddenin kendisi", "Toplumsal uzlaşı"], "dogru": 2, "aciklama": "Doğru cevap: Güzellik İdeası."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q406", "konu": "Platon: İdealar Kuramı", "soru": "İdealar dünyasının hiyerarşik yapısının mutlak zirvesinde yer alan ve diğer tüm İdeaların varlık ve bilinebilirlik nedeni olan İdea hangisidir?", "siklar": ["Adalet İdeası", "Güzellik İdeası", "Varlık İdeası", "İyi İdeası", "İnsan İdeası"], "dogru": 3, "aciklama": "Doğru cevap: İyi İdeası."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q407", "konu": "Platon: İdealar Kuramı", "soru": "Platon'un Devlet diyaloğunda İyi İdeası'nı açıklamak için kullandığı analoji nedir?", "siklar": ["Mağara analojisi", "Güneş analojisi", "Gemi analojisi", "Çizgi analojisi", "At arabası analojisi"], "dogru": 1, "aciklama": "Doğru cevap: Güneş analojisi."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q408", "konu": "Platon: İdealar Kuramı", "soru": "Platon'a göre \"öğrenme\" sürecini, ruhun daha önceden bildiği hakikatleri anımsaması olarak açıklayan kuramın adı nedir?", "siklar": ["Anamnesis (Anımsama) Kuramı", "Mimesis (Taklit) Kuramı", "Methexis (Pay Alma) Kuramı", "Katharsis (Arınma) Kuramı", "Elenkhos (Çürütme) Kuramı"], "dogru": 0, "aciklama": "Doğru cevap: Anamnesis (Anımsama) Kuramı."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q409", "konu": "Platon: İdealar Kuramı", "soru": "Anımsama Kuramı'nın temelinde yatan varsayım nedir?", "siklar": ["Ruhun bedenle birlikte var olduğu", "Bilginin tamamen duyulardan geldiği", "Ruhun ölümsüz olduğu ve bedene düşmeden önce İdealar dünyasında var olduğu", "Hiçbir şeyin bilinemeyeceği", "Tüm bilginin göreceli olduğu"], "dogru": 2, "aciklama": "Doğru cevap: Ruhun ölümsüz olduğu ve bedene düşmeden önce İdealar dünyasında var olduğu."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q410", "konu": "Platon: İdealar Kuramı", "soru": "Menon diyaloğunda Sokrates'in hiç eğitim almamış bir köleye geometri problemi çözdürmesi, hangi kuramı kanıtlamayı amaçlar?", "siklar": ["İdealar Kuramı'nı", "Adalet Kuramı'nı", "Anımsama Kuramı'nı", "Devlet Kuramı'nı", "Ruhun ölümsüzlüğü Kuramı'nı"], "dogru": 2, "aciklama": "Doğru cevap: Anımsama Kuramı'nı."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q501", "konu": "Platon ve Politika", "soru": "Platon'un politika felsefesine göre devletin temel amacı nedir?", "siklar": ["Topraklarını genişletmek", "Askeri olarak en güçlü olmak", "Yurttaşları erdemli ve mutlu kılmak", "En zengin devlet olmak", "Diğer devletlere egemen olmak"], "dogru": 2, "aciklama": "Doğru cevap: Yurttaşları erdemli ve mutlu kılmak."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q502", "konu": "Platon ve Politika", "soru": "Platon, ideal devleti tasarlarken aşağıdaki yapılardan hangisini model olarak kullanır?", "siklar": ["Sparta anayasasını", "Pers İmparatorluğu'nu", "İnsan ruhunun üçlü yapısını", "Doğa yasalarını", "Geometrik formları"], "dogru": 2, "aciklama": "Doğru cevap: İnsan ruhunun üçlü yapısını."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q503", "konu": "Platon ve Politika", "soru": "İdeal devlette aklı temsil eden ve bilgelik erdemine sahip olan sınıf hangisidir?", "siklar": ["Yöneticiler (Filozoflar)", "Koruyucular (Askerler)", "Üreticiler (Çiftçiler, Zanaatkarlar)", "Köleler", "Sanatçılar"], "dogru": 0, "aciklama": "Doğru cevap: Yöneticiler (Filozoflar)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q504", "konu": "Platon ve Politika", "soru": "İdeal devlette iradeyi (duygulanım) temsil eden ve cesaret erdemine sahip olan sınıf hangisidir?", "siklar": ["Yöneticiler", "Koruyucular", "Üreticiler", "Rahipler", "Yabancılar"], "dogru": 1, "aciklama": "Doğru cevap: Koruyucular."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q505", "konu": "Platon ve Politika", "soru": "Platon'a göre devletteki \"adalet\" nedir?", "siklar": ["Herkese eşit pay dağıtmak", "Yasaları harfiyen uygulamak", "Çoğunluğun iradesine uymak", "Her sınıfın kendi doğasına uygun işi yapması ve başkasının işine karışmaması", "Güçlünün çıkarına olanı yapmak"], "dogru": 3, "aciklama": "Doğru cevap: Her sınıfın kendi doğasına uygun işi yapması ve başkasının işine karışmaması."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q506", "konu": "Platon ve Politika", "soru": "Platon'un Devlet adlı eserindeki en radikal ve ünlü politik tezi aşağıdakilerden hangisidir?", "siklar": ["Demokrasi en iyi yönetim biçimidir.", "Devletin başında bir tiran olmalıdır.", "Filozoflar kral ya da krallar filozof olmalıdır.", "Yönetim kura ile belirlenmelidir.", "Özel mülkiyet herkes için kutsaldır."], "dogru": 2, "aciklama": "Doğru cevap: Filozoflar kral ya da krallar filozof olmalıdır.."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q507", "konu": "Platon ve Politika", "soru": "Filozof-yöneticilerin eğitiminin son ve en üst aşaması nedir?", "siklar": ["Aritmetik", "Geometri", "Astronomi", "Müzik", "Diyalektik"], "dogru": 4, "aciklama": "Doğru cevap: Diyalektik."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q508", "konu": "Platon ve Politika", "soru": "Platon'un eleştirdiği yönetim biçimlerinden hangisi, ün ve şeref tutkusuna dayanır?", "siklar": ["Timokrasi (Timarşi)", "Oligarşi", "Demokrasi", "Tiranlık", "Aristokrasi"], "dogru": 0, "aciklama": "Doğru cevap: Timokrasi (Timarşi)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q509", "konu": "Platon ve Politika", "soru": "Platon'a göre zenginlerin yönettiği, yoksulların ise yönetime hiç karışmadığı düzenin adı nedir?", "siklar": ["Timokrasi", "Oligarşi", "Demokrasi", "Tiranlık", "Monarşi"], "dogru": 1, "aciklama": "Doğru cevap: Oligarşi."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q510", "konu": "Platon ve Politika", "soru": "Platon, demokrasiyi hangi temel nedenle eleştirir?", "siklar": ["Çok masraflı bir yönetim olması", "Askeri açıdan zayıf olması", "Yönetimi, uzmanlığı olmayan kitlelerin eline bırakarak her türlü arzuya ve bilgisizliğe kapı açması", "Özel mülkiyeti tamamen yasaklaması", "Yöneticilerin çok yaşlı olması"], "dogru": 2, "aciklama": "Doğru cevap: Yönetimi, uzmanlığı olmayan kitlelerin eline bırakarak her türlü arzuya ve bilgisizliğe kapı açması."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q601", "konu": "Aristoteles: Bilgi ve Metafizik", "soru": "Aristoteles'e göre Sokrates, felsefi araştırmasının merkezine hangi konuları almıştır?", "siklar": ["Doğanın kökeni ve evrenin yapısı", "Duyumsanabilir nesnelerin sürekli akış halinde oluşu", "Etik meseleler, tümeller ve tanımlar", "İdealar ile nesneler arasındaki pay alma ilişkisi", "Matematiksel varlıkların doğası"], "dogru": 2, "aciklama": "Doğru cevap: Etik meseleler, tümeller ve tanımlar."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q602", "konu": "Aristoteles: Bilgi ve Metafizik", "soru": "Aristoteles'in aktarımına göre Platon, Sokrates’in tanım arayışını duyumsanabilir dünyanın dışına taşımıştır. Bunun temel nedeni aşağıdakilerden hangisidir?", "siklar": ["Sokrates'in etik konuları yeterince derinlemesine incelememiş olması.", "Herakleitos felsefesini tamamen çürütmek istemesi.", "Daima değişmekte olan duyumsanabilir şeyler için ortak bir tanım yapmanın imkânsız olması.", "Doğa filozoflarının düşüncelerini etik ile birleştirmeyi amaçlaması.", "Öğrencilerine yeni bir felsefi yöntem sunma arzusu."], "dogru": 2, "aciklama": "Doğru cevap: Daima değişmekte olan duyumsanabilir şeyler için ortak bir tanım yapmanın imkânsız olması.."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q603", "konu": "Aristoteles: Bilgi ve Metafizik", "soru": "Aristoteles'in tanıklığına göre, \"İdealar\" kavramının Platon felsefesinde ortaya çıkmasının sebebi nedir?", "siklar": ["Evrenin yaratılışını açıklayacak bir ilke bulmak.", "Duyumsanabilir nesneler sürekli değiştiği için, tanımların nesnesi olabilecek başka türden varlıklar ortaya", "koymak.", "Sokrates'in felsefesini onurlandırmak için yeni bir terminoloji geliştirmek.", "Sofistlerin görelilikçi yaklaşımlarına popüler bir alternatif sunmak.", "Politik bir düzenin temelini oluşturacak ahlaki değerler tanımlamak."], "dogru": 1, "aciklama": "Doğru cevap: Duyumsanabilir nesneler sürekli değiştiği için, tanımların nesnesi olabilecek başka türden."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q604", "konu": "Aristoteles: Bilgi ve Metafizik", "soru": "Aristoteles, Platon felsefesindeki duyumsanabilir nesneler ile İdealar arasındaki ilişkiyi nasıl tanımlamaktadır?", "siklar": ["Duyumsanabilir nesneler, İdeaların nedenidir.", "İdealar, duyumsanabilir nesnelerden türetilmiş soyutlamalardır.", "Duyumsanabilir nesneler, İdealardan \"pay alarak\" var olurlar ve onlarla \"eşadlı\" olarak anılırlar.", "İki dünya arasında hiçbir ilişki yoktur; tamamen ayrıdırlar.", "İdealar, duyumsanabilir nesnelerin mükemmelleştirilmiş halleridir."], "dogru": 2, "aciklama": "Doğru cevap: Duyumsanabilir nesneler, İdealardan \"pay alarak\" var olurlar ve onlarla \"eşadlı\" olarak anılırlar.."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q605", "konu": "Aristoteles: Bilgi ve Metafizik", "soru": "Aristoteles'in alıntısına dayanarak, Herakleitos ve Sokrates'in Platon'un düşünce sistemi üzerindeki etkileri nasıl karşılaştırılabilir?", "siklar": ["Herakleitos etik temelini, Sokrates ise metafizik çerçeveyi sağlamıştır.", "Her ikisi de Platon'un bilginin imkânsız olduğu görüşünü benimsemesine neden olmuştur.", "Herakleitos duyumsanabilir dünyaya bakışını şekillendirmiş, Sokrates ise evrensel tanımları arama yöntemini", "kazandırmıştır.", "Sokrates doğa felsefesini, Herakleitos ise etik anlayışını etkilemiştir.", "Herakleitos politik görüşlerini, Sokrates ise sanat anlayışını şekillendirmiştir."], "dogru": 2, "aciklama": "Doğru cevap: Herakleitos duyumsanabilir dünyaya bakışını şekillendirmiş, Sokrates ise evrensel tanımları."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q606", "konu": "Aristoteles: Bilgi ve Metafizik", "soru": "Aristoteles'in analizine göre, Platon'un bilginin nesnesine dair ulaştığı nihai sonuç aşağıdakilerden hangisidir?", "siklar": ["Bilgi, yalnızca etik kavramlarla ilgili olabilir.", "Bilginin nesnesi, insanların ortak kanılarında bulunabilir.", "Gerçek bilginin nesnesi, sürekli değişen duyumsanabilir şeyler değil, başka türden varlıklar olmalıdır.", "Bilginin gerçek nesnesi, ruhun kendisidir.", "Bilginin mutlak ve kesin bir nesnesi olamaz."], "dogru": 2, "aciklama": "Doğru cevap: Gerçek bilginin nesnesi, sürekli değişen duyumsanabilir şeyler değil, başka türden varlıklar."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q607", "konu": "Aristoteles: Bilgi ve Metafizik", "soru": "Ders notlarında aktarıldığı şekliyle Aristoteles'in Poetika eserine göre, bir tragedyanın en önemli öğesi nedir?", "siklar": ["Kahramanın ahlaki karakteri", "Kullanılan dilin ve dizelerin güzelliği", "Sahne düzeni ve görsel efektler", "Olayların düzenlenmesi olan öykü (plot)", "Koronun söylediği şarkılar"], "dogru": 3, "aciklama": "Doğru cevap: Olayların düzenlenmesi olan öykü (plot)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q608", "konu": "Aristoteles: Bilgi ve Metafizik", "soru": "Aristoteles'e göre tragedyanın izleyicide uyandırmayı hedeflediği iki temel duygu aşağıdakilerden hangisidir?", "siklar": ["Neşe ve rahatlama", "Öfke ve tiksinti", "Korku ve acıma", "Şaşkınlık ve merak", "Sevgi ve nefret"], "dogru": 2, "aciklama": "Doğru cevap: Korku ve acıma."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q609", "konu": "Aristoteles: Bilgi ve Metafizik", "soru": "Metinde Aristoteles'in \"katharsis\" kavramının işlevi ve amacı nasıl açıklanmaktadır?", "siklar": ["Kahramanın trajik hatasını (hamartia) ahlaki olarak yüceltmek.", "İzleyici için bir arınma sağlamak veya ona bir ibret dersi vererek ruhsal bir dönüşüm yaşatmak.", "İzleyiciyi eylemlerin sonuçlarından duygusal olarak uzaklaştırmak.", "Tarihsel olayların doğruluğunu sanatsal olarak kanıtlamak.", "Toplumsal düzeni sorgulamadan kabul ettirmek."], "dogru": 1, "aciklama": "Doğru cevap: İzleyici için bir arınma sağlamak veya ona bir ibret dersi vererek ruhsal bir dönüşüm yaşatmak.."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q610", "konu": "Aristoteles: Bilgi ve Metafizik", "soru": "Aristoteles'in tragedya analizine göre, hamartia (trajik hata) ile peripeteia (talihin dönmesi) arasındaki ilişki en doğru nasıl ifade edilir?", "siklar": ["Hamartia, kahramanın genellikle kendi sınırlarını bilmemesinden kaynaklanan ve talihinin tersine dönmesine", "(peripeteia) yol açan eylemidir.", "Peripeteia, hamartia'nın izleyici üzerindeki etkisini azaltan ve olay örgüsünü çözen bir dış müdahaledir.", "Hamartia, peripeteia yaşandıktan sonra kahramanın içine düştüğü ahlaki çöküşü ifade eder.", "İki kavram arasında zorunlu bir ilişki yoktur; bir tragedya birisi olmadan da var olabilir.", "Peripeteia, hamartia'nın ahlaki olarak cezalandırılması, ilahi adaletin tecelli etmesidir."], "dogru": 0, "aciklama": "Doğru cevap: Hamartia, kahramanın genellikle kendi sınırlarını bilmemesinden kaynaklanan ve talihinin tersine."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q701", "konu": "Aristoteles ve Politika", "soru": "Aristoteles'e göre tüm insan eylemlerinin nihai amacı olan en yüksek iyi nedir?", "siklar": ["Haz (Hedone)", "Onur (Time)", "Zenginlik (Ploutos)", "Mutluluk (Eudaimonia)", "Bilgi (Episteme)"], "dogru": 3, "aciklama": "Doğru cevap: Mutluluk (Eudaimonia)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q702", "konu": "Aristoteles ve Politika", "soru": "Aristoteles'in \"insan doğası gereği politik bir hayvandır\" anlamına gelen ünlü sözü hangisidir?", "siklar": ["Homo faber", "Cogito ergo sum", "Zoon politikon", "Tabula rasa", "Memento mori"], "dogru": 2, "aciklama": "Doğru cevap: Zoon politikon."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q703", "konu": "Aristoteles ve Politika", "soru": "Karakter erdemleri, Aristoteles'e göre iki aşırı uç arasındaki denge durumudur. Bu öğretiye ne ad verilir?", "siklar": ["Kategorik imperatif", "Orta yol (Mesotes)", "Ataraxia", "Hylomorphism", "Anamnesis"], "dogru": 1, "aciklama": "Doğru cevap: Orta yol (Mesotes)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q704", "konu": "Aristoteles ve Politika", "soru": "Aristoteles'e göre cömertlik erdemi, hangi iki aşırılığın ortasıdır?", "siklar": ["Korkaklık ve atılganlık", "Savurganlık ve cimrilik", "Köle ruhluluk ve kibir", "Utangaçlık ve utanmazlık", "Tembellik ve hırs"], "dogru": 1, "aciklama": "Doğru cevap: Savurganlık ve cimrilik."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q705", "konu": "Aristoteles ve Politika", "soru": "Aşağıdakilerden hangisi bir düşünce (dianoetik) erdemidir?", "siklar": ["Cesaret", "Ölçülülük", "Cömertlik", "Adalet", "Bilgelik (Sophia)"], "dogru": 4, "aciklama": "Doğru cevap: Bilgelik (Sophia)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q706", "konu": "Aristoteles ve Politika", "soru": "Aristoteles'e göre karakter erdemleri nasıl kazanılır?", "siklar": ["Doğuştan gelir.", "Tanrılar tarafından verilir.", "Alışkanlık yoluyla kazanılır.", "Yalnızca teorik eğitimle öğrenilir.", "Sezgisel olarak bilinir."], "dogru": 2, "aciklama": "Doğru cevap: Alışkanlık yoluyla kazanılır.."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q707", "konu": "Aristoteles ve Politika", "soru": "Aristoteles'in yönetim biçimleri sınıflandırmasında monarşinin bozulmuş hali hangisidir?", "siklar": ["Oligarşi", "Demokrasi", "Tiranlık", "Anarşi", "Politeia"], "dogru": 2, "aciklama": "Doğru cevap: Tiranlık."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q708", "konu": "Aristoteles ve Politika", "soru": "Aristoteles'e göre politikanın asıl amacı nedir?", "siklar": ["Askeri gücü en üst düzeye çıkarmak", "Ekonomik zenginliği artırmak", "Yurttaşların erdemli ve mutlu bir yaşam sürmesini sağlamak", "Diğer kent devletleri üzerinde egemenlik kurmak", "Mutlak bireysel özgürlüğü güvence altına almak"], "dogru": 2, "aciklama": "Doğru cevap: Yurttaşların erdemli ve mutlu bir yaşam sürmesini sağlamak."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q709", "konu": "Aristoteles ve Politika", "soru": "Aristoteles'in ideal yönetim biçimi olarak gördüğü ve orta sınıfın egemen olduğu karma anayasa hangisidir?", "siklar": ["Aristokrasi", "Demokrasi", "Monarşi", "Tiranlık", "Politeia"], "dogru": 4, "aciklama": "Doğru cevap: Politeia."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q710", "konu": "Aristoteles ve Politika", "soru": "Aşağıdaki ifadelerden hangisi Aristoteles'in etik ve politika anlayışını en iyi özetler?", "siklar": ["Bireysel mutluluk, politik yaşamdan tamamen bağımsızdır.", "İyi bir yaşam, ancak iyi bir politik topluluk içinde mümkündür.", "Politikanın tek amacı, bireyin hazza ulaşmasını sağlamaktır.", "En iyi devlet, en güçlü liderin yönettiği devlettir.", "Yasalar, bireyin özgürlüğünü kısıtlayan gereksiz engellerdir."], "dogru": 1, "aciklama": "Doğru cevap: İyi bir yaşam, ancak iyi bir politik topluluk içinde mümkündür.."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q801", "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)", "soru": "Helenistik Dönem'in başlangıcı olarak kabul edilen tarihsel olay hangisidir?", "siklar": ["Peloponnesos Savaşları'nın başlaması", "Roma Cumhuriyeti'nin kurulması", "Sokrates'in ölümü", "Büyük İskender'in fetihleri", "Atina demokrasisinin zirveye ulaşması"], "dogru": 3, "aciklama": "Doğru cevap: Büyük İskender'in fetihleri."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q802", "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)", "soru": "Helenistik felsefenin ortak amacı olarak kabul edilen ruhsal dinginlik ve sarsılmazlık durumuna ne ad verilir?", "siklar": ["Eudaimonia", "Ataraxia", "Arete", "Kalokagathia", "Mimesis"], "dogru": 1, "aciklama": "Doğru cevap: Ataraxia."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q803", "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)", "soru": "\"Gizlenerek yaşa\" ilkesini savunan ve politikadan uzak durmayı öğütleyen felsefi okul hangisidir?", "siklar": ["Stoacılık", "Platonculuk", "Epikürcülük", "Kuşkuculuk", "Aristotelesçilik"], "dogru": 2, "aciklama": "Doğru cevap: Epikürcülük."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q804", "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)", "soru": "Evrenin tanrısal bir akıl (Logos) tarafından yönetildiğini ve erdemin \"doğaya uygun yaşamak\" olduğunu savunan okul hangisidir?", "siklar": ["Stoacılık", "Epikürcülük", "Sofistler", "Kinikler", "Kuşkuculuk"], "dogru": 0, "aciklama": "Doğru cevap: Stoacılık."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q805", "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)", "soru": "Kuşkuculara (Skeptiklere) göre ataraxia'ya ulaşmanın yolu nedir?", "siklar": ["Toplumsal görevleri yerine getirmek", "Matematiksel bilgiye ulaşmak", "Yargıyı askıya almak (Epoche)", "Fiziksel hazzı en üst düzeye çıkarmak", "İdeaları temaşa etmek"], "dogru": 2, "aciklama": "Doğru cevap: Yargıyı askıya almak (Epoche)."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q806", "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)", "soru": "Stoacı felsefede, insanın kontrolü dışındaki olaylara karşı kayıtsız kalma ve tutkulardan arınma durumuna ne denir?", "siklar": ["Hedone", "Apatheia", "Aporia", "Elenkhos", "Anamnesis"], "dogru": 1, "aciklama": "Doğru cevap: Apatheia."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q807", "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)", "soru": "Aşağıdakilerden hangisi Epikürcü felsefenin temel tezlerinden biri değildir?", "siklar": ["Mutluluk, ruhsal çalkantının yokluğudur.", "Tanrılar vardır ama insan yaşamına müdahale etmezler.", "Ölümden korkulmamalıdır çünkü biz varken o yoktur, o varken biz yokuz.", "İnsan, toplumsal görevlerini her şeyin üstünde tutmalıdır.", "En yüksek haz, bedensel acının olmamasıdır."], "dogru": 3, "aciklama": "Doğru cevap: İnsan, toplumsal görevlerini her şeyin üstünde tutmalıdır.."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q808", "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)", "soru": "\"Dünya vatandaşı\" (kozmopolit) olma fikrini felsefelerinin merkezine yerleştiren okul hangisidir?", "siklar": ["Epikürcülük", "Stoacılık", "Kuşkuculuk", "Platon'un Akademisi", "Kinikler"], "dogru": 1, "aciklama": "Doğru cevap: Stoacılık."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q809", "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)", "soru": "Helenistik felsefenin odağındaki temel değişim aşağıdakilerden hangisidir?", "siklar": ["Metafizikten mantığa geçiş", "Politik felsefeden bireysel etik felsefesine geçiş", "Doğa felsefesinden insan felsefesine geçiş", "Mitostan logosa geçiş", "Teorik felsefeden estetik felsefesine geçiş"], "dogru": 1, "aciklama": "Doğru cevap: Politik felsefeden bireysel etik felsefesine geçiş."}, {"ders": "ilkcag-felsefesi", "dersAdi": "İlkçağ Klasik Dönem Felsefesi", "id": "q810", "konu": "İmparatorluk ve Felsefe (Helenistik Dönem)", "soru": "Aşağıdakilerden hangisi Helenistik Dönem felsefe okullarından biri değildir?", "siklar": ["Stoacılık", "Miletos Okulu", "Epikürcülük", "Kuşkuculuk", "Kinikler"], "dogru": 1, "aciklama": "Doğru cevap: Miletos Okulu."}]
+;
+
+const INTERVALS = [1,3,7,14,30]; // days
+const STORAGE_KEY = 'stele_progress_v1';
+const COURSE_KEY = 'stele_current_ders';
+
+// derive course list from QUESTIONS — adding a new course only requires
+// dropping a {ders, dersAdi, ...} JSON file into sorular/ and listing it
+// in sorular/manifest.json (see loadExternalCourses below).
+let COURSES = [];
+function buildCourses(){
+  COURSES = [...new Set(QUESTIONS.map(q=>q.ders))].map(id=>{
+    const sample = QUESTIONS.find(q=>q.ders===id);
+    return { id, name: sample.dersAdi || id };
+  });
+}
+
+async function loadExternalCourses(){
+  try{
+    const res = await fetch('sorular/manifest.json');
+    if(!res.ok) return;
+    const files = await res.json();
+    for(const file of files){
+      try{
+        const r = await fetch('sorular/' + file);
+        if(!r.ok){ console.warn('Soru dosyası okunamadı:', file); continue; }
+        const items = await r.json();
+        items.forEach(q=>{ if(q && q.ders) QUESTIONS.push(q); });
+      }catch(e){
+        console.warn('Soru dosyası ayrıştırılamadı:', file, e);
+      }
+    }
+  }catch(e){
+    // sorular/manifest.json'a erişilemedi (örn. dosya doğrudan file:// olarak açıldı).
+    // Bu durumda yalnızca sayfaya gömülü sorularla devam edilir.
+    console.warn('Harici ders dosyaları yüklenemedi, sadece gömülü sorularla devam ediliyor.', e);
+  }
+}
+
+function qKey(q){ return q.ders + '::' + q.id; }
+function topicsForCourse(dersId){
+  return [...new Set(QUESTIONS.filter(q=>q.ders===dersId).map(q=>q.konu))];
+}
+function questionsForCourse(dersId){
+  return QUESTIONS.filter(q=>q.ders===dersId);
+}
+
+function loadProgress(){
+  try{
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if(!raw) return {};
+    return JSON.parse(raw);
+  }catch(e){ return {}; }
+}
+function saveProgress(p){
+  try{ localStorage.setItem(STORAGE_KEY, JSON.stringify(p)); }catch(e){}
+}
+let progress = loadProgress();
+
+let currentDers = null;
+function setCurrentDers(id){
+  currentDers = id;
+  try{ localStorage.setItem(COURSE_KEY, id); }catch(e){}
+}
+
+function getRec(key){
+  if(!progress[key]){
+    progress[key] = { level:0, nextDue: Date.now(), correctCount:0, wrongCount:0, lastResult:null };
+  }
+  return progress[key];
+}
+
+function answerQuestion(key, isCorrect){
+  const rec = getRec(key);
+  if(isCorrect){
+    rec.correctCount++;
+    rec.level = Math.min(rec.level+1, INTERVALS.length-1);
+    rec.lastResult = 'correct';
+  } else {
+    rec.wrongCount++;
+    rec.level = 0;
+    rec.lastResult = 'wrong';
+  }
+  const days = INTERVALS[rec.level];
+  rec.nextDue = Date.now() + days*24*60*60*1000;
+  saveProgress(progress);
+}
+
+function totalAnswered(dersId){
+  return questionsForCourse(dersId).reduce((s,q)=>{
+    const r = progress[qKey(q)];
+    return s + (r ? r.correctCount+r.wrongCount : 0);
+  },0);
+}
+function totalCorrect(dersId){
+  return questionsForCourse(dersId).reduce((s,q)=>{
+    const r = progress[qKey(q)];
+    return s + (r ? r.correctCount : 0);
+  },0);
+}
+function masteredCount(dersId){
+  return questionsForCourse(dersId).filter(q=>{
+    const r = progress[qKey(q)];
+    return r && r.level>=3;
+  }).length;
+}
+function dueTodayCount(dersId){
+  return questionsForCourse(dersId).filter(q=>{
+    const rec = progress[qKey(q)];
+    return rec && rec.nextDue <= Date.now();
+  }).length;
+}
+function wrongEverIds(dersId){
+  return questionsForCourse(dersId).filter(q=>{
+    const r = progress[qKey(q)];
+    return r && r.wrongCount>0;
+  }).map(q=>q.id);
+}
+
+/* ---------- navigation ---------- */
+function showScreen(id){
+  document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));
+  document.getElementById('screen-'+id).classList.add('active');
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+document.querySelectorAll('[data-back]').forEach(b=>{
+  b.addEventListener('click', ()=>{ renderDashboard(); showScreen(b.dataset.back); });
+});
+document.getElementById('navStats').addEventListener('click', ()=>{ renderStats(); showScreen('stats'); });
+document.getElementById('navSettings').addEventListener('click', ()=>{ showScreen('settings'); });
+document.getElementById('goStats').addEventListener('click', ()=>{ renderStats(); showScreen('stats'); });
+
+/* ---------- dashboard render ---------- */
+function topicColor(i){
+  const palette = ['var(--terracotta)','var(--aegean-bright)','var(--gold)','#7a9a5e','#9b6fa6','#c1572a','#3f8fa0','#b8893a'];
+  return palette[i % palette.length];
+}
+
+function renderCourseTabs(){
+  const wrap = document.getElementById('courseTabs');
+  if(!wrap) return;
+  wrap.innerHTML = '';
+  COURSES.forEach(c=>{
+    const btn = document.createElement('button');
+    btn.className = 'chip' + (c.id===currentDers ? ' active' : '');
+    btn.textContent = c.name;
+    btn.addEventListener('click', ()=>{
+      if(c.id===currentDers) return;
+      setCurrentDers(c.id);
+      renderDashboard();
+    });
+    wrap.appendChild(btn);
+  });
+}
+
+function renderDashboard(){
+  renderCourseTabs();
+  const courseQs = questionsForCourse(currentDers);
+  const topics = topicsForCourse(currentDers);
+  const course = COURSES.find(c=>c.id===currentDers);
+
+  document.querySelector('.hero-eyebrow').textContent = course ? course.name : '';
+
+  document.getElementById('statTotalAnswered').textContent = totalAnswered(currentDers);
+  const ta = totalAnswered(currentDers);
+  const acc = ta ? Math.round(100*totalCorrect(currentDers)/ta) : null;
+  document.getElementById('statAccuracy').textContent = acc===null ? '—' : acc+'%';
+  document.getElementById('statMastered').textContent = masteredCount(currentDers);
+  document.getElementById('statTotalQ').textContent = courseQs.length;
+
+  const due = dueTodayCount(currentDers);
+  const badge = document.getElementById('dueBadge');
+  if(due>0){
+    badge.classList.remove('zero');
+    badge.textContent = `Bugün tekrar edilecek ${due} soru var`;
+  } else {
+    badge.classList.add('zero');
+    badge.textContent = 'Bugün için bekleyen tekrar yok';
+  }
+
+  const grid = document.getElementById('topicGrid');
+  grid.innerHTML = '';
+  topics.forEach((topic, i)=>{
+    const qs = courseQs.filter(q=>q.konu===topic);
+    const answeredIds = qs.filter(q=>progress[qKey(q)]).length;
+    const correctSum = qs.reduce((s,q)=> s + (progress[qKey(q)]? progress[qKey(q)].correctCount : 0), 0);
+    const totalAns = qs.reduce((s,q)=> s + (progress[qKey(q)]? progress[qKey(q)].correctCount+progress[qKey(q)].wrongCount : 0), 0);
+    const pct = totalAns ? Math.round(100*correctSum/totalAns) : 0;
+    const card = document.createElement('button');
+    card.className = 'topic-card';
+    card.style.setProperty('--i', i);
+    card.innerHTML = `
+      <span class="tnum">${String(i+1).padStart(2,'0')}</span>
+      <span class="tname">${topic}</span>
+      <div class="topic-bar"><div class="topic-bar-fill" style="width:${pct}%; background:${topicColor(i)}"></div></div>
+      <span class="topic-meta">${qs.length} soru · ${answeredIds}/${qs.length} çalışıldı</span>
+    `;
+    card.addEventListener('click', ()=> startRun({mode:'quiz', topic, count: qs.length}));
+    grid.appendChild(card);
+  });
+}
+
+document.getElementById('startQuizBtn').addEventListener('click', ()=> startRun({mode:'quiz', topic:null, count: questionsForCourse(currentDers).length}));
+document.getElementById('wrongOnlyBtn').addEventListener('click', ()=>{
+  const ids = wrongEverIds(currentDers);
+  if(ids.length===0){ alert('Henüz yanlış yapılmış bir soru yok.'); return; }
+  startRun({mode:'quiz', topic:null, count: ids.length, idsOverride: ids});
+});
+document.getElementById('startExamBtn').addEventListener('click', ()=> showScreen('examsetup'));
+document.getElementById('examBeginBtn').addEventListener('click', ()=>{
+  const count = parseInt(document.getElementById('examCount').value,10);
+  const minutes = parseInt(document.getElementById('examMinutes').value,10);
+  startRun({mode:'exam', topic:null, count, minutes});
+});
+
+/* ---------- run state ---------- */
+let runState = null;
+
+function shuffle(arr){
+  const a = arr.slice();
+  for(let i=a.length-1;i>0;i--){
+    const j = Math.floor(Math.random()*(i+1));
+    [a[i],a[j]]=[a[j],a[i]];
+  }
+  return a;
+}
+
+function startRun({mode, topic, count, minutes, idsOverride}){
+  let pool;
+  const courseQs = questionsForCourse(currentDers);
+  if(idsOverride){
+    pool = courseQs.filter(q=>idsOverride.includes(q.id));
+  } else {
+    pool = topic ? courseQs.filter(q=>q.konu===topic) : courseQs.slice();
+  }
+  pool = shuffle(pool).slice(0, Math.min(count, pool.length));
+
+  runState = {
+    mode,
+    questions: pool,
+    idx: 0,
+    correct: 0,
+    wrong: 0,
+    empty: 0,
+    answers: [],
+    timerInterval: null,
+    timeLeft: mode==='exam' ? minutes*60 : null,
+    streak: 0,
+    bestStreak: 0,
+    answered: false,
+  };
+
+  document.getElementById('runTimer').style.display = mode==='exam' ? 'inline-block' : 'none';
+  showScreen('run');
+  renderRunQuestion();
+
+  if(mode==='exam'){
+    updateTimerDisplay();
+    runState.timerInterval = setInterval(()=>{
+      runState.timeLeft--;
+      updateTimerDisplay();
+      if(runState.timeLeft<=0){
+        clearInterval(runState.timerInterval);
+        finishRun(true);
+      }
+    },1000);
+  }
+}
+
+function updateRunCounter(){
+  const total = runState.questions.length;
+  const idx = runState.idx + 1;
+  const answered = runState.correct + runState.wrong;
+  let text = `${idx} / ${total}`;
+  if(runState.mode === 'quiz' && answered > 0){
+    const acc = Math.round(100 * runState.correct / answered);
+    const streakTxt = runState.streak >= 3 ? ` 🔥${runState.streak}` : '';
+    text += `  ·  %${acc}${streakTxt}`;
+  }
+  document.getElementById('runCounter').textContent = text;
+}
+
+function updateTimerDisplay(){
+  const el = document.getElementById('runTimer');
+  const m = Math.floor(runState.timeLeft/60);
+  const s = runState.timeLeft%60;
+  el.textContent = `${m}:${String(s).padStart(2,'0')}`;
+  el.classList.toggle('urgent', runState.timeLeft<=60);
+}
+
+document.getElementById('quitRunBtn').addEventListener('click', ()=>{
+  if(runState && runState.timerInterval) clearInterval(runState.timerInterval);
+  if(confirm('Bu turu bitirip panele dönmek istiyor musun? İlerleme kaydedilmeyecek sorular işlenmemiş sayılır.')){
+    renderDashboard();
+    showScreen('dashboard');
+  }
+});
+
+function renderRunQuestion(){
+  const q = runState.questions[runState.idx];
+  document.getElementById('runTopicTag').textContent = q.konu;
+  document.getElementById('runQuestionText').textContent = q.soru;
+  document.getElementById('runCounter').textContent = `${runState.idx+1} / ${runState.questions.length}`;
+  document.getElementById('runProgressFill').style.width = `${100*runState.idx/runState.questions.length}%`;
+  document.getElementById('runExplain').style.display = 'none';
+  document.getElementById('runNextBtn').disabled = true;
+  document.getElementById('runNextBtn').textContent = (runState.idx === runState.questions.length-1) ? 'Turu Bitir' : 'Sonraki Soru';
+  runState.answered = false;
+  updateRunCounter();
+
+  const optWrap = document.getElementById('runOptions');
+  optWrap.innerHTML = '';
+  const letters = ['A','B','C','D','E'];
+  q.siklar.forEach((opt, i)=>{
+    const btn = document.createElement('button');
+    btn.className = 'option';
+    btn.style.setProperty('--i', i);
+    btn.innerHTML = `<span class="letter">${letters[i]}</span><span>${opt}</span>`;
+    btn.addEventListener('click', ()=> selectOption(i));
+    optWrap.appendChild(btn);
+  });
+}
+
+function selectOption(chosenIdx){
+  const q = runState.questions[runState.idx];
+  const isCorrect = chosenIdx === q.dogru;
+  const optWrap = document.getElementById('runOptions');
+  const buttons = optWrap.querySelectorAll('.option');
+
+  if(runState.mode==='quiz'){
+    buttons.forEach((b,i)=>{
+      b.disabled = true;
+      if(i===q.dogru) b.classList.add('correct');
+      else if(i===chosenIdx) b.classList.add('wrong');
+      else b.classList.add('dim');
+    });
+    const exp = document.getElementById('runExplain');
+    exp.style.display = 'block';
+    exp.innerHTML = isCorrect
+      ? `<strong>Doğru.</strong> ${q.aciklama}`
+      : `<strong>Yanlış.</strong> ${q.aciklama}`;
+    answerQuestion(qKey(q), isCorrect);
+    const cardEl = document.querySelector('.question-card');
+    cardEl.classList.remove('shake','glow');
+    void cardEl.offsetWidth; // animasyonu yeniden tetikle
+    if(isCorrect){
+      cardEl.classList.add('glow');
+      burstLaurel(buttons[chosenIdx]);
+    } else {
+      cardEl.classList.add('shake');
+    }
+  } else {
+    // exam mode: no feedback, just lock in selection visually (neutral highlight)
+    buttons.forEach((b,i)=>{
+      b.disabled = true;
+      if(i===chosenIdx) b.style.borderColor = 'var(--aegean-bright)';
+      else b.classList.add('dim');
+    });
+  }
+
+  if(isCorrect){
+    runState.correct++;
+    runState.streak++;
+    if(runState.streak > runState.bestStreak) runState.bestStreak = runState.streak;
+  } else {
+    runState.wrong++;
+    runState.streak = 0;
+  }
+  runState.answered = true;
+  runState.answers.push({q, chosenIdx, isCorrect});
+  updateRunCounter();
+  document.getElementById('runNextBtn').disabled = false;
+}
+
+document.getElementById('runNextBtn').addEventListener('click', ()=>{
+  if(runState.idx < runState.questions.length-1){
+    runState.idx++;
+    renderRunQuestion();
+  } else {
+    finishRun(false);
+  }
+});
+
+function finishRun(timedOut){
+  if(runState.timerInterval) clearInterval(runState.timerInterval);
+  const answeredCount = runState.answers.length;
+  runState.empty = runState.questions.length - answeredCount;
+
+  // for exam mode, record progress for spaced repetition now (after reveal)
+  if(runState.mode==='exam'){
+    runState.answers.forEach(a=> answerQuestion(qKey(a.q), a.isCorrect));
+  }
+
+  document.getElementById('resultRaw').textContent = `${runState.correct}/${runState.questions.length}`;
+  document.getElementById('resultLabel').textContent = runState.mode==='exam'
+    ? (timedOut ? 'Süre doldu' : 'Sınav tamamlandı')
+    : 'Quiz tamamlandı';
+  document.getElementById('resCorrect').textContent = runState.correct;
+  document.getElementById('resWrong').textContent = runState.wrong;
+  document.getElementById('resEmpty').textContent = runState.empty;
+
+  const reviewWrap = document.getElementById('resultReview');
+  if(runState.mode==='exam'){
+    reviewWrap.innerHTML = '<span class="section-label" style="margin-top:var(--space-xl); display:block;">Cevap Dökümü</span><div class="review-list"></div>';
+    const list = reviewWrap.querySelector('.review-list');
+    runState.answers.forEach(a=>{
+      const div = document.createElement('div');
+      div.className = 'review-item ' + (a.isCorrect ? 'good' : 'bad');
+      const letters = ['A','B','C','D','E'];
+      div.innerHTML = `<div class="rq">${a.q.soru}</div><div class="ra">Senin cevabın: ${letters[a.chosenIdx]}) ${a.q.siklar[a.chosenIdx]} ${a.isCorrect ? '' : '— Doğru cevap: '+letters[a.q.dogru]+') '+a.q.siklar[a.q.dogru]}</div>`;
+      list.appendChild(div);
+    });
+  } else {
+    reviewWrap.innerHTML = '';
+  }
+
+  showScreen('result');
+}
+
+/* ---------- laurel confetti ---------- */
+const LEAF_SVG = `<svg viewBox="0 0 24 24" width="12" height="12"><path d="M12 2 C18 8 18 16 12 22 C6 16 6 8 12 2 Z" fill="%GOLD%" opacity="0.9"/></svg>`;
+function burstLaurel(anchorEl){
+  if(!anchorEl) return;
+  const rect = anchorEl.getBoundingClientRect();
+  const gold = getComputedStyle(document.documentElement).getPropertyValue('--gold').trim() || '#d4af5a';
+  for(let k=0;k<10;k++){
+    const leaf = document.createElement('div');
+    leaf.className = 'leaf-bit';
+    leaf.innerHTML = LEAF_SVG.replace('%GOLD%', gold);
+    leaf.style.left = (rect.left + rect.width*Math.random()) + 'px';
+    leaf.style.top = (rect.top + rect.height/2) + 'px';
+    const ang = -Math.PI/2 + (Math.random()-0.5)*1.6;
+    const dist = 60 + Math.random()*70;
+    leaf.style.setProperty('--dx', Math.cos(ang)*dist + 'px');
+    leaf.style.setProperty('--dy', Math.sin(ang)*dist + 'px');
+    leaf.style.setProperty('--rot', (Math.random()*440-220) + 'deg');
+    document.body.appendChild(leaf);
+    setTimeout(()=> leaf.remove(), 950);
+  }
+}
+
+/* ---------- theme toggle ---------- */
+const THEME_KEY = 'logos_theme';
+function applyTheme(t){
+  if(t==='day') document.documentElement.dataset.theme = 'day';
+  else delete document.documentElement.dataset.theme;
+  try{ localStorage.setItem(THEME_KEY, t); }catch(e){}
+}
+applyTheme(localStorage.getItem(THEME_KEY) === 'day' ? 'day' : 'night');
+document.getElementById('themeToggle').addEventListener('click', ()=>{
+  applyTheme(document.documentElement.dataset.theme === 'day' ? 'night' : 'day');
+});
+
+/* ---------- keyboard shortcuts ---------- */
+document.addEventListener('keydown', e => {
+  const runScreen = document.getElementById('screen-run');
+  if(!runScreen || !runScreen.classList.contains('active') || !runState) return;
+
+  const key = e.key;
+  if(['1','2','3','4','5'].includes(key)){
+    const idx = parseInt(key) - 1;
+    const opts = document.querySelectorAll('#runOptions .option');
+    if(opts[idx] && !opts[idx].disabled && !runState.answered){
+      opts[idx].click();
+    }
+    return;
+  }
+  if(key === 'Enter'){
+    const nextBtn = document.getElementById('runNextBtn');
+    if(!nextBtn.disabled) nextBtn.click();
+  }
+});
+
+document.getElementById('resultBackBtn').addEventListener('click', ()=>{
+  renderDashboard();
+  showScreen('dashboard');
+});
+
+/* ---------- stats screen ---------- */
+function renderStats(){
+  const courseQs = questionsForCourse(currentDers);
+  const topics = topicsForCourse(currentDers);
+
+  const topicWrap = document.getElementById('topicStatsList');
+  topicWrap.innerHTML = '';
+  topics.forEach((topic,i)=>{
+    const qs = courseQs.filter(q=>q.konu===topic);
+    const correctSum = qs.reduce((s,q)=> s + (progress[qKey(q)]? progress[qKey(q)].correctCount : 0), 0);
+    const totalAns = qs.reduce((s,q)=> s + (progress[qKey(q)]? progress[qKey(q)].correctCount+progress[qKey(q)].wrongCount : 0), 0);
+    const pct = totalAns ? Math.round(100*correctSum/totalAns) : 0;
+    const row = document.createElement('div');
+    row.className = 'topic-stat-row';
+    row.innerHTML = `
+      <span class="topic-stat-name">${topic}</span>
+      <div class="topic-stat-bar"><div class="topic-stat-fill" style="width:${pct}%; background:${topicColor(i)}"></div></div>
+      <span class="topic-stat-pct">${totalAns ? pct+'%' : '—'}</span>
+    `;
+    topicWrap.appendChild(row);
+  });
+
+  const missWrap = document.getElementById('missList');
+  const missData = courseQs
+    .map(q=>({q, wrong: progress[qKey(q)]? progress[qKey(q)].wrongCount : 0}))
+    .filter(d=>d.wrong>0)
+    .sort((a,b)=>b.wrong-a.wrong)
+    .slice(0,10);
+  if(missData.length===0){
+    missWrap.innerHTML = '<p class="panel-desc">Henüz yanlış cevaplanmış bir soru yok.</p>';
+  } else {
+    missWrap.innerHTML = '';
+    missData.forEach(d=>{
+      const row = document.createElement('div');
+      row.className = 'miss-row';
+      row.innerHTML = `<span class="miss-q">${d.q.soru}</span><span class="miss-count">${d.wrong}×</span>`;
+      missWrap.appendChild(row);
+    });
+  }
+}
+
+/* ---------- settings ---------- */
+document.getElementById('exportBtn').addEventListener('click', ()=>{
+  const data = JSON.stringify(progress, null, 2);
+  const blob = new Blob([data], {type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'logos-ilerleme-yedek.json';
+  a.click();
+  URL.revokeObjectURL(url);
+});
+document.getElementById('importBtn').addEventListener('click', ()=>{
+  const area = document.getElementById('jsonArea');
+  if(area.style.display==='none'){
+    area.style.display = 'block';
+    return;
+  }
+  try{
+    const parsed = JSON.parse(area.value);
+    progress = parsed;
+    saveProgress(progress);
+    alert('İlerleme içe aktarıldı.');
+    renderDashboard();
+  }catch(e){
+    alert('Geçersiz JSON. Kontrol edip tekrar dene.');
+  }
+});
+document.getElementById('resetBtn').addEventListener('click', ()=>{
+  if(confirm('Tüm ilerleme silinecek. Emin misin?')){
+    progress = {};
+    saveProgress(progress);
+    renderDashboard();
+    alert('İlerleme sıfırlandı.');
+  }
+});
+
+/* ---------- init ---------- */
+(async function init(){
+  await loadExternalCourses();
+  buildCourses();
+  const saved = localStorage.getItem(COURSE_KEY);
+  currentDers = (saved && COURSES.some(c=>c.id===saved)) ? saved : (COURSES[0] && COURSES[0].id);
+  renderDashboard();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "sosyoloji2-101",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Kurum",
+    "soru": "Joseph Fichter'in tanımına göre sosyolojik anlamda 'kurum' nedir?",
+    "siklar": [
+      "Belirli bir kişidir",
+      "Bir gruptur",
+      "Kültürün bir parçası, insan yaşam tarzlarının örüntüleşmiş bir parçasıdır",
+      "Fiziki bir mekândır",
+      "Bir yasadır"
+    ],
+    "dogru": 2,
+    "aciklama": "Fichter'e göre kurum ne bir kişi ne de bir gruptur; kültürün bir kısmı, insanların yaşam tarzlarının örüntüleşmiş bir parçasıdır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-102",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Kurum",
+    "soru": "Kurum kavramının sosyolojik analizin merkezî kavramı haline gelişi, hangi düşünürün toplumu 'birer şey' olarak kavrayışına dayandırılır?",
+    "siklar": [
+      "Max Weber",
+      "Karl Marx",
+      "Emile Durkheim",
+      "Talcott Parsons",
+      "Herbert Spencer"
+    ],
+    "dogru": 2,
+    "aciklama": "Metne göre kurum kavramının merkezîliği, Durkheim'ın toplumsal olguları bireylerin dışında bir gerçeklik olarak kavrayışına dayanır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-103",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Kurum",
+    "soru": "Talcott Parsons'ın kurum kavramına ilişkin üç kuramsal yaklaşımı arasında aşağıdakilerden hangisi yer almaz?",
+    "siklar": [
+      "İyi anlaşılmış çıkar temelli yaklaşım",
+      "Rol kavramına dayalı yaklaşım",
+      "Kültür-toplum arabirimi yaklaşımı",
+      "Biçimsel sosyoloji yaklaşımı",
+      "Hepsi Parsons'ın yaklaşımları arasındadır"
+    ],
+    "dogru": 3,
+    "aciklama": "Parsons'ın üç yaklaşımı: çıkar temelli, rol temelli ve kültür-toplum arabirimi yaklaşımıdır. 'Biçimsel sosyoloji' Georg Simmel'e aittir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-104",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Kurum",
+    "soru": "Parsons'a göre 'ilişkisel (referansiyel) kurumlar', 'düzenleyici kurumlar' ve 'kültürel kurumlar' ayrımı neyi aydınlatmak için önerilmiştir?",
+    "siklar": [
+      "Kurumların evrenselliğini",
+      "Kurumsal gerçekliğin değişebilir esnekliğini",
+      "Mihver kurum kavramını",
+      "Anomi durumunu",
+      "Kurumların tasnifini"
+    ],
+    "dogru": 1,
+    "aciklama": "Parsons bu üçlü ayrımı, kurumsal gerçekliğin değişebilir esnekliğini aydınlatmak için önerir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-105",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Kurum",
+    "soru": "Berger ve Luckmann'a göre 'kurumlaşma' ne zaman vuku bulur?",
+    "siklar": [
+      "Bireyler arasında sözleşme imzalandığında",
+      "Mutatlaştırılmış eylemlerin fâil tipleri tarafından karşılıklı tipleştirilmesi söz konusu olduğunda",
+      "Devlet bir yasa çıkardığında",
+      "Toplumsal olgu cezalandırıldığında",
+      "Aile kurulduğunda"
+    ],
+    "dogru": 1,
+    "aciklama": "Berger ve Luckmann'a göre mutatlaştırılmış eylemlerin karşılıklı tipleştirilmesi söz konusu olduğunda kurumlaşma gerçekleşir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-106",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Kurum",
+    "soru": "Metinde verilen örneğe göre, Eski Roma'da hangi kurum 'mihver kurum' olarak değerlendirilmektedir?",
+    "siklar": [
+      "Aile",
+      "Din",
+      "Siyaset",
+      "Ekonomi",
+      "Eğitim"
+    ],
+    "dogru": 2,
+    "aciklama": "Metne göre Eski Roma'da siyaset, Çin'de aile, Hindistan'da din mihver kurum olarak değerlendirilmektedir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-107",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Kurum",
+    "soru": "Aşağıdakilerden hangisi metinde sayılan 'temel toplumsal kurumlar' arasında yer almaz?",
+    "siklar": [
+      "Aile",
+      "Eğitim",
+      "Ekonomi",
+      "Siyaset",
+      "Spor"
+    ],
+    "dogru": 4,
+    "aciklama": "Metinde temel toplumsal kurumlar olarak aile, eğitim, ekonomi, siyaset ve din sayılmış, ayrıca boş zamanlar kurumu eklenmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-108",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Kurum",
+    "soru": "Kurumların 'davranışları kontrol etme' işlevi, hangi açıdan olumsuz bir işlev olarak da değerlendirilebilir?",
+    "siklar": [
+      "Çünkü kurumlar maliyetlidir",
+      "Çünkü toplumsal değişimi ve ilerlemeyi engelleyici olma potansiyeline sahiptir",
+      "Çünkü kurumlar görünmezdir",
+      "Çünkü kurumlar evrensel değildir",
+      "Çünkü kurumlar bireyseldir"
+    ],
+    "dogru": 1,
+    "aciklama": "Kurumların istikrarı sağlama ve davranışı kontrol etme eğilimi, aynı zamanda toplumsal değişimi ve ilerlemeyi engelleyici bir potansiyel taşıdığı için olumsuz bir işlev olarak da değerlendirilir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-109",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Kurum",
+    "soru": "Fauconnet ve Mauss'un 'Sosyoloji' maddesindeki tanıma göre sosyoloji nasıl tanımlanabilir?",
+    "siklar": [
+      "Bireylerin psikolojisinin incelenmesi",
+      "Kurumların, ortaya çıkışlarının ve işleyişlerinin bilimi",
+      "Devletin işleyişinin incelenmesi",
+      "Ekonomik üretimin incelenmesi",
+      "Doğa olaylarının incelenmesi"
+    ],
+    "dogru": 1,
+    "aciklama": "Fauconnet ve Mauss'a göre sosyoloji, kurumların, onların ortaya çıkışının ve işleyişinin bilimi olarak tanımlanabilir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-110",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Kurum",
+    "soru": "Metne göre kurumlar bireylere ne sağlayarak toplumsal davranışı kolaylaştırır?",
+    "siklar": [
+      "Sınırsız özgürlük",
+      "Hazırlanmış belli toplumsal roller ve ilişki biçimleri",
+      "Ekonomik zenginlik",
+      "Siyasi güç",
+      "Dini otorite"
+    ],
+    "dogru": 1,
+    "aciklama": "Kurumlar, bireylere onlar aracılığıyla kendi isteklerini geliştirebilecekleri hazır toplumsal roller ve ilişki biçimleri sunarak toplumsal davranışı kolaylaştırır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-201",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Aile ve Toplum",
+    "soru": "Murdock'a göre ailede yerine getirilen dört temel işlev arasında aşağıdakilerden hangisi yer almaz?",
+    "siklar": [
+      "Cinsel işlev",
+      "Ekonomik işlev",
+      "Üreme işlevi",
+      "Toplumsallaşma işlevi",
+      "Dini işlev"
+    ],
+    "dogru": 4,
+    "aciklama": "Murdock'a göre ailenin dört temel işlevi cinsel, ekonomik, üreme ve toplumsallaşma işlevleridir; dini işlev Murdock'un kendi örneklerinde ayrıca anılır ama dört temel işlev arasında değildir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-202",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Aile ve Toplum",
+    "soru": "Güç ve otoritenin annenin elinde toplandığı, soyun anneden belirlendiği aile tipine ne ad verilir?",
+    "siklar": [
+      "Ataerkil aile",
+      "Anaerkil aile",
+      "Çekirdek aile",
+      "Geniş aile",
+      "Eşitlikçi aile"
+    ],
+    "dogru": 1,
+    "aciklama": "Anaerkil aile (matriarchy), güç ve otoritenin annede toplandığı, soyun anneden belirlendiği aile tipidir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-203",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Aile ve Toplum",
+    "soru": "'Roma ailesi' olarak da anılan, otoritenin mutlak biçimde babada toplandığı aile tipi hangisidir?",
+    "siklar": [
+      "Anaerkil aile",
+      "Eşitlikçi aile",
+      "Ataerkil aile",
+      "Tek ebeveynli aile",
+      "Kentsel aile"
+    ],
+    "dogru": 2,
+    "aciklama": "Ataerkil aile (patriarchy), 'Roma ailesi' olarak da anılır ve otoriteyi mutlak biçimde baba temsil eder.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-204",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Aile ve Toplum",
+    "soru": "Anne, baba ve çocukların dışında birkaç kuşağın bir arada yaşadığı, tarım toplumlarında yaygın aile tipi hangisidir?",
+    "siklar": [
+      "Çekirdek aile",
+      "Geniş aile",
+      "Tek ebeveynli aile",
+      "Gecekondu ailesi",
+      "Kentsel aile"
+    ],
+    "dogru": 1,
+    "aciklama": "Geniş aile, anne-baba-çocukların dışında birkaç kuşağın bir arada yaşadığı, özellikle tarım toplumlarında görülen bir aile türüdür.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-205",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Aile ve Toplum",
+    "soru": "TÜİK'in 2006 tarihli 'Aile Yapısı Araştırması'na göre Türkiye'de hane yapılarının yaklaşık yüzde kaçı çekirdek ailelerden oluşmaktadır?",
+    "siklar": [
+      "%50,7",
+      "%65,3",
+      "%80,7",
+      "%13",
+      "%95"
+    ],
+    "dogru": 2,
+    "aciklama": "TÜİK'in 2006 araştırmasına göre Türkiye'de hane yapılarının %80,7'si çekirdek ailelerden oluşmaktadır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-206",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Aile ve Toplum",
+    "soru": "Toplumsal cinsiyet (gender) kavramını ilk kez 1968 tarihli 'Sex and Gender' adlı çalışmasında kullanan isim kimdir?",
+    "siklar": [
+      "Margaret Mead",
+      "Robert Stoller",
+      "Talcott Parsons",
+      "Emile Durkheim",
+      "John J. Macionis"
+    ],
+    "dogru": 1,
+    "aciklama": "Toplumsal cinsiyet kavramını toplumsal cinsiyet çalışmalarının en kapsamlı araştırmacılarından biri olan ABD'li psikiyatrist Robert Stoller 1968'de 'Sex and Gender' adlı çalışmasında kullanmıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-207",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Aile ve Toplum",
+    "soru": "Yeni evlenen çiftin kocanın ailesi yanında veya yakınında oturmasına ne ad verilir?",
+    "siklar": [
+      "Matrilokal yerleşim",
+      "Neolokal yerleşim",
+      "Patrilokal yerleşim",
+      "Eşitlikçi yerleşim",
+      "Gecekondu yerleşimi"
+    ],
+    "dogru": 2,
+    "aciklama": "Patrilokal yerleşim, evlenen çiftin kocanın ailesiyle birlikte veya yakınında oturmasıdır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-208",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Aile ve Toplum",
+    "soru": "Türkiye'de özellikle Doğu ve Güneydoğu bölgesinde görülen, kocası ölen kadının kayınbiraderiyle evlenmesi durumunu ifade eden evlilik türü hangisidir?",
+    "siklar": [
+      "Taygeldi evlilik",
+      "Levirat evliliği",
+      "Sorarat evliliği",
+      "Berdel evliliği",
+      "Kan bedeli evliliği"
+    ],
+    "dogru": 1,
+    "aciklama": "Levirat evliliği, kocası ölen kadının ölen kocasının erkek kardeşiyle evlenmesi/evlendirilmesi durumudur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-209",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Aile ve Toplum",
+    "soru": "İki ailenin evlilik çağındaki kız ve erkek çocuklarının karşılıklı ve aynı anda evlendirilmesi yoluyla başlık parasından kaçınmayı amaçlayan evlilik türüne ne ad verilir?",
+    "siklar": [
+      "Sorarat",
+      "Berdel (berder)",
+      "Levirat",
+      "Taygeldi",
+      "Kan bedeli evliliği"
+    ],
+    "dogru": 1,
+    "aciklama": "Berdel (berder) evliliği, başlık parası ödeme yükümlülüğünden kurtulmak için iki ailenin çocuklarının karşılıklı evlendirilmesidir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-210",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Aile ve Toplum",
+    "soru": "Ogburn'un ailenin işlevlerine ilişkin tasnifinde aşağıdakilerden hangisi yer almaz?",
+    "siklar": [
+      "Biyolojik görev",
+      "Ekonomik görev",
+      "Prestij sağlama",
+      "Dini görev",
+      "Bilimsel araştırma görevi"
+    ],
+    "dogru": 4,
+    "aciklama": "Ogburn'un tasnifinde biyolojik, ekonomik, koruyuculuk, psikolojik, eğitim, boş zamanların değerlendirilmesi, dinî görev ve prestij sağlama yer alır; bilimsel araştırma görevi bunlar arasında değildir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-301",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Eğitim",
+    "soru": "Platon'a göre eğitimin amacı nedir?",
+    "siklar": [
+      "Sadece teknik beceri kazandırmak",
+      "İnsanın gözünü yeryüzüne çeviren isteklere karşı aklın egemenliğini kurmak",
+      "Üretim becerisi kazandırmak",
+      "Askeri eğitim vermek",
+      "Dini ritüelleri öğretmek"
+    ],
+    "dogru": 1,
+    "aciklama": "Platon, Devlet ve Yasalar'da eğitimin amacını 'insanın gözünü yeryüzüne, bayağı şeylere çeviren isteklere karşı aklın egemenliğini kurmak' olarak belirler.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-302",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Eğitim",
+    "soru": "Eğitim sosyolojisinin sistematik kuruluşu, ahlakî eğitimi organik dayanışmanın temeli olarak ele alan hangi düşünüre kadar götürülebilir?",
+    "siklar": [
+      "Max Weber",
+      "Karl Marx",
+      "Emile Durkheim",
+      "Herbert Spencer",
+      "Auguste Comte"
+    ],
+    "dogru": 2,
+    "aciklama": "Sistematik eğitim sosyolojisinin kuruluşu, ahlakî eğitimin organik dayanışmanın temeli olmasını konu alan öncü çalışmalarıyla Durkheim'a kadar götürülebilir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-303",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Eğitim",
+    "soru": "'The School and Society' (Okul ve Toplum, 1899) adlı eseri yazan ve 1896'da Chicago Üniversitesi'nde 'Laboratuvar Okulu'nu kuran düşünür kimdir?",
+    "siklar": [
+      "John Dewey",
+      "Ivan Illich",
+      "Paulo Freire",
+      "Michael Apple",
+      "Talcott Parsons"
+    ],
+    "dogru": 0,
+    "aciklama": "John Dewey, The School and Society adlı eseri yazmış ve 1896'da Chicago Üniversitesi'nde Laboratuvar Okulu'nu kurmuştur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-304",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Eğitim",
+    "soru": "Türkiye'de eğitim sosyolojisinin ilk temsilcisi olarak kabul edilen isim kimdir?",
+    "siklar": [
+      "İsmail Hakkı Baltacıoğlu",
+      "Ziya Gökalp",
+      "Sabahattin Bey",
+      "Mustafa Satı el-Husrî",
+      "Nusret Kemal Köymen"
+    ],
+    "dogru": 1,
+    "aciklama": "Metne göre eğitim sosyolojisinin ülkemizdeki ilk temsilcisi olarak Ziya Gökalp kabul edilir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-305",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Eğitim",
+    "soru": "R. K. Merton'ın eğitim sosyolojisi bağlamında ele aldığı, kültürel yapı ile toplumsal yapı arasındaki uyumsuzluktan doğan gerilim ve kopma haline ne ad verilir?",
+    "siklar": [
+      "Hegemonya",
+      "Anomi",
+      "Katharsis",
+      "Gizli müfredat",
+      "Mimesis"
+    ],
+    "dogru": 1,
+    "aciklama": "Merton'a göre kültürel yapı ile toplumsal yapı arasındaki uyumsuzluk anomi durumunu, yani bir gerilim ve kopma halini ortaya çıkarır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-306",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Eğitim",
+    "soru": "Paulo Freire'nin öğrenciyi öğrenme sürecinde bir özne değil bilginin yerleştirildiği bir nesne olarak gören geleneksel eğitim yöntemine verdiği ad nedir?",
+    "siklar": [
+      "Sorun tanımlayıcı eğitim modeli",
+      "Bankacı eğitim modeli",
+      "Eleştirel pedagoji",
+      "Okulsuz toplum modeli",
+      "İşlevselci eğitim modeli"
+    ],
+    "dogru": 1,
+    "aciklama": "Freire, öğrencinin bilginin yerleştirildiği bir nesne olarak görüldüğü geleneksel modele 'bankacı eğitim modeli' adını verir ve bunun yerine 'sorun tanımlayıcı eğitim' modelini önerir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-307",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Eğitim",
+    "soru": "Okulları egemen ideolojinin üretildiği merkezler olarak gören ve okulların kültürel sermaye birikiminde rol oynadığını savunan eleştirel pedagoji kuramcısı kimdir?",
+    "siklar": [
+      "Henry Giroux",
+      "Peter McLaren",
+      "Michael W. Apple",
+      "Ivan Illich",
+      "Basil Bernstein"
+    ],
+    "dogru": 2,
+    "aciklama": "Michael W. Apple, okulları egemen ideolojinin üretildiği merkezler olarak görür ve okulların kültürel sermaye birikiminde önemli rol oynadığını savunur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-308",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Eğitim",
+    "soru": "Ivan Illich'in, eğitimi okuldan bağımsızlaştırmayı savunduğu görüşüne ne ad verilir?",
+    "siklar": [
+      "Eleştirel pedagoji",
+      "Okulsuz toplum",
+      "Bankacı eğitim modeli",
+      "İşlevselci yaklaşım",
+      "Yorumcu yaklaşım"
+    ],
+    "dogru": 1,
+    "aciklama": "Ivan Illich, okulların olumsuz etkilerine dikkat çekerek 'okulsuz toplum' görüşünü savunmuştur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-309",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Eğitim",
+    "soru": "Illich'e göre, çocuklara 'yaşamdaki rollerinin yerlerini bilip orada oturmak' olduğunu öğreten, derslerde açıktan öğretilmeyen ama okul uygulamalarında üstü kapalı yer alan şey nedir?",
+    "siklar": [
+      "Açık müfredat",
+      "Gizli müfredat",
+      "Resmi müfredat",
+      "Bankacı müfredat",
+      "Eleştirel müfredat"
+    ],
+    "dogru": 1,
+    "aciklama": "Illich'e göre 'gizli müfredat', çocuklara yaşamdaki rollerinin yerlerini bilip orada oturmaları gerektiğini öğretir; bu, derslerde açıkça öğretilmez, okul uygulamaları içinde örtük olarak yer alır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-310",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Eğitim",
+    "soru": "Willard Waller'in eğitim sosyolojisi alanında zengin bir kavramsal kaynak işlevi gören 1932 tarihli eseri hangisidir?",
+    "siklar": [
+      "The Sociology of Education",
+      "The Sociology of Teaching",
+      "Sociologie de L'education",
+      "Pedagogy of the Oppressed",
+      "Okulsuz Toplum"
+    ],
+    "dogru": 1,
+    "aciklama": "Willard Waller'in 1932'de yayınlanan The Sociology of Teaching adlı eseri, eğitim sosyolojisi alanında çalışanlar için zengin bir kavramsal kaynak olmuştur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-401",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Din",
+    "soru": "Metne göre günümüzde dünya nüfusunun yaklaşık yüzde kaçı herhangi bir dine bağlıdır?",
+    "siklar": [
+      "%50",
+      "%65",
+      "%85",
+      "%95",
+      "%99"
+    ],
+    "dogru": 2,
+    "aciklama": "Metne göre günümüzde dünya nüfusunun yaklaşık %85'i herhangi bir dine bağlıdır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-402",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Din",
+    "soru": "Dinin toplumu bir arada tutan 'toplumsal tutkal' işlevini vurgulayan ve dini bütünleştirici bir güç olarak gören düşünür kimdir?",
+    "siklar": [
+      "Max Weber",
+      "Karl Marx",
+      "Emile Durkheim",
+      "Auguste Comte",
+      "Günter Kehrer"
+    ],
+    "dogru": 2,
+    "aciklama": "Durkheim, dini insan toplumlarında bütünleştirici bir güç olarak görmüş, dinlerin 'toplumsal tutkal olma' işlevini insanlara anlam ve amaç vererek yerine getirdiğini ifade etmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-403",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Din",
+    "soru": "Kapitalizmin Avrupa'da ortaya çıkışını Protestanlık, özellikle Kalvinizm ile ilişkilendiren ünlü çalışmanın yazarı kimdir?",
+    "siklar": [
+      "Emile Durkheim",
+      "Auguste Comte",
+      "Max Weber",
+      "Karl Marx",
+      "Hans Freyer"
+    ],
+    "dogru": 2,
+    "aciklama": "Max Weber, Protestan Ahlakı ve Kapitalizmin Ruhu adlı çalışmasında kapitalizmin doğuşunu Protestanlık, özellikle Kalvinizm ile ilişkilendirmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-404",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Din",
+    "soru": "Din sosyolojisi alanında Türkçe yazılmış ilk telif eser olan 'Dinî Sosyoloji'yi 1943'te yayınlayan isim kimdir?",
+    "siklar": [
+      "Ziya Gökalp",
+      "Hilmi Ziya Ülken",
+      "Şerif Mardin",
+      "Sabri F. Ülgener",
+      "Mehmet Taplamacıoğlu"
+    ],
+    "dogru": 1,
+    "aciklama": "Hilmi Ziya Ülken, 1943'te din sosyolojisi alanındaki ilk Türkçe telif eser olan Dinî Sosyoloji başlıklı çalışmasını yayınlamıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-405",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Din",
+    "soru": "Marxist bakış açısına göre din, toplum üzerinde temel olarak ne tür bir işlev görür?",
+    "siklar": [
+      "Toplumsal değişimi hızlandırma",
+      "İktidardakilerin toplum üzerindeki denetimini güçlendirme",
+      "Bireysel özgürlüğü artırma",
+      "Bilimsel düşünceyi destekleme",
+      "Ekonomik eşitliği sağlama"
+    ],
+    "dogru": 1,
+    "aciklama": "Marxist bakış açısına göre din, iktidardakilerin toplum üzerindeki denetimlerini güçlendiren ve kolektif siyasal eylemi engelleyici bir işlev görür.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-406",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Din",
+    "soru": "Din sosyolojisinin objesinin 'insanların dine dayalı sosyal davranışı' olduğunu belirten isim kimdir?",
+    "siklar": [
+      "Günter Kehrer",
+      "Hans Freyer",
+      "Mevdudî",
+      "Max Weber",
+      "Hilmi Ziya Ülken"
+    ],
+    "dogru": 0,
+    "aciklama": "Günter Kehrer'e göre din sosyolojisinin objesi, insanların dine dayalı sosyal davranışıdır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-407",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Din",
+    "soru": "1924'te Durkheim'in din konusundaki eserinin 'Din Hayatının İbtidâî Şekilleri' başlığıyla Türkçeye çevrilmesi hangi kurumun planlamaları çerçevesinde gerçekleşmiştir?",
+    "siklar": [
+      "Türk Dil Kurumu",
+      "Telif ve Tercüme Encümeni",
+      "Türk Tarih Kurumu",
+      "Maarif Vekaleti",
+      "Darülfünun"
+    ],
+    "dogru": 1,
+    "aciklama": "1924'te Durkheim'in eseri, başkanlığını Ziya Gökalp'in yaptığı Telif ve Tercüme Encümeni'nin planlamaları çerçevesinde Türkçeye tercüme edilmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-408",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Din",
+    "soru": "Dinin açık işlevi maddi ya da ruhani dünyayı tanımlamak iken, dinî bir ayinin gizli (örtük) işlevi metne göre nedir?",
+    "siklar": [
+      "Ekonomik kalkınmayı sağlamak",
+      "Her türden toplumsallaşmayı sağlamak",
+      "Siyasi otoriteyi güçlendirmek",
+      "Bilimsel bilgiyi yaymak",
+      "Sınıf çatışmasını körüklemek"
+    ],
+    "dogru": 1,
+    "aciklama": "Dinî bir ayinin açık işlevi ibadet için toplanma sağlamakken, gizli işlevi her türden toplumsallaşmayı sağlamaktır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-409",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Din",
+    "soru": "Hans Freyer'in dinin evrenselliğine ilişkin sözünde vurguladığı husus nedir?",
+    "siklar": [
+      "Dinin sadece modern toplumlarda görüldüğü",
+      "İnsanlık tarihinin ne kadar eskisine inilirse inilsin daima din vakıasıyla karşılaşıldığı",
+      "Dinin yalnızca Batı toplumlarına özgü olduğu",
+      "Dinin sekülerleşmeyle birlikte ortadan kalkacağı",
+      "Dinin yalnızca kırsal toplumlarda etkili olduğu"
+    ],
+    "dogru": 1,
+    "aciklama": "Hans Freyer'e göre insanlığın ne kadar kadim tarihine inilirse inilsin daima din vakıasıyla karşılaşılır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-410",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplum ve Din",
+    "soru": "Metne göre sosyolojinin dinle ilgilenmesinin temel nedeni nedir?",
+    "siklar": [
+      "Dinin doğaüstü kökenini açıklamak istemesi",
+      "Dinin de toplumsal bir olay olması",
+      "Dinin ekonomik bir kurum olması",
+      "Dinin siyasi bir parti olması",
+      "Dinin bilimsel bir teori olması"
+    ],
+    "dogru": 1,
+    "aciklama": "Sosyolojinin dinle ilgilenmesinin nedeni ve kapsamı, dinin de toplumsal bir olay olmasıdır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-501",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Ekonomi, İş ve Çalışma Hayatı",
+    "soru": "'Bilimsel yönetim' anlayışının yaratıcısı olarak tanınan ve 1911'de 'The Principles of Scientific Management' adlı eseri yayınlayan kişi kimdir?",
+    "siklar": [
+      "Henri Fayol",
+      "Frederick Winslow Taylor",
+      "Douglas McGregor",
+      "Chester Barnard",
+      "Max Weber"
+    ],
+    "dogru": 1,
+    "aciklama": "Frederick Winslow Taylor, 'bilimsel yönetim' anlayışının yaratıcısı olarak tanınır ve 1911'de The Principles of Scientific Management'ı yayınlamıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-502",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Ekonomi, İş ve Çalışma Hayatı",
+    "soru": "Taylor'ın kendi adıyla anılan çalışma davranışı kuramına ne ad verilir?",
+    "siklar": [
+      "Fordizm",
+      "Taylorizm",
+      "Toyotizm",
+      "Beşeri ilişkiler yaklaşımı",
+      "X-Y Kuramı"
+    ],
+    "dogru": 1,
+    "aciklama": "Taylor'ın kendi adıyla anılan çalışma davranışı kuramına Taylorizm denir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-503",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Ekonomi, İş ve Çalışma Hayatı",
+    "soru": "1916'da 'Administration industrielle et générale' başlıklı makalesinde yönetimin beş unsurunu (planlama, örgütlenme, kumanda, koordinasyon, kontrol) belirleyen düşünür kimdir?",
+    "siklar": [
+      "Frederick Taylor",
+      "Henri Fayol",
+      "Chester Barnard",
+      "Douglas McGregor",
+      "Elton Mayo"
+    ],
+    "dogru": 1,
+    "aciklama": "Henri Fayol, 1916'daki makalesinde yönetimin unsurlarını planlama, örgütlenme, kumanda, koordinasyon ve kontrol olarak belirlemiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-504",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Ekonomi, İş ve Çalışma Hayatı",
+    "soru": "Douglas McGregor'un 'The Human Side of Enterprise' adlı eserinde, Taylor'ın bilimsel yönetim anlayışına denk gelen kuram hangisidir?",
+    "siklar": [
+      "Y Kuramı",
+      "X Kuramı",
+      "Z Kuramı",
+      "İşbirliği Kuramı",
+      "Ağ Toplumu Kuramı"
+    ],
+    "dogru": 1,
+    "aciklama": "McGregor'a göre 'X Kuramı', klasik makine kuramına ve Taylor'ın bilimsel yönetim anlayışına denk gelir; 'Y Kuramı' ise insan ilişkileri hareketine karşılık gelir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-505",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Ekonomi, İş ve Çalışma Hayatı",
+    "soru": "'The Function of the Executive' (1938) adlı eseriyle örgütü 'bilinçli olarak koordine edilmiş bir işbirliği sistemi' olarak tanımlayan kişi kimdir?",
+    "siklar": [
+      "Henri Fayol",
+      "Chester Barnard",
+      "Frederick Taylor",
+      "Daniel Bell",
+      "Douglas McGregor"
+    ],
+    "dogru": 1,
+    "aciklama": "Chester Barnard, The Function of the Executive adlı eserinde örgütü bilinçli olarak koordine edilmiş eylemlere dayalı bir işbirliği sistemi olarak tanımlamıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-506",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Ekonomi, İş ve Çalışma Hayatı",
+    "soru": "'The Coming of Post-Industrial Society' (1973) adlı eseriyle 'post-endüstriyel toplum' kavramını popülerleştiren düşünür kimdir?",
+    "siklar": [
+      "Daniel Bell",
+      "Manuel Castells",
+      "Alvin Toffler",
+      "Peter Drucker",
+      "Anthony Giddens"
+    ],
+    "dogru": 0,
+    "aciklama": "Daniel Bell, The Coming of Post-Industrial Society adlı eseriyle post-endüstriyel toplum kavramını popülerleştirmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-507",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Ekonomi, İş ve Çalışma Hayatı",
+    "soru": "Mikro-kredi sistemini geliştiren ve 1976'da Grameen Bankası'nı kuran, bu projesi nedeniyle Nobel ödülüne layık görülen Bangladeşli iktisatçı kimdir?",
+    "siklar": [
+      "Amartya Sen",
+      "Muhammed Yunus",
+      "Joseph Stiglitz",
+      "Daniel Bell",
+      "Robert Reich"
+    ],
+    "dogru": 1,
+    "aciklama": "Muhammed Yunus, mikro-kredi sistemini geliştirmiş ve 1976'da kurduğu Grameen Bankası nedeniyle Nobel ödülüne layık görülmüştür.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-508",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Ekonomi, İş ve Çalışma Hayatı",
+    "soru": "Japon Toyota firmasının üretim biçiminden esinlenen ve kitlesel üretim yerine ürün farklılaşmasını öne çıkaran anlayışa ne ad verilir?",
+    "siklar": [
+      "Fordizm",
+      "Taylorizm",
+      "Toyotizm (Toyotaism)",
+      "Post-Fordizm",
+      "Beşeri İlişkiler Yaklaşımı"
+    ],
+    "dogru": 2,
+    "aciklama": "Toyota'nın üretim biçiminden esinlenerek geliştirilen ve ürün farklılaşmasını öne çıkaran anlayışa Toyotizm (Toyotaism) denir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-509",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Ekonomi, İş ve Çalışma Hayatı",
+    "soru": "Sosyologların günümüz ekonomisinde meslekleri ayırdığı, tıpçılar, hukukçular ve üst düzey yöneticiler gibi yüksek gelir ve iş güvenliği sunan meslekleri kapsayan kategori hangisidir?",
+    "siklar": [
+      "İkincil işgücü piyasası",
+      "Birincil işgücü piyasası",
+      "Esnek üretim piyasası",
+      "Enformel sektör",
+      "Sanayisizleşmiş piyasa"
+    ],
+    "dogru": 1,
+    "aciklama": "Birincil işgücü piyasası, tıpçılar, hukukçular ve üst düzey yöneticiler gibi geleneksel beyaz yakalı meslekleri kapsar ve yüksek gelir, iş güvenliği sunar.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-510",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Ekonomi, İş ve Çalışma Hayatı",
+    "soru": "Sanayi şirketlerinin fabrika ve tesisler gibi üretkenlik yatırımlarından sistematik biçimde geri çekilmesine ne ad verilir?",
+    "siklar": [
+      "Sanayisizleştirme",
+      "Toyotizm",
+      "Esnek üretim",
+      "Mikro-kredi",
+      "Post-endüstrileşme"
+    ],
+    "dogru": 0,
+    "aciklama": "Sanayi şirketlerinin üretkenliğin temel boyutlarından (fabrikalar, tesisler) sistematik geri çekilişine 'sanayisizleştirme' denir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-601",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Siyaset, İktidar ve Otorite",
+    "soru": "Aristo'ya göre, yöneticilerin kendi çıkarları için değil tüm toplumun menfaati için yönettiği, tek kişinin yönetimi olan ve tercih edilen rejim hangisidir?",
+    "siklar": [
+      "Tiranlık",
+      "Monarşi",
+      "Oligarşi",
+      "Demokrasi (bozulmuş anlamda)",
+      "Totalitarizm"
+    ],
+    "dogru": 1,
+    "aciklama": "Aristo'ya göre monarşi, tek kişinin tüm toplumun çıkarı için yönettiği, tercih edilen bir idare biçimidir; bunun bozulmuş hali tiranlıktır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-602",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Siyaset, İktidar ve Otorite",
+    "soru": "Aristo'nun altılı rejim sınıflamasında, çoğunluğun kendi çıkarları pahasına diğerlerinin çıkarı doğrultusunda yönetimde bulunduğu bozulmuş rejim hangisidir?",
+    "siklar": [
+      "Polity",
+      "Aristokrasi",
+      "Demokrasi",
+      "Monarşi",
+      "Oligarşi"
+    ],
+    "dogru": 2,
+    "aciklama": "Aristo'nun sınıflamasında demokrasi, kitlelerin diğer insanların çıkarı pahasına kendi menfaatleri doğrultusunda yönetimde bulunduğu bozulmuş bir rejimdir; iyi hali 'polity'dir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-603",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Siyaset, İktidar ve Otorite",
+    "soru": "Max Weber, 'Meslek Olarak Siyaset' başlıklı yazısında devleti nasıl tanımlar?",
+    "siklar": [
+      "Belli bir arazi içinde fiziksel şiddetin meşru kullanımını tekelinde bulunduran insan topluluğudur",
+      "Halkın iradesini temsil eden bir kurumdur",
+      "Üretim araçlarının ortaklaşa sahipliğidir",
+      "Tanrısal bir kurumdur",
+      "Sadece bir bürokratik organizasyondur"
+    ],
+    "dogru": 0,
+    "aciklama": "Weber'e göre devlet, belli bir arazi içinde fiziksel şiddetin meşru kullanımını tekelinde (başarıyla) bulunduran insan topluluğudur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-604",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Siyaset, İktidar ve Otorite",
+    "soru": "Weber'in otorite çeşitlerinin sınıflandırılmasında yer alan üç 'ideal tip' hangileridir?",
+    "siklar": [
+      "Geleneksel, karizmatik, yasal-rasyonel otorite",
+      "Monarşik, demokratik, totaliter otorite",
+      "Ekonomik, siyasi, dini otorite",
+      "Merkezi, yerel, küresel otorite",
+      "Formel, enformel, hibrit otorite"
+    ],
+    "dogru": 0,
+    "aciklama": "Weber, otoriteyi geleneksel otorite, karizmatik otorite ve yasal-rasyonel otorite olmak üzere üç ideal tip aracılığıyla sınıflandırmıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-605",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Siyaset, İktidar ve Otorite",
+    "soru": "Thomas Hobbes, devleti hangi eserinde 'en yüksek güç' olarak sunmuştur?",
+    "siklar": [
+      "Leviathan",
+      "Toplum Sözleşmesi",
+      "İkinci İnceleme",
+      "Politika",
+      "Devlet"
+    ],
+    "dogru": 0,
+    "aciklama": "Thomas Hobbes, devleti 'Leviathan' şeklinde sunduğu eserinde en yüksek güç olarak tanımlar.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-606",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Siyaset, İktidar ve Otorite",
+    "soru": "Bir rejimin otoriter olarak nitelenebilmesi için gereken nitelikleri (sınırlı plüralizm, ideoloji yerine zihniyet, sınırlı mobilizasyon vb.) tanımlayan düşünür kimdir?",
+    "siklar": [
+      "Juan J. Linz",
+      "Brzezinski",
+      "Max Weber",
+      "Hannah Arendt",
+      "Aristo"
+    ],
+    "dogru": 0,
+    "aciklama": "Juan J. Linz, bir rejimi otoriter olarak nitelendirebilmek için gereken nitelikleri tanımlamıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-607",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Siyaset, İktidar ve Otorite",
+    "soru": "Max Weber, bürokrasiyi nasıl tanımlamıştır?",
+    "siklar": [
+      "Toplumun en yoksul kesiminin yönetim biçimi",
+      "Gittikçe kalabalıklaşan bir toplumun yasalara rasyonel olarak yönetilmesini sağlayan örgütlenme biçimi",
+      "Yalnızca askeri bir yönetim sistemi",
+      "Dinî bir otorite biçimi",
+      "Geleneksel toplumların yönetim biçimi"
+    ],
+    "dogru": 1,
+    "aciklama": "Weber, bürokrasiyi gittikçe kalabalıklaşan ve karmaşıklaşan bir toplumun yasalara rasyonel olarak ve en fazla tatmini sağlayacak biçimde yönetilmesini sağlayan örgütlenme/idare biçimi olarak tanımlamıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-608",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Siyaset, İktidar ve Otorite",
+    "soru": "Hükümet ile devlet arasındaki ilişkiye dair metinde verilen bilgiye göre aşağıdakilerden hangisi doğrudur?",
+    "siklar": [
+      "Devlet geçicidir, hükümet kalıcıdır",
+      "Hükümetsiz devlet olabilir ama devletsiz hükümet olamaz",
+      "Devlet olmadan hükümet var olabilir ancak hükümetsiz devlet olamaz",
+      "Devlet ve hükümet aynı şeydir",
+      "Hükümet devletten daha kapsamlıdır"
+    ],
+    "dogru": 2,
+    "aciklama": "Metne göre devlet kalıcı, hükümet geçicidir; devlet olmadan hükümet var olabilir ancak hükümetsiz devlet olamaz.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-609",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Siyaset, İktidar ve Otorite",
+    "soru": "Türkiye'de devletin yasama organı olan parlamentoyu oluşturan kurum hangisidir?",
+    "siklar": [
+      "Bakanlar Kurulu",
+      "TBMM",
+      "Anayasa Mahkemesi",
+      "Danıştay",
+      "Yargıtay"
+    ],
+    "dogru": 1,
+    "aciklama": "Parlamento, devletin yasama organıdır; Türkiye'de bunu TBMM oluşturur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-610",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Siyaset, İktidar ve Otorite",
+    "soru": "Anarşist düşünceye göre devlet, toplumsal düzenin sağlanması için değil ne için bir nedendir?",
+    "siklar": [
+      "Ekonomik kalkınma için bir araçtır",
+      "Çatışma, huzursuzluk ve şiddetin nedenidir",
+      "Eğitimin temel sağlayıcısıdır",
+      "Dini birliğin garantörüdür",
+      "Bilimsel ilerlemenin motorudur"
+    ],
+    "dogru": 1,
+    "aciklama": "Anarşistlere göre devlet, düzensizliğin ilacı değil; çatışma, huzursuzluk ve şiddetin nedenidir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-701",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Kentleşme ve Kent Sorunları",
+    "soru": "20. yüzyılın başlarında kentleşmenin sonuçlarına ilişkin ilk çalışmaları yapan ve kentsel ekoloji yaklaşımının temellerini atan, Darwin'in ekolojik yaklaşımından etkilenen düşünür kimdir?",
+    "siklar": [
+      "Louis Wirth",
+      "Georg Simmel",
+      "Robert E. Park",
+      "Max Weber",
+      "Ray E. Pahl"
+    ],
+    "dogru": 1,
+    "aciklama": "Georg Simmel, kentleşmenin sonuçlarına ilişkin ilk çalışmaları yapmış ve kentsel ekoloji yaklaşımının temellerini atmıştır; analizleri Darwin'in ekolojik yaklaşımından etkilenmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-702",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Kentleşme ve Kent Sorunları",
+    "soru": "1920'lerden 1950'lere kadar kentsel analizlerde başat paradigma olan, 'modern anlamda ilk kentbilim okulu' kabul edilen okul hangisidir?",
+    "siklar": [
+      "Frankfurt Okulu",
+      "Chicago Okulu",
+      "Annales Okulu",
+      "Viyana Okulu",
+      "Marburg Okulu"
+    ],
+    "dogru": 1,
+    "aciklama": "Chicago Okulu, 1920'lerden 1950'lere kadar kentsel analizlerde başat paradigma olan, modern anlamda ilk kentbilim okulu olarak kabul edilir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-703",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Kentleşme ve Kent Sorunları",
+    "soru": "Kentin merkezden dışa doğru genişleyen ortak merkezli daireler şeklinde tanımlanmasını öneren, Park'ın öğrencileri olan isimler kimlerdir?",
+    "siklar": [
+      "Wirth ve Pahl",
+      "Rex ve Moore",
+      "Burgess ve McKenzie",
+      "Castells ve Harvey",
+      "Comte ve Durkheim"
+    ],
+    "dogru": 2,
+    "aciklama": "Park'ın öğrencileri E. W. Burgess ve Roderick M. McKenzie, kentteki bölgeleri merkezden dışa doğru genişleyen ortak merkezli daireler şeklinde tanımlamışlardır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-704",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Kentleşme ve Kent Sorunları",
+    "soru": "Kentleşmeyle yaşam tarzı arasında ilişki kurarak 'bir yaşam tarzı olarak kentlilik' kavramını geliştiren, Park'ın takipçisi olan isim kimdir?",
+    "siklar": [
+      "Louis Wirth",
+      "John Rex",
+      "Ray Pahl",
+      "David Harvey",
+      "Robert Moore"
+    ],
+    "dogru": 0,
+    "aciklama": "Louis Wirth, Park'ın takipçisi olarak ekolojik yaklaşımdan hareketle kentleşmeyle yaşam tarzı arasında ilişki kurmuş ve 'bir yaşam tarzı olarak kentlilik' kavramını geliştirmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-705",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Kentleşme ve Kent Sorunları",
+    "soru": "1960'lı yıllarda Birmingham'da yaptıkları araştırma sonucunda 'konut sınıfları kuramı'nı geliştiren isimler kimlerdir?",
+    "siklar": [
+      "Park ve Burgess",
+      "Rex ve Moore",
+      "Wirth ve Pahl",
+      "Comte ve Weber",
+      "Harvey ve Castells"
+    ],
+    "dogru": 1,
+    "aciklama": "John Rex ve Robert Moore, 1960'lı yıllarda Birmingham'da yaptıkları araştırma sonucunda konut sınıfları kuramını geliştirmişlerdir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-706",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Kentleşme ve Kent Sorunları",
+    "soru": "Weber'in güç, bürokrasi ve yönetim sistemleri çalışmalarından hareketle 'kent yönetimciliği kuramı'nı geliştiren isim kimdir?",
+    "siklar": [
+      "Ray E. Pahl",
+      "Georg Simmel",
+      "John Rex",
+      "David Harvey",
+      "Louis Wirth"
+    ],
+    "dogru": 0,
+    "aciklama": "Ray E. Pahl, Weber'in çalışmalarından hareketle kent yöneticilerinin kentsel yapının oluşmasında etkin olduğu görüşünü içeren 'kent yönetimciliği kuramı'nı geliştirmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-707",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Kentleşme ve Kent Sorunları",
+    "soru": "Sosyolojinin üç kurucu babası olarak kabul edilen Marx, Weber ve Durkheim'in kenti ele alırken üzerinde durduğu konular sırasıyla hangileridir?",
+    "siklar": [
+      "Özel mülkiyet/kapitalist üretim, egemenlik yapısı, işbölümü-dayanışma-bireyselleşme",
+      "Demografi, göç, yaşlanma",
+      "Din, eğitim, aile",
+      "Sadece konut politikaları",
+      "Sadece kent estetiği"
+    ],
+    "dogru": 0,
+    "aciklama": "Marx özel mülkiyet ve kapitalist üretim biçimini, Weber egemenlik yapısını, Durkheim ise işbölümü, dayanışma ve bireyselleşmeyi ele almıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-708",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Kentleşme ve Kent Sorunları",
+    "soru": "Auguste Comte, Durkheim, Tönnies ve Weber'in kente ilişkin genel yaklaşımları arasında, Tönnies'in kent için yaptığı vurgu hangisidir?",
+    "siklar": [
+      "Anarşi ve bireysellik",
+      "Organik dayanışma",
+      "Topluluktan topluma geçiş",
+      "Aklın egemenliği",
+      "Mekanik dayanışma"
+    ],
+    "dogru": 2,
+    "aciklama": "Metne göre Tönnies, topluluktan topluma geçildiğine vurgu yapmıştır (Comte anarşi/bireysellik, Durkheim organik dayanışma, Weber akılcılaşmaya vurgu yapmıştır).",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-709",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Kentleşme ve Kent Sorunları",
+    "soru": "Kentteki nüfus yoğunluğunun farklı bölgelerin oluşmasına yol açtığını ve bu görüşüyle Weber'in bürokrasi tanımıyla benzerlik taşıyan yaklaşıma sahip düşünür kimdir?",
+    "siklar": [
+      "Louis Wirth",
+      "John Rex",
+      "David Harvey",
+      "Manuel Castells",
+      "Robert Park"
+    ],
+    "dogru": 0,
+    "aciklama": "Louis Wirth'e göre nüfusun büyüklüğü ve yoğunluğu kentte farklı bölgelerin oluşmasına yol açar; bu görüşü Weber'in bürokrasi tanımıyla benzerlik taşır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-710",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Kentleşme ve Kent Sorunları",
+    "soru": "Pahl'a göre kentsel kaynakların dağıtımını elinde bulunduran ve 'kapı bekçileri' konumunda olan kesim kimlerdir?",
+    "siklar": [
+      "Yerel halk",
+      "Kent yöneticileri/profesyoneller",
+      "Göçmenler",
+      "İşçi sendikaları",
+      "Üniversiteler"
+    ],
+    "dogru": 1,
+    "aciklama": "Pahl'a göre kıt kentsel kaynakları kontrol eden ve dağıtımı düzenleyen profesyoneller, 'kapı bekçileri' konumundadır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-801",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Nüfus ve Toplum",
+    "soru": "İnsan nüfusunun büyüklüğündeki ve hareketliliğindeki değişiklikleri araştıran, interdisipliner bir sosyal bilim olan disiplin hangisidir?",
+    "siklar": [
+      "Sosyoloji",
+      "Demografi",
+      "Antropoloji",
+      "Ekoloji",
+      "Coğrafya"
+    ],
+    "dogru": 1,
+    "aciklama": "Demografi, insan nüfusunun büyüklüğündeki ve hareketliliğindeki değişiklikleri araştıran interdisipliner bir sosyal bilimdir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-802",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Nüfus ve Toplum",
+    "soru": "Nüfusun, beslenme için gerekli besin kapasitesinden çok daha hızlı (geometrik) arttığını, gıda üretiminin ise aritmetik olarak arttığını ileri süren iktisatçı kimdir?",
+    "siklar": [
+      "Adolphe Landry",
+      "Frank W. Notestein",
+      "Thomas Robert Malthus",
+      "Karl Marx",
+      "Adam Smith"
+    ],
+    "dogru": 2,
+    "aciklama": "Thomas Robert Malthus, Essay on the Principle of Population adlı eserinde nüfusun geometrik, besin kaynaklarının ise aritmetik arttığını ileri sürmüştür.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-803",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Nüfus ve Toplum",
+    "soru": "Malthus'a göre nüfus artışını dengelemenin 'baskıcı/negatif engeller' kategorisinde hangisi yer alır?",
+    "siklar": [
+      "Evlenme yaşının geciktirilmesi",
+      "Ahlaki kısıtlamalar",
+      "Savaşlar, kıtlık ve salgın hastalıklar",
+      "Fuhuş",
+      "Doğum kontrolü"
+    ],
+    "dogru": 2,
+    "aciklama": "Malthus'a göre baskıcı/negatif engeller, ölüm oranlarını artıran savaşlar, kıtlık ve salgın hastalıklar gibi 'kontrolsüz engeller'dir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-804",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Nüfus ve Toplum",
+    "soru": "Klasik demografik geçiş kuramını 1940'ların sonu ve 1950'lerin başında sistematik hale getiren isim kimdir?",
+    "siklar": [
+      "Thomas Malthus",
+      "Adolphe Landry",
+      "Frank W. Notestein",
+      "Karl Marx",
+      "Emile Durkheim"
+    ],
+    "dogru": 2,
+    "aciklama": "Demografik geçiş kuramının nüveleri Adolphe Landry'de bulunsa da, kuramı 1940'ların sonu ve 1950'lerin başında sistematik hale getiren Frank W. Notestein'dır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-805",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Nüfus ve Toplum",
+    "soru": "Notestein'ın geliştirdiği üç aşamalı demografik geçiş modelinin ikinci aşamasının özelliği nedir?",
+    "siklar": [
+      "Hem doğum hem ölüm hızı yüksektir",
+      "Ölüm hızları düşmeye başlar, doğum hızındaki düşüş gecikmeli takip eder, hızlı nüfus artışı yaşanır",
+      "Hem doğum hem ölüm hızı çok düşüktür",
+      "Nüfus artış hızı sıfırdır",
+      "Sadece göç etkilidir"
+    ],
+    "dogru": 1,
+    "aciklama": "İkinci aşamada sanayileşmeyle ölüm hızları düşmeye başlar, doğum hızındaki düşüş gecikmeli takip eder ve hızlı bir nüfus artışı yaşanır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-806",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Nüfus ve Toplum",
+    "soru": "Bir toplumda doğal nüfus artış hızının sıfır olduğu, doğum ve ölüm hızlarının birbirine eşit olduğu duruma ne ad verilir?",
+    "siklar": [
+      "Nüfus yitimi",
+      "Sabit (durağan) nüfus",
+      "Demografik patlama",
+      "Nüfus transferi",
+      "Negatif nüfus"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğal nüfus artış hızının sıfır olduğu, doğum ve ölüm hızlarının eşit olduğu duruma sabit veya durağan nüfus denir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-807",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Nüfus ve Toplum",
+    "soru": "Karl Marx, Malthus'un nüfus yaklaşımını nasıl eleştirmiştir?",
+    "siklar": [
+      "Nüfus artışının her zaman olumlu olduğunu söyleyerek",
+      "Asıl sorunun sanayi toplumlarındaki ekonomik ilişkilerin doğası olduğunu, iyi düzenlenmiş bir toplumda nüfus artışının refaha yol açacağını savunarak",
+      "Malthus'un nüfus teorisine tamamen katılarak",
+      "Nüfus artışının doğal bir felaket olduğunu savunarak",
+      "Göçün nüfus artışının tek nedeni olduğunu söyleyerek"
+    ],
+    "dogru": 1,
+    "aciklama": "Marx'a göre asıl sorun sanayi toplumlarındaki ekonomik ilişkilerin doğasıdır; iyi düzenlenmiş bir toplumda nüfus artışı açlığa değil daha fazla refaha yol açar.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-808",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Nüfus ve Toplum",
+    "soru": "Bir yılda doğumda veya doğum sonrasında ölen 1 yaşın altındaki bebek ölümlerinin toplam doğum sayısına bölünüp 1000 ile çarpılmasıyla elde edilen gösterge hangisidir?",
+    "siklar": [
+      "Kaba ölüm hızı",
+      "Bebek ölüm hızı",
+      "Genel doğurganlık hızı",
+      "Kaba doğum hızı",
+      "Ortanca yaş"
+    ],
+    "dogru": 1,
+    "aciklama": "Bebek ölüm hızı, bir yılda ölen 1 yaşın altındaki bebek sayısının toplam doğum sayısına bölünüp 1000 ile çarpılmasıyla hesaplanır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-809",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Nüfus ve Toplum",
+    "soru": "BM'nin 2007 verilerine göre dünyada ortalama yaşam beklentisinin en yüksek olduğu kıta hangisidir?",
+    "siklar": [
+      "Avrupa",
+      "Asya",
+      "Afrika",
+      "Kuzey Amerika",
+      "Güney Amerika"
+    ],
+    "dogru": 3,
+    "aciklama": "BM 2007 verilerine göre ortalama yaşam beklentisinin en yüksek olduğu kıta Kuzey Amerika'dır (78 yaş).",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-810",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Nüfus ve Toplum",
+    "soru": "Demografik geçiş kuramına yöneltilen eleştirilerden biri, kuramın nüfus artış hızı konusunda yalnızca doğum ve ölümlere odaklanıp hangi olguyu ihmal ettiğidir?",
+    "siklar": [
+      "Eğitim",
+      "Göç",
+      "Din",
+      "Siyaset",
+      "Sanayileşme"
+    ],
+    "dogru": 1,
+    "aciklama": "Demografik geçiş kuramı, nüfus artış hızı konusunda doğum ve ölümlere odaklanırken günümüzde önem kazanan göç olgusunu ihmal ettiği gerekçesiyle eleştirilmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-901",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Göç ve Toplum",
+    "soru": "Göç üzerine 1885 ve 1889'da 'The Laws of Migration' (Göç Yasaları) başlıklı iki makale yayınlayarak göç teorilerinin temelini atan isim kimdir?",
+    "siklar": [
+      "Everett S. Lee",
+      "Ernest George Ravenstein",
+      "Samuel A. Stouffer",
+      "George J. Borjas",
+      "Michael J. Piore"
+    ],
+    "dogru": 1,
+    "aciklama": "Ernest George Ravenstein, 1885 ve 1889'da yayımladığı 'The Laws of Migration' başlıklı makaleleriyle göç teorilerinin temelini atmıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-902",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Göç ve Toplum",
+    "soru": "Ravenstein'ın göç yasalarından birine göre göçmenler genel olarak hangi tür seyahatleri tercih eder?",
+    "siklar": [
+      "Uzun mesafe seyahatleri",
+      "Kısa mesafe seyahatleri",
+      "Yalnızca uluslararası seyahatleri",
+      "Mevsimlik seyahatleri",
+      "Rastgele seyahatleri"
+    ],
+    "dogru": 1,
+    "aciklama": "Ravenstein'a göre göçmenler kısa seyahatleri uzun seyahatlere tercih eder; uzun mesafe göçleri istisnadır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-903",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Göç ve Toplum",
+    "soru": "Refah düzeyini şehrin nüfusu ve sanat düzeyiyle ilişkilendiren, göç tartışmalarının kökenini XIV. yüzyıla taşıyan düşünür kimdir?",
+    "siklar": [
+      "İbn Haldun",
+      "Ravenstein",
+      "Lee",
+      "Petersen",
+      "Borjas"
+    ],
+    "dogru": 0,
+    "aciklama": "İbn Haldun, şehrin refahını sanat düzeyi ve nüfusla ilişkilendirerek göç tartışmalarının kökenini XIV. yüzyıla kadar geri götürür.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-904",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Göç ve Toplum",
+    "soru": "Neo-klasik mikro ekonomik göç teorisyenlerinden biri olan ve bireylerin refahı maksimize etmek için göç ettiğini savunan isim kimdir?",
+    "siklar": [
+      "George J. Borjas",
+      "William Petersen",
+      "Oded Stark",
+      "Michael J. Piore",
+      "Saskia Sassen"
+    ],
+    "dogru": 0,
+    "aciklama": "George J. Borjas, neo-klasik ekonomik teoriye göre bireylerin faydayı/refahı maksimize etmek için göç ettiğini ifade etmektedir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-905",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Göç ve Toplum",
+    "soru": "Göçün, sadece bireysel kararlarla değil tüm ailenin veya topluluğun kararları neticesinde oluştuğunu savunan 'yeni ekonomi kuramı'nın geliştiricileri arasında aşağıdakilerden hangisi yer alır?",
+    "siklar": [
+      "Oded Stark",
+      "Ernest Ravenstein",
+      "William Petersen",
+      "John Rex",
+      "Louis Wirth"
+    ],
+    "dogru": 0,
+    "aciklama": "Oded Stark (Eliakim Katz ve David Levhari ile birlikte), göçün ailenin/topluluğun kararları neticesinde oluştuğunu savunan 'yeni ekonomi kuramı'nı geliştirmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-906",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Göç ve Toplum",
+    "soru": "Göçmenlerin isteklilik derecelerine göre ilkel, zoraki, yönlendirilmiş, serbest ve kitlesel göç olmak üzere beşli bir göç tipolojisi geliştiren isim kimdir?",
+    "siklar": [
+      "William Petersen",
+      "George Borjas",
+      "Michael Piore",
+      "Saskia Sassen",
+      "Everett Lee"
+    ],
+    "dogru": 0,
+    "aciklama": "William Petersen, isteklilik derecesini temel alarak ilkel, zoraki, yönlendirilmiş, serbest ve kitlesel göç olmak üzere beş çeşit göçten oluşan bir tipoloji geliştirmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-907",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Göç ve Toplum",
+    "soru": "1951 tarihli Mültecilerin Hukukî Statüsüne Dair BM Sözleşmesi'ne göre 'mülteci' tanımının temelinde hangi unsur yer alır?",
+    "siklar": [
+      "Ekonomik yoksulluk",
+      "Irk, din, tabiiyet, toplumsal gruba mensubiyet veya siyasi düşünceler yüzünden zulüm korkusu",
+      "Doğal afetler",
+      "Eğitim eksikliği",
+      "İklim değişikliği"
+    ],
+    "dogru": 1,
+    "aciklama": "1951 Sözleşmesi'ne göre mülteci, ırkı, dini, tabiiyeti, toplumsal gruba mensubiyeti veya siyasi düşünceleri yüzünden zulme uğrama korkusuyla ülkesi dışında bulunan kişidir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-908",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Göç ve Toplum",
+    "soru": "Sanayileşmiş ülkelerdeki işverenlerin, metropol ülke işçileri tarafından beğenilmeyen işlere kaçak göçmenleri yerleştirdiğini savunan isim kimdir?",
+    "siklar": [
+      "Michael J. Piore",
+      "George Borjas",
+      "William Petersen",
+      "Ravenstein",
+      "Stouffer"
+    ],
+    "dogru": 0,
+    "aciklama": "Michael J. Piore'ye göre sanayileşmiş ülkelerdeki işverenler, metropol ülkenin işçileri tarafından beğenilmeyen işlere kaçak göçmenleri yerleştirmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-909",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Göç ve Toplum",
+    "soru": "Göçün hareket noktası olan, göçmenin harekete geçtiği ilk ülkeye ne ad verilir?",
+    "siklar": [
+      "Hedef ülke",
+      "Kaynak ülke",
+      "Geçiş ülkesi",
+      "Transit ülke",
+      "Komşu ülke"
+    ],
+    "dogru": 1,
+    "aciklama": "Kaynak ülke, düzenli veya düzensiz göç hareketlerinde göçmenin harekete geçtiği ilk ülkeyi ifade eder.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-910",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Göç ve Toplum",
+    "soru": "BM'nin tanımına göre göçmen, hangi süre boyunca yabancı bir ülkede ikamet eden birey olarak tanımlanır?",
+    "siklar": [
+      "3 aydan fazla",
+      "6 aydan fazla",
+      "1 yıldan fazla",
+      "5 yıldan fazla",
+      "10 yıldan fazla"
+    ],
+    "dogru": 2,
+    "aciklama": "BM, göçmeni göçün sebebini, türünü dikkate almaksızın 'yabancı bir ülkede bir yıldan fazla ikamet eden birey' olarak tanımlamaktadır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1010",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Hareketler Sosyolojisi",
+    "soru": "Modern toplumsal hareketler tarihi açısından bir milat olarak kabul edilen, 'kardeşlik, eşitlik, özgürlük' formülünü ortaya koyan tarihsel olay hangisidir?",
+    "siklar": [
+      "Sanayi Devrimi",
+      "Fransız İhtilali",
+      "Bolşevik Devrimi",
+      "Paris Komünü",
+      "1848 ayaklanmaları"
+    ],
+    "dogru": 1,
+    "aciklama": "Fransız İhtilali, 'kardeşlik, eşitlik, özgürlük' formülüyle modern toplumsal hareketlerin tarihi açısından bir milat kabul edilir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1011",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Hareketler Sosyolojisi",
+    "soru": "1780-1825 arasında İngiltere'de makineleri kırarak haksızlığa tepki gösteren ve ücret artırımı talep eden klasik işçi hareketi hangisidir?",
+    "siklar": [
+      "Çartizm",
+      "Ludist akım",
+      "Birinci Enternasyonel",
+      "Paris Komünü",
+      "Bolşevik hareketi"
+    ],
+    "dogru": 1,
+    "aciklama": "1780-1825 arasında İngiltere'de etkili olan, makineleri kırarak tepki gösteren hareket Ludist akımdır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1012",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Hareketler Sosyolojisi",
+    "soru": "Kapitalist toplumda burjuvanın işçilerin ürettiği değerden belirli bir kesinti yaparak elde ettiği kazanca Marx hangi kavramla ad vermiştir?",
+    "siklar": [
+      "Kullanım değeri",
+      "Artık değer",
+      "Mübadele değeri",
+      "Toplam değer",
+      "Sermaye değeri"
+    ],
+    "dogru": 1,
+    "aciklama": "Marx, burjuvaların işçilerin ürettiği değerden yaptığı kesintiye 'artık değer' adını vermiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1013",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Hareketler Sosyolojisi",
+    "soru": "İşçi hareketlerinin tarihinde 'dünyanın bütün sosyalistlerini tek çatı altında toplama' çabasıyla ilk kez 1864'te toplanan oluşum hangisidir?",
+    "siklar": [
+      "İkinci Enternasyonel",
+      "Birinci Enternasyonel",
+      "Komintern",
+      "Paris Komünü",
+      "Bolşevik Partisi"
+    ],
+    "dogru": 1,
+    "aciklama": "Birinci Enternasyonel (Uluslararası İşçi Birliği), dünyanın bütün sosyalistlerini tek çatı altında toplamak amacıyla ilk kez 1864'te toplanmıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1014",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Hareketler Sosyolojisi",
+    "soru": "1871'de Fransa'nın Prusya savaşındaki yenilgisi sonrasında Paris'te kurulan, altmış gün süren sivil ayaklanmaya ne ad verilir?",
+    "siklar": [
+      "Çartizm",
+      "Ludist akım",
+      "Paris Komünü",
+      "Bolşevik Devrimi",
+      "Birinci Enternasyonel"
+    ],
+    "dogru": 2,
+    "aciklama": "1871'de Fransa'nın Prusya'ya yenilgisi sonrasında kurulan ve yaklaşık altmış gün iktidarda kalan sivil ayaklanma Paris Komünü'dür.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1015",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Hareketler Sosyolojisi",
+    "soru": "20. yüzyılda refah devletinin gelişiminde önemli rol oynayan, parça-başı üretimle ilişkilendirilen isim hangisidir?",
+    "siklar": [
+      "John Maynard Keynes",
+      "Henry Ford",
+      "Daniel Bell",
+      "Robert Reich",
+      "Manuel Castells"
+    ],
+    "dogru": 1,
+    "aciklama": "Henry Ford, parça-başı üretim mekanizmasını geliştirerek hızlı/yoğun üretimi ve kitlesel tüketimi mümkün kılmıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1016",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Hareketler Sosyolojisi",
+    "soru": "Kapitalist sistemin idamesi için devletin bir denge unsuru olarak devreye girip talebin oluşmasına yardımcı olması gerektiğini savunan iktisatçı kimdir?",
+    "siklar": [
+      "Adam Smith",
+      "John Maynard Keynes",
+      "Karl Marx",
+      "Milton Friedman",
+      "Thomas Malthus"
+    ],
+    "dogru": 1,
+    "aciklama": "John Maynard Keynes, kapitalist sistemin idamesi için devletin talebin oluşmasına yardımcı olacak bir denge unsuru olarak devreye girmesi gerektiğini savunmuştur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1017",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Hareketler Sosyolojisi",
+    "soru": "20. yüzyılda Fordist-Keynesgil politikaların uygulanmasıyla toplumsal tabakalaşmada baskın hale gelmeye başlayan yeni sınıf hangisidir?",
+    "siklar": [
+      "Proletarya",
+      "Burjuvazi",
+      "Orta sınıflar",
+      "Aristokrasi",
+      "Köylü sınıfı"
+    ],
+    "dogru": 2,
+    "aciklama": "Fordist-Keynesgil politikaların uygulanmasıyla birlikte toplumda orta sınıflar baskın hale gelmeye başlamıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1018",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Hareketler Sosyolojisi",
+    "soru": "Marx ve Engels'in, kapitalist sistemin gerçeklerini bilmediklerini düşünerek 'ütopyacı' olarak nitelendirdiği ve Birinci Enternasyonel'den tasfiye etmeye çalıştığı isimler arasında aşağıdakilerden hangisi yer alır?",
+    "siklar": [
+      "Robert Owen",
+      "Vladimir Lenin",
+      "Rosa Luxemburg",
+      "Karl Kautsky",
+      "Antonio Gramsci"
+    ],
+    "dogru": 0,
+    "aciklama": "Marx, Robert Owen, St. Simon, Proudhon gibi isimleri 'ütopyacı sosyalist' olarak değerlendirmiş ve enternasyonelden tasfiye etmeye çalışmıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1019",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Hareketler Sosyolojisi",
+    "soru": "1899'da kurulan ve aralarında Rosa Luxemburg, Karl Kautsky ve Lenin gibi isimlerin bulunduğu, I. Dünya Savaşı'na kadar süren oluşum hangisidir?",
+    "siklar": [
+      "Birinci Enternasyonel",
+      "İkinci Enternasyonel",
+      "Komintern",
+      "Paris Komünü",
+      "Çartist hareket"
+    ],
+    "dogru": 1,
+    "aciklama": "İkinci Enternasyonel, 1899'da kurulmuş ve aralarında Rosa Luxemburg, Karl Kautsky ve Lenin'in bulunduğu, I. Dünya Savaşı'na kadar süren bir oluşumdur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1102",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Sapma ve Suç",
+    "soru": "'Kriminoloji' kavramını ilk defa 1879'da kullanan Fransız doktor kimdir?",
+    "siklar": [
+      "Cesare Lombroso",
+      "Paul Topinard",
+      "Raffaele Garofalo",
+      "Cesare Beccaria",
+      "Enrico Ferri"
+    ],
+    "dogru": 1,
+    "aciklama": "Kriminoloji kavramını ilk defa 1879'da Fransız doktor Paul Topinard kullanmıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1103",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Sapma ve Suç",
+    "soru": "Cezaevindeki suçlular üzerine yaptığı incelemelerin sonuçlarını içeren 'L'Uomo Delinquente' (Suçlu Adam) adlı çalışmasının yayınlandığı 1876 yılı neyin kuruluş tarihi kabul edilir?",
+    "siklar": [
+      "Sosyolojinin",
+      "Kriminolojinin",
+      "Antropolojinin",
+      "Psikiyatrinin",
+      "Hukuk sosyolojisinin"
+    ],
+    "dogru": 1,
+    "aciklama": "Cesare Lombroso'nun L'Uomo Delinquente adlı çalışmasının yayınlandığı 1876 yılı, kriminolojinin kuruluş tarihi olarak kabul edilir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1104",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Sapma ve Suç",
+    "soru": "Kriminolojinin Türkiye'deki kurucusu olarak kabul edilen isim kimdir?",
+    "siklar": [
+      "Ziya Gökalp",
+      "Sulhi Dönmezer",
+      "Hilmi Ziya Ülken",
+      "Şerif Mardin",
+      "Cesare Lombroso"
+    ],
+    "dogru": 1,
+    "aciklama": "Sulhi Dönmezer, kriminolojinin Türkiye'deki kurucusu olarak kabul edilir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1105",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Sapma ve Suç",
+    "soru": "Howard Becker'in geliştirdiği, sapkınlığın toplumun bazı bireyleri 'etiketlemesi' sonucu ortaya çıktığını savunan kuram hangisidir?",
+    "siklar": [
+      "Anomi kuramı",
+      "Etiketleme kuramı",
+      "Marxist kriminoloji",
+      "Sağ gerçekçilik",
+      "Alt kültür teorisi"
+    ],
+    "dogru": 1,
+    "aciklama": "Howard Becker'in geliştirdiği etiketleme kuramı, sapkınlığın toplumun bireyleri etiketlemesi sonucu ortaya çıktığını savunur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1106",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Sapma ve Suç",
+    "soru": "Edwin Lemert'in etiketleme kuramına kattığı, toplumsal tepkinin bireyi etiketlemesinden önceki ve sonraki sapkın davranışları ayırt eden kavram çifti hangisidir?",
+    "siklar": [
+      "Açık ve gizli sapma",
+      "Birincil ve ikincil sapma",
+      "Olumlu ve olumsuz sapma",
+      "Bireysel ve kolektif sapma",
+      "Resmi ve gayriresmi sapma"
+    ],
+    "dogru": 1,
+    "aciklama": "Edwin Lemert, toplumsal tepki öncesi ve sonrası sapkın davranışlar arasında birincil ve ikincil sapma ayrımı yapar.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1107",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Sapma ve Suç",
+    "soru": "Cezaevi, akıl hastanesi gibi 'total kurumların' bireylerin benlik algısını nasıl yıktığını inceleyen düşünür kimdir?",
+    "siklar": [
+      "Howard Becker",
+      "Erving Goffman",
+      "Edwin Lemert",
+      "Aaron Cicourel",
+      "Robert Merton"
+    ],
+    "dogru": 1,
+    "aciklama": "Erving Goffman, cezaevi ve akıl hastanesi gibi 'total kurumların' içerdekilerin benlik algılarını ve bireyselliklerini nasıl yıktığını ortaya koymuştur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1108",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Sapma ve Suç",
+    "soru": "Frank Pearce, William Chambliss ve Richard Quinney gibi araştırmacıların 1970'lerde öne çıkardığı, suç ile kapitalizm arasındaki bağlantıyı vurgulayan kriminoloji yaklaşımı hangisidir?",
+    "siklar": [
+      "Sağ gerçekçilik",
+      "Marxist kriminoloji",
+      "Klasik okul",
+      "İtalyan ekolü",
+      "Feminist kriminoloji"
+    ],
+    "dogru": 1,
+    "aciklama": "Frank Pearce, William Chambliss ve Richard Quinney gibi araştırmacıların öne çıkardığı Marxist kriminoloji, suç ile kapitalizm arasındaki bağlantıyı vurgular.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1109",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Sapma ve Suç",
+    "soru": "James Wilson ve Ernst van den Haag'ın temsil ettiği, 1970'lerde ortaya çıkıp 1980'lerde Reaganizm ve Thatcherizm dönemiyle gelişen kriminoloji akımı hangisidir?",
+    "siklar": [
+      "Sol Gerçekçilik",
+      "Sağ Gerçekçilik (Yeni Sağ Kriminoloji)",
+      "Marxist kriminoloji",
+      "Feminist kriminoloji",
+      "Etiketleme kuramı"
+    ],
+    "dogru": 1,
+    "aciklama": "James Wilson ve Ernst van den Haag'ın temsil ettiği Sağ Gerçekçilik (Yeni Sağ Kriminoloji), 1970'lerde ortaya çıkmış, Reaganizm ve Thatcherizm döneminde gelişmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1110",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Sapma ve Suç",
+    "soru": "Cesare Beccaria ve Jeremy Bentham, kriminoloji içerisinde hangi akım/okul içerisinde değerlendirilir?",
+    "siklar": [
+      "Pozitivist okul",
+      "Klasik okul",
+      "Marxist okul",
+      "İtalyan ekolü",
+      "Sağ gerçekçilik"
+    ],
+    "dogru": 1,
+    "aciklama": "Cesare Beccaria ve Jeremy Bentham, kriminoloji içerisinde 'klasik okul' olarak adlandırılan akım içerisinde değerlendirilmektedir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1111",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Toplumsal Sapma ve Suç",
+    "soru": "Lombroso ve öğrencileri Enrico Ferri ve Raffaele Garofalo, kriminolojide hangi ekolün kurucu temsilcileri olarak bilinir?",
+    "siklar": [
+      "Klasik okul",
+      "İtalyan ekolü (pozitivist kriminoloji)",
+      "Frankfurt Okulu",
+      "Chicago Okulu",
+      "Marxist kriminoloji"
+    ],
+    "dogru": 1,
+    "aciklama": "Lombroso, Ferri ve Garofalo, kriminolojide 'İtalyan ekolü' ve 'pozitivist kriminoloji'nin kurucu temsilcileri olarak bilinir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1201",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Örgüt Sosyolojisi",
+    "soru": "'Bürokrasi' sözcüğünü ilk kez 1745'te kullanan, kelimeye hem daire hem de yazı masası anlamı yükleyen fizyokrat isim kimdir?",
+    "siklar": [
+      "Max Weber",
+      "Vincent de Gournay",
+      "Henri Fayol",
+      "Robert Michels",
+      "Chester Barnard"
+    ],
+    "dogru": 1,
+    "aciklama": "Bürokrasi kelimesi ilk kez 1745'te fizyokrat Vincent de Gournay tarafından kullanılmıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1202",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Örgüt Sosyolojisi",
+    "soru": "Weber'in bürokrasiyi tanımlarken kullandığı, bireysel inisiyatif ve yaratıcılığı baskı altına alan hiyerarşik kontrolü ifade eden ünlü metaforu hangisidir?",
+    "siklar": [
+      "Panoptikon",
+      "Demir kafes",
+      "Görünmez el",
+      "Küresel köy",
+      "Total kurum"
+    ],
+    "dogru": 1,
+    "aciklama": "Weber, bürokrasinin bireysel inisiyatifi baskı altına alan yönünü 'demir kafes' (çelik kurallar kafesi) metaforuyla ifade eder.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1203",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Örgüt Sosyolojisi",
+    "soru": "'Oligarşinin tunç yasası' tezini, örgütlerin demokratik görünse de kaçınılmaz olarak bir azınlık yönetimine (oligarşiye) dönüşeceğini savunarak geliştiren isim kimdir?",
+    "siklar": [
+      "Max Weber",
+      "Robert Michels",
+      "Chester Barnard",
+      "Henri Fayol",
+      "Douglas McGregor"
+    ],
+    "dogru": 1,
+    "aciklama": "Robert Michels, 'Political Parties' (1911) adlı eserinde geliştirdiği 'oligarşinin tunç yasası' teziyle örgütlerde demokratik görünse de oligarşinin kaçınılmaz olduğunu savunmuştur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1204",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Örgüt Sosyolojisi",
+    "soru": "Michel Foucault'nun, mekân ve zamanın denetim altına alınması prensibi üzerinden geliştirdiği, örgütlerin mimarisi ile sosyal yapısı arasında bağlantı kuran kavram hangisidir?",
+    "siklar": [
+      "Demir kafes",
+      "Gözetim (panoptik denetim)",
+      "Oligarşinin tunç yasası",
+      "Ağ toplumu",
+      "İşbirliği kuramı"
+    ],
+    "dogru": 1,
+    "aciklama": "Foucault, mekân ve zamanın denetim altına alınması prensibi üzerinden örgütlerin mimarisiyle yetki sistemi arasında bağlantı kurarak gözetim kavramını geliştirmiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1205",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Örgüt Sosyolojisi",
+    "soru": "Jeremy Bentham'ın tasarladığı, merkezdeki gözetleme kulesinden mahkûmların sürekli izlenebildiği, Foucault'nun çağdaş hapishanenin kökeni olarak gösterdiği ideal hapishane tasarımına ne ad verilir?",
+    "siklar": [
+      "Panopticon",
+      "Total kurum",
+      "Demir kafes",
+      "Gözetim toplumu",
+      "Bürokratik kafes"
+    ],
+    "dogru": 0,
+    "aciklama": "Panopticon, Jeremy Bentham'ın tasarladığı, merkezi gözetleme kulesinden mahkûmların sürekli izlenebildiği ideal hapishane tasarımıdır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1206",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Örgüt Sosyolojisi",
+    "soru": "20. yüzyılın son çeyreğindeki bilgisayar ve internet gelişmeleriyle birlikte şirketlerin merkezsizleşerek ağ tabanlı örgütlenmeye yöneldiğini savunan, 'ağ toplumu' kavramıyla tanınan düşünür kimdir?",
+    "siklar": [
+      "Michel Foucault",
+      "Manuel Castells",
+      "Max Weber",
+      "Robert Michels",
+      "Daniel Bell"
+    ],
+    "dogru": 1,
+    "aciklama": "Manuel Castells, 'ağ toplumu' kavramıyla tanınır ve bilgi teknolojilerinin şirketlerin merkezsizleşerek ağ tabanlı örgütlenmesini mümkün kıldığını savunur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1207",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Örgüt Sosyolojisi",
+    "soru": "Weber'e göre bürokrasi, hangi otorite biçiminin 'en saf' biçimidir?",
+    "siklar": [
+      "Geleneksel otorite",
+      "Karizmatik otorite",
+      "Hukukî (yasal-rasyonel) otorite",
+      "Dini otorite",
+      "Askeri otorite"
+    ],
+    "dogru": 2,
+    "aciklama": "Weber, bürokrasiyi hukukî otoritenin 'en saf' biçimi olarak görmüştür.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1208",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Örgüt Sosyolojisi",
+    "soru": "Klasik bilimsel yönetim yaklaşımına göre işçilerin üretkenliğini sınırlayan tek şey nedir?",
+    "siklar": [
+      "İş tatmini",
+      "Fiziksel sınırlar",
+      "Sosyal ilişkiler",
+      "Eğitim düzeyi",
+      "Sendikal haklar"
+    ],
+    "dogru": 1,
+    "aciklama": "Klasik bilimsel yönetim yaklaşımına göre, işçiler neredeyse tamamen ekonomik ödüllerle motive olur ve üretkenliklerini sınırlayan tek şey fiziksel sınırlardır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1209",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Örgüt Sosyolojisi",
+    "soru": "Ortak bir amaç etrafında kurulan, üyelerin gönüllü katılımda bulunduğu, sendikalardan meslek odalarına kadar geniş bir yelpazede yer alan örgüt tipine ne ad verilir?",
+    "siklar": [
+      "Formel örgüt",
+      "Gönüllü dernek",
+      "Bürokratik örgüt",
+      "Total kurum",
+      "Enformel örgüt"
+    ],
+    "dogru": 1,
+    "aciklama": "Gönüllü dernekler, ortak bir amaç etrafında kurulan ve üyelerin gönüllü katılımda bulunduğu organizasyonlardır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1210",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Örgüt Sosyolojisi",
+    "soru": "II. Dünya Savaşı sonrasında kurulan, çağdaş küresel örgütlerin en bilinen örneği kabul edilen kuruluş hangisidir?",
+    "siklar": [
+      "Cemiyet-i Akvam (Milletler Cemiyeti)",
+      "Birleşmiş Milletler",
+      "Hansa Birliği",
+      "Avrupa Birliği",
+      "NATO"
+    ],
+    "dogru": 1,
+    "aciklama": "II. Dünya Savaşı sonrasında kurulan Birleşmiş Milletler, çağdaş küresel örgütlerin belki de en fazla bilinen örneğidir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1301",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Yaşlanma Sosyolojisi",
+    "soru": "Dünya Sağlık Örgütü'ne göre kaç yaş ve üstündeki kişiler 'yaşlı' olarak nitelendirilmektedir?",
+    "siklar": [
+      "50",
+      "60",
+      "65",
+      "70",
+      "75"
+    ],
+    "dogru": 2,
+    "aciklama": "Dünya Sağlık Örgütü, 65 yaş ve üstü kişileri yaşlı olarak nitelemektedir (BM ise 60 yaş ve üstünü esas alır).",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1302",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Yaşlanma Sosyolojisi",
+    "soru": "'Gerontoloji' terimini ilk defa 1903'te kullanan Rus bilim insanı kimdir?",
+    "siklar": [
+      "Ilja Metschnikow",
+      "Elaine Cumming",
+      "Warren Earl Henry",
+      "Anthony Giddens",
+      "İsmail Tufan"
+    ],
+    "dogru": 0,
+    "aciklama": "Gerontoloji terimini ilk defa 1903'te Rus bilim insanı Ilja Metschnikow kullanmıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1303",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Yaşlanma Sosyolojisi",
+    "soru": "Elaine Cumming ve Warren Earl Henry'nin 'Growing Old' (1961) adlı çalışmasından üretilen, yaşlıların orta yaşta sahip oldukları toplumsal rollerden ayrıldığını savunan kuram hangisidir?",
+    "siklar": [
+      "Aktivite teorisi",
+      "Yaşamdan geri çekilme teorisi",
+      "Süreklilik teorisi",
+      "Modernleşme teorisi",
+      "Yorumsamacı teori"
+    ],
+    "dogru": 1,
+    "aciklama": "Cumming ve Henry'nin Growing Old (1961) adlı çalışmasından üretilen 'yaşamdan geri çekilme teorisi', yaşlıların orta yaşta sahip oldukları toplumsal rollerden ayrıldıklarını savunur.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1304",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Yaşlanma Sosyolojisi",
+    "soru": "Yaşlanma sosyolojisinin iki alt dalı olan 'yaşlılık sosyolojisi' ve 'yaşlanma sosyolojisi' arasındaki temel fark nedir?",
+    "siklar": [
+      "Birincisi sadece tıbbi, ikincisi sadece psikolojiktir",
+      "Yaşlılık sosyolojisi yaşam koşullarını belirleyen toplumsal yapıları analiz eder, yaşlanma sosyolojisi politika ve uygulama alanlarına odaklanır",
+      "İkisi arasında fark yoktur",
+      "Birincisi sadece Türkiye'yi, ikincisi sadece dünyayı inceler",
+      "Yaşlılık sosyolojisi sadece kadınları inceler"
+    ],
+    "dogru": 1,
+    "aciklama": "Yaşlılık sosyolojisi yaşlıların yaşam koşullarını belirleyen toplumsal yapıları, yaşlanma sosyolojisi ise yaşlılık politikaları ve uygulama alanlarını inceler.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1305",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Yaşlanma Sosyolojisi",
+    "soru": "BM'nin yaşlanma sürecini ayırdığı üç dönemden '60-74 yaş' aralığına verilen ad nedir?",
+    "siklar": [
+      "Orta yaş",
+      "Yaşlı",
+      "İleri yaş",
+      "Genç yaşlı",
+      "Çok yaşlı"
+    ],
+    "dogru": 1,
+    "aciklama": "BM'ye göre 45-59 yaş 'orta yaş', 60-74 yaş 'yaşlı', 75 yaş ve üzeri 'ileri yaş' olarak tanımlanır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1306",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Yaşlanma Sosyolojisi",
+    "soru": "UNICEF verilerine dayanarak yapılan sınıflamaya göre, 64 yaş üzerindeki kişilerin toplam nüfusa oranının %10 ve üstünde olduğu nüfuslara ne ad verilir?",
+    "siklar": [
+      "Genç nüfus",
+      "Olgun (erişkin) nüfus",
+      "Çok yaşlı nüfus",
+      "Durağan nüfus",
+      "Gelişen nüfus"
+    ],
+    "dogru": 2,
+    "aciklama": "UNICEF verilerine dayanan sınıflamaya göre, 64 yaş üzeri oranı %10 ve üstünde olan nüfuslar 'çok yaşlı nüfus' olarak adlandırılır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1307",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Yaşlanma Sosyolojisi",
+    "soru": "Dünya nüfusunun bir 'yaşlı patlaması' yaşadığını ve bunun 'dünya nüfusunun grileşmesi' olarak yorumlandığını vurgulayan sosyolog kimdir?",
+    "siklar": [
+      "Anthony Giddens",
+      "Michel Foucault",
+      "Robert Michels",
+      "Manuel Castells",
+      "Max Weber"
+    ],
+    "dogru": 0,
+    "aciklama": "Anthony Giddens, dünya nüfusunun bir 'yaşlı patlaması' yaşadığını ve bunun 'dünya nüfusunun grileşmesi' olarak yorumlandığını vurgulamaktadır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1308",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Yaşlanma Sosyolojisi",
+    "soru": "Yaşlıların bakımı için belirlenen tesislerde çalışanlar tarafından yaşlıların haklarına yönelik ihlallere ne ad verilir?",
+    "siklar": [
+      "Aile içi yaşlı istismarı",
+      "Kurumsal yaşlı istismarı",
+      "Sosyal izolasyon",
+      "Yaşlı dışlanması",
+      "Gerontofobi"
+    ],
+    "dogru": 1,
+    "aciklama": "Kurumsal yaşlı istismarı, yaşlıların bakımı için belirlenen tesis ve kurumlarda çalışanlar tarafından yaşlıların haklarına yönelik ihlalleri ifade eder.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1309",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Yaşlanma Sosyolojisi",
+    "soru": "Bir nüfus grubunun yaşları küçükten büyüğe sıralandığında tam ortada kalan bireyin yaşına ne ad verilir?",
+    "siklar": [
+      "Ortalama yaş",
+      "Ortanca yaş (medyan yaş)",
+      "Doğurganlık yaşı",
+      "Kritik yaş",
+      "Standart yaş"
+    ],
+    "dogru": 1,
+    "aciklama": "Ortanca yaş (medyan yaş), bir nüfus grubunun yaşları küçükten büyüğe sıralandığında tam ortada kalan bireyin yaşıdır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1310",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Yaşlanma Sosyolojisi",
+    "soru": "Yaşlanma sosyolojisi içerisindeki teoriler hangi iki ana kategoride değerlendirilmektedir?",
+    "siklar": [
+      "Biyolojik ve psikolojik teoriler",
+      "Makro teoriler ve mikro teoriler",
+      "Doğu ve Batı teorileri",
+      "Klasik ve modern teoriler",
+      "Ulusal ve uluslararası teoriler"
+    ],
+    "dogru": 1,
+    "aciklama": "Yaşlanmayı toplumsal bağlamda açıklamaya çalışan teoriler, toplumsal yapıyı inceleyen makro teoriler ve yaşlı bireyi merkeze alan mikro teoriler olmak üzere iki kategoride değerlendirilir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1401",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Küreselleşme",
+    "soru": "Küreselleşmenin etkilerini ifade etmek için kullanılan, teknolojik gelişmelerle uzaklıkların eski anlamını kaybetmesini ifade eden kavramı geliştiren düşünür kimdir?",
+    "siklar": [
+      "Anthony Giddens",
+      "David Harvey",
+      "Marshall McLuhan",
+      "Manuel Castells",
+      "Antonio Gramsci"
+    ],
+    "dogru": 1,
+    "aciklama": "David Harvey'in 'zaman-mekân sıkışması' kavramı, küreselleşmenin yaşamın pek çok alanındaki etkilerini özetleyen bir tanımlamadır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1402",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Küreselleşme",
+    "soru": "Küreselleşme ile zamansal ve mekansal sınırların kalkmakta olduğuna ilk işaret eden ve 'küresel köy' ifadesini kullanan düşünür kimdir?",
+    "siklar": [
+      "Marshall McLuhan",
+      "David Harvey",
+      "Anthony Giddens",
+      "Ulrich Beck",
+      "Antonio Gramsci"
+    ],
+    "dogru": 0,
+    "aciklama": "Marshall McLuhan, küreselleşmeyle zamansal ve mekansal sınırların kalkmakta olduğuna ilk işaret eden ve 'küresel köy' ifadesini kullanan düşünürdür.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1403",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Küreselleşme",
+    "soru": "Hegemonya kavramının teorik çerçevede yaratıcısı olan İtalyan Marksist düşünür kimdir?",
+    "siklar": [
+      "Antonio Gramsci",
+      "Vladimir Lenin",
+      "Louis Althusser",
+      "Karl Marx",
+      "Friedrich Engels"
+    ],
+    "dogru": 0,
+    "aciklama": "Hegemonya kavramının teorik çerçevede yaratıcısı, İtalyan Marksist düşünür Antonio Gramsci'dir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1404",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Küreselleşme",
+    "soru": "Gramsci'ye göre hegemonya, temelde nasıl tanımlanabilir?",
+    "siklar": [
+      "Askeri güç kullanımı",
+      "Egemen sınıfın onaya dayalı kültürel ve moral önderliği",
+      "Ekonomik zorunluluk",
+      "Yasal düzenleme",
+      "Dini otorite"
+    ],
+    "dogru": 1,
+    "aciklama": "Gramsci'ye göre hegemonya, egemen sınıfın onaya dayalı kültürel ve moral önderliğidir; 'rızanın örgütlenmesi' olarak anlaşılabilir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1405",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Küreselleşme",
+    "soru": "Birden fazla yerde aynı anda yaşıyor olmayı çok evliliğe benzeterek 'yer poligamisi' kavramını kullanan düşünür kimdir?",
+    "siklar": [
+      "Ulrich Beck",
+      "Anthony Giddens",
+      "David Harvey",
+      "Marshall McLuhan",
+      "Manuel Castells"
+    ],
+    "dogru": 0,
+    "aciklama": "Ulrich Beck, birden fazla yerde aynı anda yaşıyor olmayı çok evliliğe benzeterek bu durumu 'yer poligamisi' olarak adlandırmıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1406",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Küreselleşme",
+    "soru": "Robert Reich'in bir Pontiac Le Mans örneğiyle gösterdiği şey nedir?",
+    "siklar": [
+      "Üretimin uluslararası bir bileşim olduğu",
+      "Tüketimin azaldığı",
+      "Otomotiv sektörünün gerilediği",
+      "Sadece ABD üretiminin önemi",
+      "Küreselleşmenin olmadığı"
+    ],
+    "dogru": 0,
+    "aciklama": "Robert Reich, bir Amerikan otomobilinin üretiminin farklı ülkelere (Güney Kore, Japonya, Almanya vb.) dağılan uluslararası bir bileşim olduğunu örnekle göstermiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1407",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Küreselleşme",
+    "soru": "Zengin ve yoksul kesimlerin yaşam alanlarının ayrışması, özel güvenlikli sitelerin gelişmesi gibi süreçleri ifade etmek için literatürde kullanılan kavram hangisidir?",
+    "siklar": [
+      "Küresel köy",
+      "Brezilyalaşma",
+      "Zaman-mekân sıkışması",
+      "Yer poligamisi",
+      "Hegemonya"
+    ],
+    "dogru": 1,
+    "aciklama": "Çağdaş kentlerde zengin-yoksul ayrışmasını ve gettolaşmayı ifade etmek için literatürde 'Brezilyalaşma' kavramı kullanılmaktadır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1408",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Küreselleşme",
+    "soru": "Hutton ve Giddens'ın, bilgisayar ve telefon aracılığıyla mal ve hizmetlerin sanal ortamda alınıp satılabilmesini tanımlamak için kullandığı kavram hangisidir?",
+    "siklar": [
+      "Weightless economy (ağırlıksız ekonomi)",
+      "Post-fordizm",
+      "Toyotizm",
+      "Brezilyalaşma",
+      "Hegemonya"
+    ],
+    "dogru": 0,
+    "aciklama": "Hutton ve Giddens, sanal ticaretin yayılmasını 'weightless economy' (ağırlıksız/hafif ekonomi) olarak tanımlamıştır.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1409",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Küreselleşme",
+    "soru": "Drucker'a göre insanlığın 1680'de buharlı makineyi icat eden Dennis Papin'den bu yana geçirdiği dördüncü ve içinde yaşadığımız girişimcilik dönemi neyle başlamıştır?",
+    "siklar": [
+      "Ticaret Devrimi",
+      "Sanayi Devrimi",
+      "Yan-Sanayiler Dönemi",
+      "Enformasyon ve biyolojinin başlattığı dönem",
+      "Tarım Devrimi"
+    ],
+    "dogru": 3,
+    "aciklama": "Drucker'a göre dördüncü girişimcilik dalgası, enformasyon ve biyolojinin başlattığı, içinde yaşadığımız dönemdir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  },
+  {
+    "id": "sosyoloji2-1410",
+    "ders": "sosyolojiye-giris-2",
+    "konu": "Küreselleşme",
+    "soru": "Jimmy Carter'ın danışmanlarından Brzezinski'nin, küreselleşmenin dışladığı %80'lik nüfusu eğlence ve yeterli beslenmeyle denetim altına alma fikrini ifade etmek için önerdiği kavram hangisidir?",
+    "siklar": [
+      "Weightless economy",
+      "Tittytainment",
+      "Brezilyalaşma",
+      "Hegemonya",
+      "Küresel köy"
+    ],
+    "dogru": 1,
+    "aciklama": "Brzezinski, küreselleşmenin dışladığı %80'lik nüfusu denetim altına almak için 'tittytainment' kavramını önermiştir.",
+    "dersAdi": "Sosyolojiye Giriş II"
+  }
+]
