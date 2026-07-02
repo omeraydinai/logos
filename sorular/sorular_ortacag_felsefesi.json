@@ -1,1052 +1,1122 @@
 [
-  {
-    "id": "ortcag-101",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Hıristiyanlık ve Yunan Felsefesi",
-    "soru": "Aşağıdakilerden hangisi Yunan kilise babalarından biri değildir?",
-    "siklar": [
-      "Tatianus",
-      "Justinus",
-      "Athenagoras",
-      "Meliton",
-      "Porphyrios"
-    ],
-    "dogru": 4,
-    "aciklama": "Porphyrios Yunan kilise babası değil, Yeni Platoncu bir filozoftur (Plotinus'un öğrencisi)."
-  },
-  {
-    "id": "ortcag-102",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Hıristiyanlık ve Yunan Felsefesi",
-    "soru": "Hristiyan kilise babalarının yazmış olduğu savunma eserlerinin genel adı aşağıdakilerden hangisidir?",
-    "siklar": [
-      "Theodise",
-      "Talmut",
-      "Apologya",
-      "Tevrat",
-      "Ölüler Kitabı"
-    ],
-    "dogru": 2,
-    "aciklama": "Hristiyan kilise babalarının pagan Roma'ya karşı yazdıkları savunma eserlerine Apologya (Savunma) denir."
-  },
-  {
-    "id": "ortcag-103",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Hıristiyanlık ve Yunan Felsefesi",
-    "soru": "Justinus, Hristiyan olmadan önce hangi Yunan felsefe geleneklerinden etkilenmiştir?",
-    "siklar": [
-      "Septikler-Peripatetikler",
-      "Septikler-Platoncular",
-      "Platoncular-Peripatetikler",
-      "Stoacılar-Platoncular",
-      "Stoacılar-Septikler"
-    ],
-    "dogru": 3,
-    "aciklama": "Justinus önce Stoacılığın, ardından Platon felsefesinin etkisinde kalmış, ancak ikisinden de tam olarak tatmin olmayarak Hristiyanlığı seçmiştir."
-  },
-  {
-    "id": "ortcag-104",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Hıristiyanlık ve Yunan Felsefesi",
-    "soru": "Justinus'un 'Logos' öğretisine göre İsa'dan önce yaşayan ve iyiliğin peşinden giden insanlar hakkında ne söylenebilir?",
-    "siklar": [
-      "Kurtuluşa erişemezler",
-      "Logos'a göre yaşamış oldukları için Hristiyan sayılabilirler",
-      "Tanrı tarafından cezalandırılmışlardır",
-      "Yalnızca Yahudiler kurtulabilir",
-      "Onların kurtulma şansı yoktur"
-    ],
-    "dogru": 1,
-    "aciklama": "Justinus'a göre İsa'dan önce de evrensel bir Logos vardır ve iyiliği seçen herkes, Pagan ya da Yahudi olsun, Logos'a göre yaşamış sayılır."
-  },
-  {
-    "id": "ortcag-105",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Hıristiyanlık ve Yunan Felsefesi",
-    "soru": "Tatianus'un Hristiyan olmak için ayrıldığı Encratites adlı tarikatın en belirgin özelliği nedir?",
-    "siklar": [
-      "Barışçıl ve hoşgörülü bir anlayışa sahip olması",
-      "Evliliği, şarabı ve et yemeyi yasaklayan ahlakçı ve sert önlemler uygulaması",
-      "Felsefeyi ön plana çıkarması",
-      "Gnostisizme tamamen karşı çıkması",
-      "Platon felsefesini benimsemesi"
-    ],
-    "dogru": 1,
-    "aciklama": "Tatianus, evliliği, şarap içmeyi ve et yemeyi yasaklayan, Kudas ayininde şarap yerine su kullanan Encratites adlı bir tarikat kurmuştur."
-  },
-  {
-    "id": "ortcag-201",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Hristiyanlık ve Yunan Felsefesi (Gnostikler)",
-    "soru": "'Hristiyanlar İçin Lütuf Dilekçesi' adlı eser hangi Yunan kilise babası tarafından kaleme alınmıştır?",
-    "siklar": [
-      "Meliton",
-      "Athenagoras",
-      "Augustinus",
-      "Justinus",
-      "Origenes"
-    ],
-    "dogru": 1,
-    "aciklama": "Athenagoras, 177 yılında İmparator Marcus Aurelius'a hitaben 'Hristiyanlar İçin Lütuf Dilekçesi' adlı eseri yazmıştır."
-  },
-  {
-    "id": "ortcag-202",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Hristiyanlık ve Yunan Felsefesi (Gnostikler)",
-    "soru": "Marcus Aurelius'un Hristiyanlara karşı tutumu nasıldır?",
-    "siklar": [
-      "Hoşgörülü davranmıştır",
-      "Uzlaşmacı bir yol izlemiştir",
-      "İlgisiz kalmıştır",
-      "Çok sert davranmıştır",
-      "Koruyucu davranmıştır"
-    ],
-    "dogru": 3,
-    "aciklama": "Stoacı imparator Marcus Aurelius, Hristiyanlara karşı çok sert davranmış; onları kudurmuş ve cüretkâr olarak nitelendirmiştir."
-  },
-  {
-    "id": "ortcag-203",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Hristiyanlık ve Yunan Felsefesi (Gnostikler)",
-    "soru": "Teslis (baba, oğul ve kutsal ruhun aynılığı) hangi dine ait bir dogmadır?",
-    "siklar": [
-      "Müslümanlık",
-      "Yahudilik",
-      "Budizm",
-      "Pagan",
-      "Hristiyanlık"
-    ],
-    "dogru": 4,
-    "aciklama": "Teslis (kutsal üçleme), Hristiyanlığa özgü bir dogmadır."
-  },
-  {
-    "id": "ortcag-204",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Hristiyanlık ve Yunan Felsefesi (Gnostikler)",
-    "soru": "Gnosis sözcüğü hangi anlama gelmektedir?",
-    "siklar": [
-      "İman",
-      "Vahiy",
-      "Bilgi ya da marifet",
-      "Kurtuluş",
-      "Günahtan arınma"
-    ],
-    "dogru": 2,
-    "aciklama": "Gnosis, Yunancada bilgi ya da marifet anlamına gelir. Gnostisizmde ise insanı Tanrı'yla bütünleştirecek özel bir bilgi arayışını ifade eder."
-  },
-  {
-    "id": "ortcag-205",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Hristiyanlık ve Yunan Felsefesi (Gnostikler)",
-    "soru": "Markion'a göre Eski Ahit'in Tanrısı ile Yeni Ahit'in Tanrısı arasındaki temel fark nedir?",
-    "siklar": [
-      "İkisi tamamen aynıdır",
-      "Eski Ahit'in Tanrısı adaletçidir ama başarısız bir Demiurgos'tur; Yeni Ahit'in Tanrısı bizzat iyiliktir",
-      "Eski Ahit'in Tanrısı daha üstündür",
-      "İkisi de eşit derecede merhametlidir",
-      "Yeni Ahit'in Tanrısı maddeden sorumludur"
-    ],
-    "dogru": 1,
-    "aciklama": "Markion'a göre Eski Ahit'in Tanrısı adaletçi ama yetersiz bir Demiurgos'tur; 'yabancı Tanrı' dediği Yeni Ahit'in Tanrısı ise bizzat iyiliktir ve İsa'ya kadar bilinmiyordu."
-  },
-  {
-    "id": "ortcag-301",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "İskenderiye Okulu",
-    "soru": "Aşağıdakilerden hangisi İskenderiyeli Klement'in görüşüdür?",
-    "siklar": [
-      "İnsanları eğitecek olan pedagog, logostur",
-      "İnsanları eğitecek olan pedagog, kilise babalarıdır",
-      "İnsanları eğitecek olan pedagog, filozoflardır",
-      "İnsanları eğitecek olan pedagog, gnostiklerdir",
-      "İnsanlar eğitilemez"
-    ],
-    "dogru": 0,
-    "aciklama": "Klement'e göre Logos, bütün insanların pedagogudur ve insanların günahlarını sınırlandırmada pedagog görevini üstlenmiştir."
-  },
-  {
-    "id": "ortcag-302",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "İskenderiye Okulu",
-    "soru": "Aşağıda adı geçenlerden hangisi İskenderiye Okulu'na mensuptur?",
-    "siklar": [
-      "Markion",
-      "Basilide",
-      "Valentin",
-      "Origenes",
-      "Augustinus"
-    ],
-    "dogru": 3,
-    "aciklama": "İskenderiye Okulu'nun iki önemli ismi Klement ve Origenes'tir. Markion, Basilide ve Valentin ise gnostiklerdir."
-  },
-  {
-    "id": "ortcag-303",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "İskenderiye Okulu",
-    "soru": "Hristiyanların kurtuluş için eşit şartlar altında bulunduğunu söyleyen İskenderiye Okulu'na mensup kilise babası kimdir?",
-    "siklar": [
-      "Valentin",
-      "Origenes",
-      "Augustinus",
-      "Klement",
-      "Markion"
-    ],
-    "dogru": 3,
-    "aciklama": "Klement, kurtuluş anlayışında ayrım yapmamış; vaftiz olduktan sonra tüm Hristiyanların eşit şartlarda bulunduğunu savunmuştur."
-  },
-  {
-    "id": "ortcag-304",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "İskenderiye Okulu",
-    "soru": "Tanrı'nın yaratımının sonsuz olduğu ve bizim evrenimizden sonra da sonsuz sayıda âlemlerin yaratılacağı görüşü hangi kilise babasına aittir?",
-    "siklar": [
-      "Klement",
-      "Markion",
-      "Origenes",
-      "Valentin",
-      "Pavlus"
-    ],
-    "dogru": 2,
-    "aciklama": "Origenes'e göre Tanrı evren yaratmadan önce sayısız âlemler var etmiş, ondan sonra da sayısız âlemler var edecektir; bizim dünyamız ilk değildir, son da olmayacaktır."
-  },
-  {
-    "id": "ortcag-305",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "İskenderiye Okulu",
-    "soru": "Origenes'in hem Klement'in öğrencisi hem de derslerini aldığı diğer önemli hoca kimdir?",
-    "siklar": [
-      "Valentinus",
-      "Ammonios Saccas",
-      "Plotinus",
-      "Porphyrios",
-      "Athenagoras"
-    ],
-    "dogru": 1,
-    "aciklama": "Origenes, hem İskenderiyeli Klement'in öğrencisi olmuş hem de Plotinus ile birlikte Ammonios Saccas'ın derslerini izlemiştir."
-  },
-  {
-    "id": "ortcag-401",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Latin Kilise Babaları",
-    "soru": "'Credo Quia Absurdum'un anlamı nedir?",
-    "siklar": [
-      "Anlayayım diye inanıyorum",
-      "İnanmak için anlıyorum",
-      "Saçma olduğu için inanıyorum",
-      "Yüce varlığa inanıyorum",
-      "Akla uygun olduğundan inanıyorum"
-    ],
-    "dogru": 2,
-    "aciklama": "Tertullianus'a atfedilen 'Credo quia absurdum' ifadesi 'Saçma olduğu için inanıyorum' anlamına gelir."
-  },
-  {
-    "id": "ortcag-402",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Latin Kilise Babaları",
-    "soru": "Tertullianus nefs konusunda ne tür bir anlayışı savunmuştur?",
-    "siklar": [
-      "İdealist",
-      "Şüpheci",
-      "Rasyonalist",
-      "Deneyci",
-      "Materyalist"
-    ],
-    "dogru": 4,
-    "aciklama": "Tertullianus'a göre nefs hava gibi ince ve uçucu, üç boyutlu bir cisimdir; var olan her şeyin bir cisme sahip olduğunu savunmuştur. Bu görüş materyalisttir."
-  },
-  {
-    "id": "ortcag-403",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Latin Kilise Babaları",
-    "soru": "Augustinus'un Hristiyanlığa geçmesine en fazla katkıda bulunan kilise babası kimdir?",
-    "siklar": [
-      "Tertullianus",
-      "Ambrosius",
-      "Tatianus",
-      "Origenes",
-      "Thomas Aquinas"
-    ],
-    "dogru": 1,
-    "aciklama": "Milano Piskoposu Ambrosius, Augustinus'un Hristiyanlığa girmesinde en etkili isimdir; Augustinus onu vaftiz etmiştir."
-  },
-  {
-    "id": "ortcag-404",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Latin Kilise Babaları",
-    "soru": "Ambrosius ahlak konusunda hangi Romalı filozofun 'Görevler Üzerine' adlı eserinden etkilenmiştir?",
-    "siklar": [
-      "Lucretius",
-      "Horatius",
-      "Cicero",
-      "Seneca",
-      "Tatianus"
-    ],
-    "dogru": 2,
-    "aciklama": "Ambrosius, Cicero'nun 'De Officiis' (Görevler Üzerine) adlı eserinden etkilenerek 'Rahiplerin Görevleri Üzerine' adlı eserini yazmıştır."
-  },
-  {
-    "id": "ortcag-405",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Latin Kilise Babaları",
-    "soru": "Latince yazan ilk kilise babası olarak kabul edilen isim kimdir?",
-    "siklar": [
-      "Ambrosius",
-      "Augustinus",
-      "Tertullianus",
-      "Origenes",
-      "Klement"
-    ],
-    "dogru": 2,
-    "aciklama": "Tertullianus, Latince savunma yazan ilk ve en büyük kilise babası olarak kabul edilmektedir."
-  },
-  {
-    "id": "ortcag-501",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Patristik Dönem Sonrası Felsefi Gelişmeler",
-    "soru": "Aşağıdakilerden hangisi Orta Çağ'daki tümeller tartışmasında yer alan bir anlayışı adlandırır?",
-    "siklar": [
-      "İdealizm",
-      "Romantizm",
-      "Nominalizm",
-      "Sürrealizm",
-      "Septisizm"
-    ],
-    "dogru": 2,
-    "aciklama": "Tümeller tartışmasında üç temel anlayış yer alır: Realizm (gerçekçilik), Kavramcılık (conceptualism) ve Nominalizm (adcılık)."
-  },
-  {
-    "id": "ortcag-502",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Patristik Dönem Sonrası Felsefi Gelişmeler",
-    "soru": "Orta Çağ'da tümeller tartışmasında Platoncu çizgiyi ifade eden anlayışın adı aşağıdakilerden hangisidir?",
-    "siklar": [
-      "Nominalizm",
-      "Realizm",
-      "Solipsizm",
-      "Septisizm",
-      "Okasyonalizm"
-    ],
-    "dogru": 1,
-    "aciklama": "Realizm (gerçekçilik), tümellerin şeylerden önce kendi başına gerçeklik alanı oluşturduğunu savunan Platoncu çizgidir."
-  },
-  {
-    "id": "ortcag-503",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Patristik Dönem Sonrası Felsefi Gelişmeler",
-    "soru": "Aşağıdakilerden hangisi Orta Çağ'da kurulmuş ilk üniversitelerden biridir?",
-    "siklar": [
-      "Tübingen",
-      "Viyana",
-      "Köln",
-      "Oxford",
-      "Jena"
-    ],
-    "dogru": 3,
-    "aciklama": "Oxford ve Paris Üniversitesi, Orta Çağ'da öne çıkan ilk üniversitelerdir."
-  },
-  {
-    "id": "ortcag-504",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Patristik Dönem Sonrası Felsefi Gelişmeler",
-    "soru": "Plotinus'un Platon'un 'Bir'inin südurunu (emanatio) anlattığı temel eseri hangisidir?",
-    "siklar": [
-      "Phaidon",
-      "Metafizik",
-      "Enneades (Dokuzluklar)",
-      "İtiraflar",
-      "Organon"
-    ],
-    "dogru": 2,
-    "aciklama": "Plotinus'un her biri dokuz alt bölümden oluşan eseri 'Enneades' (Dokuzluklar), Bir'in südurunu yani taşıp açılmasının basamaklarını anlatan temel yapıtıdır."
-  },
-  {
-    "id": "ortcag-505",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Patristik Dönem Sonrası Felsefi Gelişmeler",
-    "soru": "Orta Çağ'da tümeller tartışmasını başlatan, Aristoteles'in kategorilerine giriş niteliğinde bir eser olan 'Isagoge'nin yazarı kimdir?",
-    "siklar": [
-      "Plotinus",
-      "Augustinus",
-      "Porphyrios",
-      "Boethius",
-      "Ammonios Saccas"
-    ],
-    "dogru": 2,
-    "aciklama": "Porphyrios (Plotinus'un öğrencisi), Aristoteles'in Kategorilerini açıklamak amacıyla yazdığı 'Isagoge' ile tümeller tartışmasını tetiklemiştir."
-  },
-  {
-    "id": "ortcag-601",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Augustinus'un Düşünce Dünyası",
-    "soru": "Aşağıdaki felsefe akımlarından hangisi Augustinus'tan etkilenmiştir?",
-    "siklar": [
-      "Alman idealizmi",
-      "Varoluşçuluk",
-      "Şüphecilik",
-      "Materyalizm",
-      "Mantıkçı pozitivizm"
-    ],
-    "dogru": 1,
-    "aciklama": "Varoluşçu filozoflar ve Fenomenoloji Okulu (özellikle Husserl) Augustinus'tan etkilenmiştir."
-  },
-  {
-    "id": "ortcag-602",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Augustinus'un Düşünce Dünyası",
-    "soru": "Gençliğinde Augustinus'u etkileyen inanç geleneği aşağıdakilerden hangisidir?",
-    "siklar": [
-      "Manicilik",
-      "Budizm",
-      "Tasavvuf",
-      "Taoizm",
-      "Protestanlık"
-    ],
-    "dogru": 0,
-    "aciklama": "Augustinus, gençliğinde bir dönem Manicilerin çevresinde bulunmuş; daha sonra Yeni Platoncu felsefenin ve Ambrosius'un etkisiyle bu inançtan uzaklaşmıştır."
-  },
-  {
-    "id": "ortcag-603",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Augustinus'un Düşünce Dünyası",
-    "soru": "Zaman üzerine derinlikli analizler yapan Orta Çağ filozofu aşağıdakilerden hangisidir?",
-    "siklar": [
-      "Ambrosius",
-      "Tertullianus",
-      "Augustinus",
-      "Anselmus",
-      "Plotinus"
-    ],
-    "dogru": 2,
-    "aciklama": "Augustinus, 'İtiraflar' adlı eserinin 11. kitabında zamanın paradoksal yapısını çok derin biçimde incelemiştir; bu çalışma Husserl'i de etkilemiştir."
-  },
-  {
-    "id": "ortcag-604",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Augustinus'un Düşünce Dünyası",
-    "soru": "Augustinus'un felsefesinin en temel anlayışını ifade eden Latince formül hangisidir?",
-    "siklar": [
-      "Credo quia absurdum",
-      "Credo ut intelligam",
-      "Cogito ergo sum",
-      "In principio erat Verbum",
-      "Tabula rasa"
-    ],
-    "dogru": 1,
-    "aciklama": "'Credo ut intelligam' (Anlayayım diye inanıyorum), Augustinus'un iman ve akıl ilişkisine dair temel tutumunu özetler."
-  },
-  {
-    "id": "ortcag-605",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Augustinus'un Düşünce Dünyası",
-    "soru": "Augustinus, hangi şehrin piskoposu olmuştur?",
-    "siklar": [
-      "Roma",
-      "Milano",
-      "Kartaca",
-      "Hippo",
-      "Atina"
-    ],
-    "dogru": 3,
-    "aciklama": "Augustinus, 396 yılında Hippo Piskoposu olmuş ve hayatının geri kalanını bu görevi sürdürerek tamamlamıştır."
-  },
-  {
-    "id": "ortcag-701",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Boethius",
-    "soru": "Boethius'a göre tümeller (idealar) nerededir?",
-    "siklar": [
-      "Sadece şeylerde",
-      "Sadece akılda",
-      "Şeylerde ve akılda",
-      "Tanrı'nın zihninde ve insan aklında",
-      "Sadece Tanrı'nın zihninde"
-    ],
-    "dogru": 3,
-    "aciklama": "Boethius'a göre tümeller hem Tanrı'nın aklında idealar olarak hem de insanın ruhunda/aklında kavramlar olarak bulunmaktadırlar."
-  },
-  {
-    "id": "ortcag-702",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Boethius",
-    "soru": "Boethius'a göre ruhtaki hakikatin ışığı nasıl zayıflar?",
-    "siklar": [
-      "Bedenle ilişkiye girerek",
-      "Felsefe yaparak",
-      "Tanrı'nın cezalandırmasıyla",
-      "Uykuda",
-      "Sapkın öğretileri benimsemekle"
-    ],
-    "dogru": 0,
-    "aciklama": "Boethius, Platon'u izleyerek hakikatin ruhta bulunduğunu ancak bedenle ilişkisi nedeniyle bu ışığın zayıfladığını savunmuştur."
-  },
-  {
-    "id": "ortcag-703",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Boethius",
-    "soru": "Boethius'un zindandayken yazdığı temel eserinin adı nedir?",
-    "siklar": [
-      "Varlık ve Öz Üzerine",
-      "İtiraflar",
-      "Felsefenin Tesellisi Üzerine",
-      "Summa Theologica",
-      "Phaidon"
-    ],
-    "dogru": 2,
-    "aciklama": "Boethius, Kral Theodoricus tarafından zindana atılıp idama mahkûm edildiğinde 'Felsefenin Tesellisi Üzerine' (De Consolatione Philosophiae) adlı eserini kaleme almıştır."
-  },
-  {
-    "id": "ortcag-704",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Boethius",
-    "soru": "Aşağıdakilerden hangisi Boethius'un felsefe anlayışının bir ifadesidir?",
-    "siklar": [
-      "Felsefe çözümleyici bir çalışmadır",
-      "Felsefe bilimlerin mantığını anlamaya çalışan bir etkinliktir",
-      "Felsefe spekülatif bilgi temelinde evreni kavramaya çalışan bir etkinliktir",
-      "Felsefe bilgelik sevgisidir",
-      "Felsefe anlam araştırmasıdır"
-    ],
-    "dogru": 3,
-    "aciklama": "Boethius, felsefeyi bilgelik sevgisi olarak tanımlamış ve bu çerçevede hem teorik hem de pratik boyutlarıyla ele almıştır."
-  },
-  {
-    "id": "ortcag-705",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Boethius",
-    "soru": "Boethius'u zindana attırıp idama mahkûm eden kral kimdir?",
-    "siklar": [
-      "Marcus Aurelius",
-      "Hadrianus",
-      "Theodoricus",
-      "Charlemagne",
-      "Augustus"
-    ],
-    "dogru": 2,
-    "aciklama": "Boethius, ihanetle suçlanan Albinus'u savunduğu için Kral Theodoricus tarafından zindana atılmış ve idama mahkûm edilmiştir."
-  },
-  {
-    "id": "ortcag-801",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Ioannes Scotus Erigena",
-    "soru": "Aşağıdaki Orta Çağ filozoflarından hangisi panteist bir öğreti geliştirmiştir?",
-    "siklar": [
-      "Anselmus",
-      "Augustinus",
-      "Erigena",
-      "Plotinus",
-      "Abelardus"
-    ],
-    "dogru": 2,
-    "aciklama": "Ioannes Scotus Erigena, 'Tanrı her şeydir ve her şey Tanrı'dır' görüşüyle panteist olarak değerlendirilmiştir."
-  },
-  {
-    "id": "ortcag-802",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Ioannes Scotus Erigena",
-    "soru": "Erigena felsefesinde doğanın en üst basamağında yer alan nedir?",
-    "siklar": [
-      "Ruh",
-      "Madde",
-      "Tanrı",
-      "Geist",
-      "Hz. İsa"
-    ],
-    "dogru": 2,
-    "aciklama": "Erigena'da doğanın en üst basamağı 'yaratan ve yaratılmayan doğa' olarak belirlenen Tanrı'dır."
-  },
-  {
-    "id": "ortcag-803",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Ioannes Scotus Erigena",
-    "soru": "Erigena'nın en önemli eseri aşağıdakilerden hangisidir?",
-    "siklar": [
-      "De Praedestinatione",
-      "De Divisione Naturae",
-      "Enneades",
-      "Isagoge",
-      "Historia Calamitatum"
-    ],
-    "dogru": 1,
-    "aciklama": "Erigena'nın en önemli eseri, diyalog biçiminde yazılmış olan 'De Divisione Naturae' (Doğanın Bölünmesi Üzerine) adlı yapıtıdır."
-  },
-  {
-    "id": "ortcag-804",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Ioannes Scotus Erigena",
-    "soru": "Erigena, doğayı kaç temel bölüme ayırmıştır?",
-    "siklar": [
-      "İki",
-      "Üç",
-      "Dört",
-      "Beş",
-      "Altı"
-    ],
-    "dogru": 2,
-    "aciklama": "Erigena doğayı dört bölüme ayırır: (1) Yaratan ve yaratılmayan doğa (Tanrı), (2) yaratılan ve yaratan doğa (ilk idealar), (3) yaratılan ve yaratmayan doğa (dünya ve insan), (4) ne yaratan ne yaratılan doğa (dönüşün sonu olarak Tanrı)."
-  },
-  {
-    "id": "ortcag-805",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Ioannes Scotus Erigena",
-    "soru": "Erigena'nın 'Alın Yazısı Üzerine' eserinde savunduğu temel görüş nedir?",
-    "siklar": [
-      "İnsanın yazgısının önceden belirlendiği",
-      "İnsanın yazgısının önceden belirlenmediği ve çözüm için yalnızca aklın gücüne başvurulması gerektiği",
-      "Tanrı'nın her şeyi önceden bildiği",
-      "Aklın yetersiz olduğu",
-      "Kilise babalarının otoritesine tabi olunması gerektiği"
-    ],
-    "dogru": 1,
-    "aciklama": "Erigena, 'De Praedestinatione'de insanın yazgısının önceden belirlendiği görüşüne karşı çıkarak çözümün geleneksel otoritelerde değil aklın gücünde aranması gerektiğini savunmuştur."
-  },
-  {
-    "id": "ortcag-901",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Anselmus",
-    "soru": "Ontolojik Tanrı kanıtlaması Orta Çağ'ın hangi filozofu tarafından yapılmıştır?",
-    "siklar": [
-      "Abelardus",
-      "Anselmus",
-      "Petrus Hispanus",
-      "Plotinus",
-      "Roscelinus"
-    ],
-    "dogru": 1,
-    "aciklama": "Ontolojik Tanrı kanıtlaması, Aziz Anselmus tarafından Proslogion adlı eserinde geliştirilmiştir."
-  },
-  {
-    "id": "ortcag-902",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Anselmus",
-    "soru": "Anselmus öğretisinde 'rectitudo' hangi anlama gelmektedir?",
-    "siklar": [
-      "Kesinlik",
-      "Bilgelik",
-      "Tanrı",
-      "Kudas",
-      "Yedi özgür sanat"
-    ],
-    "dogru": 0,
-    "aciklama": "Anselmus'a göre 'rectitudo' (kesinlik), akıl sahibi varlığın yetkinliğinin ifadesidir; istenen şeyin nesnel ve niyetin de iyi olması anlamında kullanılır."
-  },
-  {
-    "id": "ortcag-903",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Anselmus",
-    "soru": "Anselmus'a göre özgürlük nedir?",
-    "siklar": [
-      "Günah işleme ya da işlememe olasılığı",
-      "İyiyi bulma gücü",
-      "Bedensel arzulardan kurtulma",
-      "Tanrı'yı reddetme kapasitesi",
-      "Aklın sınırlarını aşma yetisi"
-    ],
-    "dogru": 1,
-    "aciklama": "Anselmus'a göre özgürlük bir yetkinliktir ve 'yalnızca iyiyi bulma gücü' olarak anlaşılmalıdır; günah işleme bu yetkinlikten uzaklaşmaktır."
-  },
-  {
-    "id": "ortcag-904",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Anselmus",
-    "soru": "Anselmus'un ontolojik Tanrı kanıtlamasına 'Aptal Yanlısı' adlı eserle itiraz eden isim kimdir?",
-    "siklar": [
-      "Roscelinus",
-      "Abelardus",
-      "Gaunilon",
-      "Ockham",
-      "Duns Scotus"
-    ],
-    "dogru": 2,
-    "aciklama": "Rahip Gaunilon, 'Aptal Yanlısı' adlı eserinde Anselmus'un ontolojik kanıtlamasını eleştirmiştir; Anselmus da buna karşı bir eleştiri yazmıştır."
-  },
-  {
-    "id": "ortcag-905",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Anselmus",
-    "soru": "Anselmus'un temel felsefi tutumu ile Augustinus'un tutumu hangi ortak formülle özetlenir?",
-    "siklar": [
-      "Credo quia absurdum",
-      "Cogito ergo sum",
-      "Credo ut intelligam",
-      "Tabula rasa",
-      "In principio erat Verbum"
-    ],
-    "dogru": 2,
-    "aciklama": "'Credo ut intelligam' (Anlayayım diye inanıyorum) hem Augustinus'un hem de Anselmus'un temel felsefi tutumunu özetler."
-  },
-  {
-    "id": "ortcag-1006",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Petrus Abelardus",
-    "soru": "Abelardus hangi gelenek çizgisinde yetişmiş bir filozoftur?",
-    "siklar": [
-      "Trivium",
-      "Quadrivium",
-      "Realizm",
-      "Adcılık",
-      "İdealizm"
-    ],
-    "dogru": 0,
-    "aciklama": "Abelardus, yedi özgür sanattan özellikle Trivium (mantık, gramer ve diyalektik) geleneğini izleyen bir filozoftur."
-  },
-  {
-    "id": "ortcag-1007",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Petrus Abelardus",
-    "soru": "Abelardus'un öz yaşam öyküsünü kaleme aldığı eserin adı nedir?",
-    "siklar": [
-      "İtiraflar",
-      "Tanrı Devleti",
-      "Historia Calamitatum",
-      "Peri Hermenias",
-      "Organon"
-    ],
-    "dogru": 2,
-    "aciklama": "Abelardus, 'Historia Calamitatum' (Felaketler Tarihi) adlı eserinde kendi yaşam öyküsünü anlatmıştır."
-  },
-  {
-    "id": "ortcag-1008",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Petrus Abelardus",
-    "soru": "Abelardus'a göre tümeller nerededir?",
-    "siklar": [
-      "Sadece şeylerde",
-      "Sadece Tanrı'nın zihninde",
-      "Anlamlı birer yapı olarak dilde",
-      "Yalnızca insan zihninde kavram olarak",
-      "Fiziksel nesnelerde gizli olarak"
-    ],
-    "dogru": 2,
-    "aciklama": "Abelardus, tümellerin ne adcıların dediği gibi anlamsız bir ses ne de gerçekçilerin dediği gibi bağımsız bir gerçeklik olduğunu; anlamlı birer yapı olarak dilde bulunduğunu savunur."
-  },
-  {
-    "id": "ortcag-1009",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Petrus Abelardus",
-    "soru": "Abelardus'un aynı konuyla ilgili karşıt görüşleri bir arada sunduğu eseri hangisidir?",
-    "siklar": [
-      "Logica Ingredientibus",
-      "Historia Calamitatum",
-      "Sic et Non (Evet ve Hayır)",
-      "Scito Te Ipsum",
-      "Theologia Christiana"
-    ],
-    "dogru": 2,
-    "aciklama": "'Sic et Non' (Evet ve Hayır) adlı eserinde Abelardus, aynı konuyla ilgili çelişen otorite görüşlerini bir arada sunarak eleştirel bir yöntem geliştirmiştir."
-  },
-  {
-    "id": "ortcag-1010",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Petrus Abelardus",
-    "soru": "Abelardus, 1121 ve 1140 yıllarında hangi konsillerle mahkûm edilmiştir?",
-    "siklar": [
-      "Nikaia ve Konstantinopolis",
-      "Lyon ve Floransa",
-      "Soissons ve Sens",
-      "Trento ve Basel",
-      "Kalkedon ve Efes"
-    ],
-    "dogru": 2,
-    "aciklama": "Abelardus, 1121'de Soissons Konsili'nde ve 1140'da Sens Konsili'nde mahkûm edilmiştir."
-  },
-  {
-    "id": "ortcag-1101",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Bonaventura",
-    "soru": "Aşağıdakilerden hangisi Bonaventura felsefesinin özelliklerinden birdir?",
-    "siklar": [
-      "Ateist bir felsefedir",
-      "Naturalist bir felsefedir",
-      "Mistik bir felsefedir",
-      "Seküler bir felsefedir",
-      "Materyalist bir felsefedir"
-    ],
-    "dogru": 2,
-    "aciklama": "Bonaventura'nın felsefesi, teoloji ve mistisizm karışımı olarak değerlendirilir; amacı Tanrı'ya ulaşma yolunu açıklamaktır."
-  },
-  {
-    "id": "ortcag-1102",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Bonaventura",
-    "soru": "Bonaventura hangi Hristiyan tarikatına mensuptur?",
-    "siklar": [
-      "Benedikten",
-      "Dominiken",
-      "Protestan",
-      "Katolik",
-      "Fransisken"
-    ],
-    "dogru": 4,
-    "aciklama": "Bonaventura, Fransisken Tarikatı'nın önemli bir üyesidir ve bu tarikatın genel eğilimi olan mistik ve empirisist anlayışı benimsemiştir."
-  },
-  {
-    "id": "ortcag-1103",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Bonaventura",
-    "soru": "Bonaventura'ya göre felsefenin amacı nedir?",
-    "siklar": [
-      "Tanrı'nın varlığını kanıtlamak",
-      "İnsanı yetkinliğe götürmek ve Tanrı'ya ulaşma yolunu açıklamak",
-      "Doğa yasalarını keşfetmek",
-      "Aklın sınırlarını belirlemek",
-      "Diyalektiği geliştirmek"
-    ],
-    "dogru": 1,
-    "aciklama": "Bonaventura'ya göre felsefenin amacı insanı yetkinliğe doğru götürmek ve nihayetinde Tanrı'ya ulaşma yolunu açıklamaktır; her bilgi bu yolda bir adımdır."
-  },
-  {
-    "id": "ortcag-1104",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Bonaventura",
-    "soru": "Bonaventura kaç tür bilgi ayırt eder?",
-    "siklar": [
-      "İki (duyusal ve akılsal)",
-      "Üç (duyusal, bilimsel ve bilgelik bilgisi)",
-      "Dört (duyum, hayal gücü, akıl, anlama yetisi)",
-      "Beş (duyu, bellek, hayal, akıl, sezi)",
-      "Tek (vahye dayalı bilgi)"
-    ],
-    "dogru": 1,
-    "aciklama": "Bonaventura; duyusal bilgi, bilimsel bilgi ve bilgelik bilgisi olmak üzere üç tür bilgi ayırt eder."
-  },
-  {
-    "id": "ortcag-1105",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Bonaventura",
-    "soru": "Bonaventura'ya göre mutluluk nedir?",
-    "siklar": [
-      "Yalnızca aklın tam doyumu",
-      "Yalnızca sevginin gerçekleşmesi",
-      "Bilginin ve sevginin birliği",
-      "Tanrı'nın doğrudan görülmesi",
-      "Bedensel arzulardan tam kurtuluş"
-    ],
-    "dogru": 2,
-    "aciklama": "Bonaventura'ya göre mutluluk aklın tam doyumuyla başlar ve sevgiyle tamamlanır; dolayısıyla bilginin ve sevginin birliğindedir."
-  },
-  {
-    "id": "ortcag-1201",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Thomas Aquinas",
-    "soru": "Aşağıdakilerden hangisi Aquinas'ın bilgi anlayışı bakımından doğrudur?",
-    "siklar": [
-      "Doğuştan bilgi anlayışını reddeder",
-      "Bilgilerimizin tecrübeden kaynaklandığını iddia eder",
-      "Tanrısal ışığın akla verilmediğini iddia eder",
-      "Soyutlamayı kabul etmez",
-      "Augustinus'un Tanrısal ışık anlayışının bilgi sorunuyla bağlantılı kılınamayacağını iddia eder"
-    ],
-    "dogru": 0,
-    "aciklama": "Aquinas, insan aklının doğuştan herhangi bir bilgiye sahip olmadığını kabul eder; akıl, bilgi sorununda potansiyel durumunda olan bir yetidir."
-  },
-  {
-    "id": "ortcag-1202",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Thomas Aquinas",
-    "soru": "Aquinas'ın bağlı olduğu Hristiyan tarikatı aşağıdakilerden hangisidir?",
-    "siklar": [
-      "Fransisken",
-      "Anglikan",
-      "Benedikten",
-      "Dominiken",
-      "Protestan"
-    ],
-    "dogru": 3,
-    "aciklama": "Thomas Aquinas, 1244 yılında Dominiken Tarikatı'na girmiş ve Paris'te Albertus Magnus'un öğrencisi olmuştur."
-  },
-  {
-    "id": "ortcag-1203",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Thomas Aquinas",
-    "soru": "Aşağıdakilerden hangisi Aquinas'a ait bir eserdir?",
-    "siklar": [
-      "Summa Totius Logicae",
-      "Summa Theologica",
-      "Confessiones",
-      "Peri Hermenias",
-      "Organon"
-    ],
-    "dogru": 1,
-    "aciklama": "Aquinas'ın en önemli eserleri 'Summa Theologica' ve 'Summa Contra Gentiles'tir."
-  },
-  {
-    "id": "ortcag-1204",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Thomas Aquinas",
-    "soru": "Aquinas'ın Tanrı'nın varlığını kanıtlamak için izlediği yol sayısı kaçtır?",
-    "siklar": [
-      "Bir",
-      "İki",
-      "Üç",
-      "Dört",
-      "Beş"
-    ],
-    "dogru": 4,
-    "aciklama": "Aquinas, kozmolojik Tanrı kanıtlamasında beş yol izlemiştir: hareket, nedensellik, zorunluluk, derecelendirme ve teleolojik kanıtlama."
-  },
-  {
-    "id": "ortcag-1205",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Thomas Aquinas",
-    "soru": "Aquinas'ın bir varlığı 'o şey' yapan özüne Latince ne der?",
-    "siklar": [
-      "Esse",
-      "Quidditas (ne'lik)",
-      "Forma",
-      "Materia",
-      "Actus"
-    ],
-    "dogru": 1,
-    "aciklama": "Aquinas, her varlığı o şey yapan özüne 'quidditas' (ne'lik) der; yaratılmış varlıklarda öz ve var oluş bir ve aynı değildir, bu özdeşlik yalnızca Tanrı için geçerlidir."
-  },
-  {
-    "id": "ortcag-1301",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Duns Scotus",
-    "soru": "Duns Scotus, kendisinden sonra hangi Orta Çağ filozofu tarafından izlenmiştir?",
-    "siklar": [
-      "Augustinus",
-      "Anselmus",
-      "Bonaventura",
-      "Ockham",
-      "Abelardus"
-    ],
-    "dogru": 3,
-    "aciklama": "Duns Scotus'un empirisist eğilimlerini ve Fransisken geleneğini Ockham devam ettirmiştir."
-  },
-  {
-    "id": "ortcag-1302",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Duns Scotus",
-    "soru": "Duns Scotus, hangi kavrama getirmiş olduğu ayırımlarla Orta Çağ felsefesinde etkili olmuştur?",
-    "siklar": [
-      "İntentio",
-      "Logos",
-      "Physis",
-      "Arete",
-      "On he on"
-    ],
-    "dogru": 0,
-    "aciklama": "Duns Scotus, intentio (yönelim) kavramını intentio prima ve intentio secunda olarak ayırarak mantık ve metafizik arasındaki ilişkiyi temellendirmiştir."
-  },
-  {
-    "id": "ortcag-1303",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Duns Scotus",
-    "soru": "Duns Scotus, doğuştan düşünceler konusunda hangi tutumu benimser?",
-    "siklar": [
-      "Doğuştan düşünceleri kabul eder",
-      "Doğuştan düşünceleri kabul etmez; tüm bilginin duyumlardan geldiğini savunur",
-      "Doğuştan düşüncelerin yalnızca Tanrı'ya ilişkin olduğunu savunur",
-      "Platon'u izleyerek doğuştan bilgiyi savunur",
-      "Aklın duyumlardan bağımsız olduğunu kabul eder"
-    ],
-    "dogru": 1,
-    "aciklama": "Empirisist olan Scotus, doğuştan düşünceleri kabul etmez; tüm bilginin duyumlardan geldiğini ve zihinde deneyimden önce doğuştan ilkelerin bulunmadığını savunur."
-  },
-  {
-    "id": "ortcag-1304",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Duns Scotus",
-    "soru": "Duns Scotus'un, bir şeyi 'işte o şey' yapan bireyselleştirme ilkesine verdiği ad nedir?",
-    "siklar": [
-      "Quidditas",
-      "Intentio",
-      "Haeccitas",
-      "Suppositio",
-      "Rectitudo"
-    ],
-    "dogru": 2,
-    "aciklama": "Scotus'un 'haeccitas' kavramı, bir şeyi işte 'bu' ve başkası değil yapan bireyselleştirme ilkesini ifade eder."
-  },
-  {
-    "id": "ortcag-1305",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Duns Scotus",
-    "soru": "Duns Scotus hangi Hristiyan tarikatına mensuptur?",
-    "siklar": [
-      "Dominiken",
-      "Benedikten",
-      "Augustinyen",
-      "Fransisken",
-      "Cizvit"
-    ],
-    "dogru": 3,
-    "aciklama": "Duns Scotus Fransisken Tarikatı'na mensuptur; Bonaventura ve Ockham da aynı tarikata aittir."
-  },
-  {
-    "id": "ortcag-1401",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Ockham'lı William",
-    "soru": "Aşağıdakilerden hangisi Ockham'ın bir eseridir?",
-    "siklar": [
-      "İkinci Analitikler",
-      "Summa Theologica",
-      "Summa Contra Gentiles",
-      "Summa Totius Logicae",
-      "Organon"
-    ],
-    "dogru": 3,
-    "aciklama": "Ockham'ın mantık konusundaki en büyük eseri 'Summa Totius Logicae'dır."
-  },
-  {
-    "id": "ortcag-1402",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Ockham'lı William",
-    "soru": "Suppositio kuramı hangi Orta Çağ filozofuna aittir?",
-    "siklar": [
-      "Ockham",
-      "Abelardus",
-      "Augustinus",
-      "Aquinas",
-      "Duns Scotus"
-    ],
-    "dogru": 0,
-    "aciklama": "Suppositio kuramı, terimlerin önermedeki işlevini ve göndermesini çözümleyen Ockham'a aittir."
-  },
-  {
-    "id": "ortcag-1403",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Ockham'lı William",
-    "soru": "Ockham'a göre insan zihni bilgi açısından nasıl tanımlanabilir?",
-    "siklar": [
-      "Doğuştan kavramlarla dolu bir depo",
-      "Tabula rasa (boş bir levha)",
-      "Tanrısal ideasların aynası",
-      "Saf aktüalite",
-      "Potansiyelden yoksun saf etkinlik"
-    ],
-    "dogru": 1,
-    "aciklama": "Ockham, insan zihnini tabula rasa (boş bir levha) olarak görür; bu nedenle a priori Tanrı kanıtlamalarını kabul etmez."
-  },
-  {
-    "id": "ortcag-1404",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Ockham'lı William",
-    "soru": "Ockham, söylemde kaç tür ayrım yapar?",
-    "siklar": [
-      "İki (yazılı ve sözlü)",
-      "Üç (yazılı, sözlü ve kavramsal)",
-      "Dört (yazılı, sözlü, kavramsal, eylemsel)",
-      "Bir (yalnızca kavramsal)",
-      "Beş"
-    ],
-    "dogru": 1,
-    "aciklama": "Ockham'a göre söylem; yazılı, sözlü ve kavramsal olmak üzere üç türdür; asıl olan kavramsal (zihinsel) boyuttur."
-  },
-  {
-    "id": "ortcag-1405",
-    "ders": "ortacag-felsefesi-tarihi",
-    "konu": "Ockham'lı William",
-    "soru": "Ockham'ın felsefe ile teoloji arasındaki ilişkiye dair tutumu nasıldır?",
-    "siklar": [
-      "İkisi aynı alandır ve birbirinden ayrılamaz",
-      "Felsefe teolojinin hizmetkârıdır",
-      "Felsefe ve teolojinin alanları birbirinden ayrılmış olup felsefe aklın, teoloji vahyin alanıdır",
-      "Teoloji felsefeye tabi olmalıdır",
-      "İkisi de gereksizdir"
-    ],
-    "dogru": 2,
-    "aciklama": "Ockham'da felsefe ile teolojinin alanları birbirinden ayrılmıştır; felsefe aklın, teoloji ise vahyin alanıdır. Bu tutum Rönesans'taki laik anlayışın habercisidir."
-  }
+ {
+  "id": "ortcag-101",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Hıristiyanlık ve Yunan Felsefesi",
+  "soru": "Aşağıdakilerden hangisi Yunan kilise babalarından biri değildir?",
+  "siklar": [
+   "Tatianus",
+   "Justinus",
+   "Athenagoras",
+   "Meliton",
+   "Porphyrios"
+  ],
+  "dogru": 4,
+  "aciklama": "Porphyrios Yunan kilise babası değil, Yeni Platoncu bir filozoftur (Plotinus'un öğrencisi).",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-102",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Hıristiyanlık ve Yunan Felsefesi",
+  "soru": "Hristiyan kilise babalarının yazmış olduğu savunma eserlerinin genel adı aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Theodise",
+   "Talmut",
+   "Apologya",
+   "Tevrat",
+   "Ölüler Kitabı"
+  ],
+  "dogru": 2,
+  "aciklama": "Hristiyan kilise babalarının pagan Roma'ya karşı yazdıkları savunma eserlerine Apologya (Savunma) denir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-103",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Hıristiyanlık ve Yunan Felsefesi",
+  "soru": "Justinus, Hristiyan olmadan önce hangi Yunan felsefe geleneklerinden etkilenmiştir?",
+  "siklar": [
+   "Septikler-Peripatetikler",
+   "Septikler-Platoncular",
+   "Platoncular-Peripatetikler",
+   "Stoacılar-Platoncular",
+   "Stoacılar-Septikler"
+  ],
+  "dogru": 3,
+  "aciklama": "Justinus önce Stoacılığın, ardından Platon felsefesinin etkisinde kalmış, ancak ikisinden de tam olarak tatmin olmayarak Hristiyanlığı seçmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-104",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Hıristiyanlık ve Yunan Felsefesi",
+  "soru": "Justinus'un 'Logos' öğretisine göre İsa'dan önce yaşayan ve iyiliğin peşinden giden insanlar hakkında ne söylenebilir?",
+  "siklar": [
+   "Kurtuluşa erişemezler",
+   "Logos'a göre yaşamış oldukları için Hristiyan sayılabilirler",
+   "Tanrı tarafından cezalandırılmışlardır",
+   "Yalnızca Yahudiler kurtulabilir",
+   "Onların kurtulma şansı yoktur"
+  ],
+  "dogru": 1,
+  "aciklama": "Justinus'a göre İsa'dan önce de evrensel bir Logos vardır ve iyiliği seçen herkes, Pagan ya da Yahudi olsun, Logos'a göre yaşamış sayılır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-105",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Hıristiyanlık ve Yunan Felsefesi",
+  "soru": "Tatianus'un Hristiyan olmak için ayrıldığı Encratites adlı tarikatın en belirgin özelliği nedir?",
+  "siklar": [
+   "Barışçıl ve hoşgörülü bir anlayışa sahip olması",
+   "Evliliği, şarabı ve et yemeyi yasaklayan ahlakçı ve sert önlemler uygulaması",
+   "Felsefeyi ön plana çıkarması",
+   "Gnostisizme tamamen karşı çıkması",
+   "Platon felsefesini benimsemesi"
+  ],
+  "dogru": 1,
+  "aciklama": "Tatianus, evliliği, şarap içmeyi ve et yemeyi yasaklayan, Kudas ayininde şarap yerine su kullanan Encratites adlı bir tarikat kurmuştur.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-201",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Hristiyanlık ve Yunan Felsefesi (Gnostikler)",
+  "soru": "'Hristiyanlar İçin Lütuf Dilekçesi' adlı eser hangi Yunan kilise babası tarafından kaleme alınmıştır?",
+  "siklar": [
+   "Meliton",
+   "Athenagoras",
+   "Augustinus",
+   "Justinus",
+   "Origenes"
+  ],
+  "dogru": 1,
+  "aciklama": "Athenagoras, 177 yılında İmparator Marcus Aurelius'a hitaben 'Hristiyanlar İçin Lütuf Dilekçesi' adlı eseri yazmıştır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-202",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Hristiyanlık ve Yunan Felsefesi (Gnostikler)",
+  "soru": "Marcus Aurelius'un Hristiyanlara karşı tutumu nasıldır?",
+  "siklar": [
+   "Hoşgörülü davranmıştır",
+   "Uzlaşmacı bir yol izlemiştir",
+   "İlgisiz kalmıştır",
+   "Çok sert davranmıştır",
+   "Koruyucu davranmıştır"
+  ],
+  "dogru": 3,
+  "aciklama": "Stoacı imparator Marcus Aurelius, Hristiyanlara karşı çok sert davranmış; onları kudurmuş ve cüretkâr olarak nitelendirmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-203",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Hristiyanlık ve Yunan Felsefesi (Gnostikler)",
+  "soru": "Teslis (baba, oğul ve kutsal ruhun aynılığı) hangi dine ait bir dogmadır?",
+  "siklar": [
+   "Müslümanlık",
+   "Yahudilik",
+   "Budizm",
+   "Pagan",
+   "Hristiyanlık"
+  ],
+  "dogru": 4,
+  "aciklama": "Teslis (kutsal üçleme), Hristiyanlığa özgü bir dogmadır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-204",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Hristiyanlık ve Yunan Felsefesi (Gnostikler)",
+  "soru": "Gnosis sözcüğü hangi anlama gelmektedir?",
+  "siklar": [
+   "İman",
+   "Vahiy",
+   "Bilgi ya da marifet",
+   "Kurtuluş",
+   "Günahtan arınma"
+  ],
+  "dogru": 2,
+  "aciklama": "Gnosis, Yunancada bilgi ya da marifet anlamına gelir. Gnostisizmde ise insanı Tanrı'yla bütünleştirecek özel bir bilgi arayışını ifade eder.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-205",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Hristiyanlık ve Yunan Felsefesi (Gnostikler)",
+  "soru": "Markion'a göre Eski Ahit'in Tanrısı ile Yeni Ahit'in Tanrısı arasındaki temel fark nedir?",
+  "siklar": [
+   "İkisi tamamen aynıdır",
+   "Eski Ahit'in Tanrısı adaletçidir ama başarısız bir Demiurgos'tur; Yeni Ahit'in Tanrısı bizzat iyiliktir",
+   "Eski Ahit'in Tanrısı daha üstündür",
+   "İkisi de eşit derecede merhametlidir",
+   "Yeni Ahit'in Tanrısı maddeden sorumludur"
+  ],
+  "dogru": 1,
+  "aciklama": "Markion'a göre Eski Ahit'in Tanrısı adaletçi ama yetersiz bir Demiurgos'tur; 'yabancı Tanrı' dediği Yeni Ahit'in Tanrısı ise bizzat iyiliktir ve İsa'ya kadar bilinmiyordu.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-301",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "İskenderiye Okulu",
+  "soru": "Aşağıdakilerden hangisi İskenderiyeli Klement'in görüşüdür?",
+  "siklar": [
+   "İnsanları eğitecek olan pedagog, logostur",
+   "İnsanları eğitecek olan pedagog, kilise babalarıdır",
+   "İnsanları eğitecek olan pedagog, filozoflardır",
+   "İnsanları eğitecek olan pedagog, gnostiklerdir",
+   "İnsanlar eğitilemez"
+  ],
+  "dogru": 0,
+  "aciklama": "Klement'e göre Logos, bütün insanların pedagogudur ve insanların günahlarını sınırlandırmada pedagog görevini üstlenmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-302",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "İskenderiye Okulu",
+  "soru": "Aşağıda adı geçenlerden hangisi İskenderiye Okulu'na mensuptur?",
+  "siklar": [
+   "Markion",
+   "Basilide",
+   "Valentin",
+   "Origenes",
+   "Augustinus"
+  ],
+  "dogru": 3,
+  "aciklama": "İskenderiye Okulu'nun iki önemli ismi Klement ve Origenes'tir. Markion, Basilide ve Valentin ise gnostiklerdir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-303",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "İskenderiye Okulu",
+  "soru": "Hristiyanların kurtuluş için eşit şartlar altında bulunduğunu söyleyen İskenderiye Okulu'na mensup kilise babası kimdir?",
+  "siklar": [
+   "Valentin",
+   "Origenes",
+   "Augustinus",
+   "Klement",
+   "Markion"
+  ],
+  "dogru": 3,
+  "aciklama": "Klement, kurtuluş anlayışında ayrım yapmamış; vaftiz olduktan sonra tüm Hristiyanların eşit şartlarda bulunduğunu savunmuştur.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-304",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "İskenderiye Okulu",
+  "soru": "Tanrı'nın yaratımının sonsuz olduğu ve bizim evrenimizden sonra da sonsuz sayıda âlemlerin yaratılacağı görüşü hangi kilise babasına aittir?",
+  "siklar": [
+   "Klement",
+   "Markion",
+   "Origenes",
+   "Valentin",
+   "Pavlus"
+  ],
+  "dogru": 2,
+  "aciklama": "Origenes'e göre Tanrı evren yaratmadan önce sayısız âlemler var etmiş, ondan sonra da sayısız âlemler var edecektir; bizim dünyamız ilk değildir, son da olmayacaktır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-305",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "İskenderiye Okulu",
+  "soru": "Origenes'in hem Klement'in öğrencisi hem de derslerini aldığı diğer önemli hoca kimdir?",
+  "siklar": [
+   "Valentinus",
+   "Ammonios Saccas",
+   "Plotinus",
+   "Porphyrios",
+   "Athenagoras"
+  ],
+  "dogru": 1,
+  "aciklama": "Origenes, hem İskenderiyeli Klement'in öğrencisi olmuş hem de Plotinus ile birlikte Ammonios Saccas'ın derslerini izlemiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-401",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Latin Kilise Babaları",
+  "soru": "'Credo Quia Absurdum'un anlamı nedir?",
+  "siklar": [
+   "Anlayayım diye inanıyorum",
+   "İnanmak için anlıyorum",
+   "Saçma olduğu için inanıyorum",
+   "Yüce varlığa inanıyorum",
+   "Akla uygun olduğundan inanıyorum"
+  ],
+  "dogru": 2,
+  "aciklama": "Tertullianus'a atfedilen 'Credo quia absurdum' ifadesi 'Saçma olduğu için inanıyorum' anlamına gelir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-402",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Latin Kilise Babaları",
+  "soru": "Tertullianus nefs konusunda ne tür bir anlayışı savunmuştur?",
+  "siklar": [
+   "İdealist",
+   "Şüpheci",
+   "Rasyonalist",
+   "Deneyci",
+   "Materyalist"
+  ],
+  "dogru": 4,
+  "aciklama": "Tertullianus'a göre nefs hava gibi ince ve uçucu, üç boyutlu bir cisimdir; var olan her şeyin bir cisme sahip olduğunu savunmuştur. Bu görüş materyalisttir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-403",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Latin Kilise Babaları",
+  "soru": "Augustinus'un Hristiyanlığa geçmesine en fazla katkıda bulunan kilise babası kimdir?",
+  "siklar": [
+   "Tertullianus",
+   "Ambrosius",
+   "Tatianus",
+   "Origenes",
+   "Thomas Aquinas"
+  ],
+  "dogru": 1,
+  "aciklama": "Milano Piskoposu Ambrosius, Augustinus'un Hristiyanlığa girmesinde en etkili isimdir; Augustinus onu vaftiz etmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-404",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Latin Kilise Babaları",
+  "soru": "Ambrosius ahlak konusunda hangi Romalı filozofun 'Görevler Üzerine' adlı eserinden etkilenmiştir?",
+  "siklar": [
+   "Lucretius",
+   "Horatius",
+   "Cicero",
+   "Seneca",
+   "Tatianus"
+  ],
+  "dogru": 2,
+  "aciklama": "Ambrosius, Cicero'nun 'De Officiis' (Görevler Üzerine) adlı eserinden etkilenerek 'Rahiplerin Görevleri Üzerine' adlı eserini yazmıştır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-405",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Latin Kilise Babaları",
+  "soru": "Latince yazan ilk kilise babası olarak kabul edilen isim kimdir?",
+  "siklar": [
+   "Ambrosius",
+   "Augustinus",
+   "Tertullianus",
+   "Origenes",
+   "Klement"
+  ],
+  "dogru": 2,
+  "aciklama": "Tertullianus, Latince savunma yazan ilk ve en büyük kilise babası olarak kabul edilmektedir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-501",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Patristik Dönem Sonrası Felsefi Gelişmeler",
+  "soru": "Aşağıdakilerden hangisi Orta Çağ'daki tümeller tartışmasında yer alan bir anlayışı adlandırır?",
+  "siklar": [
+   "İdealizm",
+   "Romantizm",
+   "Nominalizm",
+   "Sürrealizm",
+   "Septisizm"
+  ],
+  "dogru": 2,
+  "aciklama": "Tümeller tartışmasında üç temel anlayış yer alır: Realizm (gerçekçilik), Kavramcılık (conceptualism) ve Nominalizm (adcılık).",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-502",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Patristik Dönem Sonrası Felsefi Gelişmeler",
+  "soru": "Orta Çağ'da tümeller tartışmasında Platoncu çizgiyi ifade eden anlayışın adı aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Nominalizm",
+   "Realizm",
+   "Solipsizm",
+   "Septisizm",
+   "Okasyonalizm"
+  ],
+  "dogru": 1,
+  "aciklama": "Realizm (gerçekçilik), tümellerin şeylerden önce kendi başına gerçeklik alanı oluşturduğunu savunan Platoncu çizgidir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-503",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Patristik Dönem Sonrası Felsefi Gelişmeler",
+  "soru": "Aşağıdakilerden hangisi Orta Çağ'da kurulmuş ilk üniversitelerden biridir?",
+  "siklar": [
+   "Tübingen",
+   "Viyana",
+   "Köln",
+   "Oxford",
+   "Jena"
+  ],
+  "dogru": 3,
+  "aciklama": "Oxford ve Paris Üniversitesi, Orta Çağ'da öne çıkan ilk üniversitelerdir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-504",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Patristik Dönem Sonrası Felsefi Gelişmeler",
+  "soru": "Plotinus'un Platon'un 'Bir'inin südurunu (emanatio) anlattığı temel eseri hangisidir?",
+  "siklar": [
+   "Phaidon",
+   "Metafizik",
+   "Enneades (Dokuzluklar)",
+   "İtiraflar",
+   "Organon"
+  ],
+  "dogru": 2,
+  "aciklama": "Plotinus'un her biri dokuz alt bölümden oluşan eseri 'Enneades' (Dokuzluklar), Bir'in südurunu yani taşıp açılmasının basamaklarını anlatan temel yapıtıdır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-505",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Patristik Dönem Sonrası Felsefi Gelişmeler",
+  "soru": "Orta Çağ'da tümeller tartışmasını başlatan, Aristoteles'in kategorilerine giriş niteliğinde bir eser olan 'Isagoge'nin yazarı kimdir?",
+  "siklar": [
+   "Plotinus",
+   "Augustinus",
+   "Porphyrios",
+   "Boethius",
+   "Ammonios Saccas"
+  ],
+  "dogru": 2,
+  "aciklama": "Porphyrios (Plotinus'un öğrencisi), Aristoteles'in Kategorilerini açıklamak amacıyla yazdığı 'Isagoge' ile tümeller tartışmasını tetiklemiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-601",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Augustinus'un Düşünce Dünyası",
+  "soru": "Aşağıdaki felsefe akımlarından hangisi Augustinus'tan etkilenmiştir?",
+  "siklar": [
+   "Alman idealizmi",
+   "Varoluşçuluk",
+   "Şüphecilik",
+   "Materyalizm",
+   "Mantıkçı pozitivizm"
+  ],
+  "dogru": 1,
+  "aciklama": "Varoluşçu filozoflar ve Fenomenoloji Okulu (özellikle Husserl) Augustinus'tan etkilenmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-602",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Augustinus'un Düşünce Dünyası",
+  "soru": "Gençliğinde Augustinus'u etkileyen inanç geleneği aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Manicilik",
+   "Budizm",
+   "Tasavvuf",
+   "Taoizm",
+   "Protestanlık"
+  ],
+  "dogru": 0,
+  "aciklama": "Augustinus, gençliğinde bir dönem Manicilerin çevresinde bulunmuş; daha sonra Yeni Platoncu felsefenin ve Ambrosius'un etkisiyle bu inançtan uzaklaşmıştır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-603",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Augustinus'un Düşünce Dünyası",
+  "soru": "Zaman üzerine derinlikli analizler yapan Orta Çağ filozofu aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Ambrosius",
+   "Tertullianus",
+   "Augustinus",
+   "Anselmus",
+   "Plotinus"
+  ],
+  "dogru": 2,
+  "aciklama": "Augustinus, 'İtiraflar' adlı eserinin 11. kitabında zamanın paradoksal yapısını çok derin biçimde incelemiştir; bu çalışma Husserl'i de etkilemiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-604",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Augustinus'un Düşünce Dünyası",
+  "soru": "Augustinus'un felsefesinin en temel anlayışını ifade eden Latince formül hangisidir?",
+  "siklar": [
+   "Credo quia absurdum",
+   "Credo ut intelligam",
+   "Cogito ergo sum",
+   "In principio erat Verbum",
+   "Tabula rasa"
+  ],
+  "dogru": 1,
+  "aciklama": "'Credo ut intelligam' (Anlayayım diye inanıyorum), Augustinus'un iman ve akıl ilişkisine dair temel tutumunu özetler.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-605",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Augustinus'un Düşünce Dünyası",
+  "soru": "Augustinus, hangi şehrin piskoposu olmuştur?",
+  "siklar": [
+   "Roma",
+   "Milano",
+   "Kartaca",
+   "Hippo",
+   "Atina"
+  ],
+  "dogru": 3,
+  "aciklama": "Augustinus, 396 yılında Hippo Piskoposu olmuş ve hayatının geri kalanını bu görevi sürdürerek tamamlamıştır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-701",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Boethius",
+  "soru": "Boethius'a göre tümeller (idealar) nerededir?",
+  "siklar": [
+   "Sadece şeylerde",
+   "Sadece akılda",
+   "Şeylerde ve akılda",
+   "Tanrı'nın zihninde ve insan aklında",
+   "Sadece Tanrı'nın zihninde"
+  ],
+  "dogru": 3,
+  "aciklama": "Boethius'a göre tümeller hem Tanrı'nın aklında idealar olarak hem de insanın ruhunda/aklında kavramlar olarak bulunmaktadırlar.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-702",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Boethius",
+  "soru": "Boethius'a göre ruhtaki hakikatin ışığı nasıl zayıflar?",
+  "siklar": [
+   "Bedenle ilişkiye girerek",
+   "Felsefe yaparak",
+   "Tanrı'nın cezalandırmasıyla",
+   "Uykuda",
+   "Sapkın öğretileri benimsemekle"
+  ],
+  "dogru": 0,
+  "aciklama": "Boethius, Platon'u izleyerek hakikatin ruhta bulunduğunu ancak bedenle ilişkisi nedeniyle bu ışığın zayıfladığını savunmuştur.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-703",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Boethius",
+  "soru": "Boethius'un zindandayken yazdığı temel eserinin adı nedir?",
+  "siklar": [
+   "Varlık ve Öz Üzerine",
+   "İtiraflar",
+   "Felsefenin Tesellisi Üzerine",
+   "Summa Theologica",
+   "Phaidon"
+  ],
+  "dogru": 2,
+  "aciklama": "Boethius, Kral Theodoricus tarafından zindana atılıp idama mahkûm edildiğinde 'Felsefenin Tesellisi Üzerine' (De Consolatione Philosophiae) adlı eserini kaleme almıştır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-704",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Boethius",
+  "soru": "Aşağıdakilerden hangisi Boethius'un felsefe anlayışının bir ifadesidir?",
+  "siklar": [
+   "Felsefe çözümleyici bir çalışmadır",
+   "Felsefe bilimlerin mantığını anlamaya çalışan bir etkinliktir",
+   "Felsefe spekülatif bilgi temelinde evreni kavramaya çalışan bir etkinliktir",
+   "Felsefe bilgelik sevgisidir",
+   "Felsefe anlam araştırmasıdır"
+  ],
+  "dogru": 3,
+  "aciklama": "Boethius, felsefeyi bilgelik sevgisi olarak tanımlamış ve bu çerçevede hem teorik hem de pratik boyutlarıyla ele almıştır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-705",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Boethius",
+  "soru": "Boethius'u zindana attırıp idama mahkûm eden kral kimdir?",
+  "siklar": [
+   "Marcus Aurelius",
+   "Hadrianus",
+   "Theodoricus",
+   "Charlemagne",
+   "Augustus"
+  ],
+  "dogru": 2,
+  "aciklama": "Boethius, ihanetle suçlanan Albinus'u savunduğu için Kral Theodoricus tarafından zindana atılmış ve idama mahkûm edilmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-801",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Ioannes Scotus Erigena",
+  "soru": "Aşağıdaki Orta Çağ filozoflarından hangisi panteist bir öğreti geliştirmiştir?",
+  "siklar": [
+   "Anselmus",
+   "Augustinus",
+   "Erigena",
+   "Plotinus",
+   "Abelardus"
+  ],
+  "dogru": 2,
+  "aciklama": "Ioannes Scotus Erigena, 'Tanrı her şeydir ve her şey Tanrı'dır' görüşüyle panteist olarak değerlendirilmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-802",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Ioannes Scotus Erigena",
+  "soru": "Erigena felsefesinde doğanın en üst basamağında yer alan nedir?",
+  "siklar": [
+   "Ruh",
+   "Madde",
+   "Tanrı",
+   "Geist",
+   "Hz. İsa"
+  ],
+  "dogru": 2,
+  "aciklama": "Erigena'da doğanın en üst basamağı 'yaratan ve yaratılmayan doğa' olarak belirlenen Tanrı'dır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-803",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Ioannes Scotus Erigena",
+  "soru": "Erigena'nın en önemli eseri aşağıdakilerden hangisidir?",
+  "siklar": [
+   "De Praedestinatione",
+   "De Divisione Naturae",
+   "Enneades",
+   "Isagoge",
+   "Historia Calamitatum"
+  ],
+  "dogru": 1,
+  "aciklama": "Erigena'nın en önemli eseri, diyalog biçiminde yazılmış olan 'De Divisione Naturae' (Doğanın Bölünmesi Üzerine) adlı yapıtıdır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-804",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Ioannes Scotus Erigena",
+  "soru": "Erigena, doğayı kaç temel bölüme ayırmıştır?",
+  "siklar": [
+   "İki",
+   "Üç",
+   "Dört",
+   "Beş",
+   "Altı"
+  ],
+  "dogru": 2,
+  "aciklama": "Erigena doğayı dört bölüme ayırır: (1) Yaratan ve yaratılmayan doğa (Tanrı), (2) yaratılan ve yaratan doğa (ilk idealar), (3) yaratılan ve yaratmayan doğa (dünya ve insan), (4) ne yaratan ne yaratılan doğa (dönüşün sonu olarak Tanrı).",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-805",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Ioannes Scotus Erigena",
+  "soru": "Erigena'nın 'Alın Yazısı Üzerine' eserinde savunduğu temel görüş nedir?",
+  "siklar": [
+   "İnsanın yazgısının önceden belirlendiği",
+   "İnsanın yazgısının önceden belirlenmediği ve çözüm için yalnızca aklın gücüne başvurulması gerektiği",
+   "Tanrı'nın her şeyi önceden bildiği",
+   "Aklın yetersiz olduğu",
+   "Kilise babalarının otoritesine tabi olunması gerektiği"
+  ],
+  "dogru": 1,
+  "aciklama": "Erigena, 'De Praedestinatione'de insanın yazgısının önceden belirlendiği görüşüne karşı çıkarak çözümün geleneksel otoritelerde değil aklın gücünde aranması gerektiğini savunmuştur.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-901",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Anselmus",
+  "soru": "Ontolojik Tanrı kanıtlaması Orta Çağ'ın hangi filozofu tarafından yapılmıştır?",
+  "siklar": [
+   "Abelardus",
+   "Anselmus",
+   "Petrus Hispanus",
+   "Plotinus",
+   "Roscelinus"
+  ],
+  "dogru": 1,
+  "aciklama": "Ontolojik Tanrı kanıtlaması, Aziz Anselmus tarafından Proslogion adlı eserinde geliştirilmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-902",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Anselmus",
+  "soru": "Anselmus öğretisinde 'rectitudo' hangi anlama gelmektedir?",
+  "siklar": [
+   "Kesinlik",
+   "Bilgelik",
+   "Tanrı",
+   "Kudas",
+   "Yedi özgür sanat"
+  ],
+  "dogru": 0,
+  "aciklama": "Anselmus'a göre 'rectitudo' (kesinlik), akıl sahibi varlığın yetkinliğinin ifadesidir; istenen şeyin nesnel ve niyetin de iyi olması anlamında kullanılır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-903",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Anselmus",
+  "soru": "Anselmus'a göre özgürlük nedir?",
+  "siklar": [
+   "Günah işleme ya da işlememe olasılığı",
+   "İyiyi bulma gücü",
+   "Bedensel arzulardan kurtulma",
+   "Tanrı'yı reddetme kapasitesi",
+   "Aklın sınırlarını aşma yetisi"
+  ],
+  "dogru": 1,
+  "aciklama": "Anselmus'a göre özgürlük bir yetkinliktir ve 'yalnızca iyiyi bulma gücü' olarak anlaşılmalıdır; günah işleme bu yetkinlikten uzaklaşmaktır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-904",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Anselmus",
+  "soru": "Anselmus'un ontolojik Tanrı kanıtlamasına 'Aptal Yanlısı' adlı eserle itiraz eden isim kimdir?",
+  "siklar": [
+   "Roscelinus",
+   "Abelardus",
+   "Gaunilon",
+   "Ockham",
+   "Duns Scotus"
+  ],
+  "dogru": 2,
+  "aciklama": "Rahip Gaunilon, 'Aptal Yanlısı' adlı eserinde Anselmus'un ontolojik kanıtlamasını eleştirmiştir; Anselmus da buna karşı bir eleştiri yazmıştır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-905",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Anselmus",
+  "soru": "Anselmus'un temel felsefi tutumu ile Augustinus'un tutumu hangi ortak formülle özetlenir?",
+  "siklar": [
+   "Credo quia absurdum",
+   "Cogito ergo sum",
+   "Credo ut intelligam",
+   "Tabula rasa",
+   "In principio erat Verbum"
+  ],
+  "dogru": 2,
+  "aciklama": "'Credo ut intelligam' (Anlayayım diye inanıyorum) hem Augustinus'un hem de Anselmus'un temel felsefi tutumunu özetler.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1006",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Petrus Abelardus",
+  "soru": "Abelardus hangi gelenek çizgisinde yetişmiş bir filozoftur?",
+  "siklar": [
+   "Trivium",
+   "Quadrivium",
+   "Realizm",
+   "Adcılık",
+   "İdealizm"
+  ],
+  "dogru": 0,
+  "aciklama": "Abelardus, yedi özgür sanattan özellikle Trivium (mantık, gramer ve diyalektik) geleneğini izleyen bir filozoftur.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1007",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Petrus Abelardus",
+  "soru": "Abelardus'un öz yaşam öyküsünü kaleme aldığı eserin adı nedir?",
+  "siklar": [
+   "İtiraflar",
+   "Tanrı Devleti",
+   "Historia Calamitatum",
+   "Peri Hermenias",
+   "Organon"
+  ],
+  "dogru": 2,
+  "aciklama": "Abelardus, 'Historia Calamitatum' (Felaketler Tarihi) adlı eserinde kendi yaşam öyküsünü anlatmıştır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1008",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Petrus Abelardus",
+  "soru": "Abelardus'a göre tümeller nerededir?",
+  "siklar": [
+   "Sadece şeylerde",
+   "Sadece Tanrı'nın zihninde",
+   "Anlamlı birer yapı olarak dilde",
+   "Yalnızca insan zihninde kavram olarak",
+   "Fiziksel nesnelerde gizli olarak"
+  ],
+  "dogru": 2,
+  "aciklama": "Abelardus, tümellerin ne adcıların dediği gibi anlamsız bir ses ne de gerçekçilerin dediği gibi bağımsız bir gerçeklik olduğunu; anlamlı birer yapı olarak dilde bulunduğunu savunur.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1009",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Petrus Abelardus",
+  "soru": "Abelardus'un aynı konuyla ilgili karşıt görüşleri bir arada sunduğu eseri hangisidir?",
+  "siklar": [
+   "Logica Ingredientibus",
+   "Historia Calamitatum",
+   "Sic et Non (Evet ve Hayır)",
+   "Scito Te Ipsum",
+   "Theologia Christiana"
+  ],
+  "dogru": 2,
+  "aciklama": "'Sic et Non' (Evet ve Hayır) adlı eserinde Abelardus, aynı konuyla ilgili çelişen otorite görüşlerini bir arada sunarak eleştirel bir yöntem geliştirmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1010",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Petrus Abelardus",
+  "soru": "Abelardus, 1121 ve 1140 yıllarında hangi konsillerle mahkûm edilmiştir?",
+  "siklar": [
+   "Nikaia ve Konstantinopolis",
+   "Lyon ve Floransa",
+   "Soissons ve Sens",
+   "Trento ve Basel",
+   "Kalkedon ve Efes"
+  ],
+  "dogru": 2,
+  "aciklama": "Abelardus, 1121'de Soissons Konsili'nde ve 1140'da Sens Konsili'nde mahkûm edilmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1101",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Bonaventura",
+  "soru": "Aşağıdakilerden hangisi Bonaventura felsefesinin özelliklerinden birdir?",
+  "siklar": [
+   "Ateist bir felsefedir",
+   "Naturalist bir felsefedir",
+   "Mistik bir felsefedir",
+   "Seküler bir felsefedir",
+   "Materyalist bir felsefedir"
+  ],
+  "dogru": 2,
+  "aciklama": "Bonaventura'nın felsefesi, teoloji ve mistisizm karışımı olarak değerlendirilir; amacı Tanrı'ya ulaşma yolunu açıklamaktır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1102",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Bonaventura",
+  "soru": "Bonaventura hangi Hristiyan tarikatına mensuptur?",
+  "siklar": [
+   "Benedikten",
+   "Dominiken",
+   "Protestan",
+   "Katolik",
+   "Fransisken"
+  ],
+  "dogru": 4,
+  "aciklama": "Bonaventura, Fransisken Tarikatı'nın önemli bir üyesidir ve bu tarikatın genel eğilimi olan mistik ve empirisist anlayışı benimsemiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1103",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Bonaventura",
+  "soru": "Bonaventura'ya göre felsefenin amacı nedir?",
+  "siklar": [
+   "Tanrı'nın varlığını kanıtlamak",
+   "İnsanı yetkinliğe götürmek ve Tanrı'ya ulaşma yolunu açıklamak",
+   "Doğa yasalarını keşfetmek",
+   "Aklın sınırlarını belirlemek",
+   "Diyalektiği geliştirmek"
+  ],
+  "dogru": 1,
+  "aciklama": "Bonaventura'ya göre felsefenin amacı insanı yetkinliğe doğru götürmek ve nihayetinde Tanrı'ya ulaşma yolunu açıklamaktır; her bilgi bu yolda bir adımdır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1104",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Bonaventura",
+  "soru": "Bonaventura kaç tür bilgi ayırt eder?",
+  "siklar": [
+   "İki (duyusal ve akılsal)",
+   "Üç (duyusal, bilimsel ve bilgelik bilgisi)",
+   "Dört (duyum, hayal gücü, akıl, anlama yetisi)",
+   "Beş (duyu, bellek, hayal, akıl, sezi)",
+   "Tek (vahye dayalı bilgi)"
+  ],
+  "dogru": 1,
+  "aciklama": "Bonaventura; duyusal bilgi, bilimsel bilgi ve bilgelik bilgisi olmak üzere üç tür bilgi ayırt eder.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1105",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Bonaventura",
+  "soru": "Bonaventura'ya göre mutluluk nedir?",
+  "siklar": [
+   "Yalnızca aklın tam doyumu",
+   "Yalnızca sevginin gerçekleşmesi",
+   "Bilginin ve sevginin birliği",
+   "Tanrı'nın doğrudan görülmesi",
+   "Bedensel arzulardan tam kurtuluş"
+  ],
+  "dogru": 2,
+  "aciklama": "Bonaventura'ya göre mutluluk aklın tam doyumuyla başlar ve sevgiyle tamamlanır; dolayısıyla bilginin ve sevginin birliğindedir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1201",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Thomas Aquinas",
+  "soru": "Aşağıdakilerden hangisi Aquinas'ın bilgi anlayışı bakımından doğrudur?",
+  "siklar": [
+   "Doğuştan bilgi anlayışını reddeder",
+   "Bilgilerimizin tecrübeden kaynaklandığını iddia eder",
+   "Tanrısal ışığın akla verilmediğini iddia eder",
+   "Soyutlamayı kabul etmez",
+   "Augustinus'un Tanrısal ışık anlayışının bilgi sorunuyla bağlantılı kılınamayacağını iddia eder"
+  ],
+  "dogru": 0,
+  "aciklama": "Aquinas, insan aklının doğuştan herhangi bir bilgiye sahip olmadığını kabul eder; akıl, bilgi sorununda potansiyel durumunda olan bir yetidir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1202",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Thomas Aquinas",
+  "soru": "Aquinas'ın bağlı olduğu Hristiyan tarikatı aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Fransisken",
+   "Anglikan",
+   "Benedikten",
+   "Dominiken",
+   "Protestan"
+  ],
+  "dogru": 3,
+  "aciklama": "Thomas Aquinas, 1244 yılında Dominiken Tarikatı'na girmiş ve Paris'te Albertus Magnus'un öğrencisi olmuştur.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1203",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Thomas Aquinas",
+  "soru": "Aşağıdakilerden hangisi Aquinas'a ait bir eserdir?",
+  "siklar": [
+   "Summa Totius Logicae",
+   "Summa Theologica",
+   "Confessiones",
+   "Peri Hermenias",
+   "Organon"
+  ],
+  "dogru": 1,
+  "aciklama": "Aquinas'ın en önemli eserleri 'Summa Theologica' ve 'Summa Contra Gentiles'tir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1204",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Thomas Aquinas",
+  "soru": "Aquinas'ın Tanrı'nın varlığını kanıtlamak için izlediği yol sayısı kaçtır?",
+  "siklar": [
+   "Bir",
+   "İki",
+   "Üç",
+   "Dört",
+   "Beş"
+  ],
+  "dogru": 4,
+  "aciklama": "Aquinas, kozmolojik Tanrı kanıtlamasında beş yol izlemiştir: hareket, nedensellik, zorunluluk, derecelendirme ve teleolojik kanıtlama.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1205",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Thomas Aquinas",
+  "soru": "Aquinas'ın bir varlığı 'o şey' yapan özüne Latince ne der?",
+  "siklar": [
+   "Esse",
+   "Quidditas (ne'lik)",
+   "Forma",
+   "Materia",
+   "Actus"
+  ],
+  "dogru": 1,
+  "aciklama": "Aquinas, her varlığı o şey yapan özüne 'quidditas' (ne'lik) der; yaratılmış varlıklarda öz ve var oluş bir ve aynı değildir, bu özdeşlik yalnızca Tanrı için geçerlidir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1301",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Duns Scotus",
+  "soru": "Duns Scotus, kendisinden sonra hangi Orta Çağ filozofu tarafından izlenmiştir?",
+  "siklar": [
+   "Augustinus",
+   "Anselmus",
+   "Bonaventura",
+   "Ockham",
+   "Abelardus"
+  ],
+  "dogru": 3,
+  "aciklama": "Duns Scotus'un empirisist eğilimlerini ve Fransisken geleneğini Ockham devam ettirmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1302",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Duns Scotus",
+  "soru": "Duns Scotus, hangi kavrama getirmiş olduğu ayırımlarla Orta Çağ felsefesinde etkili olmuştur?",
+  "siklar": [
+   "İntentio",
+   "Logos",
+   "Physis",
+   "Arete",
+   "On he on"
+  ],
+  "dogru": 0,
+  "aciklama": "Duns Scotus, intentio (yönelim) kavramını intentio prima ve intentio secunda olarak ayırarak mantık ve metafizik arasındaki ilişkiyi temellendirmiştir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1303",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Duns Scotus",
+  "soru": "Duns Scotus, doğuştan düşünceler konusunda hangi tutumu benimser?",
+  "siklar": [
+   "Doğuştan düşünceleri kabul eder",
+   "Doğuştan düşünceleri kabul etmez; tüm bilginin duyumlardan geldiğini savunur",
+   "Doğuştan düşüncelerin yalnızca Tanrı'ya ilişkin olduğunu savunur",
+   "Platon'u izleyerek doğuştan bilgiyi savunur",
+   "Aklın duyumlardan bağımsız olduğunu kabul eder"
+  ],
+  "dogru": 1,
+  "aciklama": "Empirisist olan Scotus, doğuştan düşünceleri kabul etmez; tüm bilginin duyumlardan geldiğini ve zihinde deneyimden önce doğuştan ilkelerin bulunmadığını savunur.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1304",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Duns Scotus",
+  "soru": "Duns Scotus'un, bir şeyi 'işte o şey' yapan bireyselleştirme ilkesine verdiği ad nedir?",
+  "siklar": [
+   "Quidditas",
+   "Intentio",
+   "Haeccitas",
+   "Suppositio",
+   "Rectitudo"
+  ],
+  "dogru": 2,
+  "aciklama": "Scotus'un 'haeccitas' kavramı, bir şeyi işte 'bu' ve başkası değil yapan bireyselleştirme ilkesini ifade eder.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1305",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Duns Scotus",
+  "soru": "Duns Scotus hangi Hristiyan tarikatına mensuptur?",
+  "siklar": [
+   "Dominiken",
+   "Benedikten",
+   "Augustinyen",
+   "Fransisken",
+   "Cizvit"
+  ],
+  "dogru": 3,
+  "aciklama": "Duns Scotus Fransisken Tarikatı'na mensuptur; Bonaventura ve Ockham da aynı tarikata aittir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1401",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Ockham'lı William",
+  "soru": "Aşağıdakilerden hangisi Ockham'ın bir eseridir?",
+  "siklar": [
+   "İkinci Analitikler",
+   "Summa Theologica",
+   "Summa Contra Gentiles",
+   "Summa Totius Logicae",
+   "Organon"
+  ],
+  "dogru": 3,
+  "aciklama": "Ockham'ın mantık konusundaki en büyük eseri 'Summa Totius Logicae'dır.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1402",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Ockham'lı William",
+  "soru": "Suppositio kuramı hangi Orta Çağ filozofuna aittir?",
+  "siklar": [
+   "Ockham",
+   "Abelardus",
+   "Augustinus",
+   "Aquinas",
+   "Duns Scotus"
+  ],
+  "dogru": 0,
+  "aciklama": "Suppositio kuramı, terimlerin önermedeki işlevini ve göndermesini çözümleyen Ockham'a aittir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1403",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Ockham'lı William",
+  "soru": "Ockham'a göre insan zihni bilgi açısından nasıl tanımlanabilir?",
+  "siklar": [
+   "Doğuştan kavramlarla dolu bir depo",
+   "Tabula rasa (boş bir levha)",
+   "Tanrısal ideasların aynası",
+   "Saf aktüalite",
+   "Potansiyelden yoksun saf etkinlik"
+  ],
+  "dogru": 1,
+  "aciklama": "Ockham, insan zihnini tabula rasa (boş bir levha) olarak görür; bu nedenle a priori Tanrı kanıtlamalarını kabul etmez.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1404",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Ockham'lı William",
+  "soru": "Ockham, söylemde kaç tür ayrım yapar?",
+  "siklar": [
+   "İki (yazılı ve sözlü)",
+   "Üç (yazılı, sözlü ve kavramsal)",
+   "Dört (yazılı, sözlü, kavramsal, eylemsel)",
+   "Bir (yalnızca kavramsal)",
+   "Beş"
+  ],
+  "dogru": 1,
+  "aciklama": "Ockham'a göre söylem; yazılı, sözlü ve kavramsal olmak üzere üç türdür; asıl olan kavramsal (zihinsel) boyuttur.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ },
+ {
+  "id": "ortcag-1405",
+  "ders": "ortacag-felsefesi-tarihi",
+  "konu": "Ockham'lı William",
+  "soru": "Ockham'ın felsefe ile teoloji arasındaki ilişkiye dair tutumu nasıldır?",
+  "siklar": [
+   "İkisi aynı alandır ve birbirinden ayrılamaz",
+   "Felsefe teolojinin hizmetkârıdır",
+   "Felsefe ve teolojinin alanları birbirinden ayrılmış olup felsefe aklın, teoloji vahyin alanıdır",
+   "Teoloji felsefeye tabi olmalıdır",
+   "İkisi de gereksizdir"
+  ],
+  "dogru": 2,
+  "aciklama": "Ockham'da felsefe ile teolojinin alanları birbirinden ayrılmıştır; felsefe aklın, teoloji ise vahyin alanıdır. Bu tutum Rönesans'taki laik anlayışın habercisidir.",
+  "dersAdi": "Ortaçağ Felsefesi Tarihi"
+ }
 ]

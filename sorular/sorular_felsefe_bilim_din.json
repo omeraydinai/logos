@@ -1,0 +1,1112 @@
+[
+ {
+  "id": "fbd-101",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Felsefe, Bilim ve Dinin Tanımlanması",
+  "soru": "Aşağıdakilerden hangisi insanı diğer varlık türlerinden ayıran niteliklerden değildir?",
+  "siklar": [
+   "Akıl sahibi olması",
+   "Düşünen ve bilgi üreten olması",
+   "Alet yapması",
+   "Canlı olması",
+   "Müessese Kurması"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Canlı olması.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-102",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Felsefe, Bilim ve Dinin Tanımlanması",
+  "soru": "“İnsan tabiatı gereği bilmek ister” sözü aşağıdaki filozoflardan hangisine aittir?",
+  "siklar": [
+   "Descartes",
+   "Bacon",
+   "Aristo",
+   "Hegel",
+   "Kant"
+  ],
+  "dogru": 2,
+  "aciklama": "Doğru cevap: Aristo.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-103",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Felsefe, Bilim ve Dinin Tanımlanması",
+  "soru": "Felsefeyi zihinsel bir etkinlik olarak ele aldığımızda, aşağıdakilerden hangisi onu diğer etkinliklerden ayıran özelliklerden değildir?",
+  "siklar": [
+   "Sorgulayıcı olması",
+   "Eleştirici olması",
+   "Yönteminin olması",
+   "Temellendirici olması",
+   "Tutarlı olması"
+  ],
+  "dogru": 2,
+  "aciklama": "Doğru cevap: Yönteminin olması.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-104",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Felsefe, Bilim ve Dinin Tanımlanması",
+  "soru": "Aşağıdakilerden hangisi bilimsel bilginin özelliklerinden değildir?",
+  "siklar": [
+   "Nesnel olması",
+   "İlerleyici olması",
+   "Birikimli oluşu",
+   "Olgulara dayanması",
+   "Hatasız olması"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Hatasız olması.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-105",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Felsefe, Bilim ve Dinin Tanımlanması",
+  "soru": "Aşağıdakilerden hangisi dinin temel unsurlarından değildir?",
+  "siklar": [
+   "İnanç",
+   "Ahlak",
+   "İbadet",
+   "Bilimsellik",
+   "Kutsallık"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Bilimsellik.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-201",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Felsefe-Bilim-Din İlişkisine Genel Bakış",
+  "soru": "Aşağıdakilerden hangisi felsefe ile bilimin ortak özelliklerinden değildir?",
+  "siklar": [
+   "Her ikisinin de doğrudan doğruya insanın kendi başarısı olması.",
+   "Her ikisinin de akla dayanması.",
+   "Felsefe ve bilimin bilinçli, yöntemli ve sistemli bir inceleme araştırma etkinliği olmaları.",
+   "Hem felsefenin hem de bilimin soyutlamalar, genellemeler yapmak ve kavramlar üzerinde çalışmak suretiyle",
+   "yasa ve ilkelere ulaşmak istemeleri.",
+   "Her ikisinin de deneye dayanması"
+  ],
+  "dogru": 5,
+  "aciklama": "Doğru cevap: Her ikisinin de deneye dayanması.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-202",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Felsefe-Bilim-Din İlişkisine Genel Bakış",
+  "soru": "İslam düşüncesinde din-felsefe-bilim ilişkilerinde bir çatışma yaşanmamış olmasının en temel nedeni aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Kur’an’ın ilim/bilgiye önem vermesi",
+   "İslam düşüncesinin ortaya çıktığı coğrafya",
+   "İslam düşüncesinin ortaya çıktığı kültür dünyası",
+   "Bilime olan ihtiyaç",
+   "İslam düşüncesine etki eden felsefî sistemler"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Kur’an’ın ilim/bilgiye önem vermesi.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-203",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Felsefe-Bilim-Din İlişkisine Genel Bakış",
+  "soru": "Aşağıdakilerden hangisi bilimin felsefeden ayrı ve farklı bir bilgi türü olmasını sağlayan özelliklerdendir?",
+  "siklar": [
+   "Felsefenin değerleri konu edinmesine karşılık bilim, yalnızca olgu ve olayları ele alır.",
+   "Felsefe önermelerinin mantıkî tutarlılık açısından doğruluğundan söz edilebilmesine karşılık, bilimin",
+   "önermelerini olgu ve olaylara yönelip deneme yoluyla doğrulama imkânı bulunmaktadır.",
+   "Bilimsel önermelere dayanılarak olgu ve olaylara ilişkin tahminler yapmak ve öngörülerde bulunmak",
+   "mümkün iken, felsefede böyle bir durum söz konusu değildir.",
+   "Felsefede düşünme yoluyla ulaşılan sonuçların nihayet bir eylem/davranış olarak uygulama alanına",
+   "geçebilmesine karşılık, bilimin ortaya koyduğu sonuçlara dayanılarak teknolojik buluş ve üretim",
+   "gerçekleşmektedir.",
+   "Hepsi"
+  ],
+  "dogru": 8,
+  "aciklama": "Doğru cevap: Hepsi.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-204",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Felsefe-Bilim-Din İlişkisine Genel Bakış",
+  "soru": "Aşağıdakilerden hangisi felsefe-bilim-din ilişkilerinin gerekliliğini en iyi şekilde ortaya koymaktadır?",
+  "siklar": [
+   "Felsefî soruşturma olmadan bilimsel araştırmanın temellendirilememesi.",
+   "Bu disiplinlerin her birinin insanın hayatını anlamlandırmada rolünün bulunması",
+   "Teknoloji üretebilmek için bilimsel faaliyetin zorunluluğu",
+   "Hayatı sorgulamak için felsefî tavrın zorunluluğu",
+   "Dinin insanın manevi ihtiyaçlarını karşılıyor olması"
+  ],
+  "dogru": 1,
+  "aciklama": "Doğru cevap: Bu disiplinlerin her birinin insanın hayatını anlamlandırmada rolünün bulunması.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-205",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Felsefe-Bilim-Din İlişkisine Genel Bakış",
+  "soru": "Bilim-din ilişkileri ele alınırken öncelikli olarak neye dikkat edilmelidir?",
+  "siklar": [
+   "Bilimsel çalışmaların hangi metotlarla yapıldığına",
+   "Bilim ve dinin sonuç olarak aynı şeyi hedeflediğini",
+   "Bilim ile ilişkisi kurulacak olan dinin hangi din olduğu ve ne tür özelliklerinin bulunduğu",
+   "Bu iki disiplinin çatışıyor olduğunun baştan kabul edilmesi",
+   "Var olmaları için birbirine muhtaç olmaları"
+  ],
+  "dogru": 2,
+  "aciklama": "Doğru cevap: Bilim ile ilişkisi kurulacak olan dinin hangi din olduğu ve ne tür özelliklerinin bulunduğu.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-301",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Din-Bilim İlişkisine Dört Farklı Bakış",
+  "soru": "Bilimsel materyalizmin ve dini hakiki anlamcılığın birleştikleri nokta nedir?",
+  "siklar": [
+   "Bilim ve din, aynı sonuçlara varmaktadır.",
+   "Bilim, nedensellik açısından dinden üstündür.",
+   "Din, bilimi himayesi altında tutmalıdır.",
+   "Bilim ve din bir çatışma içerisindedir.",
+   "Bilim ve din bir uzlaşmaya varmalıdır."
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Bilim ve din bir çatışma içerisindedir..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-302",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Din-Bilim İlişkisine Dört Farklı Bakış",
+  "soru": "Bilimsel materyalizmin metafizik varsayımı aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Fiziksel nesne, Mutlak Gerçekliktir.",
+   "Fiziksel nesnenin ötesinde, âlemin sebebi olan bir madde olmalıdır.",
+   "Bilgiye ulaşmanın tek yolu deneydir.",
+   "Âlemin yaratılışı, bilimsel materyalizm ile çözülemez.",
+   "Mutlak Gerçeklik, ulaşılamayacak bir bilgidir."
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Fiziksel nesne, Mutlak Gerçekliktir..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-303",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Din-Bilim İlişkisine Dört Farklı Bakış",
+  "soru": "Mantıksal pozitivistlerin anlayışı doğrultusunda, aşağıdakilerden hangi disiplin önermeleri açısından anlamlı olmaktadır?",
+  "siklar": [
+   "Din",
+   "Ahlak",
+   "Psikoloji",
+   "Astronomi",
+   "Astroloji"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Astronomi.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-304",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Din-Bilim İlişkisine Dört Farklı Bakış",
+  "soru": "Bilim ve dinin alanları ayrıştırılmadığı zaman, aşağıdakilerden hangi durumla karşılaşılma ihtimali oldukça azdır?",
+  "siklar": [
+   "Teologlar bilimin alanına karışmaya başlarlar.",
+   "Bilimin buluşları, dini gerekçelerle incelenirler ve eleştirilirler.",
+   "Bilim, dinin yerini almaya çalışır.",
+   "Dini gerekçeler, bilimsel açıdan sorgulanır.",
+   "Bilim ve din, aynı amaç için çalışmalarını sürdürürler."
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Bilim ve din, aynı amaç için çalışmalarını sürdürürler..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-305",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Din-Bilim İlişkisine Dört Farklı Bakış",
+  "soru": "Orta Çağ’daki bilim ve teoloji anlayışları hakkında aşağıdakilerden hangisi söylenemez?",
+  "siklar": [
+   "Bilim ve teolojinin alanları birbiriyle iç içe geçmiştir.",
+   "Bilim ve teoloji yöntemleri açısından farklı alanlardır.",
+   "Bilim tabiatla, teoloji ise tabiatüstü alanla ilgilenir.",
+   "İnsan ruhu gibi alanlar, bilimin değil, teolojinin alanlarıdır.",
+   "Fizik nesnelere ilişkin araştırmalar, bilimin alanını oluşturmaktadır."
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Bilim ve teolojinin alanları birbiriyle iç içe geçmiştir..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-401",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Diyalog Mümkün Müdür? Entegrasyon Girişimleri",
+  "soru": "Bilim ve din arasında bir etkileşim (diyalog) olduğunu savunan Ian Barbour, bu etkileşimin hangi iki yolla mümkün olduğunu savunur?",
+  "siklar": [
+   "Varsayımsal İlerleme-Zorunluluk",
+   "Tümevarım- Tümdengelim",
+   "İlke Araştırma-Sorgulama",
+   "Sınır Soruları-Metodolojik Paralellikler",
+   "İçerik Kapsamı-Gaye"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Sınır Soruları-Metodolojik Paralellikler.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-402",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Diyalog Mümkün Müdür? Entegrasyon Girişimleri",
+  "soru": "Aşağıdakilerden hangisi bilimsel araştırmayı olanaklı kılan varsayımlardan değildir?",
+  "siklar": [
+   "Fiziksel dünya esas itibariyle gerçektir.",
+   "Bilimin nesneleri deneysel olarak gerçektir.",
+   "Âlemdeki düzen şartlı değil zorunludur.",
+   "Doğa makul yani fiziksel olarak kavranabilirdir.",
+   "Âlemdeki düzen tümevarımsal ve deneysel yöntemlerle bilinebilir."
+  ],
+  "dogru": 2,
+  "aciklama": "Doğru cevap: Âlemdeki düzen şartlı değil zorunludur..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-403",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Diyalog Mümkün Müdür? Entegrasyon Girişimleri",
+  "soru": "Şeylerin tabiatının, onların \"madde\"lerinde değil de \"form\"larında (suretlerinde) bulunduğunu düşünen; dolayısıyla bilimin konusunun şeylerin mahiyetine ait (deneysel olmayan) formları olduğunu savunan Yunan filozofları kimlerdir?",
+  "siklar": [
+   "Pythagoras-Herakleitos",
+   "Thales-Anaximenes",
+   "Gorgias-Platon",
+   "Protagoras-Aristo",
+   "Platon-Aristo"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Platon-Aristo.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-404",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Diyalog Mümkün Müdür? Entegrasyon Girişimleri",
+  "soru": "Ian Barbour’a bazı bilimsel teoriler bizi bilimin açıklama gücünün dışına götürdüğünde yani bilimin kendi yöntemleriyle cevaplayamayacağı sorular doğurduğunda hangi tür sorular ortaya çıkar?",
+  "siklar": [
+   "Deneysel Sorular",
+   "Metafizik Sorular",
+   "Vahiy Soruları",
+   "Keşif Soruları",
+   "Gündelik Yaşam Soruları"
+  ],
+  "dogru": 1,
+  "aciklama": "Doğru cevap: Metafizik Sorular.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-405",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Diyalog Mümkün Müdür? Entegrasyon Girişimleri",
+  "soru": "N. R. Hanson, S. Toulmin ve T. Khun’un bilim felsefelerinin ortak özellikleri arasında aşağıda belirtilenlerden hangileri yer almaz?",
+  "siklar": [
+   "Bilimsel veriler teori yüklü değildir.",
+   "Bilim sanıldığı kadar saf ve nesnel değildir.",
+   "Bilimsel veriler teorilerin delillerinin çözülmesinden doğar.",
+   "Bilimsel veriler özgür ve yaratıcı bilimsel tahayyülden kaynaklanır.",
+   "Teorilerin kabulü delillere dayandığı bir hesaplaşma işi olduğu kadar bilim adamlarının tarihsel cemaatlerinin bir",
+   "işidir."
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Bilimsel veriler teori yüklü değildir..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-501",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "İslam Düşüncesinde Din-Felsefe İlişkileri",
+  "soru": "Aşağıdakilerden hangisi din-felsefe ilişkisine getirilen yaklaşım tarzlarından birisi değildir?",
+  "siklar": [
+   "Felsefeden yana tavır koyarak din ile çatışıp onu inkâr etme,",
+   "Dinin yanında yer alıp felsefeyi reddetme",
+   "Birini diğerine feda etmek yerine din ile felsefeyi uzlaştırma",
+   "Dini de felsefeyi de spekülasyon olarak değerlendirme",
+   "Dini ve felsefî bilgiyi aynı kaynağın iki farklı tezahürü olarak görme."
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Dini ve felsefî bilgiyi aynı kaynağın iki farklı tezahürü olarak görme..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-502",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "İslam Düşüncesinde Din-Felsefe İlişkileri",
+  "soru": "Aşağıdakilerden hangisi Peygamberimizin vefatıyla birlikte ortaya çıkan tartışmalardan biridir?",
+  "siklar": [
+   "Hilafet meselesi",
+   "İrade hürriyeti",
+   "Büyük günah",
+   "Allah’ın sıfatları",
+   "Hepsi"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Hepsi.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-503",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "İslam Düşüncesinde Din-Felsefe İlişkileri",
+  "soru": "Aşağıdakilerden hangisi tercüme faaliyetlerinin gerçekleştirilmesinin nedenlerinden biridir?",
+  "siklar": [
+   "Dinin kaynağına ilişkin sağlam bir bilgi edinme çabası",
+   "Yabancı kültürlere duyulan hayranlık",
+   "Fethedilen bölgelerde oluşturulmak istenen siyâsî ve kültürel hâkimiyetin sağlam temellere dayandırılmak",
+   "istenmesi",
+   "Felsefenin insanlığın ortak ürünü olduğunu kanıtlama çabası",
+   "Diplomatik ilişkileri kolaylaştırma amacı"
+  ],
+  "dogru": 2,
+  "aciklama": "Doğru cevap: Fethedilen bölgelerde oluşturulmak istenen siyâsî ve kültürel hâkimiyetin sağlam temellere dayandırılmak.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-504",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "İslam Düşüncesinde Din-Felsefe İlişkileri",
+  "soru": "Aşağıdakilerden hangisi kelamın bir ilim dalı olarak varlık kazanmasını sağlayan faktörlerden biri değildir?",
+  "siklar": [
+   "İslâmî inanç ilkelerinin doğruluğunun sistemli bir şekilde temellendirilmesi",
+   "İbadetlere ilişkin hükümlerin ortaya konması",
+   "Yabancı kültürlerin olumsuz etkisiyle ortaya çıkan bid’atların bertaraf edilmesi",
+   "İslâm’a yöneltilen eleştirilerin bir yöntem dâhilinde cevaplandırılması",
+   "Toplumun inanç ve fikir birliğinin korunması"
+  ],
+  "dogru": 1,
+  "aciklama": "Doğru cevap: İbadetlere ilişkin hükümlerin ortaya konması.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-505",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "İslam Düşüncesinde Din-Felsefe İlişkileri",
+  "soru": "Aşağıdakilerden hangisinin kurulmasıyla tercüme faaliyetleri sistemli bir hal almıştır?",
+  "siklar": [
+   "Daru’l-ilim",
+   "Daru’l-beyan",
+   "Beytü’l-hikme",
+   "Merkezü’t-terkib",
+   "Suffetu’s-saade"
+  ],
+  "dogru": 2,
+  "aciklama": "Doğru cevap: Beytü’l-hikme.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-601",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "İbn Rüşd'ün Gazzâlî'nin Felsefe Eleştirisine Bakışı",
+  "soru": "Gazali’ye göre bir konuda bilgi edinmek isteyen kişinin ilk ve temel amacı ne olmalıdır?",
+  "siklar": [
+   "Pratik bilgi elde etmek",
+   "Gerçeği elde etmek.",
+   "Kazanç sağlamak",
+   "Bilimleri geliştirmek",
+   "Merakını gidermek."
+  ],
+  "dogru": 1,
+  "aciklama": "Doğru cevap: Gerçeği elde etmek..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-602",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "İbn Rüşd'ün Gazzâlî'nin Felsefe Eleştirisine Bakışı",
+  "soru": "“İbn Rüşd, ilimde bağnazlığa yer olmadığını; tersine ilmî zihniyetin tarafsızlığı, her düşünce ve fikre saygıyı, gerçek adına ortaya koyduğu bilgi ve görüşlerden yararlanılan herkese -hatta yanılmış bile olsa- şükran duymayı gerektirdiğini belirtirken bir ilim adamında bulunması gereken “kadirbilirlik” vasfının altını çizmektedir.” Parçada vurgulanan ana fikir aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Her türlü ilim çalışması değerlidir.",
+   "İlim adamına her zaman büyük saygı gösterilmelidir.",
+   "İlmi çalışmalar çıkarlardan bağımsız ele alınmalıdır.",
+   "Her türlü görüşe saygı esas olmalıdır.",
+   "Hepsi."
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Hepsi..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-603",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "İbn Rüşd'ün Gazzâlî'nin Felsefe Eleştirisine Bakışı",
+  "soru": "Gazali'nin Tehâfütü’l-felâsife (Felsefenin Tutarsızlığı) eserini yazmaktaki amacı aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Filozofları sevmemesi",
+   "Filozofların yanlış düşüncelerini ortaya çıkarma isteği",
+   "Felsefedeki yanlış bilgileri ortaya çıkarma isteği",
+   "Filozofların metafizikle ilgili konulardaki tutarsızlıklarını bulma.",
+   "Kendi görüşlerini yazma amacı."
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Filozofların metafizikle ilgili konulardaki tutarsızlıklarını bulma..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-604",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "İbn Rüşd'ün Gazzâlî'nin Felsefe Eleştirisine Bakışı",
+  "soru": "\"Hiç kimse metafizik ilimler alanında kesin, güvenilir bir görüş ortaya koymamıştır. Yüce Allah’ın insan tabiatını aşan ilâhî yolla hatasız kıldığı kimseler yani peygamberler dışında hiç kimse de hatadan kurtulmuş değildir.\" sözleriyle İbn Rüşd'ün vurgulamak istediği görüşü aşağıdakilerden hangisi en iyi şekilde anlatır?",
+  "siklar": [
+   "Tüm metafizik bilgiler yanlıştır.",
+   "Filozofların düşüncelerine güvenilmez.",
+   "Ancak dinî bilgiler doğrudur.",
+   "Metafizik ilimlerin değil ancak peygamberlerin hatasız bilgi sahibi oldukları",
+   "Her türden bilgi yanlıştır."
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Metafizik ilimlerin değil ancak peygamberlerin hatasız bilgi sahibi oldukları.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-605",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "İbn Rüşd'ün Gazzâlî'nin Felsefe Eleştirisine Bakışı",
+  "soru": "Aşağıdakilerden hangisi Gazali’yi filozoflarla hesaplaşmaya yönelten etkenlerden değildir?",
+  "siklar": [
+   "Felsefeyi araç olarak kullanmaları",
+   "Bâtınî hareketlerin terör odağı hâlinde yaygınlık ve güç kazanması",
+   "Felsefenin gereksiz olduğunu düşünmesi",
+   "Metafizikte kesinliğe ulaştıklarını iddia etmeleri",
+   "Filozofların tutarsız olduklarını düşünmesi"
+  ],
+  "dogru": 2,
+  "aciklama": "Doğru cevap: Felsefenin gereksiz olduğunu düşünmesi.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-701",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Din ile Felsefeyi Uzlaştırma Çabaları ve Yöntemleri",
+  "soru": "Aşağıdaki filozoflardan hangisi ilk İslam filozudur?",
+  "siklar": [
+   "İbn Rüşd",
+   "Farabi",
+   "İbn Sina",
+   "Kindi",
+   "Gazzali"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Kindi.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-702",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Din ile Felsefeyi Uzlaştırma Çabaları ve Yöntemleri",
+  "soru": "Aşağıdakilerden hangisi Farabi'nin nazarî akıl mertebelerinden biri değildir?",
+  "siklar": [
+   "Müstefad akıl",
+   "Bilfiil akıl",
+   "Bilkuvve akıl",
+   "Edilgin akıl",
+   "Yüksek akıl"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Yüksek akıl.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-703",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Din ile Felsefeyi Uzlaştırma Çabaları ve Yöntemleri",
+  "soru": "İbn Sînâ'ya göre nazari aklın ilk aşaması olan heyûlâni aklın tanımı aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Başlangıçta hiçbir şeyi tasavvur edemeyen, sadece akdedilirleri kavrama yeteneğinde olan bir güç.",
+   "Fa‘âl aklın feyiz göndermesiyle fiil alanına çıkıp ilk akledilirleri kavradığı aşama.",
+   "Nazari aklın yargı oluşturucu güç olma aşaması.",
+   "Kavramların (ma‘kûlât) birikmesiyle oluşan üçüncü aşama.",
+   "Fa‘âl akılla ilişki kuran akıl."
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Başlangıçta hiçbir şeyi tasavvur edemeyen, sadece akdedilirleri kavrama yeteneğinde olan bir güç..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-704",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Din ile Felsefeyi Uzlaştırma Çabaları ve Yöntemleri",
+  "soru": "İbn Sîna, Farabî’nin peygamberi öteki insanlardan ayıran nitelik olarak değerlendirdiği “müstefâd akıl”la bağlantılı “yetkin mütehayyile gücü”nün yerine önerdiği kavram aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Yetkin akıl",
+   "Kutsal akıl",
+   "Müstefad akıl",
+   "Bilfiil akıl",
+   "Fa‘âl akıl"
+  ],
+  "dogru": 1,
+  "aciklama": "Doğru cevap: Kutsal akıl.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-705",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Din ile Felsefeyi Uzlaştırma Çabaları ve Yöntemleri",
+  "soru": "Özellikle filozofun gerçekçi ve akılcı yaklaşımı insanı epistemoloji bakımından aktif, etkin ve sorumlu bir konumda değerlendirmekte, onun varlığı tanıma, anlama, yorumlama ve üzerinde tasarrufta bulunma yetenek ve yetkisine sahip olduğunu vurgulamaktadır. Burada felsefesinde insanı merkeze alan filozof aşağıdakilerden hangisidir?",
+  "siklar": [
+   "İbn Sînâ",
+   "Farabi",
+   "Kindi",
+   "İbn Rüşd",
+   "Harezmi"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: İbn Rüşd.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-801",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Kur'an'da Aklî Tefekkürün Boyutları",
+  "soru": "Aşağıdakilerden hangisi bilim ve din arasında çatışma olduğunu savunur?",
+  "siklar": [
+   "Ateizm",
+   "Nihilizm",
+   "Agnostisizm",
+   "Realizm",
+   "İdealizm"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Ateizm.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-802",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Kur'an'da Aklî Tefekkürün Boyutları",
+  "soru": "Hangi durumda bilim ve din arasında çatışma olmaz?",
+  "siklar": [
+   "Farklı sorular sorarak insan yaşamında farklı fonksiyonlara hizmet eden bağımsız ve özerk durumda",
+   "Dinin bilimi kontrol altına almaya çalışması",
+   "Kilisenin tüm eğitimi yetkisi altına alması",
+   "Bilim adamlarının dini kitaplar yayınlamaları",
+   "Rahiplerin bilim adamları arasından seçilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Farklı sorular sorarak insan yaşamında farklı fonksiyonlara hizmet eden bağımsız ve özerk durumda.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-803",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Kur'an'da Aklî Tefekkürün Boyutları",
+  "soru": "Kitab-ı Mukaddes kitabının temel dayanağı hangi türden bilgilerdir?",
+  "siklar": [
+   "Bilimsel",
+   "Felsefi",
+   "Dinsel",
+   "Sanatsal",
+   "Gündelik"
+  ],
+  "dogru": 2,
+  "aciklama": "Doğru cevap: Dinsel.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-804",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Kur'an'da Aklî Tefekkürün Boyutları",
+  "soru": "Hangi durumda bilim ve din arasında çatışma olmaz?",
+  "siklar": [
+   "Farklı sorular sorarak insan yaşamında farklı fonksiyonlara hizmet eden bağımsız ve özerk durumda",
+   "Dinin bilimi kontrol altına almaya çalışması",
+   "Kilisenin tüm eğitimi yetkisi altına alması",
+   "Bilim adamlarının dini kitaplar yayınlamaları",
+   "Rahiplerin bilim adamları arasından seçilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Farklı sorular sorarak insan yaşamında farklı fonksiyonlara hizmet eden bağımsız ve özerk durumda.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-805",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Kur'an'da Aklî Tefekkürün Boyutları",
+  "soru": "Aşağıdakilerden hangisi “Yaratıcı Olarak Tanrı” modellerindendir?",
+  "siklar": [
+   "Mümkünlük Modeli",
+   "Sonluluk Modeli",
+   "Âlem Modeli",
+   "Endişe Modeli",
+   "Baba Modeli"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Baba Modeli.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-901",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Bilim ve Dine İlişkin Dört Görüş",
+  "soru": "Aşağıdakilerden hangisi bilim ile din arasındaki ilişkiyi açıklayan kavramlardan değildir?",
+  "siklar": [
+   "Çatışma",
+   "Bağımsızlık",
+   "Sentez",
+   "Diyalog",
+   "Entegrasyon"
+  ],
+  "dogru": 2,
+  "aciklama": "Doğru cevap: Sentez.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-902",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Bilim ve Dine İlişkin Dört Görüş",
+  "soru": "Aşağıdakilerden hangisi dini literalizmin tezlerindendir?",
+  "siklar": [
+   "Bilim ve din ilişkisi kutsal metinlerin literal yorumlarıyla ortaya konulmalıdır.",
+   "Yaratılış teorisi kabul edilemez",
+   "Evrime ters düşen hiçbir şey kabul edilmemelidir",
+   "Bilim-din arasındaki çatışma dinden kaynaklanmaktadır",
+   "Bilim-din arasındaki çatışma bilimden kaynaklanmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Bilim ve din ilişkisi kutsal metinlerin literal yorumlarıyla ortaya konulmalıdır..",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-903",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Bilim ve Dine İlişkin Dört Görüş",
+  "soru": "Aşağıdakilerden hangisi bilimsel materyalizmin tezlerindendir?",
+  "siklar": [
+   "Dinî bilgi bilime yardımcı olabilir.",
+   "Bilginin tek geçerli yolu bilimdir",
+   "Bilim ve din uzlaşabilir",
+   "Bilim ve din bir ağacın dalları gibidir.",
+   "Evren Tanrı tarafından bir düzen içinde yaratılmıştır."
+  ],
+  "dogru": 1,
+  "aciklama": "Doğru cevap: Bilginin tek geçerli yolu bilimdir.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-904",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Bilim ve Dine İlişkin Dört Görüş",
+  "soru": "Aşağıdakilerden hangisi evrenin oluşumu tasarımında insanlığın önemini vurgulayan modellerden biri değildir?",
+  "siklar": [
+   "Zaman ve Mekânın Enginliği",
+   "Diğer Gezegenlerde Yaşam",
+   "Karşılıklı Bağımlılık/Kozmoloji",
+   "Tesadüf ve Amaç",
+   "İzafiyet Teorisi"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: İzafiyet Teorisi.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-905",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Bilim ve Dine İlişkin Dört Görüş",
+  "soru": "Aşağıdakilerden hangisi Deizmin kabul ettiği görüştür?",
+  "siklar": [
+   "Tanrı’nın faaliyetini uzak geçmişe indirgeyerek doğanın yasaya tabi olması",
+   "Doğanın yasaya tabi olmaması",
+   "Doğada bir düzen olmaması",
+   "Doğanın kurallı olmaması",
+   "Yasanın doğaya içkin olmaması"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Tanrı’nın faaliyetini uzak geçmişe indirgeyerek doğanın yasaya tabi olması.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1001",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Bağımsızlık-Diyalog",
+  "soru": "Langdon Gilkey’e göre sırasıyla din ve bilim hangi soruları araştırır?",
+  "siklar": [
+   "Kim, Neden",
+   "Nasıl, Nerede",
+   "Niçin, Nasıl",
+   "Nerede, Kim",
+   "Niçin, Neden"
+  ],
+  "dogru": 2,
+  "aciklama": "Doğru cevap: Niçin, Nasıl.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1002",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Bağımsızlık-Diyalog",
+  "soru": "Gilkey’in yaptığı ayrımlara göre aşağıdakileden hangisi bilimin özelliklerinden değildir?",
+  "siklar": [
+   "Nesnel, genel ve tekrarlenabilir verileri açıklamaya çalışır",
+   "Oteritenin temeli mantıksal tutarlılık ve deneysel yeterliliktir",
+   "Nicel tahminlerde bulunmaktır",
+   "Sembolik ve anolojik dil kullanmak zorundadır",
+   "Nasıl sorularını sorar"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Sembolik ve anolojik dil kullanmak zorundadır.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1003",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Bağımsızlık-Diyalog",
+  "soru": "Aşağıdakilerden hangisi din dilinin özelliklerindendir?",
+  "siklar": [
+   "Tahmin ve kontroller için kullanılır",
+   "Verileri bir araya getirir",
+   "Teknolojik uygulamaları ortaya çıkarmakta vasıtadır",
+   "Gözlenebilir fenomelerle karşılıklı ilişkiyi sağlamaktadır",
+   "Belirli ahlak ilkelerine bağlılığı teşvik eder"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Belirli ahlak ilkelerine bağlılığı teşvik eder.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1004",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Bağımsızlık-Diyalog",
+  "soru": "Paradigma seçiminde aşagıdakilerden hangisi yoktur?",
+  "siklar": [
+   "Kurallar ve zorunlu kriterler",
+   "Değerelendirmlerin bilimsel topluluğun yargılaması",
+   "Teori, veriler arasındaki zıtlığı reddedebilir",
+   "Özel hipoter ortaya koyabilir",
+   "Özel varsayıları açık anonimleri uzklaştırmak için ortaya atabilir"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Kurallar ve zorunlu kriterler.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1005",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Bağımsızlık-Diyalog",
+  "soru": "Stephen Tormin hangi bilimden örnekler sunmaz?",
+  "siklar": [
+   "Kuantum Fiziği",
+   "Felsefe",
+   "Kimya",
+   "Ekoloji",
+   "Sosyoloji"
+  ],
+  "dogru": 2,
+  "aciklama": "Doğru cevap: Kimya.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1101",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Entegrasyon",
+  "soru": "Entegresyon hangi versiyonunda hem bilim hem din süreç felsefesi gibi kapsayıcı bir metafiziğin geliştirilmesine katkı sağlar?",
+  "siklar": [
+   "Doğal Teoloji",
+   "Yapay Teoloji",
+   "Doğa Teolojisi",
+   "Sistematik Sentez",
+   "Sistem Sentezi"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Sistematik Sentez.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1102",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Entegrasyon",
+  "soru": "Tanrı’nın tek başına akılla bilinebileceğini kim söyler?",
+  "siklar": [
+   "Thomas Agurinas",
+   "Robert Boyle",
+   "Newton",
+   "David Hume",
+   "William Poley"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Thomas Agurinas.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1103",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Entegrasyon",
+  "soru": "Aşağıdaki eşleşmelerden hangisi yanlıştır?",
+  "siklar": [
+   "Newton: optik bilgisi olmadan göz oluşturulamaz",
+   "Robert Boyle: Düzen delilini bulmuş",
+   "David Hume Düzen ilkesinin organizmalar içinde olması gerektiğini söylemiş",
+   "Modem Kurucular: Doğayı Tanrı’nın el işi olarak görmüş",
+   "William Poley: Her şeyin rastgele olduğunu savunur"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: William Poley: Her şeyin rastgele olduğunu savunur.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1104",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Entegrasyon",
+  "soru": "Antropik ilkeyi bir düzen argümanı olarak gören kimdir?",
+  "siklar": [
+   "John Ceslie",
+   "John Barrow",
+   "Frank Tipler",
+   "Freeman Dysan",
+   "Stephen Hawking"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: John Ceslie.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1105",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Entegrasyon",
+  "soru": "Hangisi Aquinos’un yer verdiği düalizmden değildir?",
+  "siklar": [
+   "Varlık /Yokluk",
+   "Madde /Ruh",
+   "Beden /Nefes",
+   "Doğa /İnsanlık",
+   "Zamansızlık/Sonsuzluk"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Varlık /Yokluk.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1201",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Astronomi ve Yaratılış",
+  "soru": "Aşağıdakilerden hangisi dört temel fiziksel gücün varolduğunu göstermemektedir?",
+  "siklar": [
+   "Işık ve yüklü parçacıkların davranışının nedeni olan elektromanyetik güç",
+   "Radyoaktif bozulmanın nedeni olan zayıf çekirdek güç",
+   "Proton ve nötronları çekirdeğe bağlayan güçlü çekirdek güç",
+   "Kütleler arası uzak-mesafeli çekimde bulunan çekim gücü",
+   "Ayın güneşten aldığı ışığı yansıtma gücü"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Ayın güneşten aldığı ışığı yansıtma gücü.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1202",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Astronomi ve Yaratılış",
+  "soru": "Aşağıdakilerden hangisi “Çoklu-evren teorileri”nden değildir?",
+  "siklar": [
+   "Ardıl bir salınımlı evren devirleri",
+   "Yalıtılmış çok-katmanlı alanlar",
+   "Çok-âlemli kuantum teorisi",
+   "Kuantum boşluk dalgalanmaları",
+   "İzafiyet teorisi"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: İzafiyet teorisi.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1203",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Astronomi ve Yaratılış",
+  "soru": "Analitik dilci ve antropologların işaret ettiği “Bilim diliyle din dili arasında farklı fonksiyonlar”ın olması nasıl açıklanabilir?",
+  "siklar": [
+   "İkisinin de araştırma biçiminin seçici ve sınırlı olması",
+   "Bu dönemde kullanılan felsefi dilin bilim dilinden farklı olması",
+   "Papazların fizik bilimiyle ilgilenmeleri",
+   "Bilimsel faaliyetlerin kilisede yürütülmesi",
+   "Bilim dili ile din dilinin aynı kökene dayanması"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: İkisinin de araştırma biçiminin seçici ve sınırlı olması.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1204",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Astronomi ve Yaratılış",
+  "soru": "Tanrı ve Astronomlar kitabının yazarı kimdir?",
+  "siklar": [
+   "Batlamyus",
+   "Copernic",
+   "Galileo",
+   "Robert Jastrow",
+   "Weinberg"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Robert Jastrow.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1301",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Diyalog-Entegrasyon",
+  "soru": "Diyalog savunucularının en önemli iddiası hangi şıkta doğru olarak verilmiştir?",
+  "siklar": [
+   "Bilimin, filozofların ürettiği sorulara cevap veremediği",
+   "Bilimin, gündelik dilin sıkıntılarını aşamadığı",
+   "Bilimin, yanıtlayamadığı sınır-sorularının bulunmadığı",
+   "Bilimin, kendi başına yanıtlayamadığı sınır-sorularının ve varsayımlarının bulunduğu",
+   "Bilimin, gözlem ve deneye dayalı olduğu"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Bilimin, kendi başına yanıtlayamadığı sınır-sorularının ve varsayımlarının bulunduğu.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1302",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Diyalog-Entegrasyon",
+  "soru": "Dinî geleneklerin bilimin bütünlüğünü bozmadan bazı sorulara mümkün yanıtlar verebileceğini savunan grubun adı nedir?",
+  "siklar": [
+   "Işık Elektronlarını Reddenler",
+   "Din-Bilimciler",
+   "Bilim İnsanları",
+   "Kütle Çekim Gücü Buluşçuları",
+   "Diyalog Savunucuları"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Diyalog Savunucuları.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1303",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Diyalog-Entegrasyon",
+  "soru": "Çağdaş fizikçi ve astronomlar, bütüncül bir teori peşindedirler. Bu bütüncül teori arayışı, hangi inanç tarafından motive edilmektedir?",
+  "siklar": [
+   "Evrenin düzenli, basit ve rasyonel olarak anlaşılabilir olduğu inancı",
+   "Fizik bilimi aracılığıyla matematik problemlerinin çözülebileceği inancı",
+   "Asitten baza doğrudan bir geçiş olduğu inancı",
+   "Bilim ve din arasında bir bağ olduğu inancı",
+   "Görüntü ile gerçekliğin farklı olduğu inancı"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Evrenin düzenli, basit ve rasyonel olarak anlaşılabilir olduğu inancı.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1304",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Diyalog-Entegrasyon",
+  "soru": "Aşağıdakilerden hangisi “Çoklu-evren teorileri”nden değildir?",
+  "siklar": [
+   "Ardıl bir salınımlı evren devirleri",
+   "Yalıtılmış çok-katmanlı alanlar",
+   "Çok-âlemli kuantum teorisi",
+   "Kuantum boşluk dalgalanmaları",
+   "İzafiyet teorisi"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: İzafiyet teorisi.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1305",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Diyalog-Entegrasyon",
+  "soru": "Modern kozmoloji, evreni tanımlayan mümkünlüğün kaç çeşidini belirlemiştir?",
+  "siklar": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: 14. Tanrı ve Doğa.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1401",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Tanrı ve Doğa",
+  "soru": "Nancey Murphy ve George Ellis’in birlikte yazdıkları kitapta vurguladıkları düşünce nedir?",
+  "siklar": [
+   "Bilimin doğasının açığa vurumu",
+   "Dini bir felsefenin varlığı",
+   "Bilimin dini desteklediği",
+   "Hem İlâhî hem de beşerî anlamda kendini sınırlama",
+   "Felsefede bilim din ilişkisi"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Hem İlâhî hem de beşerî anlamda kendini sınırlama.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1402",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Tanrı ve Doğa",
+  "soru": "Tanrı’nın duygusuz, yani âlem tarafından etkilenmediğini ileri süren düşünür kimdir?",
+  "siklar": [
+   "Platon",
+   "Leibniz",
+   "Descartes",
+   "Aristoteles",
+   "Aquinas"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Aquinas.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1403",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Tanrı ve Doğa",
+  "soru": "Aşağıdakilerden hangilerinden Mutlak güce sahip yönetici şeklindeki monarşik Tanrı modeli yönünden itiraz edilebilir? I) Evrimsel Bir Âlem II) Yasa ve Tesadüf III) İnsan Özgürlüğü IV) Kötülük ve Istırap V) Ataerkillik VI) Dini Hoşgörüsüzlük",
+  "siklar": [
+   "Hepsi",
+   "I,II,III",
+   "II,IV,V",
+   "III,IV,VI",
+   "I,III,V"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğru cevap: Hepsi.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1404",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Tanrı ve Doğa",
+  "soru": "Dinî inançların hüsnü kuruntunun bir ürünü olduğunu savunan kimdir?",
+  "siklar": [
+   "Aristoteles",
+   "David Hume",
+   "Berkeley",
+   "Freud",
+   "Calvin"
+  ],
+  "dogru": 3,
+  "aciklama": "Doğru cevap: Freud.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ },
+ {
+  "id": "fbd-1405",
+  "ders": "felsefe-bilim-din-iliskileri",
+  "konu": "Tanrı ve Doğa",
+  "soru": "Aşağıdaki düşünürlerden hangisi Süreç teolojisinde ihtimallerin düzenlenmesini Tanrı’ya atfeder?",
+  "siklar": [
+   "Husserl",
+   "Heidegger",
+   "Erasmus",
+   "Wittengenstein",
+   "Whitehead"
+  ],
+  "dogru": 4,
+  "aciklama": "Doğru cevap: Whitehead.",
+  "dersAdi": "Felsefe, Bilim ve Din İlişkileri"
+ }
+]

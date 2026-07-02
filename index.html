@@ -867,12 +867,12 @@ function buildCourses(){
 
 async function loadExternalCourses(){
   try{
-    const res = await fetch('sorular/manifest.json');
+    const res = await fetch('sorular/manifest.json', {cache:'no-cache'});
     if(!res.ok) return;
     const files = await res.json();
     for(const file of files){
       try{
-        const r = await fetch('sorular/' + file);
+        const r = await fetch('sorular/' + file, {cache:'no-cache'});
         if(!r.ok){ console.warn('Soru dosyası okunamadı:', file); continue; }
         const items = await r.json();
         items.forEach(q=>{ if(q && q.ders) QUESTIONS.push(q); });
