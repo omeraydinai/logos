@@ -1,0 +1,300 @@
+[
+  {
+    "id": "thales",
+    "ad": "Thales",
+    "unvan": "İlk Filozof, Miletos Okulu'nun Kurucusu",
+    "dogum": "M.Ö. 624",
+    "olum": "M.Ö. 546",
+    "donem": "İlkçağ — Doğa Filozofları",
+    "okul": ["miletos-okulu"],
+    "ozet": "Miletoslu Thales, geleneksel olarak \"ilk filozof\" kabul edilir; çünkü evrenin kökenini mitolojik anlatılar yerine akılcı bir açıklamayla, tek bir maddesel ilkeye (arkhe) dayandırarak sorgulayan ilk düşünürdür. Ona göre her şeyin kökeninde su vardır — yaşamın suya bağımlılığından ve maddenin sıvı/katı/gaz hallerinden yola çıkarak bu sonuca ulaşmıştır. Aynı zamanda bir güneş tutulmasını önceden hesaplamasıyla da tanınır.",
+    "fikirler": [
+      { "baslik": "Arkhe olarak su", "aciklama": "Evrendeki her şeyin ilk maddesinin (arkhe) su olduğunu, diğer her şeyin sudan türediğini ve suya döneceğini savunur." },
+      { "baslik": "Mythos'tan Logos'a geçişin başlangıcı", "aciklama": "Doğa olaylarını tanrısal irade yerine gözlem ve akıl yürütmeyle açıklayan ilk düşünce çabası kabul edilir." },
+      { "baslik": "Her şey tanrılarla doludur", "aciklama": "Cansız görünen maddede bile bir hareket/canlılık ilkesi (hylozoizm) bulunduğunu ima eden ünlü sözü." }
+    ],
+    "eserler": [
+      { "ad": "(Yazılı eser günümüze ulaşmamıştır)", "aciklama": "Düşünceleri Aristoteles ve sonraki doksograflar aracılığıyla aktarılır." }
+    ],
+    "iliskiliOkullar": ["miletos-okulu"],
+    "iliskiliFilozoflar": ["anaksimandros"]
+  },
+  {
+    "id": "anaksimandros",
+    "ad": "Anaksimandros",
+    "unvan": "Apeiron Kavramının Öncüsü",
+    "dogum": "M.Ö. 610",
+    "olum": "M.Ö. 546",
+    "donem": "İlkçağ — Doğa Filozofları",
+    "okul": ["miletos-okulu"],
+    "ozet": "Thales'in öğrencisi olan Anaksimandros, hocasının aksine arkhe'nin belirli bir madde (su, ateş vb.) olamayacağını, çünkü belirli bir maddenin diğer maddeleri kendi içine hapsedeceğini savunur. Bunun yerine arkhe'yi sınırsız, belirsiz ve niteliksiz bir ilke olan \"apeiron\" olarak tanımlar — felsefede ilk soyut metafizik kavramlardan biridir.",
+    "fikirler": [
+      { "baslik": "Apeiron", "aciklama": "Sınırsız, belirsiz, niteliksiz ilk madde; belirli hiçbir niteliğe indirgenemeyen evrenin kökeni." },
+      { "baslik": "Karşıtların ayrışması", "aciklama": "Evrendeki tüm belirli nesnelerin (sıcak-soğuk, ıslak-kuru) apeiron'dan ayrışarak ortaya çıktığı ve sonunda ona geri döndüğü fikri." },
+      { "baslik": "İlk evrim/kozmoloji tasarımı", "aciklama": "Canlıların önce sudan çıktığını ve zamanla kara canlılarına dönüştüğünü öne süren erken bir evrim fikri." }
+    ],
+    "eserler": [
+      { "ad": "Peri Physeos (Doğa Üzerine)", "aciklama": "Günümüze yalnızca tek bir cümle parçası halinde ulaşan, felsefe tarihindeki ilk düzyazı eserlerden biri kabul edilir." }
+    ],
+    "iliskiliOkullar": ["miletos-okulu"],
+    "iliskiliFilozoflar": ["thales", "anaksimenes"]
+  },
+  {
+    "id": "anaksimenes",
+    "ad": "Anaksimenes",
+    "unvan": "Hava Filozofu",
+    "dogum": "M.Ö. 585",
+    "olum": "M.Ö. 528",
+    "donem": "İlkçağ — Doğa Filozofları",
+    "okul": ["miletos-okulu"],
+    "ozet": "Anaksimandros'un öğrencisi olan Anaksimenes, arkhe'yi somut ama Thales'in suyundan farklı bir madde olan hava (aer) olarak belirler. Ona göre hava, yoğunlaşma ve seyrekleşme süreçleriyle diğer tüm maddelere (bulut, su, toprak, ateş) dönüşür — böylece niteliksel farklılıkları niceliksel bir süreçle (yoğunluk değişimi) açıklayan ilk düşünürdür.",
+    "fikirler": [
+      { "baslik": "Arkhe olarak hava", "aciklama": "Evrenin ilk maddesi havadır; seyrekleşerek ateşe, yoğunlaşarak sırasıyla rüzgâr, bulut, su, toprak ve taşa dönüşür." },
+      { "baslik": "Yoğunlaşma-seyrekleşme mekanizması", "aciklama": "Niteliksel değişimi niceliksel bir süreçle (madde yoğunluğu) açıklayan ilk sistematik doğa modeli." }
+    ],
+    "eserler": [
+      { "ad": "(Yazılı eser günümüze ulaşmamıştır)", "aciklama": "Düşünceleri antik doksograflar aracılığıyla aktarılır." }
+    ],
+    "iliskiliOkullar": ["miletos-okulu"],
+    "iliskiliFilozoflar": ["anaksimandros", "thales"]
+  },
+  {
+    "id": "pisagor",
+    "ad": "Pisagor (Pythagoras)",
+    "unvan": "Sayı Felsefesinin Kurucusu",
+    "dogum": "M.Ö. 570",
+    "olum": "M.Ö. 495",
+    "donem": "İlkçağ — Doğa Filozofları",
+    "okul": ["pisagorculuk"],
+    "ozet": "Samos adasından Pisagor, evrenin temel ilkesinin madde değil sayı ve oran olduğunu savunur; müzikteki armonik oranları keşfederek kozmosun da matematiksel bir düzen (harmoni) üzerine kurulu olduğunu öne sürer. Kurduğu dinsel-felsefi topluluk, ruhun ölümsüzlüğüne ve bedenden bedene göçüne (metempsychosis) inanır, bu nedenle et yemekten kaçınılmasını öğütler.",
+    "fikirler": [
+      { "baslik": "Her şey sayıdır", "aciklama": "Evrenin temel ilkesinin madde değil, sayısal oranlar ve matematiksel düzen olduğu tezi." },
+      { "baslik": "Kozmik Harmoni", "aciklama": "Evrenin, müzikteki armonik oranlara benzer matematiksel bir uyum (harmoni) içinde düzenlendiği fikri." },
+      { "baslik": "Metempsychosis (Ruh göçü)", "aciklama": "Ruhun ölümsüz olduğu ve ölümden sonra başka bir bedene (insan veya hayvan) geçtiği inancı." }
+    ],
+    "eserler": [
+      { "ad": "(Yazılı eser bırakmamıştır)", "aciklama": "Öğretileri, kurduğu okulun (Pisagorcular) sözlü geleneği ve sonraki yazarlar aracılığıyla aktarılmıştır." }
+    ],
+    "iliskiliOkullar": ["pisagorculuk"],
+    "iliskiliFilozoflar": ["platon"]
+  },
+  {
+    "id": "herakleitos",
+    "ad": "Herakleitos",
+    "unvan": "\"Karanlık Filozof\"",
+    "dogum": "M.Ö. 535",
+    "olum": "M.Ö. 475",
+    "donem": "İlkçağ — Doğa Filozofları",
+    "okul": [],
+    "ozet": "Efesli Herakleitos, evrenin temel niteliğinin sürekli değişim (akış) olduğunu savunan doğa filozofudur. \"Aynı nehirde iki kez yıkanılmaz\" sözüyle bilinir; ona göre görünürdeki istikrarın altında kesintisiz bir oluş (gignesthai) yatar ve bu oluşu düzenleyen ilke Logos'tur. Aforizmalarındaki karanlık ve muğlak üslubu nedeniyle antik çağda \"Karanlık Filozof\" (ho Skoteinos) lakabıyla anılmıştır. Kibirli ve insanlardan uzak bir yaşam sürdüğü, kral tacını reddedip felsefeyle uğraşmayı tercih ettiği rivayet edilir.",
+    "fikirler": [
+      { "baslik": "Her şey akar (Panta rhei)", "aciklama": "Evrende hiçbir şey sabit değildir; her şey sürekli değişim ve oluş halindedir; kalıcı olan yalnızca değişimin kendisidir." },
+      { "baslik": "Logos", "aciklama": "Evrensel değişimi yöneten, akla erişilebilir gizli bir düzen/yasa ilkesi; insanların çoğu bu ortak akla rağmen kendi özel akıllarıyla yaşarmış gibi davranır." },
+      { "baslik": "Karşıtların birliği", "aciklama": "Gece-gündüz, sıcak-soğuk, yaşam-ölüm gibi karşıtlar aslında tek bir sürecin farklı görünümleridir; gerilim ve çatışma (polemos) evrenin uyumunu ve dengesini oluşturur." },
+      { "baslik": "Arkhe olarak ateş", "aciklama": "Evrenin en temel ve en değişken maddesi olarak ateşi görür; ateş, sürekli dönüşümün en somut örneğidir." }
+    ],
+    "eserler": [
+      { "ad": "Peri Physeos (Doğa Üzerine)", "aciklama": "Yalnızca parçalar halinde günümüze ulaşan, aforizma tarzında yazılmış, yoruma açık ve muğlak üslubuyla tanınan tek eseri." }
+    ],
+    "iliskiliOkullar": [],
+    "iliskiliFilozoflar": ["sokrates", "thales"]
+  },
+  {
+    "id": "demokritos",
+    "ad": "Demokritos",
+    "unvan": "\"Gülen Filozof\", Atomculuğun Kurucusu",
+    "dogum": "M.Ö. 460",
+    "olum": "M.Ö. 370",
+    "donem": "İlkçağ — Doğa Filozofları",
+    "okul": [],
+    "ozet": "Abderalı Demokritos, hocası Leukippos ile birlikte atomculuk (atomizm) kuramını geliştirir: evrendeki her şey, bölünemez (atomos), görünmez küçüklükteki maddesel parçacıklardan ve bunların hareket ettiği boşluktan (kenon) oluşur. Neşeli mizacı nedeniyle \"gülen filozof\" olarak anılır; mutluluğu (euthymia) ruhsal dinginlikte bulur — bu yönüyle sonraki Helenistik ataraksia anlayışlarını önceler.",
+    "fikirler": [
+      { "baslik": "Atom ve boşluk", "aciklama": "Evren, bölünemez maddesel parçacıklar (atomlar) ile bunların hareket ettiği boş uzaydan (kenon) ibarettir; tüm değişim atomların birleşip ayrılmasıdır." },
+      { "baslik": "Mekanik nedensellik", "aciklama": "Evrendeki her olay, tanrısal müdahale değil, atomların zorunlu (deterministik) hareketleriyle açıklanır." },
+      { "baslik": "Euthymia (Ruh Dinginliği)", "aciklama": "Mutluluğun aşırı arzulardan kaçınan, ölçülü ve dingin bir ruh haliyle mümkün olduğu etik görüşü." }
+    ],
+    "eserler": [
+      { "ad": "Mikros Diakosmos (Küçük Dünya Düzeni)", "aciklama": "Yalnızca parçalar halinde günümüze ulaşan kozmoloji eseri." }
+    ],
+    "iliskiliOkullar": ["epikurculuk"],
+    "iliskiliFilozoflar": ["epikuros"]
+  },
+  {
+    "id": "protagoras",
+    "ad": "Protagoras",
+    "unvan": "Sofistlerin Önde Geleni",
+    "dogum": "M.Ö. 490",
+    "olum": "M.Ö. 420",
+    "donem": "İlkçağ — Klasik Dönem",
+    "okul": ["sofistler"],
+    "ozet": "\"İnsan her şeyin ölçüsüdür\" sözüyle tanınan Protagoras, mutlak ve evrensel bir hakikatin varlığını reddederek doğruluğu bireyin algısına ve topluma bağlar. Ücret karşılığı retorik ve ikna sanatı öğreten ilk sofistlerden biridir; Atina'da yasa yapımına danışmanlık yaptığı, ancak tanrılar hakkındaki kuşkucu görüşleri nedeniyle eserlerinin yakılıp sürgüne gönderildiği rivayet edilir.",
+    "fikirler": [
+      { "baslik": "İnsan her şeyin ölçüsüdür", "aciklama": "Bilgi ve doğruluk, evrensel bir standarda değil bireyin algısına göre değişir; göreci (rölativist) bir bilgi anlayışı." },
+      { "baslik": "İkna sanatı", "aciklama": "Halk meclisi ve mahkemelerde başarı için retorik becerisinin, mutlak hakikatten daha belirleyici olduğunu savunur." },
+      { "baslik": "Tanrılar hakkında agnostisizm", "aciklama": "Tanrıların var olup olmadığını veya nasıl olduklarını bilmenin insan için imkânsız olduğu, hayatın kısalığının da buna imkân vermediği görüşü." }
+    ],
+    "eserler": [
+      { "ad": "Hakikat (Aletheia)", "aciklama": "Günümüze yalnızca alıntılarla ulaşan, göreci bilgi kuramının temel metni." },
+      { "ad": "Tanrılar Üzerine", "aciklama": "Tanrıların bilinemezliğini savunduğu, dinsizlikle suçlanmasına yol açan eseri." }
+    ],
+    "iliskiliOkullar": ["sofistler"],
+    "iliskiliFilozoflar": ["sokrates", "gorgias"]
+  },
+  {
+    "id": "gorgias",
+    "ad": "Gorgias",
+    "unvan": "Retorik Ustası Sofist",
+    "dogum": "M.Ö. 483",
+    "olum": "M.Ö. 375",
+    "donem": "İlkçağ — Klasik Dönem",
+    "okul": ["sofistler"],
+    "ozet": "Sicilyalı Gorgias, dönemin en etkili hatiplerinden biridir ve retoriği neredeyse bağımsız bir güç olarak yüceltir. \"Hiçbir şey yoktur, var olsa bile bilinemez, bilinse bile başkasına aktarılamaz\" şeklindeki üç kademeli tezi, bilginin ve dilin sınırlarına dair radikal bir kuşkuculuğu (nihilizme yakın bir tavrı) örnekler.",
+    "fikirler": [
+      { "baslik": "Üçlü nihilist tez", "aciklama": "Hiçbir şeyin var olmadığı, var olsa bile bilinemeyeceği, bilinse bile başkasına anlatılamayacağı yönündeki radikal kuşkucu argüman." },
+      { "baslik": "Sözün gücü", "aciklama": "Retoriğin (logos) insan ruhu üzerinde neredeyse büyülü, ikna edici bir güce sahip olduğu görüşü." }
+    ],
+    "eserler": [
+      { "ad": "Olmayan Üzerine ya da Doğa Üzerine", "aciklama": "Üçlü nihilist tezini geliştirdiği, günümüze özet halinde ulaşan eseri." },
+      { "ad": "Helena'nın Övgüsü", "aciklama": "Retorik bir gösteri metni; sözün ikna gücünü örnekleyen ünlü savunma konuşması." }
+    ],
+    "iliskiliOkullar": ["sofistler"],
+    "iliskiliFilozoflar": ["protagoras"]
+  },
+  {
+    "id": "sokrates",
+    "ad": "Sokrates",
+    "unvan": "Felsefeyi Gökten Yeryüzüne İndiren Filozof",
+    "dogum": "M.Ö. 470",
+    "olum": "M.Ö. 399",
+    "donem": "İlkçağ — Klasik Dönem",
+    "okul": [],
+    "ozet": "Atinalı Sokrates, hiçbir yazılı eser bırakmadan, sokakta ve agorada sürdürdüğü diyaloglarla felsefe yapmıştır. Sofistlerin göreci retoriğine karşı, soru-cevap yöntemiyle (elenkhos) muhatabının bilgisizliğini ortaya çıkarır; \"sorgulanmamış bir hayat yaşamaya değmez\" ilkesiyle etik sorgulamayı felsefenin merkezine taşır. Delphi kahininin \"Atina'da ondan daha bilge kimse yok\" kehanetini, kendisinin hiçbir şey bilmediğini bildiğini fark ederek yorumlamıştır. Atina gençliğini yozlaştırmak ve devletin tanrılarını tanımamakla suçlanarak yargılanmış, kaçma imkânı olmasına rağmen yasalara saygısından ötürü baldıran zehiriyle idamı kabul etmiştir.",
+    "fikirler": [
+      { "baslik": "Elenkhos (Çürütme)", "aciklama": "Muhatabın iddiasındaki çelişkileri ortaya çıkararak cehaletinin farkına varmasını sağlayan sorgulama yöntemi." },
+      { "baslik": "Maiotik (Doğurtma sanatı)", "aciklama": "Bilginin dışarıdan aktarılamayacağı, doğru sorularla kişinin kendi ruhundan doğurtulabileceği fikri; annesinin ebeliğinden esinlenen benzetme." },
+      { "baslik": "Sorgulanmamış hayat", "aciklama": "\"Sorgulanmamış bir hayat yaşamaya değmez\" — erdemli yaşamın sürekli özeleştiri ve sorgulama gerektirdiği ilkesi." },
+      { "baslik": "Cehalet en büyük kötülüktür", "aciklama": "Kötülük bilinçli bir tercih değil, doğru bilgiden yoksunluktur (ahlaki entelektüalizm); gerçek bilgi erdemi doğurur." },
+      { "baslik": "Sokratik bilgelik", "aciklama": "\"Tek bildiğim, hiçbir şey bilmediğimdir\" — insan bilgisinin sınırlarını kabul etmenin bilgeliğin başlangıcı olduğu fikri." }
+    ],
+    "eserler": [
+      { "ad": "(Yazılı eser bırakmamıştır)", "aciklama": "Düşünceleri öğrencisi Platon'un diyaloglarında, Ksenophon'un anılarında ve Aristofanes'in oyunlarında aktarılır." }
+    ],
+    "iliskiliOkullar": [],
+    "iliskiliFilozoflar": ["platon", "herakleitos", "protagoras"]
+  },
+  {
+    "id": "platon",
+    "ad": "Platon",
+    "unvan": "Akademia'nın Kurucusu",
+    "dogum": "M.Ö. 427",
+    "olum": "M.Ö. 347",
+    "donem": "İlkçağ — Klasik Dönem",
+    "okul": [],
+    "ozet": "Sokrates'in öğrencisi Platon, değişen ve göreceli duyusal dünyaya karşı, değişmez ve mutlak bir hakikat zemini olarak İdealar dünyasını önerir. Devlet adlı eserinde felsefe ile siyaseti birleştirerek \"filozof kral\" fikrini savunur; Atina'da Akademia'yı kurarak felsefe eğitimini kurumsallaştırmış, Aristoteles dahil pek çok düşünürü yetiştirmiştir. Sokrates'in idamına tanık olması, onu demokrasiye ve kalabalıkların yönetimine derin bir kuşkuyla yaklaşmaya yöneltmiştir.",
+    "fikirler": [
+      { "baslik": "İdealar Kuramı", "aciklama": "Duyusal dünyadaki değişken nesnelerin aksine, yalnızca akılla kavranan değişmez ve mükemmel İdealar gerçek varlıklardır; duyusal nesneler İdealardan yalnızca \"pay alır\"." },
+      { "baslik": "Mağara Alegorisi", "aciklama": "İnsan bilgisinin gölgelerden hakikate doğru yükselişini anlatan, Devlet'teki ünlü benzetme; filozofun görevi mağaradan çıkıp diğerlerini de aydınlığa çağırmaktır." },
+      { "baslik": "Anamnesis (Anımsama)", "aciklama": "Öğrenme, ruhun bedene düşmeden önce İdealar dünyasında bildiği hakikatleri anımsamasıdır; Menon diyaloğunda bir köleyle örneklenir." },
+      { "baslik": "Filozof Kral", "aciklama": "İdeal devlette yönetimin, bilgeliğe ve İyi İdeası'na ulaşmış filozoflara ait olması gerektiği tezi." },
+      { "baslik": "Ruhun üçlü yapısı", "aciklama": "İnsan ruhunun akıl, irade (duygulanım) ve arzu olmak üzere üç bölümden oluştuğu, adaletin bu üçünün uyumunda yattığı görüşü." }
+    ],
+    "eserler": [
+      { "ad": "Devlet (Politeia)", "aciklama": "İdeal devletin yapısını, adalet kavramını ve İyi İdeası'nı ele alan başyapıtı." },
+      { "ad": "Menon", "aciklama": "Anımsama Kuramı'nın bir köleye geometri problemi çözdürülerek sınandığı diyalog." },
+      { "ad": "Sokrates'in Savunması", "aciklama": "Sokrates'in yargılanmasını ve savunmasını aktaran diyalog." },
+      { "ad": "Şölen (Symposion)", "aciklama": "Aşk (eros) kavramını çeşitli konukların ağzından tartışan diyalog." }
+    ],
+    "iliskiliOkullar": [],
+    "iliskiliFilozoflar": ["sokrates", "aristoteles", "pisagor"]
+  },
+  {
+    "id": "aristoteles",
+    "ad": "Aristoteles",
+    "unvan": "Lykeion'un Kurucusu",
+    "dogum": "M.Ö. 384",
+    "olum": "M.Ö. 322",
+    "donem": "İlkçağ — Klasik Dönem",
+    "okul": [],
+    "ozet": "Platon'un öğrencisi olan Aristoteles, hocasının İdealar Kuramı'nı eleştirerek gerçekliğin duyusal dünyanın kendisinde, tikel nesnelerin öz (ousia) ve maddesinde aranması gerektiğini savunur. Mantık, doğa bilimleri, etik, siyaset ve estetik gibi hemen her alanda sistematik eserler vermiş, Büyük İskender'in hocalığını yapmış ve Atina'da kendi okulu Lykeion'u kurmuştur. \"İnsan doğası gereği politik bir hayvandır\" (zoon politikon) tezini ortaya atarak bireysel mutluluğu politik topluluktan ayrılamaz kılar.",
+    "fikirler": [
+      { "baslik": "Orta Yol (Mesotes)", "aciklama": "Karakter erdemlerinin iki aşırı uç arasındaki dengeli orta nokta olduğu öğretisi (örn. cömertlik, savurganlık ile cimrilik arasındadır)." },
+      { "baslik": "Eudaimonia", "aciklama": "İnsan eylemlerinin nihai amacı olan mutluluk/gönenç; erdemli ve akla uygun bir etkinlikle ulaşılır." },
+      { "baslik": "Zoon Politikon", "aciklama": "İnsanın doğası gereği toplumsal ve politik bir varlık olduğu, iyi yaşamın ancak bir politik toplulukta mümkün olduğu tezi." },
+      { "baslik": "Katharsis", "aciklama": "Poetika'da tragedyanın izleyicide korku ve acıma yoluyla sağladığı ruhsal arınma." },
+      { "baslik": "Madde-Form (Hylomorphism)", "aciklama": "Her varlığın, kendisini oluşturan maddeden (hyle) ve o maddeye şeklini veren formdan (morphe/eidos) oluştuğu görüşü — Platon'un ayrı İdealar dünyasına karşı bir çözüm." },
+      { "baslik": "Dört Neden", "aciklama": "Bir şeyin açıklanabilmesi için maddi, formel, etkin ve ereksel (telos) olmak üzere dört neden türünün bilinmesi gerektiği görüşü." }
+    ],
+    "eserler": [
+      { "ad": "Nikomakhos'a Etik", "aciklama": "Erdem, mutluluk ve orta yol öğretisini işleyen temel etik eseri." },
+      { "ad": "Politika", "aciklama": "Devlet biçimlerini ve politikanın amacını inceleyen eseri." },
+      { "ad": "Poetika", "aciklama": "Tragedya ve şiir sanatını, katharsis kavramını ele alan estetik eseri." },
+      { "ad": "Metafizik", "aciklama": "Varlık, öz, madde-form ilişkisi ve nedensellik üzerine temel felsefi eseri." },
+      { "ad": "Organon", "aciklama": "Mantık üzerine yazdığı, klasik kıyas (syllogismos) teorisini içeren eserler bütünü." }
+    ],
+    "iliskiliOkullar": [],
+    "iliskiliFilozoflar": ["platon"]
+  },
+  {
+    "id": "diyojen",
+    "ad": "Sinoplu Diyojen",
+    "unvan": "Kinik Okulun Baş Temsilcisi",
+    "dogum": "M.Ö. 412",
+    "olum": "M.Ö. 323",
+    "donem": "Klasik Dönem sonu — Helenistik Dönem",
+    "okul": ["kinikler"],
+    "ozet": "Sinoplu Diyojen, toplumsal geleneklerin ve maddi zenginliğin tamamen reddedilmesini yaşam pratiğine dönüştüren Kinik filozoftur. Bir fıçıda yaşadığı, gündüz vakti elinde fenerle \"dürüst bir insan arıyorum\" diyerek Atina sokaklarında dolaştığı ve Büyük İskender'e \"güneşimin önünden çekil\" dediği rivayet edilir. Onun için erdem (arete), söylemde değil eylemde, sade ve utanmaz bir doğaya-dönüş yaşamında gösterilir.",
+    "fikirler": [
+      { "baslik": "Doğaya dönüş", "aciklama": "Toplumsal geleneklerden ve yapay ihtiyaçlardan tamamen arınarak hayvanlar gibi sade ve doğal bir yaşam sürme ilkesi." },
+      { "baslik": "Parrhesia (Cesur konuşma)", "aciklama": "Toplumsal statüden veya sonuçlarından çekinmeden, güç sahiplerine bile doğruyu söyleme cesareti." },
+      { "baslik": "Kozmopolitizm", "aciklama": "Belirli bir kente ait olmadığını, kendisini \"dünya vatandaşı\" (kosmopolites) olarak tanımlaması." }
+    ],
+    "eserler": [
+      { "ad": "(Yazılı eser bırakmamıştır)", "aciklama": "Anekdotları ve sözleri esas olarak Diogenes Laertios'un derlemesiyle günümüze ulaşmıştır." }
+    ],
+    "iliskiliOkullar": ["kinikler"],
+    "iliskiliFilozoflar": ["zenon"]
+  },
+  {
+    "id": "epikuros",
+    "ad": "Epikuros",
+    "unvan": "Epikürcü Okulun Kurucusu",
+    "dogum": "M.Ö. 341",
+    "olum": "M.Ö. 270",
+    "donem": "Helenistik Dönem",
+    "okul": ["epikurculuk"],
+    "ozet": "Atina'da \"Bahçe\" adlı okulunu kuran Epikuros, mutluluğu ruhsal çalkantının yokluğu (ataraksia) olarak tanımlar. Demokritos'un atomculuğunu benimseyerek evreni tanrısal müdahaleden bağımsız, maddesel bir düzen olarak açıklar. Ölümden korkmamak gerektiğini, çünkü \"biz varken ölümün olmadığını, ölüm varken de bizim olmadığımızı\" öğretir; \"gizlenerek yaşa\" ilkesiyle politikadan uzak, sade bir yaşamı ve dostluğu (philia) savunur. Okuluna kadın ve köleleri de kabul etmesiyle döneminde istisnai bir tutum sergilemiştir.",
+    "fikirler": [
+      { "baslik": "Ataraksia", "aciklama": "Ruhsal dinginlik ve sarsılmazlık hali; Epikürcü felsefenin nihai hedefi." },
+      { "baslik": "Ölümden korkmamalı", "aciklama": "Ölüm, duyum yokluğu olduğu için ne bizim için ne de herhangi biri için gerçek bir kötülüktür." },
+      { "baslik": "Gizlenerek yaşa", "aciklama": "Toplumsal/politik çalkantılardan uzak durarak sade, dostluk temelli ve huzurlu bir yaşam sürme öğüdü." },
+      { "baslik": "Hazların sınıflandırılması", "aciklama": "Doğal ve zorunlu hazların (açlığı gidermek gibi) öncelenmesi, doğal ama zorunlu olmayan ya da hem doğal hem zorunlu olmayan hazlardan kaçınılması gerektiği görüşü." }
+    ],
+    "eserler": [
+      { "ad": "Menoikeus'a Mektup", "aciklama": "Epikürcü etik ve mutluluk anlayışını özetleyen temel mektubu." },
+      { "ad": "Herodotos'a Mektup", "aciklama": "Atomcu fizik anlayışını özetlediği mektubu." }
+    ],
+    "iliskiliOkullar": ["epikurculuk"],
+    "iliskiliFilozoflar": ["demokritos"]
+  },
+  {
+    "id": "zenon",
+    "ad": "Kitionlu Zenon",
+    "unvan": "Stoa Okulunun Kurucusu",
+    "dogum": "M.Ö. 334",
+    "olum": "M.Ö. 262",
+    "donem": "Helenistik Dönem",
+    "okul": ["stoacilik"],
+    "ozet": "Atina'da \"Stoa Poikile\" (Renkli Revak) altında ders verdiği için okuluna Stoacılık adı verilmiştir. Bir gemi kazasında her şeyini kaybettikten sonra Atina'ya gelip felsefeyle tanıştığı rivayet edilir. Evrenin tanrısal bir akıl (Logos) tarafından yönetildiğini, erdemin \"doğaya uygun yaşamak\" olduğunu ve insanın kontrolü dışındaki olaylara karşı kayıtsız (apatheia) kalması gerektiğini öğretmiştir.",
+    "fikirler": [
+      { "baslik": "Doğaya uygun yaşam", "aciklama": "Erdemli yaşam, evrensel akla (Logos) uygun hareket etmektir; erdem tek gerçek iyidir." },
+      { "baslik": "Apatheia", "aciklama": "Kontrolümüz dışındaki olaylara karşı tutkulardan arınmış bir kayıtsızlık hali." },
+      { "baslik": "Kozmopolitizm", "aciklama": "Tüm insanların ortak akla sahip olması nedeniyle \"dünya vatandaşı\" olduğu fikri." },
+      { "baslik": "Kontrol ikilemi", "aciklama": "Olayları elimizde olanlar (düşüncelerimiz, tutumlarımız) ve elimizde olmayanlar (dış olaylar) olarak ikiye ayırıp yalnızca ilkine odaklanma öğretisi." }
+    ],
+    "eserler": [
+      { "ad": "Politeia (Zenon'un Devleti)", "aciklama": "Günümüze ulaşmayan, Stoa siyaset felsefesinin temel metni olduğu düşünülen eseri." }
+    ],
+    "iliskiliOkullar": ["stoacilik", "kinikler"],
+    "iliskiliFilozoflar": ["diyojen"]
+  }
+]

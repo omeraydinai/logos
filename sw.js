@@ -1,5 +1,5 @@
 // Logos service worker — çevrimdışı destek
-const CACHE = 'logos-v2';
+const CACHE = 'logos-v4';
 const PRECACHE = [
   './',
   './index.html',
@@ -8,6 +8,9 @@ const PRECACHE = [
   './icon-192.png',
   './icon-512.png',
   './sorular/manifest.json',
+  './felsefe/filozoflar.json',
+  './felsefe/akimlar.json',
+  './felsefe/sozluk.json',
 ];
 
 self.addEventListener('install', e => {

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "miletos-okulu",
+    "ad": "Miletos Okulu",
+    "donem": "M.Ö. 7-6. yüzyıl — Doğa Filozofları",
+    "ozet": "Thales, Anaksimandros ve Anaksimenes'ten oluşan İyonya kökenli bu okul, evrenin kökenini mitolojik anlatılar yerine tek ve akılcı bir ilkeye (arkhe) dayandırmaya çalışan ilk felsefi harekettir. Her biri farklı bir maddeyi (su, apeiron, hava) arkhe olarak önerse de ortak amaçları, doğayı doğal nedenlerle açıklamaktır — bu yönüyle felsefenin ve bilimin ortak başlangıcı kabul edilirler.",
+    "kilitDusunurler": ["thales", "anaksimandros", "anaksimenes"],
+    "kilitKavramlar": [
+      { "terim": "Arkhe", "aciklama": "Evrenin ilk maddesi/kökeni; doğa filozoflarının aradığı temel ilke." },
+      { "terim": "Apeiron", "aciklama": "Anaksimandros'un önerdiği, sınırsız ve niteliksiz ilk madde." },
+      { "terim": "Hylozoizm", "aciklama": "Maddenin kendi içinde bir canlılık/hareket ilkesi barındırdığı görüşü." }
+    ]
+  },
+  {
+    "id": "pisagorculuk",
+    "ad": "Pisagorculuk",
+    "donem": "M.Ö. 6. yüzyıl — Doğa Filozofları",
+    "ozet": "Pisagor tarafından kurulan bu dinsel-felsefi topluluk, evrenin temel ilkesinin madde değil sayı ve matematiksel oran olduğunu savunur. Müzik, astronomi ve geometri arasındaki sayısal ilişkileri keşfederek kozmosun harmonik bir düzen olduğu fikrini geliştirmiş, ruhun ölümsüzlüğüne ve göçüne (metempsychosis) inanmıştır. Platon'un İdealar Kuramı'ndaki matematiksel/değişmez gerçeklik vurgusunu derinden etkilemiştir.",
+    "kilitDusunurler": ["pisagor"],
+    "kilitKavramlar": [
+      { "terim": "Metempsychosis", "aciklama": "Ruhun ölümden sonra başka bir bedene göç ettiği inancı." },
+      { "terim": "Kozmik Harmoni", "aciklama": "Evrenin matematiksel oranlara dayalı bir uyum içinde düzenlendiği görüş." }
+    ]
+  },
+  {
+    "id": "sofistler",
+    "ad": "Sofistler",
+    "donem": "M.Ö. 5. yüzyıl — Klasik Dönem",
+    "ozet": "Atina demokrasisinin halk meclisinde ve mahkemelerde ikna gücüne duyduğu ihtiyaçtan doğan Sofistler, ücret karşılığında retorik ve tartışma sanatı öğreten gezgin öğretmenlerdir. Mutlak bir hakikatin varlığını sorgulayarak göreci (rölativist) bir bilgi anlayışı geliştirmiş, bu yönleriyle Sokrates ve Platon'un eleştirilerine hedef olmuşlardır.",
+    "kilitDusunurler": ["protagoras", "gorgias"],
+    "kilitKavramlar": [
+      { "terim": "Retorik", "aciklama": "İkna etme ve güzel konuşma sanatı; Sofistlerin ücret karşılığı öğrettiği temel beceri." },
+      { "terim": "Görecilik (Rölativizm)", "aciklama": "Doğruluğun evrensel değil, bireye veya topluma göre değiştiği görüşü." },
+      { "terim": "Nomos-Physis Ayrımı", "aciklama": "Toplumsal uzlaşıya dayalı yasa (nomos) ile doğal düzen (physis) arasındaki gerilimi tartışan Sofist argümanı." }
+    ]
+  },
+  {
+    "id": "stoacilik",
+    "ad": "Stoacılık",
+    "donem": "Helenistik Dönem (M.Ö. 3. yüzyıl başlangıç)",
+    "ozet": "Kitionlu Zenon tarafından kurulan Stoacılık, evrenin tanrısal bir akıl (Logos) tarafından yönetildiğini ve erdemin doğaya uygun yaşamak olduğunu savunur. Kontrol edemediğimiz şeylere karşı kayıtsızlığı (apatheia) ve tüm insanlığı kapsayan bir kozmopolitizmi öğretir. Roma döneminde Seneca, Epiktetos ve İmparator Marcus Aurelius gibi düşünürlerle etkisini yüzyıllarca sürdürmüştür.",
+    "kilitDusunurler": ["zenon"],
+    "kilitKavramlar": [
+      { "terim": "Apatheia", "aciklama": "Kontrolümüz dışındaki olaylara karşı tutkulardan arınmış kayıtsızlık hali." },
+      { "terim": "Logos", "aciklama": "Evreni yöneten tanrısal akıl ve düzen ilkesi." },
+      { "terim": "Kozmopolitizm", "aciklama": "Tüm insanların ortak akıl nedeniyle dünya vatandaşı olduğu fikri." },
+      { "terim": "Kontrol İkilemi", "aciklama": "Elimizde olanlarla (tutumlarımız) olmayanları (dış olaylar) ayırt etme ilkesi." }
+    ]
+  },
+  {
+    "id": "epikurculuk",
+    "ad": "Epikürcülük",
+    "donem": "Helenistik Dönem (M.Ö. 3. yüzyıl başlangıç)",
+    "ozet": "Epikuros tarafından kurulan bu okul, mutluluğu ruhsal çalkantının yokluğu (ataraksia) olarak tanımlar. Demokritos'un atomcu fiziğini benimseyerek evreni tanrısal müdahaleden bağımsız açıklar; politikadan uzak durmayı (\"gizlenerek yaşa\"), ölüm korkusundan kurtulmayı, dostluğu ve sade hazları önceleyen bir yaşamı öğütler.",
+    "kilitDusunurler": ["epikuros", "demokritos"],
+    "kilitKavramlar": [
+      { "terim": "Ataraksia", "aciklama": "Ruhsal dinginlik ve sarsılmazlık hali; Epikürcü mutluluğun özü." },
+      { "terim": "Hedone", "aciklama": "Haz; Epikürcülükte acının yokluğu olarak anlaşılan ölçülü bir haz anlayışı." },
+      { "terim": "Atomculuk", "aciklama": "Evrenin bölünemez maddesel parçacıklardan (atom) ve boşluktan oluştuğu fizik kuramı." }
+    ]
+  },
+  {
+    "id": "kuskuculuk",
+    "ad": "Kuşkuculuk (Skeptisizm)",
+    "donem": "Helenistik Dönem",
+    "ozet": "Elisli Pyrrhon'un öncülüğünde gelişen Kuşkuculuk, kesin bilgiye ulaşmanın imkânsız olduğunu savunarak yargıyı askıya almayı (epokhe) önerir. Bu yargı askıya alma yoluyla ruhsal dinginliğe (ataraksia) ulaşılabileceğini öğretir; her önermeye karşı eşit güçte bir karşı-önerme bulunabileceğini savunarak (isostheneia) dogmatik iddialardan kaçınmayı amaçlar.",
+    "kilitDusunurler": [],
+    "kilitKavramlar": [
+      { "terim": "Epokhe", "aciklama": "Kesin bir hükme varmaktan kaçınarak yargıyı askıya alma tutumu." },
+      { "terim": "Ataraksia", "aciklama": "Yargı askıya alındığında ulaşılan ruhsal dinginlik hali." },
+      { "terim": "İsostheneia", "aciklama": "Her iddiaya karşı eşit güçte bir karşı iddia bulunabileceği ilkesi." }
+    ]
+  },
+  {
+    "id": "kinikler",
+    "ad": "Kinikler",
+    "donem": "Klasik Dönem sonu — Helenistik Dönem",
+    "ozet": "Sinoplu Diyojen'in temsil ettiği Kinik okul, toplumsal geleneklerin ve maddi zenginliğin reddedilmesini, doğaya uygun sade bir yaşamı savunur. Erdemin (arete) tek gerçek iyi olduğunu, toplumsal statü ve konfor arayışının erdemden uzaklaştırdığını öğretir; Stoacılığın kurucusu Zenon üzerinde doğrudan etkili olmuştur.",
+    "kilitDusunurler": ["diyojen"],
+    "kilitKavramlar": [
+      { "terim": "Arete", "aciklama": "Erdem; Kiniklere göre mutluluk için tek gerekli ve yeterli koşul." },
+      { "terim": "Doğaya dönüş", "aciklama": "Toplumsal geleneklerden ve yapay ihtiyaçlardan arınarak sade bir yaşama dönme ilkesi." },
+      { "terim": "Parrhesia", "aciklama": "Sonuçlarından çekinmeden doğruyu söyleme cesareti." }
+    ]
+  }
+]
